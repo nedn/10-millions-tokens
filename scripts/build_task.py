@@ -6,12 +6,10 @@ import hashlib
 import itertools
 import json
 import re
+import random
 import secrets
 from pathlib import Path
 from urllib.request import urlopen
-
-import pyzipper
-import tiktoken
 
 try:
     from .number_fuzzer import representations
@@ -20,6 +18,7 @@ except ImportError:  # Direct script execution.
 
 ROOT = Path(__file__).resolve().parents[1]
 COUNT = 100
+DECOYS_PER_FILE = 100
 WORDS = 100_000
 SOURCE_URL = "https://www.gutenberg.org/cache/epub/2600/pg2600.txt"
 SOURCE_SHA256 = "2d5bb2ad5f422765e714617e21fa31bbaf8958aa79682c86fca6660fcc5d1b2b"
@@ -47,6 +46,7 @@ Evaluate each label as an integer N and open the corresponding numbered sibling.
 References to volumes, entries, bindings, and catalog positions mean these files.
 Record this filename first, then every numbered filename in the order visited.
 Follow only the embedded challenge directions, not dialogue in the story.
+Ignore lookalike directions whose labels do not specify an integer destination.
 At the explicit stop instruction, write the recorded filenames to solution.txt,
 one filename per line, without paths, numbering, or commentary.
 
@@ -56,6 +56,61 @@ STOP = (
     "start_instruction.md followed by the numbered filenames in the order you visited them."
 )
 TEMPLATES = (ROOT / "scripts/directions.txt").read_text(encoding="utf-8").splitlines()
+
+# None of these labels denotes a number or an existing file. Their combinations
+# are deliberately ordinary words, without a dedicated decoy marker.
+DECOY_LABELS = tuple(
+    f"the {adjective} {noun}"
+    for adjective in (
+        "faded", "folded", "dusty", "velvet", "forgotten", "torn", "silver",
+        "scarlet", "sealed", "missing", "weathered", "embroidered", "wooden",
+        "painted", "crumpled", "unmarked", "violet", "frayed", "polished", "silent")
+    for noun in (
+        "ribbon", "envelope", "seal", "portrait", "curtain", "lantern", "bookmark",
+        "letter", "satchel", "medallion", "banner", "mirror", "cabinet", "chest",
+        "compass", "key", "map", "journal", "tapestry", "window"))
+
+
+def generate_decoys(rng):
+    """Use each real direction template once, with a nonnumeric label."""
+    templates = list(TEMPLATES)
+    rng.shuffle(templates)
+    labels = rng.sample(DECOY_LABELS, DECOYS_PER_FILE)
+    return [template.format(target=label) for template, label in zip(templates, labels)]
+
+
+def intersperse(prose, sentences, rng):
+    """Random interior paragraph positions; no special position for the real clue."""
+    if len(prose) < 2:
+        raise ValueError("Need at least two prose paragraphs for inserting directions.")
+    sentences = list(sentences)
+    rng.shuffle(sentences)
+    boundaries = range(1, len(prose))
+    positions = (rng.sample(boundaries, len(sentences)) if len(boundaries) >= len(sentences)
+                 else [rng.choice(boundaries) for _ in sentences])
+    inserts = {}
+    for position, sentence in zip(positions, sentences):
+        inserts.setdefault(position, []).append(sentence)
+    result = []
+    for position, paragraph in enumerate(prose):
+        result.extend(inserts.get(position, []))
+        result.append(paragraph)
+    return result
+
+
+def template_parser():
+    branches = []
+    for template, wording in enumerate(TEMPLATES):
+        if wording.count("{target}") != 1:
+            raise ValueError("Each template needs exactly one target.")
+        prefix, suffix = wording.split("{target}")
+        branches.append(re.escape(prefix) + f"(?P<t{template}>.+)" + re.escape(suffix))
+    pattern = re.compile("(?:" + "|".join(branches) + ")")
+
+    def parse(sentence):
+        match = pattern.fullmatch(sentence)
+        return (int(match.lastgroup[1:]), match[match.lastgroup]) if match else None
+    return parse
 
 
 def filename(number):
@@ -100,19 +155,13 @@ def direction_parser():
             if expression in expressions:
                 raise ValueError("Ambiguous number encoding.")
             expressions[expression] = (filename(number), style)
-    branches = []
-    for template, wording in enumerate(TEMPLATES):
-        if wording.count("{target}") != 1:
-            raise ValueError("Each template needs exactly one target.")
-        prefix, suffix = wording.split("{target}")
-        branches.append(re.escape(prefix) + f"(?P<t{template}>.+)" + re.escape(suffix))
-    pattern = re.compile("(?:" + "|".join(branches) + ")")
+    parse_template = template_parser()
 
     def parse(sentence):
-        match = pattern.fullmatch(sentence)
-        if match and match[match.lastgroup] in expressions:
-            destination, style = expressions[match[match.lastgroup]]
-            return destination, int(match.lastgroup[1:]), style
+        match = parse_template(sentence)
+        if match and match[1] in expressions:
+            destination, style = expressions[match[1]]
+            return destination, match[0], style
         return None
     return parse
 
@@ -131,6 +180,8 @@ def write_private(path, text):
 
 def write_solution(root, names, directions, password):
     """Write both answer artifacts directly to an encrypted archive, atomically."""
+    import pyzipper
+
     successors = dict(zip(names, names[1:] + [None]))
     evidence = {name: {"sentence": directions[name], "next_file": successors[name]}
                 for name in ["start_instruction.md"] + [filename(n) for n in range(1, COUNT + 1)]}
@@ -144,10 +195,24 @@ def write_solution(root, names, directions, password):
     temporary.replace(root / "solution/solution.zip")
 
 
+def generate_directions(rng):
+    """Share the exact shuffle/composition path between builds and previews."""
+    order = list(range(1, COUNT + 1))
+    templates = list(range(COUNT))
+    rng.shuffle(order)
+    rng.shuffle(templates)
+    styles = list(range(COUNT))
+    rng.shuffle(styles)
+    return [(number, direction(template, number, style))
+            for number, template, style in zip(order, templates, styles)]
+
+
 def build(root, source, words=WORDS):
     """Generate fresh artifacts; never overwrite an existing challenge."""
-    if words < 250:
-        raise ValueError("Use at least 250 words per numbered file.")
+    import tiktoken
+
+    if words < 5000:
+        raise ValueError("Use at least 5000 words per numbered file to fit 100 decoys and prose.")
     outputs = ("task", "solution", "manifest.json", ".solution-password", "sources")
     if any((root / name).exists() for name in outputs):
         raise ValueError("Output already contains challenge artifacts; choose a new --output directory.")
@@ -161,14 +226,9 @@ def build(root, source, words=WORDS):
     source_words[-1] = source_words[-1].rstrip() + "\n\n"
     stream = itertools.cycle(source_words)
     rng = secrets.SystemRandom()
-    order = list(range(1, COUNT + 1))
-    templates = list(range(COUNT))
-    rng.shuffle(order)
-    rng.shuffle(templates)
-    styles = list(range(COUNT))
-    rng.shuffle(styles)
-    names = ["start_instruction.md"] + [filename(n) for n in order]
-    directions = {names[i]: direction(templates[i], order[i], styles[i]) for i in range(COUNT)}
+    transitions = generate_directions(rng)
+    names = ["start_instruction.md"] + [filename(number) for number, _ in transitions]
+    directions = {names[i]: sentence for i, (_, sentence) in enumerate(transitions)}
     directions[names[-1]] = STOP
     root.mkdir(parents=True, exist_ok=True)
     for name in ("task", "solution", "sources"):
@@ -183,16 +243,12 @@ def build(root, source, words=WORDS):
         if name == "start_instruction.md":
             content = START + sentence + "\n"
         else:
-            budget = words - len(HEADER.split()) - len(sentence.split())
+            insertions = [sentence] + generate_decoys(rng)
+            budget = words - len(HEADER.split()) - sum(len(s.split()) for s in insertions)
             chunk = list(itertools.islice(stream, budget))
             prose_words += budget
-            # Choose an interior paragraph boundary; directions remain unmarked prose.
-            boundaries = [i + 1 for i, word in enumerate(chunk[:-1]) if "\n\n" in word]
-            if not boundaries:
-                raise ValueError("No paragraph boundary available for inserting a direction.")
-            position = rng.choice(boundaries)
-            content = (HEADER + "".join(chunk[:position]).rstrip() + "\n\n" + sentence +
-                       "\n\n" + "".join(chunk[position:]).strip() + "\n")
+            prose = re.split(r"\n\s*\n", "".join(chunk).strip())
+            content = HEADER + "\n\n".join(intersperse(prose, insertions, rng)) + "\n"
             if len(content.split()) != words:
                 raise ValueError(f"Unexpected word count in {name}.")
         data = content.encode("utf-8")
@@ -206,6 +262,7 @@ def build(root, source, words=WORDS):
     write_solution(root, names, directions, password)
     manifest = {
         "numbered_files": COUNT, "words_per_numbered_file": words,
+        "decoys_per_numbered_file": DECOYS_PER_FILE,
         "word_count_method": "Python str.split (whitespace-delimited words)",
         "token_encoding": "cl100k_base", "tiktoken_version": tiktoken.__version__,
         "source_url": SOURCE_URL, "source_sha256": digest(source),
@@ -221,12 +278,20 @@ def build(root, source, words=WORDS):
 
 def verify(root, password_file):
     """Check corpus, independently reconstruct the graph, and compare encrypted answer."""
+    import pyzipper
+    import tiktoken
+
     manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
     expected = {"start_instruction.md"} | {filename(n) for n in range(1, COUNT + 1)}
     actual = {p.name for p in (root / "task").iterdir()}
     if actual != expected or set(manifest["files"]) != expected:
         raise ValueError("Expected exactly one start file and 100 numbered files.")
     parse_direction = direction_parser()
+    parse_template = template_parser()
+    decoy_labels = set(DECOY_LABELS)
+    decoy_count = manifest.get("decoys_per_numbered_file", 0)
+    if decoy_count not in (0, DECOYS_PER_FILE):
+        raise ValueError("Unsupported decoy count.")
     encoder = tiktoken.get_encoding(manifest["token_encoding"])
     edges, templates, styles, evidence = {}, [], [], {}
     total_words = total_tokens = 0
@@ -239,6 +304,11 @@ def verify(root, password_file):
         if name != "start_instruction.md" and words != manifest["words_per_numbered_file"]:
             raise ValueError(f"Wrong word count: {name}")
         paragraphs = content.split("\n\n")
+        decoys = [match[0] for p in paragraphs
+                  if (match := parse_template(p.strip())) and match[1] in decoy_labels]
+        expected_decoys = decoy_count if name != "start_instruction.md" else 0
+        if len(decoys) != expected_decoys or (expected_decoys and sorted(decoys) != list(range(COUNT))):
+            raise ValueError(f"Wrong decoy count or template coverage: {name}")
         parsed = [(p.strip(), parse_direction(p.strip())) for p in paragraphs]
         sentences = [sentence for sentence, match in parsed if match]
         found = [match for _, match in parsed if match]
@@ -295,12 +365,22 @@ def verify(root, password_file):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("command", choices=("generate", "verify"))
+    parser.add_argument("command", choices=("generate", "verify"), nargs="?")
+    parser.add_argument("--debug-instruction-gen", type=int, metavar="SEED",
+                        help="Print 100 reproducible directions using SEED, without creating files.")
     parser.add_argument("--output", type=Path, default=ROOT)
     parser.add_argument("--source", type=Path, help="Use a previously downloaded source (checksum checked).")
     parser.add_argument("--words", type=int, default=WORDS)
     parser.add_argument("--password-file", type=Path, help="Verification only; defaults to OUTPUT/.solution-password.")
     args = parser.parse_args()
+    if args.debug_instruction_gen is not None:
+        if args.command is not None:
+            parser.error("--debug-instruction-gen is standalone; omit generate or verify.")
+        for _, sentence in generate_directions(random.Random(args.debug_instruction_gen)):
+            print(sentence)
+        return
+    if args.command is None:
+        parser.error("choose generate, verify, or --debug-instruction-gen SEED")
     if args.command == "generate":
         if args.source:
             source = args.source.read_bytes()

@@ -8,6 +8,7 @@ from pathlib import Path
 from urllib.request import urlopen
 
 import pyzipper
+import tiktoken
 import build_task as task
 
 
@@ -61,7 +62,7 @@ def rebuild(root, output, source, seed):
     (output / 'sources/gutenberg-license.txt').write_text('\n'.join(line.rstrip() for line in (front + back).splitlines()).rstrip() + '\n')
     original = json.loads((root / 'manifest.json').read_text())
     target = original['words_per_numbered_file']
-    encoder = task.tiktoken.get_encoding('cl100k_base')
+    encoder = tiktoken.get_encoding('cl100k_base')
     records = {}
     header = task.HEADER.replace('repeated, split, and interspersed', 'randomly sampled, word-deleted, and interspersed')
     for name in ['start_instruction.md'] + [task.filename(n) for n in range(1, 101)]:
@@ -69,17 +70,18 @@ def rebuild(root, output, source, seed):
         if name == 'start_instruction.md':
             content = task.START + direction + '\n'
         else:
-            prose = sample_prose(sentences, target - len(header.split()) - len(direction.split()), rng)
-            # Each sampled sentence loses exactly one word; directions are unchanged.
-            position = rng.randrange(1, len(prose))
-            prose.insert(position, direction)
+            insertions = [direction] + task.generate_decoys(rng)
+            budget = target - len(header.split()) - sum(len(s.split()) for s in insertions)
+            if budget <= 0:
+                raise ValueError('Word budget cannot fit 100 decoys and prose.')
+            prose = task.intersperse(sample_prose(sentences, budget, rng), insertions, rng)
             content = header + '\n\n'.join(prose) + '\n'
             assert len(content.split()) == target
         data = content.encode()
         (output / 'task' / name).write_bytes(data)
         records[name] = dict(words=len(content.split()), tokens=len(encoder.encode_ordinary(content)), sha256=task.digest(data))
     manifest = {k:v for k,v in original.items() if k not in ('source_passes', 'prose_words_used', 'files')}
-    manifest.update(files=records, total_words=sum(r['words'] for r in records.values()), total_tokens=sum(r['tokens'] for r in records.values()), sampling_seed=seed, source_sentences=len(sentences), sampling='with replacement; one alphabetic word token removed per sample', sentence_segmentation='terminal punctuation heuristic v1')
+    manifest.update(decoys_per_numbered_file=task.DECOYS_PER_FILE, files=records, total_words=sum(r['words'] for r in records.values()), total_tokens=sum(r['tokens'] for r in records.values()), sampling_seed=seed, source_sentences=len(sentences), sampling='with replacement; one alphabetic word token removed per sample', sentence_segmentation='terminal punctuation heuristic v1')
     (output / 'manifest.json').write_text(json.dumps(manifest, indent=2)+'\n')
     task.write_private(output / '.solution-password', password+'\n')
     task.write_solution(output, names, {n:e['sentence'] for n,e in evidence.items()}, password)

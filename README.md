@@ -5,7 +5,7 @@ large story files and report the order in which you visited them.
 
 The current size specification is **100 numbered files of exactly 100,000 words
 each**, plus a short start file. That is **10 million words**, not exactly 10
-million tokens. The checked-in challenge measures **12,868,287 tokens** using
+million tokens. The checked-in challenge measures **12,855,072 tokens** using
 `tiktoken` 0.12.0 with `cl100k_base`, including the start file. The repository name
 is a scale label; token totals depend on the tokenizer.
 
@@ -17,7 +17,11 @@ beginning to end before following its embedded direction. Numbered files live
 in `task/` and are named `instruction_1.md` through `instruction_100.md`.
 
 Each numbered file contains story text and exactly one challenge direction at a
-random paragraph boundary. Directions use different wording and may identify a
+random paragraph boundary, plus 100 decoy directions in each numbered file.
+Decoys use the same 100 templates, once each, with random nonnumeric labels
+such as “the faded ribbon”; they do not identify a destination. Ignore labels
+that do not specify an integer. The start file has no decoys.
+Directions use different wording and may identify a
 destination using words, numeral bases, arithmetic, equations, units, or counting
 clues. Evaluate the label and convert it to a decimal filename: for example,
 “half of 24” means `instruction_12.md`. References to bindings, volumes, and
@@ -49,13 +53,15 @@ the accompanying source license; keep maintenance artifacts outside its inputs.
 | --- | ---: |
 | Numbered story files | 100 |
 | Words per numbered file | 100,000 |
-| Start-file words | 132 |
-| Total words, including start | 10,000,132 |
-| Total `cl100k_base` tokens | 12,868,287 |
-| Tokens per numbered file | 128,118–129,224 |
+| Start-file words | 143 |
+| Total words, including start | 10,000,143 |
+| Total `cl100k_base` tokens | 12,855,072 |
+| Tokens per numbered file | 127,905–129,124 |
 | Distinct next-file sentences | 100 |
 | Distinct destination encodings | 100 |
 | Stop sentences | 1 |
+| Decoy sentences per numbered file | 100 |
+| Total decoy sentences | 10,000 |
 
 Words are counted with Python's `str.split()` (whitespace-delimited words),
 including each file's attribution and direction. [manifest.json](manifest.json)
@@ -70,7 +76,8 @@ words between its ebook markers, including its table of contents. The revised co
 removing one randomly selected alphabetic word token from each sampled unit.
 Sentence segmentation uses a punctuation heuristic, so abbreviations can split
 and headings may remain attached to prose. Each modified unit occupies a paragraph;
-the challenge direction is inserted between units and is not word-deleted.
+the challenge direction and 100 decoys are inserted between units and are not
+word-deleted. Their words are included in the fixed word budget.
 Sampling near the end of a file is restricted to units that fit the remaining
 word budget, preserving exactly 100,000 words without truncating a sampled unit.
 The complete extracted list is in `sources/sentences.json` (maintainer data).
@@ -165,13 +172,34 @@ different password file:
 ```
 
 It checks all 101 files, their word and token counts and hashes, exactly one
-direction per file, 100 distinct transition wordings and 100 distinct number
+direction per file, 100 decoys with full template coverage per numbered file,
+100 distinct transition wordings and 100 distinct number
 encodings, a complete traversal with no cycles, an explicit terminal stop, and agreement with both encrypted answer
 artifacts. It checks each secret sentence occurs exactly once, matches its file,
 and names the expected successor. It also checks AES-256 encryption of both ZIP
 members and rejects missing or incorrect passwords. The tests exercise missing
 and modified files, a cycle, an incorrect encrypted answer or secret sentence,
 password failures, and refusal to overwrite existing artifacts.
+
+To inspect all 100 composed transition phrases without downloading the source,
+writing files, or reading the existing challenge, use the standalone debug mode:
+
+```sh
+.venv/bin/python scripts/build_task.py --debug-instruction-gen 42
+.venv/bin/python scripts/build_task.py --debug-instruction-gen 42 > /tmp/instruction-preview.txt
+```
+
+Debug mode requires only the Python standard library; `python3` or `uv run`
+can run it without installing the corpus dependencies.
+
+The integer following the option is the seed (zero and negative seeds are also
+accepted). Output contains one phrase per line, using every template, number
+encoding, and destination once. The same seed reproduces the same preview with
+unchanged code and Python runtime; changing it changes the shuffled combinations.
+This uses the same composition path as generation, but does not preview the
+existing corpus or include its terminal stop sentence. Normal generation retains
+its unseeded system randomness. Do not combine this option with `generate` or
+`verify`.
 
 To build a fresh challenge, choose a new output directory:
 
@@ -183,7 +211,8 @@ The generator downloads the source over HTTPS and verifies its pinned checksum.
 For an already downloaded copy, add `--source /path/to/pg2600.txt`; the checksum
 is still verified. Initial tokenization may also download the `cl100k_base`
 encoding data. `--words` changes the word target for a new generation (default:
-100,000). Generation refuses to overwrite existing challenge artifacts.
+100,000; minimum 5,000 to fit the decoys and prose). Generation refuses to
+overwrite existing challenge artifacts.
 
 Each run chooses a fresh random permutation of 1–100, separately shuffles 100
 individually written sentence templates from `scripts/directions.txt`, and
@@ -191,7 +220,11 @@ independently shuffles the 100 number encodings in `scripts/number_fuzzer.py`.
 Each template and each encoding is used exactly once, with no fixed relationship
 between the two. The finite fuzzer covers numeral notation, arithmetic, equations,
 counts, and unit conversions for every destination from 1 through 100. It then
-randomly places one composed direction into each story chunk.
+randomly places one composed direction and 100 decoys into each numbered story
+chunk. The real direction and decoys share the same placement mechanism; no
+special position identifies the real direction. The terminal file also receives
+100 decoys alongside its stop sentence. Decoys increase keyword matches, but a
+parser that understands the number encodings can still filter them out.
 
 Unlike the previous four target formats, these directions have no shared
 `instruction file` phrase or literal filename. This defeats the previous simple

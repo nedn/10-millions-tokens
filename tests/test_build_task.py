@@ -20,20 +20,43 @@ class ReadingTrailTests(unittest.TestCase):
                   "The traveler crossed the bridge and watched the river below.\n\n" +
                   "At sunset the village grew quiet and the lamps were lit.\n\n" +
                   task.END_MARKER).encode()
-        task.build(self.root, source, words=250)
+        task.build(self.root, source, words=5000)
 
     def test_complete_trail_and_encrypted_archive(self):
         result = task.verify(self.root, self.password)
         self.assertEqual(len(result["files"]), 101)
-        self.assertTrue(all(v["words"] == 250 for k, v in result["files"].items()
+        self.assertTrue(all(v["words"] == 5000 for k, v in result["files"].items()
                             if k != "start_instruction.md"))
         self.assertFalse(list(self.root.rglob("solution.txt")))
         self.assertFalse(list(self.root.rglob("secret_sentences.json")))
         self.assertEqual(self.password.stat().st_mode & 0o777, 0o600)
 
+    def test_missing_decoy_is_rejected_even_with_updated_checksums(self):
+        path = self.root / "task/instruction_1.md"
+        content = path.read_text()
+        parse = task.template_parser()
+        for paragraph in content.split("\n\n"):
+            match = parse(paragraph.strip())
+            if match and match[1] in task.DECOY_LABELS:
+                content = content.replace(paragraph.strip(),
+                                          task.TEMPLATES[match[0]].format(target="the bogus label"), 1)
+                break
+        else:
+            self.fail("No decoy found")
+        path.write_text(content)
+        manifest_path = self.root / "manifest.json"
+        manifest = json.loads(manifest_path.read_text())
+        record = manifest["files"][path.name]
+        tokens = len(tiktoken.get_encoding("cl100k_base").encode_ordinary(content))
+        manifest["total_tokens"] += tokens - record["tokens"]
+        record.update(tokens=tokens, sha256=task.digest(path.read_bytes()))
+        manifest_path.write_text(json.dumps(manifest))
+        with self.assertRaisesRegex(ValueError, "Wrong decoy count"):
+            task.verify(self.root, self.password)
+
     def test_existing_challenge_is_not_overwritten(self):
         with self.assertRaisesRegex(ValueError, "already contains"):
-            task.build(self.root, b"unused", words=250)
+            task.build(self.root, b"unused", words=5000)
 
     def test_missing_file_is_rejected(self):
         (self.root / "task/instruction_1.md").unlink()

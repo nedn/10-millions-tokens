@@ -48,30 +48,7 @@ STOP = (
     "This is the last file in the trail; stop reading and write solution.txt with "
     "start_instruction.md followed by the numbered filenames in the order you visited them."
 )
-OPENINGS = (
-    "After you have read this entire document",
-    "Once your reading of the present file is complete",
-    "When you reach the end of all the text here",
-    "Having finished every paragraph in this document",
-    "Upon completing your full reading of this file",
-    "After taking in all the prose on this page",
-    "As soon as you have finished the whole document",
-    "With the entirety of this file now read",
-    "Only after reading this document from beginning to end",
-    "Following a complete reading of the text in this file",
-)
-ACTIONS = (
-    "continue by reading {target} in full",
-    "make {target} the next document you read completely",
-    "proceed to {target} and read all of it",
-    "turn next to {target} for another complete reading",
-    "open {target} next and read it from beginning to end",
-    "carry on with a full reading of {target}",
-    "choose {target} as your immediate next file and read it entirely",
-    "follow the trail into {target} and read every paragraph there",
-    "take {target} as the next stop and read its complete contents",
-    "advance to {target} and finish reading it before continuing",
-)
+TEMPLATES = (ROOT / "scripts/directions.txt").read_text(encoding="utf-8").splitlines()
 
 
 def filename(number):
@@ -105,8 +82,7 @@ def direction(template, number):
         f"the Markdown instruction file whose numeric suffix is {number}",
         f"the instruction file whose number is {roman(number)} in Roman numerals",
     )
-    return (OPENINGS[template // 10] + ", " +
-            ACTIONS[template % 10].format(target=targets[template % 4]) + ".")
+    return TEMPLATES[template].format(target=targets[template % 4])
 
 
 def digest(data):

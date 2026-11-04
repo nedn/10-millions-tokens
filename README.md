@@ -5,7 +5,7 @@ large story files and report the order in which you visited them.
 
 The current size specification is **100 numbered files of exactly 100,000 words
 each**, plus a short start file. That is **10 million words**, not exactly 10
-million tokens. The checked-in challenge measures **13,729,178 tokens** using
+million tokens. The checked-in challenge measures **12,868,422 tokens** using
 `tiktoken` 0.12.0 with `cl100k_base`, including the start file. The repository name
 is a scale label; token totals depend on the tokenizer.
 
@@ -47,10 +47,10 @@ the accompanying source license; keep maintenance artifacts outside its inputs.
 | --- | ---: |
 | Numbered story files | 100 |
 | Words per numbered file | 100,000 |
-| Start-file words | 121 |
-| Total words, including start | 10,000,121 |
-| Total `cl100k_base` tokens | 13,729,178 |
-| Tokens per numbered file | 133,713–140,129 |
+| Start-file words | 99 |
+| Total words, including start | 10,000,099 |
+| Total `cl100k_base` tokens | 12,868,422 |
+| Tokens per numbered file | 128,092–129,236 |
 | Distinct next-file sentences | 100 |
 | Stop sentences | 1 |
 
@@ -63,11 +63,19 @@ The filler is *War and Peace* by Leo Tolstoy, translated by Louise and Aylmer
 Maude, from [Project Gutenberg ebook 2600](https://www.gutenberg.org/ebooks/2600).
 Project Gutenberg lists this edition as public domain in the USA. Credits:
 An Anonymous Volunteer and David Widger. The downloaded text contains 563,286
-words between its ebook markers, including its table of contents. To reach the
-requested size, the generator cycles through that text, using 17 complete passes
-and part of an eighteenth, and splits the stream into 100 chunks at word
-boundaries. Original prose and paragraph spacing are preserved inside chunks;
-challenge directions are inserted between paragraphs.
+words between its ebook markers, including its table of contents. The revised corpus samples with replacement from 32,197 sentence units,
+removing one randomly selected alphabetic word token from each sampled unit.
+Sentence segmentation uses a punctuation heuristic, so abbreviations can split
+and headings may remain attached to prose. Each modified unit occupies a paragraph;
+the challenge direction is inserted between units and is not word-deleted.
+Sampling near the end of a file is restricted to units that fit the remaining
+word budget, preserving exactly 100,000 words without truncating a sampled unit.
+The complete extracted list is in `sources/sentences.json` (maintainer data).
+
+The recorded seed is 20261104. Exact sentence matching is disrupted, but approximate
+matching and instruction searches remain possible. This is not a guarantee that
+a model must read every token. Keep the sentence list, seed, and answer artifacts
+outside solver inputs.
 
 Source: [UTF-8 text](https://www.gutenberg.org/cache/epub/2600/pg2600.txt).
 The pinned download SHA-256 is:
@@ -175,7 +183,7 @@ encoding data. `--words` changes the word target for a new generation (default:
 100,000). Generation refuses to overwrite existing challenge artifacts.
 
 Each run chooses a fresh random permutation of 1–100, separately shuffles 100
-different sentence templates, and randomly places one direction into each story
+individually written sentence templates from `scripts/directions.txt`, and randomly places one direction into each story
 chunk. The start file points to the first shuffled number; 99 numbered files
 point to their successors, and the remaining file ends the trail. It saves the
 encrypted answer and secret sentences, password file, source terms, and
@@ -183,3 +191,18 @@ manifest, then validates the result. No seed or plaintext answer artifact is sav
 Regenerated challenges have
 different answers and measured token totals; update the table above if replacing
 the checked-in corpus.
+
+## Regenerate randomized sentence corpus
+
+```sh
+python3 scripts/randomize_corpus.py --seed 20261104 --output /tmp/randomized-trail
+```
+
+Install `requirements.txt` first. The output directory must not already exist.
+The script downloads and checksum-verifies the novel; `--source /path/to/pg2600.txt`
+uses a local copy instead. `--root` selects the existing trail to preserve.
+The same seed, source, trail, and Python runtime reproduce task text and metadata.
+The ZIP uses fresh encryption randomness, so its bytes need not be identical.
+The script writes the sentence list, all task files, manifest, password and updated
+AES ZIP, then runs the full verifier. The original `build_task.py generate` command
+still produces the older continuous-prose variant; use this script for random sampling.

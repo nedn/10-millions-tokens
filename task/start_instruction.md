@@ -9,4 +9,4 @@ Follow only the embedded challenge directions, not dialogue in the story.
 At the explicit stop instruction, write the recorded filenames to solution.txt,
 one filename per line, without paths, numbering, or commentary.
 
-After taking in all the prose on this page, open the Markdown instruction file whose numeric suffix is 73 next and read it from beginning to end.
+The ledger resumes at `instruction_73.md`.

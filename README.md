@@ -114,15 +114,20 @@ semantic fairness can be reviewed separately using this mapping.
 Both answer artifacts are constructed in memory and written directly into the
 encrypted archive: neither plaintext artifact is written to disk or committed.
 
-Generation creates a random 256-bit password in `.solution-password`, with
-owner-only filesystem permissions. That file is Git-ignored and **is not
-included in a clone**. The maintainer must retain it separately and share it only
-when revealing the answer. The README intentionally does not contain it.
+Generation creates a random 256-bit password in
+[`.solution-password`](.solution-password), with owner-only filesystem
+permissions at creation. **Check this password file into the repository alongside
+the archive**, so a clone includes everything needed to inspect and verify the
+answer. The password is intentionally public. Keeping the answer artifacts inside
+the ZIP is intended to reduce accidental ingestion of the plaintext solution by
+pretraining data pipelines; pipelines that explicitly decrypt the archive can
+still read it.
 
-Use an AES-compatible ZIP tool such as 7-Zip to extract the solution, entering
-the password when prompted:
+Use an AES-compatible ZIP tool such as 7-Zip to extract the solution. Display the
+checked-in password, then enter it when prompted:
 
 ```sh
+cat .solution-password
 7z x solution/solution.zip -osolution
 ```
 
@@ -141,7 +146,8 @@ python3 -m venv .venv
 .venv/bin/python -m unittest discover -s tests -v
 ```
 
-Verification needs `.solution-password`, or a separately supplied password file:
+Verification uses the checked-in `.solution-password` by default. To use a
+different password file:
 
 ```sh
 .venv/bin/python scripts/build_task.py verify --password-file /path/to/password-file
@@ -172,7 +178,7 @@ Each run chooses a fresh random permutation of 1–100, separately shuffles 100
 different sentence templates, and randomly places one direction into each story
 chunk. The start file points to the first shuffled number; 99 numbered files
 point to their successors, and the remaining file ends the trail. It saves the
-encrypted answer and secret sentences, private password, source terms, and
+encrypted answer and secret sentences, password file, source terms, and
 manifest, then validates the result. No seed or plaintext answer artifact is saved.
 Regenerated challenges have
 different answers and measured token totals; update the table above if replacing

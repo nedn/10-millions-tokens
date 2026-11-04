@@ -1,0 +1,11613 @@
+# Reading trail
+
+Modified excerpts from *War and Peace* by Leo Tolstoy, translated by
+Louise and Aylmer Maude; repeated, split, and interspersed with challenge directions.
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions whatsoever.
+You may copy it, give it away or re-use it under the terms of the
+[Project Gutenberg License](../sources/gutenberg-license.txt) included with this eBook
+or online at [www.gutenberg.org](https://www.gutenberg.org).
+
+and footmen, who, with loud shouts, dragged his sleighs up to
+one of the lodges over the road purposely laden with snow.
+
+Prince Vasíli and Anatole had separate rooms assigned to them.
+
+Anatole, having taken off his overcoat, sat with arms akimbo before a
+table on a corner of which he smilingly and absent-mindedly fixed his
+large and handsome eyes. He regarded his whole life as a continual round
+of amusement which someone for some reason had to provide for him.
+And he looked on this visit to a churlish old man and a rich and ugly
+heiress in the same way. All this might, he thought, turn out very well
+and amusingly. “And why not marry her if she really has so much money?
+That never does any harm,” thought Anatole.
+
+He shaved and scented himself with the care and elegance which had
+become habitual to him and, his handsome head held high, entered his
+father’s room with the good-humored and victorious air natural to
+him. Prince Vasíli’s two valets were busy dressing him, and he looked
+round with much animation and cheerfully nodded to his son as the latter
+entered, as if to say: “Yes, that’s how I want you to look.”
+
+“I say, Father, joking apart, is she very hideous?” Anatole asked,
+as if continuing a conversation the subject of which had often been
+mentioned during the journey.
+
+“Enough! What nonsense! Above all, try to be respectful and cautious
+with the old prince.”
+
+“If he starts a row I’ll go away,” said Prince Anatole. “I
+can’t bear those old men! Eh?”
+
+“Remember, for you everything depends on this.”
+
+In the meantime, not only was it known in the maidservants’ rooms that
+the minister and his son had arrived, but the appearance of both had
+been minutely described. Princess Mary was sitting alone in her room,
+vainly trying to master her agitation.
+
+“Why did they write, why did Lise tell me about it? It can never
+happen!” she said, looking at herself in the glass. “How shall I
+enter the drawing room? Even if I like him I can’t now be myself with
+him.” The mere thought of her father’s look filled her with terror.
+The little princess and Mademoiselle Bourienne had already received
+from Másha, the lady’s maid, the necessary report of how handsome the
+minister’s son was, with his rosy cheeks and dark eyebrows, and with
+what difficulty the father had dragged his legs upstairs while the son
+had followed him like an eagle, three steps at a time. Having received
+this information, the little princess and Mademoiselle Bourienne, whose
+chattering voices had reached her from the corridor, went into Princess
+Mary’s room.
+
+“You know they’ve come, Marie?” said the little princess, waddling
+in, and sinking heavily into an armchair.
+
+She was no longer in the loose gown she generally wore in the morning,
+but had on one of her best dresses. Her hair was carefully done and her
+face was animated, which, however, did not conceal its sunken and faded
+outlines. Dressed as she used to be in Petersburg society, it was still
+more noticeable how much plainer she had become. Some unobtrusive touch
+had been added to Mademoiselle Bourienne’s toilet which rendered her
+fresh and pretty face yet more attractive.
+
+“What! Are you going to remain as you are, dear princess?” she
+began. “They’ll be announcing that the gentlemen are in the drawing
+room and we shall have to go down, and you have not smartened yourself
+up at all!”
+
+The little princess got up, rang for the maid, and hurriedly and merrily
+began to devise and carry out a plan of how Princess Mary should be
+dressed. Princess Mary’s self-esteem was wounded by the fact that
+the arrival of a suitor agitated her, and still more so by both
+her companions’ not having the least conception that it could be
+otherwise. To tell them that she felt ashamed for herself and for them
+would be to betray her agitation, while to decline their offers to
+dress her would prolong their banter and insistence. She flushed, her
+beautiful eyes grew dim, red blotches came on her face, and it took
+on the unattractive martyrlike expression it so often wore, as she
+submitted herself to Mademoiselle Bourienne and Lise. Both these women
+quite sincerely tried to make her look pretty. She was so plain that
+neither of them could think of her as a rival, so they began dressing
+her with perfect sincerity, and with the naïve and firm conviction
+women have that dress can make a face pretty.
+
+“No really, my dear, this dress is not pretty,” said Lise, looking
+sideways at Princess Mary from a little distance. “You have a maroon
+dress, have it fetched. Really! You know the fate of your whole life may
+be at stake. But this one is too light, it’s not becoming!”
+
+It was not the dress, but the face and whole figure of Princess Mary
+that was not pretty, but neither Mademoiselle Bourienne nor the little
+princess felt this; they still thought that if a blue ribbon were placed
+in the hair, the hair combed up, and the blue scarf arranged lower on
+the best maroon dress, and so on, all would be well. They forgot that
+the frightened face and the figure could not be altered, and that
+however they might change the setting and adornment of that face, it
+would still remain piteous and plain. After two or three changes to
+which Princess Mary meekly submitted, just as her hair had been arranged
+on the top of her head (a style that quite altered and spoiled her
+looks) and she had put on a maroon dress with a pale-blue scarf, the
+little princess walked twice round her, now adjusting a fold of the
+dress with her little hand, now arranging the scarf and looking at her
+with her head bent first on one side and then on the other.
+
+“No, it will not do,” she said decidedly, clasping her hands. “No,
+Mary, really this dress does not suit you. I prefer you in your little
+gray everyday dress. Now please, do it for my sake. Katie,” she said
+to the maid, “bring the princess her gray dress, and you’ll see,
+Mademoiselle Bourienne, how I shall arrange it,” she added, smiling
+with a foretaste of artistic pleasure.
+
+But when Katie brought the required dress, Princess Mary remained
+sitting motionless before the glass, looking at her face, and saw in the
+mirror her eyes full of tears and her mouth quivering, ready to burst
+into sobs.
+
+“Come, dear princess,” said Mademoiselle Bourienne, “just one more
+little effort.”
+
+The little princess, taking the dress from the maid, came up to Princess
+Mary.
+
+“Well, now we’ll arrange something quite simple and becoming,” she
+said.
+
+The three voices, hers, Mademoiselle Bourienne’s, and Katie’s, who
+was laughing at something, mingled in a merry sound, like the chirping
+of birds.
+
+“No, leave me alone,” said Princess Mary.
+
+Her voice sounded so serious and so sad that the chirping of the birds
+was silenced at once. They looked at the beautiful, large, thoughtful
+eyes full of tears and of thoughts, gazing shiningly and imploringly at
+them, and understood that it was useless and even cruel to insist.
+
+“At least, change your coiffure,” said the little princess.
+“Didn’t I tell you,” she went on, turning reproachfully to
+Mademoiselle Bourienne, “Mary’s is a face which such a coiffure does
+not suit in the least. Not in the least! Please change it.”
+
+“Leave me alone, please leave me alone! It is all quite the same to
+me,” answered a voice struggling with tears.
+
+Mademoiselle Bourienne and the little princess had to own to themselves
+that Princess Mary in this guise looked very plain, worse than usual,
+but it was too late. She was looking at them with an expression they
+both knew, an expression thoughtful and sad. This expression in Princess
+Mary did not frighten them (she never inspired fear in anyone), but they
+knew that when it appeared on her face, she became mute and was not to
+be shaken in her determination.
+
+“You will change it, won’t you?” said Lise. And as Princess Mary
+gave no answer, she left the room.
+
+Princess Mary was left alone. She did not comply with Lise’s request,
+she not only left her hair as it was, but did not even look in her
+glass. Letting her arms fall helplessly, she sat with downcast eyes and
+pondered. A husband, a man, a strong dominant and strangely attractive
+being rose in her imagination, and carried her into a totally different
+happy world of his own. She fancied a child, her own—such as she had
+seen the day before in the arms of her nurse’s daughter—at her
+own breast, the husband standing by and gazing tenderly at her and the
+child. “But no, it is impossible, I am too ugly,” she thought.
+
+“Please come to tea. The prince will be out in a moment,” came the
+maid’s voice at the door.
+
+She roused herself, and felt appalled at what she had been thinking, and
+before going down she went into the room where the icons hung and, her
+eyes fixed on the dark face of a large icon of the Saviour lit by a
+lamp, she stood before it with folded hands for a few moments. A painful
+doubt filled her soul. Could the joy of love, of earthly love for a
+man, be for her? In her thoughts of marriage Princess Mary dreamed of
+happiness and of children, but her strongest, most deeply hidden longing
+was for earthly love. The more she tried to hide this feeling from
+others and even from herself, the stronger it grew. “O God,” she
+said, “how am I to stifle in my heart these temptations of the devil?
+How am I to renounce forever these vile fancies, so as peacefully to
+fulfill Thy will?” And scarcely had she put that question than God
+gave her the answer in her own heart. “Desire nothing for thyself,
+seek nothing, be not anxious or envious. Man’s future and thy own fate
+must remain hidden from thee, but live so that thou mayest be ready for
+anything. If it be God’s will to prove thee in the duties of marriage,
+be ready to fulfill His will.” With this consoling thought (but
+yet with a hope for the fulfillment of her forbidden earthly longing)
+Princess Mary sighed, and having crossed herself went down, thinking
+neither of her gown and coiffure nor of how she would go in nor of what
+she would say. What could all that matter in comparison with the will of
+God, without Whose care not a hair of man’s head can fall?
+
+
+
+
+
+CHAPTER IV
+
+When Princess Mary came down, Prince Vasíli and his son were already
+in the drawing room, talking to the little princess and Mademoiselle
+Bourienne. When she entered with her heavy step, treading on her heels,
+the gentlemen and Mademoiselle Bourienne rose and the little princess,
+indicating her to the gentlemen, said: “Voilà Marie!” Princess Mary
+saw them all and saw them in detail. She saw Prince Vasíli’s face,
+serious for an instant at the sight of her, but immediately smiling
+again, and the little princess curiously noting the impression
+“Marie” produced on the visitors. And she saw Mademoiselle
+Bourienne, with her ribbon and pretty face, and her unusually animated
+look which was fixed on him, but him she could not see, she only saw
+something large, brilliant, and handsome moving toward her as she
+entered the room. Prince Vasíli approached first, and she kissed the
+bold forehead that bent over her hand and answered his question by
+saying that, on the contrary, she remembered him quite well. Then
+Anatole came up to her. She still could not see him. She only felt a
+soft hand taking hers firmly, and she touched with her lips a white
+forehead, over which was beautiful light-brown hair smelling of pomade.
+When she looked up at him she was struck by his beauty. Anatole stood
+with his right thumb under a button of his uniform, his chest expanded
+and his back drawn in, slightly swinging one foot, and, with his head a
+little bent, looked with beaming face at the princess without
+speaking and evidently not thinking about her at all. Anatole was not
+quick-witted, nor ready or eloquent in conversation, but he had the
+faculty, so invaluable in society, of composure and imperturbable
+self-possession. If a man lacking in self-confidence remains dumb on
+a first introduction and betrays a consciousness of the impropriety of
+such silence and an anxiety to find something to say, the effect is
+bad. But Anatole was dumb, swung his foot, and smilingly examined the
+princess’ hair. It was evident that he could be silent in this way for
+a very long time. “If anyone finds this silence inconvenient, let him
+talk, but I don’t want to,” he seemed to say. Besides this, in his
+behavior to women Anatole had a manner which particularly inspires in
+them curiosity, awe, and even love—a supercilious consciousness of
+his own superiority. It was as if he said to them: “I know you, I know
+you, but why should I bother about you? You’d be only too glad, of
+course.” Perhaps he did not really think this when he met women—even
+probably he did not, for in general he thought very little—but his
+looks and manner gave that impression. The princess felt this, and as if
+wishing to show him that she did not even dare expect to interest him,
+she turned to his father. The conversation was general and animated,
+thanks to Princess Lise’s voice and little downy lip that lifted over
+her white teeth. She met Prince Vasíli with that playful manner often
+employed by lively chatty people, and consisting in the assumption
+that between the person they so address and themselves there are some
+semi-private, long-established jokes and amusing reminiscences, though
+no such reminiscences really exist—just as none existed in this case.
+Prince Vasíli readily adopted her tone and the little princess also
+drew Anatole, whom she hardly knew, into these amusing recollections of
+things that had never occurred. Mademoiselle Bourienne also shared them
+and even Princess Mary felt herself pleasantly made to share in these
+merry reminiscences.
+
+“Here at least we shall have the benefit of your company all to
+ourselves, dear prince,” said the little princess (of course, in
+French) to Prince Vasíli. “It’s not as at Annette’s * receptions
+where you always ran away; you remember cette chère Annette!”
+
+    * Anna Pávlovna.
+
+“Ah, but you won’t talk politics to me like Annette!”
+
+“And our little tea table?”
+
+“Oh, yes!”
+
+“Why is it you were never at Annette’s?” the little princess asked
+Anatole. “Ah, I know, I know,” she said with a sly glance, “your
+brother Hippolyte told me about your goings on. Oh!” and she shook her
+finger at him, “I have even heard of your doings in Paris!”
+
+“And didn’t Hippolyte tell you?” asked Prince Vasíli, turning to
+his son and seizing the little princess’ arm as if she would have run
+away and he had just managed to catch her, “didn’t he tell you how
+he himself was pining for the dear princess, and how she showed him the
+door? Oh, she is a pearl among women, Princess,” he added, turning to
+Princess Mary.
+
+When Paris was mentioned, Mademoiselle Bourienne for her part seized the
+opportunity of joining in the general current of recollections.
+
+She took the liberty of inquiring whether it was long since Anatole
+had left Paris and how he had liked that city. Anatole answered the
+Frenchwoman very readily and, looking at her with a smile, talked to her
+about her native land. When he saw the pretty little Bourienne, Anatole
+came to the conclusion that he would not find Bald Hills dull either.
+“Not at all bad!” he thought, examining her, “not at all bad, that
+little companion! I hope she will bring her along with her when we’re
+married, la petite est gentille.” *
+
+    * The little one is charming.
+
+The old prince dressed leisurely in his study, frowning and considering
+what he was to do. The coming of these visitors annoyed him. “What are
+Prince Vasíli and that son of his to me? Prince Vasíli is a shallow
+braggart and his son, no doubt, is a fine specimen,” he grumbled to
+himself. What angered him was that the coming of these visitors revived
+in his mind an unsettled question he always tried to stifle, one about
+which he always deceived himself. The question was whether he could ever
+bring himself to part from his daughter and give her to a husband. The
+prince never directly asked himself that question, knowing beforehand
+that he would have to answer it justly, and justice clashed not only
+with his feelings but with the very possibility of life. Life without
+Princess Mary, little as he seemed to value her, was unthinkable to
+him. “And why should she marry?” he thought. “To be unhappy for
+certain. There’s Lise, married to Andrew—a better husband one would
+think could hardly be found nowadays—but is she contented with her
+lot? And who would marry Marie for love? Plain and awkward! They’ll
+take her for her connections and wealth. Are there no women living
+unmarried, and even the happier for it?” So thought Prince Bolkónski
+while dressing, and yet the question he was always putting off demanded
+an immediate answer. Prince Vasíli had brought his son with the evident
+intention of proposing, and today or tomorrow he would probably ask
+for an answer. His birth and position in society were not bad. “Well,
+I’ve nothing against it,” the prince said to himself, “but he must
+be worthy of her. And that is what we shall see.”
+
+“That is what we shall see! That is what we shall see!” he added
+aloud.
+
+He entered the drawing room with his usual alert step, glancing rapidly
+round the company. He noticed the change in the little princess’
+dress, Mademoiselle Bourienne’s ribbon, Princess Mary’s unbecoming
+coiffure, Mademoiselle Bourienne’s and Anatole’s smiles, and the
+loneliness of his daughter amid the general conversation. “Got herself
+up like a fool!” he thought, looking irritably at her. “She is
+shameless, and he ignores her!”
+
+He went straight up to Prince Vasíli.
+
+“Well! How d’ye do? How d’ye do? Glad to see you!”
+
+“Friendship laughs at distance,” began Prince Vasíli in his usual
+rapid, self-confident, familiar tone. “Here is my second son; please
+love and befriend him.”
+
+Prince Bolkónski surveyed Anatole.
+
+“Fine young fellow! Fine young fellow!” he said. “Well, come and
+kiss me,” and he offered his cheek.
+
+Anatole kissed the old man, and looked at him with curiosity and perfect
+composure, waiting for a display of the eccentricities his father had
+told him to expect.
+
+Prince Bolkónski sat down in his usual place in the corner of the sofa
+and, drawing up an armchair for Prince Vasíli, pointed to it and began
+questioning him about political affairs and news. He seemed to listen
+attentively to what Prince Vasíli said, but kept glancing at Princess
+Mary.
+
+“And so they are writing from Potsdam already?” he said, repeating
+Prince Vasíli’s last words. Then rising, he suddenly went up to his
+daughter.
+
+“Is it for visitors you’ve got yourself up like that, eh?” said
+he. “Fine, very fine! You have done up your hair in this new way for
+the visitors, and before the visitors I tell you that in future you are
+never to dare to change your way of dress without my consent.”
+
+“It was my fault, mon père,” interceded the little princess, with a
+blush.
+
+“You must do as you please,” said Prince Bolkónski, bowing to his
+daughter-in-law, “but she need not make a fool of herself, she’s
+plain enough as it is.”
+
+And he sat down again, paying no more attention to his daughter, who was
+reduced to tears.
+
+“On the contrary, that coiffure suits the princess very well,” said
+Prince Vasíli.
+
+“Now you, young prince, what’s your name?” said Prince Bolkónski,
+turning to Anatole, “come here, let us talk and get acquainted.”
+
+“Now the fun begins,” thought Anatole, sitting down with a smile
+beside the old prince.
+
+“Well, my dear boy, I hear you’ve been educated abroad, not taught
+to read and write by the deacon, like your father and me. Now tell me,
+my dear boy, are you serving in the Horse Guards?” asked the old man,
+scrutinizing Anatole closely and intently.
+
+“No, I have been transferred to the line,” said Anatole, hardly able
+to restrain his laughter.
+
+“Ah! That’s a good thing. So, my dear boy, you wish to serve the
+Tsar and the country? It is wartime. Such a fine fellow must serve.
+Well, are you off to the front?”
+
+“No, Prince, our regiment has gone to the front, but I am attached...
+what is it I am attached to, Papa?” said Anatole, turning to his
+father with a laugh.
+
+“A splendid soldier, splendid! ‘What am I attached to!’ Ha, ha,
+ha!” laughed Prince Bolkónski, and Anatole laughed still louder.
+Suddenly Prince Bolkónski frowned.
+
+“You may go,” he said to Anatole.
+
+Anatole returned smiling to the ladies.
+
+“And so you’ve had him educated abroad, Prince Vasíli, haven’t
+you?” said the old prince to Prince Vasíli.
+
+“I have done my best for him, and I can assure you the education there
+is much better than ours.”
+
+“Yes, everything is different nowadays, everything is changed. The
+lad’s a fine fellow, a fine fellow! Well, come with me now.” He took
+Prince Vasíli’s arm and led him to his study. As soon as they were
+alone together, Prince Vasíli announced his hopes and wishes to the old
+prince.
+
+“Well, do you think I shall prevent her, that I can’t part from
+her?” said the old prince angrily. “What an idea! I’m ready for it
+tomorrow! Only let me tell you, I want to know my son-in-law better. You
+know my principles—everything aboveboard! I will ask her tomorrow in
+your presence; if she is willing, then he can stay on. He can stay and
+I’ll see.” The old prince snorted. “Let her marry, it’s all the
+same to me!” he screamed in the same piercing tone as when parting
+from his son.
+
+“I will tell you frankly,” said Prince Vasíli in the tone of
+a crafty man convinced of the futility of being cunning with so
+keen-sighted a companion. “You know, you see right through people.
+Anatole is no genius, but he is an honest, goodhearted lad; an excellent
+son or kinsman.”
+
+“All right, all right, we’ll see!”
+
+As always happens when women lead lonely lives for any length of time
+without male society, on Anatole’s appearance all the three women of
+Prince Bolkónski’s household felt that their life had not been real
+till then. Their powers of reasoning, feeling, and observing immediately
+increased tenfold, and their life, which seemed to have been passed in
+darkness, was suddenly lit up by a new brightness, full of significance.
+
+Princess Mary grew quite unconscious of her face and coiffure. The
+handsome open face of the man who might perhaps be her husband absorbed
+all her attention. He seemed to her kind, brave, determined, manly, and
+magnanimous. She felt convinced of that. Thousands of dreams of a future
+family life continually rose in her imagination. She drove them away and
+tried to conceal them.
+
+“But am I not too cold with him?” thought the princess. “I try
+to be reserved because in the depth of my soul I feel too near to him
+already, but then he cannot know what I think of him and may imagine
+that I do not like him.”
+
+And Princess Mary tried, but could not manage, to be cordial to her new
+guest. “Poor girl, she’s devilish ugly!” thought Anatole.
+
+Mademoiselle Bourienne, also roused to great excitement by Anatole’s
+arrival, thought in another way. Of course, she, a handsome young woman
+without any definite position, without relations or even a country, did
+not intend to devote her life to serving Prince Bolkónski, to reading
+aloud to him and being friends with Princess Mary. Mademoiselle
+Bourienne had long been waiting for a Russian prince who, able to
+appreciate at a glance her superiority to the plain, badly dressed,
+ungainly Russian princesses, would fall in love with her and carry her
+off; and here at last was a Russian prince. Mademoiselle Bourienne knew
+a story, heard from her aunt but finished in her own way, which she
+liked to repeat to herself. It was the story of a girl who had been
+seduced, and to whom her poor mother (sa pauvre mère) appeared, and
+reproached her for yielding to a man without being married. Mademoiselle
+Bourienne was often touched to tears as in imagination she told this
+story to him, her seducer. And now he, a real Russian prince, had
+appeared. He would carry her away and then sa pauvre mère would appear
+and he would marry her. So her future shaped itself in Mademoiselle
+Bourienne’s head at the very time she was talking to Anatole about
+Paris. It was not calculation that guided her (she did not even for a
+moment consider what she should do), but all this had long been familiar
+to her, and now that Anatole had appeared it just grouped itself around
+him and she wished and tried to please him as much as possible.
+
+The little princess, like an old war horse that hears the trumpet,
+unconsciously and quite forgetting her condition, prepared for the
+familiar gallop of coquetry, without any ulterior motive or any
+struggle, but with naïve and lighthearted gaiety.
+
+Although in female society Anatole usually assumed the role of a man
+tired of being run after by women, his vanity was flattered by the
+spectacle of his power over these three women. Besides that, he was
+beginning to feel for the pretty and provocative Mademoiselle Bourienne
+that passionate animal feeling which was apt to master him with great
+suddenness and prompt him to the coarsest and most reckless actions.
+
+After tea, the company went into the sitting room and Princess Mary was
+asked to play on the clavichord. Anatole, laughing and in high spirits,
+came and leaned on his elbows, facing her and beside Mademoiselle
+Bourienne. Princess Mary felt his look with a painfully joyous emotion.
+Her favorite sonata bore her into a most intimately poetic world and
+the look she felt upon her made that world still more poetic. But
+Anatole’s expression, though his eyes were fixed on her, referred not
+to her but to the movements of Mademoiselle Bourienne’s little
+foot, which he was then touching with his own under the clavichord.
+Mademoiselle Bourienne was also looking at Princess Mary, and in her
+lovely eyes there was a look of fearful joy and hope that was also new
+to the princess.
+
+“How she loves me!” thought Princess Mary. “How happy I am now,
+and how happy I may be with such a friend and such a husband! Husband?
+Can it be possible?” she thought, not daring to look at his face, but
+still feeling his eyes gazing at her.
+
+In the evening, after supper, when all were about to retire, Anatole
+kissed Princess Mary’s hand. She did not know how she found the
+courage, but she looked straight into his handsome face as it came near
+to her shortsighted eyes. Turning from Princess Mary he went up and
+kissed Mademoiselle Bourienne’s hand. (This was not etiquette, but
+then he did everything so simply and with such assurance!) Mademoiselle
+Bourienne flushed, and gave the princess a frightened look.
+
+“What delicacy!” thought the princess. “Is it possible that
+Amélie” (Mademoiselle Bourienne) “thinks I could be jealous of her,
+and not value her pure affection and devotion to me?” She went up
+to her and kissed her warmly. Anatole went up to kiss the little
+princess’ hand.
+
+“No! No! No! When your father writes to tell me that you are behaving
+well I will give you my hand to kiss. Not till then!” she said. And
+smilingly raising a finger at him, she left the room.
+
+
+
+
+
+CHAPTER V
+
+They all separated, but, except Anatole who fell asleep as soon as he
+got into bed, all kept awake a long time that night.
+
+“Is he really to be my husband, this stranger who is so kind—yes,
+kind, that is the chief thing,” thought Princess Mary; and fear, which
+she had seldom experienced, came upon her. She feared to look round, it
+seemed to her that someone was there standing behind the screen in the
+dark corner. And this someone was he—the devil—and he was also this
+man with the white forehead, black eyebrows, and red lips.
+
+She rang for her maid and asked her to sleep in her room.
+
+Mademoiselle Bourienne walked up and down the conservatory for a long
+time that evening, vainly expecting someone, now smiling at someone, now
+working herself up to tears with the imaginary words of her pauvre mère
+rebuking her for her fall.
+
+The little princess grumbled to her maid that her bed was badly made.
+She could not lie either on her face or on her side. Every position was
+awkward and uncomfortable, and her burden oppressed her now more than
+ever because Anatole’s presence had vividly recalled to her the time
+when she was not like that and when everything was light and gay. She
+sat in an armchair in her dressing jacket and nightcap and Katie, sleepy
+and disheveled, beat and turned the heavy feather bed for the third
+time, muttering to herself.
+
+“I told you it was all lumps and holes!” the little princess
+repeated. “I should be glad enough to fall asleep, so it’s not my
+fault!” and her voice quivered like that of a child about to cry.
+
+The old prince did not sleep either. Tíkhon, half asleep, heard him
+pacing angrily about and snorting. The old prince felt as though he
+had been insulted through his daughter. The insult was the more pointed
+because it concerned not himself but another, his daughter, whom he
+loved more than himself. He kept telling himself that he would consider
+the whole matter and decide what was right and how he should act, but
+instead of that he only excited himself more and more.
+
+“The first man that turns up—she forgets her father and everything
+else, runs upstairs and does up her hair and wags her tail and is unlike
+herself! Glad to throw her father over! And she knew I should notice
+it. Fr... fr... fr! And don’t I see that that idiot had eyes only for
+Bourienne—I shall have to get rid of her. And how is it she has not
+pride enough to see it? If she has no pride for herself she might at
+least have some for my sake! She must be shown that the blockhead thinks
+nothing of her and looks only at Bourienne. No, she has no pride... but
+I’ll let her see....”
+
+The old prince knew that if he told his daughter she was making a
+mistake and that Anatole meant to flirt with Mademoiselle Bourienne,
+Princess Mary’s self-esteem would be wounded and his point (not to
+be parted from her) would be gained, so pacifying himself with this
+thought, he called Tíkhon and began to undress.
+
+“What devil brought them here?” thought he, while Tíkhon was
+putting the nightshirt over his dried-up old body and gray-haired chest.
+“I never invited them. They came to disturb my life—and there is not
+much of it left.”
+
+“Devil take ‘em!” he muttered, while his head was still covered by
+the shirt.
+
+Tíkhon knew his master’s habit of sometimes thinking aloud, and
+therefore met with unaltered looks the angrily inquisitive expression of
+the face that emerged from the shirt.
+
+“Gone to bed?” asked the prince.
+
+Tíkhon, like all good valets, instinctively knew the direction of his
+master’s thoughts. He guessed that the question referred to Prince
+Vasíli and his son.
+
+“They have gone to bed and put out their lights, your excellency.”
+
+“No good... no good...” said the prince rapidly, and thrusting his
+feet into his slippers and his arms into the sleeves of his dressing
+gown, he went to the couch on which he slept.
+
+Though no words had passed between Anatole and Mademoiselle Bourienne,
+they quite understood one another as to the first part of their romance,
+up to the appearance of the pauvre mère; they understood that they had
+much to say to one another in private and so they had been seeking an
+opportunity since morning to meet one another alone. When Princess Mary
+went to her father’s room at the usual hour, Mademoiselle Bourienne
+and Anatole met in the conservatory.
+
+Princess Mary went to the door of the study with special trepidation.
+It seemed to her that not only did everybody know that her fate would be
+decided that day, but that they also knew what she thought about it. She
+read this in Tíkhon’s face and in that of Prince Vasíli’s valet,
+who made her a low bow when she met him in the corridor carrying hot
+water.
+
+The old prince was very affectionate and careful in his treatment of
+his daughter that morning. Princess Mary well knew this painstaking
+expression of her father’s. His face wore that expression when his
+dry hands clenched with vexation at her not understanding a sum in
+arithmetic, when rising from his chair he would walk away from her,
+repeating in a low voice the same words several times over.
+
+He came to the point at once, treating her ceremoniously.
+
+“I have had a proposition made me concerning you,” he said with an
+unnatural smile. “I expect you have guessed that Prince Vasíli has
+not come and brought his pupil with him” (for some reason Prince
+Bolkónski referred to Anatole as a “pupil”) “for the sake of my
+beautiful eyes. Last night a proposition was made me on your account
+and, as you know my principles, I refer it to you.”
+
+“How am I to understand you, mon père?” said the princess, growing
+pale and then blushing.
+
+“How understand me!” cried her father angrily. “Prince Vasíli
+finds you to his taste as a daughter-in-law and makes a proposal to you
+on his pupil’s behalf. That’s how it’s to be understood! ‘How
+understand it’!... And I ask you!”
+
+“I do not know what you think, Father,” whispered the princess.
+
+“I? I? What of me? Leave me out of the question. I’m not going to
+get married. What about you? That’s what I want to know.”
+
+The princess saw that her father regarded the matter with disapproval,
+but at that moment the thought occurred to her that her fate would be
+decided now or never. She lowered her eyes so as not to see the gaze
+under which she felt that she could not think, but would only be able to
+submit from habit, and she said: “I wish only to do your will, but if
+I had to express my own desire...” She had no time to finish. The old
+prince interrupted her.
+
+“That’s admirable!” he shouted. “He will take you with your
+dowry and take Mademoiselle Bourienne into the bargain. She’ll be the
+wife, while you...”
+
+The prince stopped. He saw the effect these words had produced on his
+daughter. She lowered her head and was ready to burst into tears.
+
+“Now then, now then, I’m only joking!” he said. “Remember this,
+Princess, I hold to the principle that a maiden has a full right to
+choose. I give you freedom. Only remember that your life’s happiness
+depends on your decision. Never mind me!”
+
+“But I do not know, Father!”
+
+“There’s no need to talk! He receives his orders and will marry you
+or anybody; but you are free to choose.... Go to your room, think it
+over, and come back in an hour and tell me in his presence: yes or no.
+I know you will pray over it. Well, pray if you like, but you had better
+think it over. Go! Yes or no, yes or no, yes or no!” he still shouted
+when the princess, as if lost in a fog, had already staggered out of the
+study.
+
+Her fate was decided and happily decided. But what her father had said
+about Mademoiselle Bourienne was dreadful. It was untrue to be sure, but
+still it was terrible, and she could not help thinking of it. She was
+going straight on through the conservatory, neither seeing nor hearing
+anything, when suddenly the well-known whispering of Mademoiselle
+Bourienne aroused her. She raised her eyes, and two steps away saw
+Anatole embracing the Frenchwoman and whispering something to her. With
+a horrified expression on his handsome face, Anatole looked at Princess
+Mary, but did not at once take his arm from the waist of Mademoiselle
+Bourienne who had not yet seen her.
+
+“Who’s that? Why? Wait a moment!” Anatole’s face seemed to say.
+Princess Mary looked at them in silence. She could not understand it. At
+last Mademoiselle Bourienne gave a scream and ran away. Anatole bowed to
+Princess Mary with a gay smile, as if inviting her to join in a laugh at
+this strange incident, and then shrugging his shoulders went to the door
+that led to his own apartments.
+
+An hour later, Tíkhon came to call Princess Mary to the old prince;
+he added that Prince Vasíli was also there. When Tíkhon came to her
+Princess Mary was sitting on the sofa in her room, holding the weeping
+Mademoiselle Bourienne in her arms and gently stroking her hair. The
+princess’ beautiful eyes with all their former calm radiance were
+looking with tender affection and pity at Mademoiselle Bourienne’s
+pretty face.
+
+“No, Princess, I have lost your affection forever!” said
+Mademoiselle Bourienne.
+
+“Why? I love you more than ever,” said Princess Mary, “and I will
+try to do all I can for your happiness.”
+
+“But you despise me. You who are so pure can never understand being so
+carried away by passion. Oh, only my poor mother...”
+
+“I quite understand,” answered Princess Mary, with a sad smile.
+“Calm yourself, my dear. I will go to my father,” she said, and went
+out.
+
+Prince Vasíli, with one leg thrown high over the other and a snuffbox
+in his hand, was sitting there with a smile of deep emotion on his face,
+as if stirred to his heart’s core and himself regretting and laughing
+at his own sensibility, when Princess Mary entered. He hurriedly took a
+pinch of snuff.
+
+“Ah, my dear, my dear!” he began, rising and taking her by both
+hands. Then, sighing, he added: “My son’s fate is in your hands.
+Decide, my dear, good, gentle Marie, whom I have always loved as a
+daughter!”
+
+He drew back and a real tear appeared in his eye.
+
+“Fr... fr...” snorted Prince Bolkónski. “The prince is making a
+proposition to you in his pupil’s—I mean, his son’s—name. Do you
+wish or not to be Prince Anatole Kurágin’s wife? Reply: yes or no,”
+he shouted, “and then I shall reserve the right to state my opinion
+also. Yes, my opinion, and only my opinion,” added Prince Bolkónski,
+turning to Prince Vasíli and answering his imploring look. “Yes, or
+no?”
+
+“My desire is never to leave you, Father, never to separate my
+life from yours. I don’t wish to marry,” she answered positively,
+glancing at Prince Vasíli and at her father with her beautiful eyes.
+
+“Humbug! Nonsense! Humbug, humbug, humbug!” cried Prince Bolkónski,
+frowning and taking his daughter’s hand; he did not kiss her, but only
+bending his forehead to hers just touched it, and pressed her hand so
+that she winced and uttered a cry.
+
+Prince Vasíli rose.
+
+“My dear, I must tell you that this is a moment I shall never, never
+forget. But, my dear, will you not give us a little hope of touching
+this heart, so kind and generous? Say ‘perhaps’... The future is so
+long. Say ‘perhaps.’”
+
+“Prince, what I have said is all there is in my heart. I thank you for
+the honor, but I shall never be your son’s wife.”
+
+“Well, so that’s finished, my dear fellow! I am very glad to have
+seen you. Very glad! Go back to your rooms, Princess. Go!” said
+the old prince. “Very, very glad to have seen you,” repeated he,
+embracing Prince Vasíli.
+
+“My vocation is a different one,” thought Princess Mary. “My
+vocation is to be happy with another kind of happiness, the happiness
+of love and self-sacrifice. And cost what it may, I will arrange
+poor Amélie’s happiness, she loves him so passionately, and so
+passionately repents. I will do all I can to arrange the match between
+them. If he is not rich I will give her the means; I will ask my
+father and Andrew. I shall be so happy when she is his wife. She is so
+unfortunate, a stranger, alone, helpless! And, oh God, how passionately
+she must love him if she could so far forget herself! Perhaps I might
+have done the same!...” thought Princess Mary.
+
+
+
+
+
+CHAPTER VI
+
+It was long since the Rostóvs had news of Nicholas. Not till midwinter
+was the count at last handed a letter addressed in his son’s
+handwriting. On receiving it, he ran on tiptoe to his study in alarm and
+haste, trying to escape notice, closed the door, and began to read the
+letter.
+
+Anna Mikháylovna, who always knew everything that passed in the house,
+on hearing of the arrival of the letter went softly into the room and
+found the count with it in his hand, sobbing and laughing at the same
+time.
+
+Anna Mikháylovna, though her circumstances had improved, was still
+living with the Rostóvs.
+
+“My dear friend?” said she, in a tone of pathetic inquiry, prepared
+to sympathize in any way.
+
+The count sobbed yet more.
+
+“Nikólenka... a letter... wa... a... s... wounded... my darling
+boy... the countess... promoted to be an officer... thank God... How
+tell the little countess!”
+
+Anna Mikháylovna sat down beside him, with her own handkerchief wiped
+the tears from his eyes and from the letter, then having dried her
+own eyes she comforted the count, and decided that at dinner and till
+teatime she would prepare the countess, and after tea, with God’s
+help, would inform her.
+
+At dinner Anna Mikháylovna talked the whole time about the war news
+and about Nikólenka, twice asked when the last letter had been received
+from him, though she knew that already, and remarked that they might
+very likely be getting a letter from him that day. Each time that these
+hints began to make the countess anxious and she glanced uneasily at
+the count and at Anna Mikháylovna, the latter very adroitly turned
+the conversation to insignificant matters. Natásha, who, of the whole
+family, was the most gifted with a capacity to feel any shades of
+intonation, look, and expression, pricked up her ears from the beginning
+of the meal and was certain that there was some secret between her
+father and Anna Mikháylovna, that it had something to do with her
+brother, and that Anna Mikháylovna was preparing them for it. Bold as
+she was, Natásha, who knew how sensitive her mother was to anything
+relating to Nikólenka, did not venture to ask any questions at dinner,
+but she was too excited to eat anything and kept wriggling about on her
+chair regardless of her governess’ remarks. After dinner, she rushed
+headlong after Anna Mikháylovna and, dashing at her, flung herself on
+her neck as soon as she overtook her in the sitting room.
+
+“Auntie, darling, do tell me what it is!”
+
+“Nothing, my dear.”
+
+“No, dearest, sweet one, honey, I won’t give up—I know you know
+something.”
+
+Anna Mikháylovna shook her head.
+
+“You are a little slyboots,” she said.
+
+“A letter from Nikólenka! I’m sure of it!” exclaimed Natásha,
+reading confirmation in Anna Mikháylovna’s face.
+
+“But for God’s sake, be careful, you know how it may affect your
+mamma.”
+
+“I will, I will, only tell me! You won’t? Then I will go and tell at
+once.”
+
+Anna Mikháylovna, in a few words, told her the contents of the letter,
+on condition that she should tell no one.
+
+“No, on my true word of honor,” said Natásha, crossing herself,
+“I won’t tell anyone!” and she ran off at once to Sónya.
+
+“Nikólenka... wounded... a letter,” she announced in gleeful
+triumph.
+
+“Nicholas!” was all Sónya said, instantly turning white.
+
+Natásha, seeing the impression the news of her brother’s wound
+produced on Sónya, felt for the first time the sorrowful side of the
+news.
+
+She rushed to Sónya, hugged her, and began to cry.
+
+“A little wound, but he has been made an officer; he is well now, he
+wrote himself,” said she through her tears.
+
+“There now! It’s true that all you women are crybabies,” remarked
+Pétya, pacing the room with large, resolute strides. “Now I’m very
+glad, very glad indeed, that my brother has distinguished himself so.
+You are all blubberers and understand nothing.”
+
+Natásha smiled through her tears.
+
+“You haven’t read the letter?” asked Sónya.
+
+“No, but she said that it was all over and that he’s now an
+officer.”
+
+“Thank God!” said Sónya, crossing herself. “But perhaps she
+deceived you. Let us go to Mamma.”
+
+Pétya paced the room in silence for a time.
+
+“If I’d been in Nikólenka’s place I would have killed even more
+of those Frenchmen,” he said. “What nasty brutes they are! I’d
+have killed so many that there’d have been a heap of them.”
+
+“Hold your tongue, Pétya, what a goose you are!”
+
+“I’m not a goose, but they are who cry about trifles,” said
+Pétya.
+
+“Do you remember him?” Natásha suddenly asked, after a moment’s
+silence.
+
+Sónya smiled.
+
+“Do I remember Nicholas?”
+
+“No, Sónya, but do you remember so that you remember him perfectly,
+remember everything?” said Natásha, with an expressive gesture,
+evidently wishing to give her words a very definite meaning. “I
+remember Nikólenka too, I remember him well,” she said. “But I
+don’t remember Borís. I don’t remember him a bit.”
+
+“What! You don’t remember Borís?” asked Sónya in surprise.
+
+“It’s not that I don’t remember—I know what he is like, but not
+as I remember Nikólenka. Him—I just shut my eyes and remember,
+but Borís... No!” (She shut her eyes.) “No! there’s nothing at
+all.”
+
+“Oh, Natásha!” said Sónya, looking ecstatically and earnestly at
+her friend as if she did not consider her worthy to hear what she meant
+to say and as if she were saying it to someone else, with whom joking
+was out of the question, “I am in love with your brother once for all
+and, whatever may happen to him or to me, shall never cease to love him
+as long as I live.”
+
+Natásha looked at Sónya with wondering and inquisitive eyes, and said
+nothing. She felt that Sónya was speaking the truth, that there was
+such love as Sónya was speaking of. But Natásha had not yet felt
+anything like it. She believed it could be, but did not understand it.
+
+“Shall you write to him?” she asked.
+
+Sónya became thoughtful. The question of how to write to Nicholas, and
+whether she ought to write, tormented her. Now that he was already an
+officer and a wounded hero, would it be right to remind him of herself
+and, as it might seem, of the obligations to her he had taken on
+himself?
+
+“I don’t know. I think if he writes, I will write too,” she said,
+blushing.
+
+“And you won’t feel ashamed to write to him?”
+
+Sónya smiled.
+
+“No.”
+
+“And I should be ashamed to write to Borís. I’m not going to.”
+
+“Why should you be ashamed?”
+
+“Well, I don’t know. It’s awkward and would make me ashamed.”
+
+“And I know why she’d be ashamed,” said Pétya, offended by
+Natásha’s previous remark. “It’s because she was in love with
+that fat one in spectacles” (that was how Pétya described his
+namesake, the new Count Bezúkhov) “and now she’s in love with that
+singer” (he meant Natásha’s Italian singing master), “that’s
+why she’s ashamed!”
+
+“Pétya, you’re stupid!” said Natásha.
+
+“Not more stupid than you, madam,” said the nine-year-old Pétya,
+with the air of an old brigadier.
+
+The countess had been prepared by Anna Mikháylovna’s hints at dinner.
+On retiring to her own room, she sat in an armchair, her eyes fixed on a
+miniature portrait of her son on the lid of a snuffbox, while the tears
+kept coming into her eyes. Anna Mikháylovna, with the letter, came on
+tiptoe to the countess’ door and paused.
+
+“Don’t come in,” she said to the old count who was following her.
+“Come later.” And she went in, closing the door behind her.
+
+The count put his ear to the keyhole and listened.
+
+At first he heard the sound of indifferent voices, then Anna
+Mikháylovna’s voice alone in a long speech, then a cry, then silence,
+then both voices together with glad intonations, and then footsteps.
+Anna Mikháylovna opened the door. Her face wore the proud expression
+of a surgeon who has just performed a difficult operation and admits the
+public to appreciate his skill.
+
+“It is done!” she said to the count, pointing triumphantly to the
+countess, who sat holding in one hand the snuffbox with its portrait and
+in the other the letter, and pressing them alternately to her lips.
+
+When she saw the count, she stretched out her arms to him, embraced his
+bald head, over which she again looked at the letter and the portrait,
+and in order to press them again to her lips, she slightly pushed away
+the bald head. Véra, Natásha, Sónya, and Pétya now entered the room,
+and the reading of the letter began. After a brief description of
+the campaign and the two battles in which he had taken part, and his
+promotion, Nicholas said that he kissed his father’s and mother’s
+hands asking for their blessing, and that he kissed Véra, Natásha, and
+Pétya. Besides that, he sent greetings to Monsieur Schelling, Madame
+Schoss, and his old nurse, and asked them to kiss for him “dear
+Sónya, whom he loved and thought of just the same as ever.” When she
+heard this Sónya blushed so that tears came into her eyes and, unable
+to bear the looks turned upon her, ran away into the dancing hall,
+whirled round it at full speed with her dress puffed out like a balloon,
+and, flushed and smiling, plumped down on the floor. The countess was
+crying.
+
+“Why are you crying, Mamma?” asked Véra. “From all he says one
+should be glad and not cry.”
+
+This was quite true, but the count, the countess, and Natásha looked
+at her reproachfully. “And who is it she takes after?” thought the
+countess.
+
+Nicholas’ letter was read over hundreds of times, and those who were
+considered worthy to hear it had to come to the countess, for she
+did not let it out of her hands. The tutors came, and the nurses, and
+Dmítri, and several acquaintances, and the countess reread the letter
+each time with fresh pleasure and each time discovered in it fresh
+proofs of Nikólenka’s virtues. How strange, how extraordinary, how
+joyful it seemed, that her son, the scarcely perceptible motion of whose
+tiny limbs she had felt twenty years ago within her, that son about whom
+she used to have quarrels with the too indulgent count, that son who
+had first learned to say “pear” and then “granny,” that this son
+should now be away in a foreign land amid strange surroundings, a manly
+warrior doing some kind of man’s work of his own, without help or
+guidance. The universal experience of ages, showing that children do
+grow imperceptibly from the cradle to manhood, did not exist for the
+countess. Her son’s growth toward manhood, at each of its stages,
+had seemed as extraordinary to her as if there had never existed the
+millions of human beings who grew up in the same way. As twenty
+years before, it seemed impossible that the little creature who lived
+somewhere under her heart would ever cry, suck her breast, and begin to
+speak, so now she could not believe that that little creature could be
+this strong, brave man, this model son and officer that, judging by this
+letter, he now was.
+
+“What a style! How charmingly he describes!” said she, reading the
+descriptive part of the letter. “And what a soul! Not a word about
+himself.... Not a word! About some Denísov or other, though he himself,
+I dare say, is braver than any of them. He says nothing about his
+sufferings. What a heart! How like him it is! And how he has remembered
+everybody! Not forgetting anyone. I always said when he was only so
+high—I always said....”
+
+For more than a week preparations were being made, rough drafts of
+letters to Nicholas from all the household were written and copied out,
+while under the supervision of the countess and the solicitude of the
+count, money and all things necessary for the uniform and equipment
+of the newly commissioned officer were collected. Anna Mikháylovna,
+practical woman that she was, had even managed by favor with army
+authorities to secure advantageous means of communication for herself
+and her son. She had opportunities of sending her letters to the Grand
+Duke Constantine Pávlovich, who commanded the Guards. The Rostóvs
+supposed that The Russian Guards, Abroad, was quite a definite address,
+and that if a letter reached the Grand Duke in command of the Guards
+there was no reason why it should not reach the Pávlograd regiment,
+which was presumably somewhere in the same neighborhood. And so it was
+decided to send the letters and money by the Grand Duke’s courier to
+Borís and Borís was to forward them to Nicholas. The letters were from
+the old count, the countess, Pétya, Véra, Natásha, and Sónya, and
+finally there were six thousand rubles for his outfit and various other
+things the old count sent to his son.
+
+
+
+
+
+CHAPTER VII
+
+On the twelfth of November, Kutúzov’s active army, in camp before
+Olmütz, was preparing to be reviewed next day by the two Emperors—the
+Russian and the Austrian. The Guards, just arrived from Russia, spent
+the night ten miles from Olmütz and next morning were to come straight
+to the review, reaching the field at Olmütz by ten o’clock.
+
+That day Nicholas Rostóv received a letter from Borís, telling him
+that the Ismáylov regiment was quartered for the night ten miles from
+Olmütz and that he wanted to see him as he had a letter and money for
+him. Rostóv was particularly in need of money now that the troops,
+after their active service, were stationed near Olmütz and the camp
+swarmed with well-provisioned sutlers and Austrian Jews offering
+all sorts of tempting wares. The Pávlograds held feast after feast,
+celebrating awards they had received for the campaign, and made
+expeditions to Olmütz to visit a certain Caroline the Hungarian,
+who had recently opened a restaurant there with girls as waitresses.
+Rostóv, who had just celebrated his promotion to a cornetcy and bought
+Denísov’s horse, Bedouin, was in debt all round, to his comrades and
+the sutlers. On receiving Borís’ letter he rode with a fellow officer
+to Olmütz, dined there, drank a bottle of wine, and then set off alone
+to the Guards’ camp to find his old playmate. Rostóv had not yet had
+time to get his uniform. He had on a shabby cadet jacket, decorated with
+a soldier’s cross, equally shabby cadet’s riding breeches lined with
+worn leather, and an officer’s saber with a sword knot. The Don horse
+he was riding was one he had bought from a Cossack during the campaign,
+and he wore a crumpled hussar cap stuck jauntily back on one side of his
+head. As he rode up to the camp he thought how he would impress Borís
+and all his comrades of the Guards by his appearance—that of a
+fighting hussar who had been under fire.
+
+The Guards had made their whole march as if on a pleasure trip, parading
+their cleanliness and discipline. They had come by easy stages, their
+knapsacks conveyed on carts, and the Austrian authorities had provided
+excellent dinners for the officers at every halting place. The regiments
+had entered and left the town with their bands playing, and by the Grand
+Duke’s orders the men had marched all the way in step (a practice on
+which the Guards prided themselves), the officers on foot and at their
+proper posts. Borís had been quartered, and had marched all the
+way, with Berg who was already in command of a company. Berg, who had
+obtained his captaincy during the campaign, had gained the confidence of
+his superiors by his promptitude and accuracy and had arranged his money
+matters very satisfactorily. Borís, during the campaign, had made the
+acquaintance of many persons who might prove useful to him, and by
+a letter of recommendation he had brought from Pierre had become
+acquainted with Prince Andrew Bolkónski, through whom he hoped to
+obtain a post on the commander in chief’s staff. Berg and Borís,
+having rested after yesterday’s march, were sitting, clean and neatly
+dressed, at a round table in the clean quarters allotted to them,
+playing chess. Berg held a smoking pipe between his knees. Borís, in
+the accurate way characteristic of him, was building a little pyramid of
+chessmen with his delicate white fingers while awaiting Berg’s move,
+and watched his opponent’s face, evidently thinking about the game as
+he always thought only of whatever he was engaged on.
+
+“Well, how are you going to get out of that?” he remarked.
+
+“We’ll try to,” replied Berg, touching a pawn and then removing
+his hand.
+
+At that moment the door opened.
+
+“Here he is at last!” shouted Rostóv. “And Berg too! Oh, you
+petisenfans, allay cushay dormir!” he exclaimed, imitating his Russian
+nurse’s French, at which he and Borís used to laugh long ago.
+
+“Dear me, how you have changed!”
+
+Borís rose to meet Rostóv, but in doing so did not omit to steady and
+replace some chessmen that were falling. He was about to embrace his
+friend, but Nicholas avoided him. With that peculiar feeling of youth,
+that dread of beaten tracks, and wish to express itself in a manner
+different from that of its elders which is often insincere, Nicholas
+wished to do something special on meeting his friend. He wanted to pinch
+him, push him, do anything but kiss him—a thing everybody did. But
+notwithstanding this, Borís embraced him in a quiet, friendly way and
+kissed him three times.
+
+They had not met for nearly half a year and, being at the age when young
+men take their first steps on life’s road, each saw immense changes in
+the other, quite a new reflection of the society in which they had taken
+those first steps. Both had changed greatly since they last met and both
+were in a hurry to show the changes that had taken place in them.
+
+“Oh, you damned dandies! Clean and fresh as if you’d been to a fete,
+not like us sinners of the line,” cried Rostóv, with martial swagger
+and with baritone notes in his voice, new to Borís, pointing to his own
+mud-bespattered breeches. The German landlady, hearing Rostóv’s loud
+voice, popped her head in at the door.
+
+“Eh, is she pretty?” he asked with a wink.
+
+“Why do you shout so? You’ll frighten them!” said Borís. “I did
+not expect you today,” he added. “I only sent you the note yesterday
+by Bolkónski—an adjutant of Kutúzov’s, who’s a friend of mine.
+I did not think he would get it to you so quickly.... Well, how are you?
+Been under fire already?” asked Borís.
+
+Without answering, Rostóv shook the soldier’s Cross of St. George
+fastened to the cording of his uniform and, indicating a bandaged arm,
+glanced at Berg with a smile.
+
+“As you see,” he said.
+
+“Indeed? Yes, yes!” said Borís, with a smile. “And we too have
+had a splendid march. You know, of course, that His Imperial Highness
+rode with our regiment all the time, so that we had every comfort and
+every advantage. What receptions we had in Poland! What dinners and
+balls! I can’t tell you. And the Tsarévich was very gracious to all
+our officers.”
+
+And the two friends told each other of their doings, the one of his
+hussar revels and life in the fighting line, the other of the pleasures
+and advantages of service under members of the Imperial family.
+
+“Oh, you Guards!” said Rostóv. “I say, send for some wine.”
+
+Borís made a grimace.
+
+“If you really want it,” said he.
+
+He went to his bed, drew a purse from under the clean pillow, and sent
+for wine.
+
+“Yes, and I have some money and a letter to give you,” he added.
+
+Rostóv took the letter and, throwing the money on the sofa, put both
+arms on the table and began to read. After reading a few lines, he
+glanced angrily at Berg, then, meeting his eyes, hid his face behind the
+letter.
+
+“Well, they’ve sent you a tidy sum,” said Berg, eying the heavy
+purse that sank into the sofa. “As for us, Count, we get along on our
+pay. I can tell you for myself...”
+
+“I say, Berg, my dear fellow,” said Rostóv, “when you get a
+letter from home and meet one of your own people whom you want to talk
+everything over with, and I happen to be there, I’ll go at once, to
+be out of your way! Do go somewhere, anywhere... to the devil!” he
+exclaimed, and immediately seizing him by the shoulder and looking
+amiably into his face, evidently wishing to soften the rudeness of his
+words, he added, “Don’t be hurt, my dear fellow; you know I speak
+from my heart as to an old acquaintance.”
+
+“Oh, don’t mention it, Count! I quite understand,” said Berg,
+getting up and speaking in a muffled and guttural voice.
+
+“Go across to our hosts: they invited you,” added Borís.
+
+Berg put on the cleanest of coats, without a spot or speck of dust,
+stood before a looking glass and brushed the hair on his temples
+upwards, in the way affected by the Emperor Alexander, and, having
+assured himself from the way Rostóv looked at it that his coat had been
+noticed, left the room with a pleasant smile.
+
+“Oh dear, what a beast I am!” muttered Rostóv, as he read the
+letter.
+
+“Why?”
+
+“Oh, what a pig I am, not to have written and to have given them
+such a fright! Oh, what a pig I am!” he repeated, flushing suddenly.
+“Well, have you sent Gabriel for some wine? All right let’s have
+some!”
+
+In the letter from his parents was enclosed a letter of recommendation
+to Bagratión which the old countess at Anna Mikháylovna’s advice had
+obtained through an acquaintance and sent to her son, asking him to take
+it to its destination and make use of it.
+
+“What nonsense! Much I need it!” said Rostóv, throwing the letter
+under the table.
+
+“Why have you thrown that away?” asked Borís.
+
+“It is some letter of recommendation... what the devil do I want it
+for!”
+
+“Why ‘What the devil’?” said Borís, picking it up and reading
+the address. “This letter would be of great use to you.”
+
+“I want nothing, and I won’t be anyone’s adjutant.”
+
+“Why not?” inquired Borís.
+
+“It’s a lackey’s job!”
+
+“You are still the same dreamer, I see,” remarked Borís, shaking
+his head.
+
+“And you’re still the same diplomatist! But that’s not the
+point... Come, how are you?” asked Rostóv.
+
+“Well, as you see. So far everything’s all right, but I confess I
+should much like to be an adjutant and not remain at the front.”
+
+“Why?”
+
+“Because when once a man starts on military service, he should try to
+make as successful a career of it as possible.”
+
+“Oh, that’s it!” said Rostóv, evidently thinking of something
+else.
+
+He looked intently and inquiringly into his friend’s eyes, evidently
+trying in vain to find the answer to some question.
+
+Old Gabriel brought in the wine.
+
+“Shouldn’t we now send for Berg?” asked Borís. “He would drink
+with you. I can’t.”
+
+“Well, send for him... and how do you get on with that German?”
+asked Rostóv, with a contemptuous smile.
+
+“He is a very, very nice, honest, and pleasant fellow,” answered
+Borís.
+
+Again Rostóv looked intently into Borís’ eyes and sighed. Berg
+returned, and over the bottle of wine conversation between the three
+officers became animated. The Guardsmen told Rostóv of their march and
+how they had been made much of in Russia, Poland, and abroad. They spoke
+of the sayings and doings of their commander, the Grand Duke, and told
+stories of his kindness and irascibility. Berg, as usual, kept silent
+when the subject did not relate to himself, but in connection with the
+stories of the Grand Duke’s quick temper he related with gusto how in
+Galicia he had managed to deal with the Grand Duke when the latter
+made a tour of the regiments and was annoyed at the irregularity of
+a movement. With a pleasant smile Berg related how the Grand Duke
+had ridden up to him in a violent passion, shouting: “Arnauts!”
+(“Arnauts” was the Tsarévich’s favorite expression when he was in
+a rage) and called for the company commander.
+
+“Would you believe it, Count, I was not at all alarmed, because I knew
+I was right. Without boasting, you know, I may say that I know the Army
+Orders by heart and know the Regulations as well as I do the Lord’s
+Prayer. So, Count, there never is any negligence in my company, and
+so my conscience was at ease. I came forward....” (Berg stood up and
+showed how he presented himself, with his hand to his cap, and really
+it would have been difficult for a face to express greater respect and
+self-complacency than his did.) “Well, he stormed at me, as the saying
+is, stormed and stormed and stormed! It was not a matter of life but
+rather of death, as the saying is. ‘Albanians!’ and ‘devils!’
+and ‘To Siberia!’” said Berg with a sagacious smile. “I knew I
+was in the right so I kept silent; was not that best, Count?... ‘Hey,
+are you dumb?’ he shouted. Still I remained silent. And what do you
+think, Count? The next day it was not even mentioned in the Orders of
+the Day. That’s what keeping one’s head means. That’s the way,
+Count,” said Berg, lighting his pipe and emitting rings of smoke.
+
+“Yes, that was fine,” said Rostóv, smiling.
+
+But Borís noticed that he was preparing to make fun of Berg, and
+skillfully changed the subject. He asked him to tell them how and where
+he got his wound. This pleased Rostóv and he began talking about it,
+and as he went on became more and more animated. He told them of his
+Schön Grabern affair, just as those who have taken part in a battle
+generally do describe it, that is, as they would like it to have been,
+as they have heard it described by others, and as sounds well, but not
+at all as it really was. Rostóv was a truthful young man and would on
+no account have told a deliberate lie. He began his story meaning to
+tell everything just as it happened, but imperceptibly, involuntarily,
+and inevitably he lapsed into falsehood. If he had told the truth to his
+hearers—who like himself had often heard stories of attacks and had
+formed a definite idea of what an attack was and were expecting to hear
+just such a story—they would either not have believed him or, still
+worse, would have thought that Rostóv was himself to blame since what
+generally happens to the narrators of cavalry attacks had not happened
+to him. He could not tell them simply that everyone went at a trot and
+that he fell off his horse and sprained his arm and then ran as hard as
+he could from a Frenchman into the wood. Besides, to tell everything as
+it really happened, it would have been necessary to make an effort of
+will to tell only what happened. It is very difficult to tell the truth,
+and young people are rarely capable of it. His hearers expected a story
+of how beside himself and all aflame with excitement, he had flown like
+a storm at the square, cut his way in, slashed right and left, how his
+saber had tasted flesh and he had fallen exhausted, and so on. And so he
+told them all that.
+
+In the middle of his story, just as he was saying: “You cannot imagine
+what a strange frenzy one experiences during an attack,” Prince
+Andrew, whom Borís was expecting, entered the room. Prince Andrew, who
+liked to help young men, was flattered by being asked for his assistance
+and being well disposed toward Borís, who had managed to please him the
+day before, he wished to do what the young man wanted. Having been sent
+with papers from Kutúzov to the Tsarévich, he looked in on Borís,
+hoping to find him alone. When he came in and saw an hussar of the line
+recounting his military exploits (Prince Andrew could not endure
+that sort of man), he gave Borís a pleasant smile, frowned as with
+half-closed eyes he looked at Rostóv, bowed slightly and wearily, and
+sat down languidly on the sofa: he felt it unpleasant to have dropped
+in on bad company. Rostóv flushed up on noticing this, but he did not
+care, this was a mere stranger. Glancing, however, at Borís, he saw
+that he too seemed ashamed of the hussar of the line.
+
+In spite of Prince Andrew’s disagreeable, ironical tone, in spite of
+the contempt with which Rostóv, from his fighting army point of view,
+regarded all these little adjutants on the staff of whom the newcomer
+was evidently one, Rostóv felt confused, blushed, and became silent.
+Borís inquired what news there might be on the staff, and what, without
+indiscretion, one might ask about our plans.
+
+“We shall probably advance,” replied Bolkónski, evidently reluctant
+to say more in the presence of a stranger.
+
+Berg took the opportunity to ask, with great politeness, whether, as was
+rumored, the allowance of forage money to captains of companies would be
+doubled. To this Prince Andrew answered with a smile that he could
+give no opinion on such an important government order, and Berg laughed
+gaily.
+
+“As to your business,” Prince Andrew continued, addressing Borís,
+“we will talk of it later” (and he looked round at Rostóv). “Come
+to me after the review and we will do what is possible.”
+
+And, having glanced round the room, Prince Andrew turned to Rostóv,
+whose state of unconquerable childish embarrassment now changing to
+anger he did not condescend to notice, and said: “I think you were
+talking of the Schön Grabern affair? Were you there?”
+
+“I was there,” said Rostóv angrily, as if intending to insult the
+aide-de-camp.
+
+Bolkónski noticed the hussar’s state of mind, and it amused him. With
+a slightly contemptuous smile, he said: “Yes, there are many stories
+now told about that affair!”
+
+“Yes, stories!” repeated Rostóv loudly, looking with eyes suddenly
+grown furious, now at Borís, now at Bolkónski. “Yes, many stories!
+But our stories are the stories of men who have been under the enemy’s
+fire! Our stories have some weight, not like the stories of those
+fellows on the staff who get rewards without doing anything!”
+
+“Of whom you imagine me to be one?” said Prince Andrew, with a quiet
+and particularly amiable smile.
+
+A strange feeling of exasperation and yet of respect for this man’s
+self-possession mingled at that moment in Rostóv’s soul.
+
+“I am not talking about you,” he said, “I don’t know you and,
+frankly, I don’t want to. I am speaking of the staff in general.”
+
+“And I will tell you this,” Prince Andrew interrupted in a tone of
+quiet authority, “you wish to insult me, and I am ready to agree with
+you that it would be very easy to do so if you haven’t sufficient
+self-respect, but admit that the time and place are very badly chosen.
+In a day or two we shall all have to take part in a greater and more
+serious duel, and besides, Drubetskóy, who says he is an old friend
+of yours, is not at all to blame that my face has the misfortune to
+displease you. However,” he added rising, “you know my name and
+where to find me, but don’t forget that I do not regard either myself
+or you as having been at all insulted, and as a man older than you, my
+advice is to let the matter drop. Well then, on Friday after the review
+I shall expect you, Drubetskóy. Au revoir!” exclaimed Prince Andrew,
+and with a bow to them both he went out.
+
+Only when Prince Andrew was gone did Rostóv think of what he ought to
+have said. And he was still more angry at having omitted to say it. He
+ordered his horse at once and, coldly taking leave of Borís, rode
+home. Should he go to headquarters next day and challenge that affected
+adjutant, or really let the matter drop, was the question that worried
+him all the way. He thought angrily of the pleasure he would have at
+seeing the fright of that small and frail but proud man when covered by
+his pistol, and then he felt with surprise that of all the men he knew
+there was none he would so much like to have for a friend as that very
+adjutant whom he so hated.
+
+
+
+
+
+CHAPTER VIII
+
+The day after Rostóv had been to see Borís, a review was held of the
+Austrian and Russian troops, both those freshly arrived from Russia and
+those who had been campaigning under Kutúzov. The two Emperors,
+the Russian with his heir the Tsarévich, and the Austrian with the
+Archduke, inspected the allied army of eighty thousand men.
+
+From early morning the smart clean troops were on the move, forming up
+on the field before the fortress. Now thousands of feet and bayonets
+moved and halted at the officers’ command, turned with banners flying,
+formed up at intervals, and wheeled round other similar masses of
+infantry in different uniforms; now was heard the rhythmic beat of
+hoofs and the jingling of showy cavalry in blue, red, and green braided
+uniforms, with smartly dressed bandsmen in front mounted on black, roan,
+or gray horses; then again, spreading out with the brazen clatter of the
+polished shining cannon that quivered on the gun carriages and with
+the smell of linstocks, came the artillery which crawled between the
+infantry and cavalry and took up its appointed position. Not only the
+generals in full parade uniforms, with their thin or thick waists drawn
+in to the utmost, their red necks squeezed into their stiff collars, and
+wearing scarves and all their decorations, not only the elegant, pomaded
+officers, but every soldier with his freshly washed and shaven face and
+his weapons clean and polished to the utmost, and every horse groomed
+till its coat shone like satin and every hair of its wetted mane lay
+smooth—felt that no small matter was happening, but an important and
+solemn affair. Every general and every soldier was conscious of his own
+insignificance, aware of being but a drop in that ocean of men, and
+yet at the same time was conscious of his strength as a part of that
+enormous whole.
+
+From early morning strenuous activities and efforts had begun and by ten
+o’clock all had been brought into due order. The ranks were drawn
+up on the vast field. The whole army was extended in three lines: the
+cavalry in front, behind it the artillery, and behind that again the
+infantry.
+
+A space like a street was left between each two lines of troops. The
+three parts of that army were sharply distinguished: Kutúzov’s
+fighting army (with the Pávlograds on the right flank of the front);
+those recently arrived from Russia, both Guards and regiments of the
+line; and the Austrian troops. But they all stood in the same lines,
+under one command, and in a like order.
+
+Like wind over leaves ran an excited whisper: “They’re coming!
+They’re coming!” Alarmed voices were heard, and a stir of final
+preparation swept over all the troops.
+
+From the direction of Olmütz in front of them, a group was seen
+approaching. And at that moment, though the day was still, a light gust
+of wind blowing over the army slightly stirred the streamers on the
+lances and the unfolded standards fluttered against their staffs. It
+looked as if by that slight motion the army itself was expressing its
+joy at the approach of the Emperors. One voice was heard shouting:
+“Eyes front!” Then, like the crowing of cocks at sunrise, this was
+repeated by others from various sides and all became silent.
+
+In the deathlike stillness only the tramp of horses was heard. This
+was the Emperors’ suites. The Emperors rode up to the flank, and the
+trumpets of the first cavalry regiment played the general march. It
+seemed as though not the trumpeters were playing, but as if the army
+itself, rejoicing at the Emperors’ approach, had naturally burst into
+music. Amid these sounds, only the youthful kindly voice of the Emperor
+Alexander was clearly heard. He gave the words of greeting, and the
+first regiment roared “Hurrah!” so deafeningly, continuously, and
+joyfully that the men themselves were awed by their multitude and the
+immensity of the power they constituted.
+
+Rostóv, standing in the front lines of Kutúzov’s army which the Tsar
+approached first, experienced the same feeling as every other man in
+that army: a feeling of self-forgetfulness, a proud consciousness of
+might, and a passionate attraction to him who was the cause of this
+triumph.
+
+He felt that at a single word from that man all this vast mass (and he
+himself an insignificant atom in it) would go through fire and water,
+commit crime, die, or perform deeds of highest heroism, and so he could
+not but tremble and his heart stand still at the imminence of that word.
+
+“Hurrah! Hurrah! Hurrah!” thundered from all sides, one regiment
+after another greeting the Tsar with the strains of the march, and then
+“Hurrah!”... Then the general march, and again “Hurrah! Hurrah!”
+growing ever stronger and fuller and merging into a deafening roar.
+
+Till the Tsar reached it, each regiment in its silence and immobility
+seemed like a lifeless body, but as soon as he came up it became alive,
+its thunder joining the roar of the whole line along which he had
+already passed. Through the terrible and deafening roar of those voices,
+amid the square masses of troops standing motionless as if turned to
+stone, hundreds of riders composing the suites moved carelessly but
+symmetrically and above all freely, and in front of them two men—the
+Emperors. Upon them the undivided, tensely passionate attention of that
+whole mass of men was concentrated.
+
+The handsome young Emperor Alexander, in the uniform of the Horse
+Guards, wearing a cocked hat with its peaks front and back, with his
+pleasant face and resonant though not loud voice, attracted everyone’s
+attention.
+
+Rostóv was not far from the trumpeters, and with his keen sight had
+recognized the Tsar and watched his approach. When he was within twenty
+paces, and Nicholas could clearly distinguish every detail of his
+handsome, happy young face, he experienced a feeling of tenderness
+and ecstasy such as he had never before known. Every trait and every
+movement of the Tsar’s seemed to him enchanting.
+
+Stopping in front of the Pávlograds, the Tsar said something in French
+to the Austrian Emperor and smiled.
+
+Seeing that smile, Rostóv involuntarily smiled himself and felt a still
+stronger flow of love for his sovereign. He longed to show that love in
+some way and knowing that this was impossible was ready to cry. The Tsar
+called the colonel of the regiment and said a few words to him.
+
+“Oh God, what would happen to me if the Emperor spoke to me?”
+thought Rostóv. “I should die of happiness!”
+
+The Tsar addressed the officers also: “I thank you all, gentlemen, I
+thank you with my whole heart.” To Rostóv every word sounded like a
+voice from heaven. How gladly would he have died at once for his Tsar!
+
+“You have earned the St. George’s standards and will be worthy of
+them.”
+
+“Oh, to die, to die for him,” thought Rostóv.
+
+The Tsar said something more which Rostóv did not hear, and the
+soldiers, straining their lungs, shouted “Hurrah!”
+
+Rostóv too, bending over his saddle, shouted “Hurrah!” with all his
+might, feeling that he would like to injure himself by that shout, if
+only to express his rapture fully.
+
+The Tsar stopped a few minutes in front of the hussars as if undecided.
+
+“How can the Emperor be undecided?” thought Rostóv, but then even
+this indecision appeared to him majestic and enchanting, like everything
+else the Tsar did.
+
+That hesitation lasted only an instant. The Tsar’s foot, in the narrow
+pointed boot then fashionable, touched the groin of the bobtailed bay
+mare he rode, his hand in a white glove gathered up the reins, and he
+moved off accompanied by an irregularly swaying sea of aides-de-camp.
+Farther and farther he rode away, stopping at other regiments, till at
+last only his white plumes were visible to Rostóv from amid the suites
+that surrounded the Emperors.
+
+Among the gentlemen of the suite, Rostóv noticed Bolkónski, sitting
+his horse indolently and carelessly. Rostóv recalled their quarrel of
+yesterday and the question presented itself whether he ought or ought
+not to challenge Bolkónski. “Of course not!” he now thought. “Is
+it worth thinking or speaking of it at such a moment? At a time of such
+love, such rapture, and such self-sacrifice, what do any of our quarrels
+and affronts matter? I love and forgive everybody now.”
+
+When the Emperor had passed nearly all the regiments, the troops began
+a ceremonial march past him, and Rostóv on Bedouin, recently purchased
+from Denísov, rode past too, at the rear of his squadron—that is,
+alone and in full view of the Emperor.
+
+Before he reached him, Rostóv, who was a splendid horseman, spurred
+Bedouin twice and successfully put him to the showy trot in which the
+animal went when excited. Bending his foaming muzzle to his chest, his
+tail extended, Bedouin, as if also conscious of the Emperor’s eye
+upon him, passed splendidly, lifting his feet with a high and graceful
+action, as if flying through the air without touching the ground.
+
+Rostóv himself, his legs well back and his stomach drawn in and feeling
+himself one with his horse, rode past the Emperor with a frowning but
+blissful face “like a vewy devil,” as Denísov expressed it.
+
+“Fine fellows, the Pávlograds!” remarked the Emperor.
+
+“My God, how happy I should be if he ordered me to leap into the fire
+this instant!” thought Rostóv.
+
+When the review was over, the newly arrived officers, and also
+Kutúzov’s, collected in groups and began to talk about the awards,
+about the Austrians and their uniforms, about their lines, about
+Bonaparte, and how badly the latter would fare now, especially if the
+Essen corps arrived and Prussia took our side.
+
+But the talk in every group was chiefly about the Emperor Alexander. His
+every word and movement was described with ecstasy.
+
+They all had but one wish: to advance as soon as possible against the
+enemy under the Emperor’s command. Commanded by the Emperor himself
+they could not fail to vanquish anyone, be it whom it might: so thought
+Rostóv and most of the officers after the review.
+
+All were then more confident of victory than the winning of two battles
+would have made them.
+
+
+
+
+
+CHAPTER IX
+
+The day after the review, Borís, in his best uniform and with his
+comrade Berg’s best wishes for success, rode to Olmütz to see
+Bolkónski, wishing to profit by his friendliness and obtain for himself
+the best post he could—preferably that of adjutant to some important
+personage, a position in the army which seemed to him most attractive.
+“It is all very well for Rostóv, whose father sends him ten thousand
+rubles at a time, to talk about not wishing to cringe to anybody and not
+be anyone’s lackey, but I who have nothing but my brains have to
+make a career and must not miss opportunities, but must avail myself of
+them!” he reflected.
+
+He did not find Prince Andrew in Olmütz that day, but the appearance of
+the town where the headquarters and the diplomatic corps were stationed
+and the two Emperors were living with their suites, households, and
+courts only strengthened his desire to belong to that higher world.
+
+He knew no one, and despite his smart Guardsman’s uniform, all these
+exalted personages passing in the streets in their elegant carriages
+with their plumes, ribbons, and medals, both courtiers and military
+men, seemed so immeasurably above him, an insignificant officer of the
+Guards, that they not only did not wish to, but simply could not, be
+aware of his existence. At the quarters of the commander in chief,
+Kutúzov, where he inquired for Bolkónski, all the adjutants and even
+the orderlies looked at him as if they wished to impress on him that a
+great many officers like him were always coming there and that everybody
+was heartily sick of them. In spite of this, or rather because of
+it, next day, November 15, after dinner he again went to Olmütz and,
+entering the house occupied by Kutúzov, asked for Bolkónski. Prince
+Andrew was in and Borís was shown into a large hall probably formerly
+used for dancing, but in which five beds now stood, and furniture of
+various kinds: a table, chairs, and a clavichord. One adjutant, nearest
+the door, was sitting at the table in a Persian dressing gown, writing.
+Another, the red, stout Nesvítski, lay on a bed with his arms under his
+head, laughing with an officer who had sat down beside him. A third was
+playing a Viennese waltz on the clavichord, while a fourth, lying on
+the clavichord, sang the tune. Bolkónski was not there. None of these
+gentlemen changed his position on seeing Borís. The one who was writing
+and whom Borís addressed turned round crossly and told him Bolkónski
+was on duty and that he should go through the door on the left into the
+reception room if he wished to see him. Borís thanked him and went to
+the reception room, where he found some ten officers and generals.
+
+When he entered, Prince Andrew, his eyes drooping contemptuously (with
+that peculiar expression of polite weariness which plainly says, “If
+it were not my duty I would not talk to you for a moment”), was
+listening to an old Russian general with decorations, who stood very
+erect, almost on tiptoe, with a soldier’s obsequious expression on his
+purple face, reporting something.
+
+“Very well, then, be so good as to wait,” said Prince Andrew to the
+general, in Russian, speaking with the French intonation he affected
+when he wished to speak contemptuously, and noticing Borís, Prince
+Andrew, paying no more heed to the general who ran after him imploring
+him to hear something more, nodded and turned to him with a cheerful
+smile.
+
+At that moment Borís clearly realized what he had before surmised, that
+in the army, besides the subordination and discipline prescribed in the
+military code, which he and the others knew in the regiment, there was
+another, more important, subordination, which made this tight-laced,
+purple-faced general wait respectfully while Captain Prince Andrew, for
+his own pleasure, chose to chat with Lieutenant Drubetskóy. More than
+ever was Borís resolved to serve in future not according to the written
+code, but under this unwritten law. He felt now that merely by having
+been recommended to Prince Andrew he had already risen above the general
+who at the front had the power to annihilate him, a lieutenant of the
+Guards. Prince Andrew came up to him and took his hand.
+
+“I am very sorry you did not find me in yesterday. I was fussing about
+with Germans all day. We went with Weyrother to survey the dispositions.
+When Germans start being accurate, there’s no end to it!”
+
+Borís smiled, as if he understood what Prince Andrew was alluding to
+as something generally known. But it was the first time he had heard
+Weyrother’s name, or even the term “dispositions.”
+
+“Well, my dear fellow, so you still want to be an adjutant? I have
+been thinking about you.”
+
+“Yes, I was thinking”—for some reason Borís could not help
+blushing—“of asking the commander in chief. He has had a letter from
+Prince Kurágin about me. I only wanted to ask because I fear the Guards
+won’t be in action,” he added as if in apology.
+
+“All right, all right. We’ll talk it over,” replied Prince Andrew.
+“Only let me report this gentleman’s business, and I shall be at
+your disposal.”
+
+While Prince Andrew went to report about the purple-faced general, that
+gentleman—evidently not sharing Borís’ conception of the advantages
+of the unwritten code of subordination—looked so fixedly at the
+presumptuous lieutenant who had prevented his finishing what he had to
+say to the adjutant that Borís felt uncomfortable. He turned away and
+waited impatiently for Prince Andrew’s return from the commander in
+chief’s room.
+
+“You see, my dear fellow, I have been thinking about you,”
+said Prince Andrew when they had gone into the large room where the
+clavichord was. “It’s no use your going to the commander in chief.
+He would say a lot of pleasant things, ask you to dinner” (“That
+would not be bad as regards the unwritten code,” thought Borís),
+“but nothing more would come of it. There will soon be a battalion of
+us aides-de-camp and adjutants! But this is what we’ll do: I have
+a good friend, an adjutant general and an excellent fellow, Prince
+Dolgorúkov; and though you may not know it, the fact is that now
+Kutúzov with his staff and all of us count for nothing. Everything is
+now centered round the Emperor. So we will go to Dolgorúkov; I have to
+go there anyhow and I have already spoken to him about you. We shall
+see whether he cannot attach you to himself or find a place for you
+somewhere nearer the sun.”
+
+Prince Andrew always became specially keen when he had to guide a young
+man and help him to worldly success. Under cover of obtaining help
+of this kind for another, which from pride he would never accept for
+himself, he kept in touch with the circle which confers success and
+which attracted him. He very readily took up Borís’ cause and went
+with him to Dolgorúkov.
+
+It was late in the evening when they entered the palace at Olmütz
+occupied by the Emperors and their retinues.
+
+That same day a council of war had been held in which all the members of
+the Hofkriegsrath and both Emperors took part. At that council, contrary
+to the views of the old generals Kutúzov and Prince Schwartzenberg, it
+had been decided to advance immediately and give battle to Bonaparte.
+The council of war was just over when Prince Andrew accompanied
+by Borís arrived at the palace to find Dolgorúkov. Everyone at
+headquarters was still under the spell of the day’s council, at which
+the party of the young had triumphed. The voices of those who counseled
+delay and advised waiting for something else before advancing had been
+so completely silenced and their arguments confuted by such conclusive
+evidence of the advantages of attacking that what had been discussed
+at the council—the coming battle and the victory that would certainly
+result from it—no longer seemed to be in the future but in the past.
+All the advantages were on our side. Our enormous forces, undoubtedly
+superior to Napoleon’s, were concentrated in one place, the troops
+inspired by the Emperors’ presence were eager for action. The
+strategic position where the operations would take place was familiar in
+all its details to the Austrian General Weyrother: a lucky accident had
+ordained that the Austrian army should maneuver the previous year on the
+very fields where the French had now to be fought; the adjacent
+locality was known and shown in every detail on the maps, and Bonaparte,
+evidently weakened, was undertaking nothing.
+
+Dolgorúkov, one of the warmest advocates of an attack, had just
+returned from the council, tired and exhausted but eager and proud
+of the victory that had been gained. Prince Andrew introduced his
+protégé, but Prince Dolgorúkov politely and firmly pressing his hand
+said nothing to Borís and, evidently unable to suppress the thoughts
+which were uppermost in his mind at that moment, addressed Prince Andrew
+in French.
+
+“Ah, my dear fellow, what a battle we have gained! God grant that
+the one that will result from it will be as victorious! However, dear
+fellow,” he said abruptly and eagerly, “I must confess to having
+been unjust to the Austrians and especially to Weyrother. What
+exactitude, what minuteness, what knowledge of the locality, what
+foresight for every eventuality, every possibility even to the smallest
+detail! No, my dear fellow, no conditions better than our present ones
+could have been devised. This combination of Austrian precision with
+Russian valor—what more could be wished for?”
+
+“So the attack is definitely resolved on?” asked Bolkónski.
+
+“And do you know, my dear fellow, it seems to me that Bonaparte has
+decidedly lost bearings, you know that a letter was received from him
+today for the Emperor.” Dolgorúkov smiled significantly.
+
+“Is that so? And what did he say?” inquired Bolkónski.
+
+“What can he say? Tra-di-ri-di-ra and so on... merely to gain time.
+I tell you he is in our hands, that’s certain! But what was most
+amusing,” he continued, with a sudden, good-natured laugh, “was that
+we could not think how to address the reply! If not as ‘Consul’
+and of course not as ‘Emperor,’ it seemed to me it should be to
+‘General Bonaparte.’”
+
+“But between not recognizing him as Emperor and calling him General
+Bonaparte, there is a difference,” remarked Bolkónski.
+
+“That’s just it,” interrupted Dolgorúkov quickly, laughing.
+“You know Bilíbin—he’s a very clever fellow. He suggested
+addressing him as ‘Usurper and Enemy of Mankind.’”
+
+Dolgorúkov laughed merrily.
+
+“Only that?” said Bolkónski.
+
+“All the same, it was Bilíbin who found a suitable form for the
+address. He is a wise and clever fellow.”
+
+“What was it?”
+
+“To the Head of the French Government... Au chef du gouvernement
+français,” said Dolgorúkov, with grave satisfaction. “Good,
+wasn’t it?”
+
+“Yes, but he will dislike it extremely,” said Bolkónski.
+
+“Oh yes, very much! My brother knows him, he’s dined with him—the
+present Emperor—more than once in Paris, and tells me he never met a
+more cunning or subtle diplomatist—you know, a combination of French
+adroitness and Italian play-acting! Do you know the tale about him and
+Count Markóv? Count Markóv was the only man who knew how to handle
+him. You know the story of the handkerchief? It is delightful!”
+
+And the talkative Dolgorúkov, turning now to Borís, now to Prince
+Andrew, told how Bonaparte wishing to test Markóv, our ambassador,
+purposely dropped a handkerchief in front of him and stood looking
+at Markóv, probably expecting Markóv to pick it up for him, and how
+Markóv immediately dropped his own beside it and picked it up without
+touching Bonaparte’s.
+
+“Delightful!” said Bolkónski. “But I have come to you, Prince,
+as a petitioner on behalf of this young man. You see...” but
+before Prince Andrew could finish, an aide-de-camp came in to summon
+Dolgorúkov to the Emperor.
+
+“Oh, what a nuisance,” said Dolgorúkov, getting up hurriedly and
+pressing the hands of Prince Andrew and Borís. “You know I should
+be very glad to do all in my power both for you and for this dear young
+man.” Again he pressed the hand of the latter with an expression of
+good-natured, sincere, and animated levity. “But you see... another
+time!”
+
+Borís was excited by the thought of being so close to the higher powers
+as he felt himself to be at that moment. He was conscious that here
+he was in contact with the springs that set in motion the enormous
+movements of the mass of which in his regiment he felt himself a tiny,
+obedient, and insignificant atom. They followed Prince Dolgorúkov out
+into the corridor and met—coming out of the door of the Emperor’s
+room by which Dolgorúkov had entered—a short man in civilian clothes
+with a clever face and sharply projecting jaw which, without spoiling
+his face, gave him a peculiar vivacity and shiftiness of expression.
+This short man nodded to Dolgorúkov as to an intimate friend and stared
+at Prince Andrew with cool intensity, walking straight toward him and
+evidently expecting him to bow or to step out of his way. Prince Andrew
+did neither: a look of animosity appeared on his face and the other
+turned away and went down the side of the corridor.
+
+“Who was that?” asked Borís.
+
+“He is one of the most remarkable, but to me most unpleasant of
+men—the Minister of Foreign Affairs, Prince Adam Czartorýski.... It
+is such men as he who decide the fate of nations,” added Bolkónski
+with a sigh he could not suppress, as they passed out of the palace.
+
+Next day, the army began its campaign, and up to the very battle of
+Austerlitz, Borís was unable to see either Prince Andrew or Dolgorúkov
+again and remained for a while with the Ismáylov regiment.
+
+
+
+
+
+CHAPTER X
+
+At dawn on the sixteenth of November, Denísov’s squadron, in
+which Nicholas Rostóv served and which was in Prince Bagratión’s
+detachment, moved from the place where it had spent the night, advancing
+into action as arranged, and after going behind other columns for
+about two thirds of a mile was stopped on the highroad. Rostóv saw the
+Cossacks and then the first and second squadrons of hussars and infantry
+battalions and artillery pass by and go forward and then Generals
+Bagratión and Dolgorúkov ride past with their adjutants. All the fear
+before action which he had experienced as previously, all the inner
+struggle to conquer that fear, all his dreams of distinguishing himself
+as a true hussar in this battle, had been wasted. Their squadron
+remained in reserve and Nicholas Rostóv spent that day in a dull and
+wretched mood. At nine in the morning, he heard firing in front and
+shouts of hurrah, and saw wounded being brought back (there were not
+many of them), and at last he saw how a whole detachment of French
+cavalry was brought in, convoyed by a sótnya of Cossacks. Evidently the
+affair was over and, though not big, had been a successful engagement.
+The men and officers returning spoke of a brilliant victory, of the
+occupation of the town of Wischau and the capture of a whole French
+squadron. The day was bright and sunny after a sharp night frost, and
+the cheerful glitter of that autumn day was in keeping with the news of
+victory which was conveyed, not only by the tales of those who had taken
+part in it, but also by the joyful expression on the faces of soldiers,
+officers, generals, and adjutants, as they passed Rostóv going or
+coming. And Nicholas, who had vainly suffered all the dread that
+precedes a battle and had spent that happy day in inactivity, was all
+the more depressed.
+
+“Come here, Wostóv. Let’s dwink to dwown our gwief!” shouted
+Denísov, who had settled down by the roadside with a flask and some
+food.
+
+The officers gathered round Denísov’s canteen, eating and talking.
+
+“There! They are bringing another!” cried one of the officers,
+indicating a captive French dragoon who was being brought in on foot by
+two Cossacks.
+
+One of them was leading by the bridle a fine large French horse he had
+taken from the prisoner.
+
+“Sell us that horse!” Denísov called out to the Cossacks.
+
+“If you like, your honor!”
+
+The officers got up and stood round the Cossacks and their prisoner.
+The French dragoon was a young Alsatian who spoke French with a German
+accent. He was breathless with agitation, his face was red, and when
+he heard some French spoken he at once began speaking to the officers,
+addressing first one, then another. He said he would not have been
+taken, it was not his fault but the corporal’s who had sent him to
+seize some horsecloths, though he had told him the Russians were there.
+And at every word he added: “But don’t hurt my little horse!” and
+stroked the animal. It was plain that he did not quite grasp where he
+was. Now he excused himself for having been taken prisoner and now,
+imagining himself before his own officers, insisted on his soldierly
+discipline and zeal in the service. He brought with him into our
+rearguard all the freshness of atmosphere of the French army, which was
+so alien to us.
+
+The Cossacks sold the horse for two gold pieces, and Rostóv, being the
+richest of the officers now that he had received his money, bought it.
+
+“But don’t hurt my little horse!” said the Alsatian good-naturedly
+to Rostóv when the animal was handed over to the hussar.
+
+Rostóv smilingly reassured the dragoon and gave him money.
+
+“Alley! Alley!” said the Cossack, touching the prisoner’s arm to
+make him go on.
+
+“The Emperor! The Emperor!” was suddenly heard among the hussars.
+
+All began to run and bustle, and Rostóv saw coming up the road behind
+him several riders with white plumes in their hats. In a moment everyone
+was in his place, waiting.
+
+Rostóv did not know or remember how he ran to his place and mounted.
+Instantly his regret at not having been in action and his dejected mood
+amid people of whom he was weary had gone, instantly every thought of
+himself had vanished. He was filled with happiness at his nearness to
+the Emperor. He felt that this nearness by itself made up to him for the
+day he had lost. He was happy as a lover when the longed-for moment of
+meeting arrives. Not daring to look round and without looking round, he
+was ecstatically conscious of his approach. He felt it not only from the
+sound of the hoofs of the approaching cavalcade, but because as he drew
+near everything grew brighter, more joyful, more significant, and more
+festive around him. Nearer and nearer to Rostóv came that sun shedding
+beams of mild and majestic light around, and already he felt himself
+enveloped in those beams, he heard his voice, that kindly, calm,
+and majestic voice that was yet so simple! And as if in accord with
+Rostóv’s feeling, there was a deathly stillness amid which was heard
+the Emperor’s voice.
+
+“The Pávlograd hussars?” he inquired.
+
+“The reserves, sire!” replied a voice, a very human one compared to
+that which had said: “The Pávlograd hussars?”
+
+The Emperor drew level with Rostóv and halted. Alexander’s face was
+even more beautiful than it had been three days before at the review. It
+shone with such gaiety and youth, such innocent youth, that it suggested
+the liveliness of a fourteen-year-old boy, and yet it was the face
+of the majestic Emperor. Casually, while surveying the squadron, the
+Emperor’s eyes met Rostóv’s and rested on them for not more than
+two seconds. Whether or no the Emperor understood what was going on in
+Rostóv’s soul (it seemed to Rostóv that he understood everything),
+at any rate his light-blue eyes gazed for about two seconds into
+Rostóv’s face. A gentle, mild light poured from them. Then all at
+once he raised his eyebrows, abruptly touched his horse with his left
+foot, and galloped on.
+
+The younger Emperor could not restrain his wish to be present at the
+battle and, in spite of the remonstrances of his courtiers, at twelve
+o’clock left the third column with which he had been and galloped
+toward the vanguard. Before he came up with the hussars, several
+adjutants met him with news of the successful result of the action.
+
+This battle, which consisted in the capture of a French squadron, was
+represented as a brilliant victory over the French, and so the
+Emperor and the whole army, especially while the smoke hung over
+the battlefield, believed that the French had been defeated and were
+retreating against their will. A few minutes after the Emperor had
+passed, the Pávlograd division was ordered to advance. In Wischau
+itself, a petty German town, Rostóv saw the Emperor again. In the
+market place, where there had been some rather heavy firing before the
+Emperor’s arrival, lay several killed and wounded soldiers whom there
+had not been time to move. The Emperor, surrounded by his suite
+of officers and courtiers, was riding a bobtailed chestnut mare, a
+different one from that which he had ridden at the review, and bending
+to one side he gracefully held a gold lorgnette to his eyes and looked
+at a soldier who lay prone, with blood on his uncovered head. The
+wounded soldier was so dirty, coarse, and revolting that his proximity
+to the Emperor shocked Rostóv. Rostóv saw how the Emperor’s rather
+round shoulders shuddered as if a cold shiver had run down them, how his
+left foot began convulsively tapping the horse’s side with the spur,
+and how the well-trained horse looked round unconcerned and did not
+stir. An adjutant, dismounting, lifted the soldier under the arms to
+place him on a stretcher that had been brought. The soldier groaned.
+
+“Gently, gently! Can’t you do it more gently?” said the Emperor
+apparently suffering more than the dying soldier, and he rode away.
+
+Rostóv saw tears filling the Emperor’s eyes and heard him, as he was
+riding away, say to Czartorýski: “What a terrible thing war is: what
+a terrible thing! Quelle terrible chose que la guerre!”
+
+The troops of the vanguard were stationed before Wischau, within sight
+of the enemy’s lines, which all day long had yielded ground to us
+at the least firing. The Emperor’s gratitude was announced to the
+vanguard, rewards were promised, and the men received a double ration of
+vodka. The campfires crackled and the soldiers’ songs resounded
+even more merrily than on the previous night. Denísov celebrated his
+promotion to the rank of major, and Rostóv, who had already drunk
+enough, at the end of the feast proposed the Emperor’s health. “Not
+‘our Sovereign, the Emperor,’ as they say at official dinners,”
+said he, “but the health of our Sovereign, that good, enchanting, and
+great man! Let us drink to his health and to the certain defeat of the
+French!”
+
+“If we fought before,” he said, “not letting the French pass, as
+at Schön Grabern, what shall we not do now when he is at the front? We
+will all die for him gladly! Is it not so, gentlemen? Perhaps I am not
+saying it right, I have drunk a good deal—but that is how I feel, and
+so do you too! To the health of Alexander the First! Hurrah!”
+
+“Hurrah!” rang the enthusiastic voices of the officers.
+
+And the old cavalry captain, Kírsten, shouted enthusiastically and no
+less sincerely than the twenty-year-old Rostóv.
+
+When the officers had emptied and smashed their glasses, Kírsten filled
+others and, in shirt sleeves and breeches, went glass in hand to the
+soldiers’ bonfires and with his long gray mustache, his white chest
+showing under his open shirt, he stood in a majestic pose in the light
+of the campfire, waving his uplifted arm.
+
+“Lads! here’s to our Sovereign, the Emperor, and victory over
+our enemies! Hurrah!” he exclaimed in his dashing, old, hussar’s
+baritone.
+
+The hussars crowded round and responded heartily with loud shouts.
+
+Late that night, when all had separated, Denísov with his short hand
+patted his favorite, Rostóv, on the shoulder.
+
+“As there’s no one to fall in love with on campaign, he’s fallen
+in love with the Tsar,” he said.
+
+“Denísov, don’t make fun of it!” cried Rostóv. “It is such a
+lofty, beautiful feeling, such a...”
+
+“I believe it, I believe it, fwiend, and I share and appwove...”
+
+“No, you don’t understand!”
+
+And Rostóv got up and went wandering among the campfires, dreaming of
+what happiness it would be to die—not in saving the Emperor’s life
+(he did not even dare to dream of that), but simply to die before his
+eyes. He really was in love with the Tsar and the glory of the Russian
+arms and the hope of future triumph. And he was not the only man to
+experience that feeling during those memorable days preceding the battle
+of Austerlitz: nine tenths of the men in the Russian army were then in
+love, though less ecstatically, with their Tsar and the glory of the
+Russian arms.
+
+
+
+
+
+CHAPTER XI
+
+The next day the Emperor stopped at Wischau, and Villier, his physician,
+was repeatedly summoned to see him. At headquarters and among the troops
+near by the news spread that the Emperor was unwell. He ate nothing and
+had slept badly that night, those around him reported. The cause of this
+indisposition was the strong impression made on his sensitive mind by
+the sight of the killed and wounded.
+
+At daybreak on the seventeenth, a French officer who had come with
+a flag of truce, demanding an audience with the Russian Emperor, was
+brought into Wischau from our outposts. This officer was Savary. The
+Emperor had only just fallen asleep and so Savary had to wait. At midday
+he was admitted to the Emperor, and an hour later he rode off with
+Prince Dolgorúkov to the advanced post of the French army.
+
+It was rumored that Savary had been sent to propose to Alexander
+a meeting with Napoleon. To the joy and pride of the whole army, a
+personal interview was refused, and instead of the Sovereign, Prince
+Dolgorúkov, the victor at Wischau, was sent with Savary to negotiate
+with Napoleon if, contrary to expectations, these negotiations were
+actuated by a real desire for peace.
+
+Toward evening Dolgorúkov came back, went straight to the Tsar, and
+remained alone with him for a long time.
+
+On the eighteenth and nineteenth of November, the army advanced two
+days’ march and the enemy’s outposts after a brief interchange
+of shots retreated. In the highest army circles from midday on the
+nineteenth, a great, excitedly bustling activity began which lasted till
+the morning of the twentieth, when the memorable battle of Austerlitz
+was fought.
+
+Till midday on the nineteenth, the activity—the eager talk, running to
+and fro, and dispatching of adjutants—was confined to the Emperor’s
+headquarters. But on the afternoon of that day, this activity reached
+Kutúzov’s headquarters and the staffs of the commanders of columns.
+By evening, the adjutants had spread it to all ends and parts of the
+army, and in the night from the nineteenth to the twentieth, the whole
+eighty thousand allied troops rose from their bivouacs to the hum of
+voices, and the army swayed and started in one enormous mass six miles
+long.
+
+The concentrated activity which had begun at the Emperor’s
+headquarters in the morning and had started the whole movement that
+followed was like the first movement of the main wheel of a large tower
+clock. One wheel slowly moved, another was set in motion, and a third,
+and wheels began to revolve faster and faster, levers and cogwheels to
+work, chimes to play, figures to pop out, and the hands to advance with
+regular motion as a result of all that activity.
+
+Just as in the mechanism of a clock, so in the mechanism of the military
+machine, an impulse once given leads to the final result; and just as
+indifferently quiescent till the moment when motion is transmitted
+to them are the parts of the mechanism which the impulse has not yet
+reached. Wheels creak on their axles as the cogs engage one another and
+the revolving pulleys whirr with the rapidity of their movement, but a
+neighboring wheel is as quiet and motionless as though it were prepared
+to remain so for a hundred years; but the moment comes when the lever
+catches it and obeying the impulse that wheel begins to creak and joins
+in the common motion the result and aim of which are beyond its ken.
+
+Just as in a clock, the result of the complicated motion of innumerable
+wheels and pulleys is merely a slow and regular movement of the
+hands which show the time, so the result of all the complicated human
+activities of 160,000 Russians and French—all their passions, desires,
+remorse, humiliations, sufferings, outbursts of pride, fear, and
+enthusiasm—was only the loss of the battle of Austerlitz, the
+so-called battle of the three Emperors—that is to say, a slow movement
+of the hand on the dial of human history.
+
+Prince Andrew was on duty that day and in constant attendance on the
+commander in chief.
+
+At six in the evening, Kutúzov went to the Emperor’s headquarters
+and after staying but a short time with the Tsar went to see the grand
+marshal of the court, Count Tolstóy.
+
+Bolkónski took the opportunity to go in to get some details of the
+coming action from Dolgorúkov. He felt that Kutúzov was upset
+and dissatisfied about something and that at headquarters they were
+dissatisfied with him, and also that at the Emperor’s headquarters
+everyone adopted toward him the tone of men who know something others do
+not know: he therefore wished to speak to Dolgorúkov.
+
+“Well, how d’you do, my dear fellow?” said Dolgorúkov, who was
+sitting at tea with Bilíbin. “The fete is for tomorrow. How is your
+old fellow? Out of sorts?”
+
+“I won’t say he is out of sorts, but I fancy he would like to be
+heard.”
+
+“But they heard him at the council of war and will hear him when he
+talks sense, but to temporize and wait for something now when Bonaparte
+fears nothing so much as a general battle is impossible.”
+
+“Yes, you have seen him?” said Prince Andrew. “Well, what is
+Bonaparte like? How did he impress you?”
+
+“Yes, I saw him, and am convinced that he fears nothing so much as
+a general engagement,” repeated Dolgorúkov, evidently prizing this
+general conclusion which he had arrived at from his interview with
+Napoleon. “If he weren’t afraid of a battle why did he ask for that
+interview? Why negotiate, and above all why retreat, when to retreat is
+so contrary to his method of conducting war? Believe me, he is afraid,
+afraid of a general battle. His hour has come! Mark my words!”
+
+“But tell me, what is he like, eh?” said Prince Andrew again.
+
+“He is a man in a gray overcoat, very anxious that I should call
+him ‘Your Majesty,’ but who, to his chagrin, got no title from
+me! That’s the sort of man he is, and nothing more,” replied
+Dolgorúkov, looking round at Bilíbin with a smile.
+
+“Despite my great respect for old Kutúzov,” he continued, “we
+should be a nice set of fellows if we were to wait about and so give him
+a chance to escape, or to trick us, now that we certainly have him in
+our hands! No, we mustn’t forget Suvórov and his rule—not to put
+yourself in a position to be attacked, but yourself to attack. Believe
+me in war the energy of young men often shows the way better than all
+the experience of old Cunctators.”
+
+“But in what position are we going to attack him? I have been at the
+outposts today and it is impossible to say where his chief forces are
+situated,” said Prince Andrew.
+
+He wished to explain to Dolgorúkov a plan of attack he had himself
+formed.
+
+“Oh, that is all the same,” Dolgorúkov said quickly, and getting up
+he spread a map on the table. “All eventualities have been foreseen.
+If he is standing before Brünn...”
+
+And Prince Dolgorúkov rapidly but indistinctly explained Weyrother’s
+plan of a flanking movement.
+
+Prince Andrew began to reply and to state his own plan, which might
+have been as good as Weyrother’s, but for the disadvantage that
+Weyrother’s had already been approved. As soon as Prince Andrew began
+to demonstrate the defects of the latter and the merits of his own plan,
+Prince Dolgorúkov ceased to listen to him and gazed absent-mindedly not
+at the map, but at Prince Andrew’s face.
+
+“There will be a council of war at Kutúzov’s tonight, though; you
+can say all this there,” remarked Dolgorúkov.
+
+“I will do so,” said Prince Andrew, moving away from the map.
+
+“Whatever are you bothering about, gentlemen?” said Bilíbin, who,
+till then, had listened with an amused smile to their conversation and
+now was evidently ready with a joke. “Whether tomorrow brings
+victory or defeat, the glory of our Russian arms is secure. Except your
+Kutúzov, there is not a single Russian in command of a column! The
+commanders are: Herr General Wimpfen, le Comte de Langeron, le Prince de
+Lichtenstein, le Prince de Hohenlohe, and finally Prishprish, and so on
+like all those Polish names.”
+
+“Be quiet, backbiter!” said Dolgorúkov. “It is not true; there
+are now two Russians, Milorádovich, and Dokhtúrov, and there would be
+a third, Count Arakchéev, if his nerves were not too weak.”
+
+“However, I think General Kutúzov has come out,” said Prince
+Andrew. “I wish you good luck and success, gentlemen!” he added and
+went out after shaking hands with Dolgorúkov and Bilíbin.
+
+On the way home, Prince Andrew could not refrain from asking Kutúzov,
+who was sitting silently beside him, what he thought of tomorrow’s
+battle.
+
+Kutúzov looked sternly at his adjutant and, after a pause, replied:
+“I think the battle will be lost, and so I told Count Tolstóy and
+asked him to tell the Emperor. What do you think he replied? ‘But, my
+dear general, I am engaged with rice and cutlets, look after military
+matters yourself!’ Yes... That was the answer I got!”
+
+
+
+
+
+CHAPTER XII
+
+Shortly after nine o’clock that evening, Weyrother drove with his
+plans to Kutúzov’s quarters where the council of war was to be
+held. All the commanders of columns were summoned to the commander in
+chief’s and with the exception of Prince Bagratión, who declined to
+come, were all there at the appointed time.
+
+Weyrother, who was in full control of the proposed battle, by his
+eagerness and briskness presented a marked contrast to the dissatisfied
+and drowsy Kutúzov, who reluctantly played the part of chairman and
+president of the council of war. Weyrother evidently felt himself to be
+at the head of a movement that had already become unrestrainable. He was
+like a horse running downhill harnessed to a heavy cart. Whether he was
+pulling it or being pushed by it he did not know, but rushed along at
+headlong speed with no time to consider what this movement might lead
+to. Weyrother had been twice that evening to the enemy’s picket
+line to reconnoiter personally, and twice to the Emperors, Russian and
+Austrian, to report and explain, and to his headquarters where he had
+dictated the dispositions in German, and now, much exhausted, he arrived
+at Kutúzov’s.
+
+He was evidently so busy that he even forgot to be polite to the
+commander in chief. He interrupted him, talked rapidly and indistinctly,
+without looking at the man he was addressing, and did not reply to
+questions put to him. He was bespattered with mud and had a pitiful,
+weary, and distracted air, though at the same time he was haughty and
+self-confident.
+
+Kutúzov was occupying a nobleman’s castle of modest dimensions near
+Ostralitz. In the large drawing room which had become the commander
+in chief’s office were gathered Kutúzov himself, Weyrother, and the
+members of the council of war. They were drinking tea, and only awaited
+Prince Bagratión to begin the council. At last Bagratión’s orderly
+came with the news that the prince could not attend. Prince Andrew came
+in to inform the commander in chief of this and, availing himself
+of permission previously given him by Kutúzov to be present at the
+council, he remained in the room.
+
+“Since Prince Bagratión is not coming, we may begin,” said
+Weyrother, hurriedly rising from his seat and going up to the table on
+which an enormous map of the environs of Brünn was spread out.
+
+Kutúzov, with his uniform unbuttoned so that his fat neck bulged over
+his collar as if escaping, was sitting almost asleep in a low chair,
+with his podgy old hands resting symmetrically on its arms. At the sound
+of Weyrother’s voice, he opened his one eye with an effort.
+
+“Yes, yes, if you please! It is already late,” said he, and nodding
+his head he let it droop and again closed his eye.
+
+If at first the members of the council thought that Kutúzov was
+pretending to sleep, the sounds his nose emitted during the reading that
+followed proved that the commander in chief at that moment was absorbed
+by a far more serious matter than a desire to show his contempt for
+the dispositions or anything else—he was engaged in satisfying the
+irresistible human need for sleep. He really was asleep. Weyrother, with
+the gesture of a man too busy to lose a moment, glanced at Kutúzov and,
+having convinced himself that he was asleep, took up a paper and in
+a loud, monotonous voice began to read out the dispositions for the
+impending battle, under a heading which he also read out:
+
+“Dispositions for an attack on the enemy position behind Kobelnitz and
+Sokolnitz, November 30, 1805.”
+
+The dispositions were very complicated and difficult. They began as
+follows:
+
+“As the enemy’s left wing rests on wooded hills and his right
+extends along Kobelnitz and Sokolnitz behind the ponds that are there,
+while we, on the other hand, with our left wing by far outflank his
+right, it is advantageous to attack the enemy’s latter wing especially
+if we occupy the villages of Sokolnitz and Kobelnitz, whereby we
+can both fall on his flank and pursue him over the plain between
+Schlappanitz and the Thuerassa forest, avoiding the defiles of
+Schlappanitz and Bellowitz which cover the enemy’s front. For this
+object it is necessary that... The first column marches... The second
+column marches... The third column marches...” and so on, read
+Weyrother.
+
+The generals seemed to listen reluctantly to the difficult dispositions.
+The tall, fair-haired General Buxhöwden stood, leaning his back against
+the wall, his eyes fixed on a burning candle, and seemed not to listen
+or even to wish to be thought to listen. Exactly opposite Weyrother,
+with his glistening wide-open eyes fixed upon him and his mustache
+twisted upwards, sat the ruddy Milorádovich in a military pose, his
+elbows turned outwards, his hands on his knees, and his shoulders
+raised. He remained stubbornly silent, gazing at Weyrother’s face,
+and only turned away his eyes when the Austrian chief of staff finished
+reading. Then Milorádovich looked round significantly at the other
+generals. But one could not tell from that significant look whether he
+agreed or disagreed and was satisfied or not with the arrangements. Next
+to Weyrother sat Count Langeron who, with a subtle smile that never left
+his typically southern French face during the whole time of the reading,
+gazed at his delicate fingers which rapidly twirled by its corners
+a gold snuffbox on which was a portrait. In the middle of one of the
+longest sentences, he stopped the rotary motion of the snuffbox, raised
+his head, and with inimical politeness lurking in the corners of his
+thin lips interrupted Weyrother, wishing to say something. But the
+Austrian general, continuing to read, frowned angrily and jerked his
+elbows, as if to say: “You can tell me your views later, but now be so
+good as to look at the map and listen.” Langeron lifted his eyes with
+an expression of perplexity, turned round to Milorádovich as if seeking
+an explanation, but meeting the latter’s impressive but meaningless
+gaze drooped his eyes sadly and again took to twirling his snuffbox.
+
+“A geography lesson!” he muttered as if to himself, but loud enough
+to be heard.
+
+Przebyszéwski, with respectful but dignified politeness, held his
+hand to his ear toward Weyrother, with the air of a man absorbed in
+attention. Dohktúrov, a little man, sat opposite Weyrother, with
+an assiduous and modest mien, and stooping over the outspread map
+conscientiously studied the dispositions and the unfamiliar locality. He
+asked Weyrother several times to repeat words he had not clearly heard
+and the difficult names of villages. Weyrother complied and Dohktúrov
+noted them down.
+
+When the reading which lasted more than an hour was over, Langeron again
+brought his snuffbox to rest and, without looking at Weyrother or at
+anyone in particular, began to say how difficult it was to carry out
+such a plan in which the enemy’s position was assumed to be known,
+whereas it was perhaps not known, since the enemy was in movement.
+Langeron’s objections were valid but it was obvious that their chief
+aim was to show General Weyrother—who had read his dispositions with
+as much self-confidence as if he were addressing school children—that
+he had to do, not with fools, but with men who could teach him something
+in military matters.
+
+When the monotonous sound of Weyrother’s voice ceased, Kutúzov opened
+his eye as a miller wakes up when the soporific drone of the mill wheel
+is interrupted. He listened to what Langeron said, as if remarking,
+“So you are still at that silly business!” quickly closed his eye
+again, and let his head sink still lower.
+
+Langeron, trying as virulently as possible to sting Weyrother’s vanity
+as author of the military plan, argued that Bonaparte might easily
+attack instead of being attacked, and so render the whole of this
+plan perfectly worthless. Weyrother met all objections with a firm and
+contemptuous smile, evidently prepared beforehand to meet all objections
+be they what they might.
+
+“If he could attack us, he would have done so today,” said he.
+
+“So you think he is powerless?” said Langeron.
+
+“He has forty thousand men at most,” replied Weyrother, with the
+smile of a doctor to whom an old wife wishes to explain the treatment of
+a case.
+
+“In that case he is inviting his doom by awaiting our attack,” said
+Langeron, with a subtly ironical smile, again glancing round for support
+to Milorádovich who was near him.
+
+But Milorádovich was at that moment evidently thinking of anything
+rather than of what the generals were disputing about.
+
+“Ma foi!” said he, “tomorrow we shall see all that on the
+battlefield.”
+
+Weyrother again gave that smile which seemed to say that to him it was
+strange and ridiculous to meet objections from Russian generals and to
+have to prove to them what he had not merely convinced himself of, but
+had also convinced the sovereign Emperors of.
+
+“The enemy has quenched his fires and a continual noise is heard from
+his camp,” said he. “What does that mean? Either he is retreating,
+which is the only thing we need fear, or he is changing his position.”
+(He smiled ironically.) “But even if he also took up a position in
+the Thuerassa, he merely saves us a great deal of trouble and all our
+arrangements to the minutest detail remain the same.”
+
+“How is that?...” began Prince Andrew, who had for long been waiting
+an opportunity to express his doubts.
+
+Kutúzov here woke up, coughed heavily, and looked round at the
+generals.
+
+“Gentlemen, the dispositions for tomorrow—or rather for today, for
+it is past midnight—cannot now be altered,” said he. “You have
+heard them, and we shall all do our duty. But before a battle, there is
+nothing more important...” he paused, “than to have a good sleep.”
+
+He moved as if to rise. The generals bowed and retired. It was past
+midnight. Prince Andrew went out.
+
+The council of war, at which Prince Andrew had not been able to
+express his opinion as he had hoped to, left on him a vague and uneasy
+impression. Whether Dolgorúkov and Weyrother, or Kutúzov, Langeron,
+and the others who did not approve of the plan of attack, were
+right—he did not know. “But was it really not possible for Kutúzov
+to state his views plainly to the Emperor? Is it possible that on
+account of court and personal considerations tens of thousands of lives,
+and my life, my life,” he thought, “must be risked?”
+
+“Yes, it is very likely that I shall be killed tomorrow,” he
+thought. And suddenly, at this thought of death, a whole series of most
+distant, most intimate, memories rose in his imagination: he remembered
+his last parting from his father and his wife; he remembered the days
+when he first loved her. He thought of her pregnancy and felt sorry for
+her and for himself, and in a nervously emotional and softened mood he
+went out of the hut in which he was billeted with Nesvítski and began
+to walk up and down before it.
+
+The night was foggy and through the fog the moonlight gleamed
+mysteriously. “Yes, tomorrow, tomorrow!” he thought. “Tomorrow
+everything may be over for me! All these memories will be no more, none
+of them will have any meaning for me. Tomorrow perhaps, even certainly,
+I have a presentiment that for the first time I shall have to show all
+I can do.” And his fancy pictured the battle, its loss, the
+concentration of fighting at one point, and the hesitation of all the
+commanders. And then that happy moment, that Toulon for which he had
+so long waited, presents itself to him at last. He firmly and clearly
+expresses his opinion to Kutúzov, to Weyrother, and to the Emperors.
+All are struck by the justness of his views, but no one undertakes to
+carry them out, so he takes a regiment, a division—stipulates that no
+one is to interfere with his arrangements—leads his division to
+the decisive point, and gains the victory alone. “But death and
+suffering?” suggested another voice. Prince Andrew, however, did not
+answer that voice and went on dreaming of his triumphs. The dispositions
+for the next battle are planned by him alone. Nominally he is only an
+adjutant on Kutúzov’s staff, but he does everything alone. The next
+battle is won by him alone. Kutúzov is removed and he is appointed...
+“Well and then?” asked the other voice. “If before that you are
+not ten times wounded, killed, or betrayed, well... what then?...”
+“Well then,” Prince Andrew answered himself, “I don’t know
+what will happen and don’t want to know, and can’t, but if I want
+this—want glory, want to be known to men, want to be loved by them, it
+is not my fault that I want it and want nothing but that and live only
+for that. Yes, for that alone! I shall never tell anyone, but, oh God!
+what am I to do if I love nothing but fame and men’s esteem? Death,
+wounds, the loss of family—I fear nothing. And precious and dear
+as many persons are to me—father, sister, wife—those dearest to
+me—yet dreadful and unnatural as it seems, I would give them all at
+once for a moment of glory, of triumph over men, of love from men I
+don’t know and never shall know, for the love of these men here,” he
+thought, as he listened to voices in Kutúzov’s courtyard. The voices
+were those of the orderlies who were packing up; one voice, probably a
+coachman’s, was teasing Kutúzov’s old cook whom Prince Andrew knew,
+and who was called Tit. He was saying, “Tit, I say, Tit!”
+
+“Well?” returned the old man.
+
+“Go, Tit, thresh a bit!” said the wag.
+
+“Oh, go to the devil!” called out a voice, drowned by the laughter
+of the orderlies and servants.
+
+“All the same, I love and value nothing but triumph over them all, I
+value this mystic power and glory that is floating here above me in this
+mist!”
+
+
+
+
+
+CHAPTER XIII
+
+That same night, Rostóv was with a platoon on skirmishing duty in front
+of Bagratión’s detachment. His hussars were placed along the line
+in couples and he himself rode along the line trying to master the
+sleepiness that kept coming over him. An enormous space, with our
+army’s campfires dimly glowing in the fog, could be seen behind him;
+in front of him was misty darkness. Rostóv could see nothing, peer as
+he would into that foggy distance: now something gleamed gray, now there
+was something black, now little lights seemed to glimmer where the enemy
+ought to be, now he fancied it was only something in his own eyes. His
+eyes kept closing, and in his fancy appeared—now the Emperor, now
+Denísov, and now Moscow memories—and he again hurriedly opened his
+eyes and saw close before him the head and ears of the horse he was
+riding, and sometimes, when he came within six paces of them, the
+black figures of hussars, but in the distance was still the same misty
+darkness. “Why not?... It might easily happen,” thought Rostóv,
+“that the Emperor will meet me and give me an order as he would to any
+other officer; he’ll say: ‘Go and find out what’s there.’ There
+are many stories of his getting to know an officer in just such a chance
+way and attaching him to himself! What if he gave me a place near him?
+Oh, how I would guard him, how I would tell him the truth, how I would
+unmask his deceivers!” And in order to realize vividly his love
+devotion to the sovereign, Rostóv pictured to himself an enemy or a
+deceitful German, whom he would not only kill with pleasure but whom
+he would slap in the face before the Emperor. Suddenly a distant shout
+aroused him. He started and opened his eyes.
+
+“Where am I? Oh yes, in the skirmishing line... pass and
+watchword—shaft, Olmütz. What a nuisance that our squadron will be in
+reserve tomorrow,” he thought. “I’ll ask leave to go to the front,
+this may be my only chance of seeing the Emperor. It won’t be long
+now before I am off duty. I’ll take another turn and when I get back
+I’ll go to the general and ask him.” He readjusted himself in the
+saddle and touched up his horse to ride once more round his hussars. It
+seemed to him that it was getting lighter. To the left he saw a sloping
+descent lit up, and facing it a black knoll that seemed as steep as a
+wall. On this knoll there was a white patch that Rostóv could not at
+all make out: was it a glade in the wood lit up by the moon, or some
+unmelted snow, or some white houses? He even thought something moved on
+that white spot. “I expect it’s snow... that spot... a spot—une
+tache,” he thought. “There now... it’s not a tache... Natásha...
+sister, black eyes... Na... tasha... (Won’t she be surprised when
+I tell her how I’ve seen the Emperor?) Natásha... take my
+sabretache...”—“Keep to the right, your honor, there are bushes
+here,” came the voice of an hussar, past whom Rostóv was riding in
+the act of falling asleep. Rostóv lifted his head that had sunk almost
+to his horse’s mane and pulled up beside the hussar. He was succumbing
+to irresistible, youthful, childish drowsiness. “But what was I
+thinking? I mustn’t forget. How shall I speak to the Emperor? No,
+that’s not it—that’s tomorrow. Oh yes! Natásha... sabretache...
+saber them... Whom? The hussars... Ah, the hussars with mustaches. Along
+the Tverskáya Street rode the hussar with mustaches... I thought about
+him too, just opposite Gúryev’s house... Old Gúryev.... Oh, but
+Denísov’s a fine fellow. But that’s all nonsense. The chief thing
+is that the Emperor is here. How he looked at me and wished to say
+something, but dared not.... No, it was I who dared not. But that’s
+nonsense, the chief thing is not to forget the important thing I
+was thinking of. Yes, Na-tásha, sabretache, oh, yes, yes! That’s
+right!” And his head once more sank to his horse’s neck. All at once
+it seemed to him that he was being fired at. “What? What? What?... Cut
+them down! What?...” said Rostóv, waking up. At the moment he opened
+his eyes he heard in front of him, where the enemy was, the long-drawn
+shouts of thousands of voices. His horse and the horse of the hussar
+near him pricked their ears at these shouts. Over there, where the
+shouting came from, a fire flared up and went out again, then another,
+and all along the French line on the hill fires flared up and the
+shouting grew louder and louder. Rostóv could hear the sound of French
+words but could not distinguish them. The din of many voices was too
+great; all he could hear was: “ahahah!” and “rrrr!”
+
+“What’s that? What do you make of it?” said Rostóv to the hussar
+beside him. “That must be the enemy’s camp!”
+
+The hussar did not reply.
+
+“Why, don’t you hear it?” Rostóv asked again, after waiting for a
+reply.
+
+“Who can tell, your honor?” replied the hussar reluctantly.
+
+“From the direction, it must be the enemy,” repeated Rostóv.
+
+“It may be he or it may be nothing,” muttered the hussar. “It’s
+dark... Steady!” he cried to his fidgeting horse.
+
+Rostóv’s horse was also getting restive: it pawed the frozen ground,
+pricking its ears at the noise and looking at the lights. The shouting
+grew still louder and merged into a general roar that only an army
+of several thousand men could produce. The lights spread farther and
+farther, probably along the line of the French camp. Rostóv no longer
+wanted to sleep. The gay triumphant shouting of the enemy army had a
+stimulating effect on him. “Vive l’Empereur! l’Empereur!” he now
+heard distinctly.
+
+“They can’t be far off, probably just beyond the stream,” he said
+to the hussar beside him.
+
+The hussar only sighed without replying and coughed angrily. The sound
+of horse’s hoofs approaching at a trot along the line of hussars was
+heard, and out of the foggy darkness the figure of a sergeant of hussars
+suddenly appeared, looming huge as an elephant.
+
+“Your honor, the generals!” said the sergeant, riding up to Rostóv.
+
+Rostóv, still looking round toward the fires and the shouts, rode with
+the sergeant to meet some mounted men who were riding along the line.
+One was on a white horse. Prince Bagratión and Prince Dolgorúkov with
+their adjutants had come to witness the curious phenomenon of the
+lights and shouts in the enemy’s camp. Rostóv rode up to Bagratión,
+reported to him, and then joined the adjutants listening to what the
+generals were saying.
+
+“Believe me,” said Prince Dolgorúkov, addressing Bagratión, “it
+is nothing but a trick! He has retreated and ordered the rearguard to
+kindle fires and make a noise to deceive us.”
+
+“Hardly,” said Bagratión. “I saw them this evening on that
+knoll; if they had retreated they would have withdrawn from that too....
+Officer!” said Bagratión to Rostóv, “are the enemy’s skirmishers
+still there?”
+
+“They were there this evening, but now I don’t know, your
+excellency. Shall I go with some of my hussars to see?” replied
+Rostóv.
+
+Bagratión stopped and, before replying, tried to see Rostóv’s face
+in the mist.
+
+“Well, go and see,” he said, after a pause.
+
+“Yes, sir.”
+
+Rostóv spurred his horse, called to Sergeant Fédchenko and two other
+hussars, told them to follow him, and trotted downhill in the direction
+from which the shouting came. He felt both frightened and pleased to be
+riding alone with three hussars into that mysterious and dangerous misty
+distance where no one had been before him. Bagratión called to him from
+the hill not to go beyond the stream, but Rostóv pretended not to hear
+him and did not stop but rode on and on, continually mistaking bushes
+for trees and gullies for men and continually discovering his mistakes.
+Having descended the hill at a trot, he no longer saw either our own or
+the enemy’s fires, but heard the shouting of the French more loudly
+and distinctly. In the valley he saw before him something like a river,
+but when he reached it he found it was a road. Having come out onto
+the road he reined in his horse, hesitating whether to ride along it or
+cross it and ride over the black field up the hillside. To keep to the
+road which gleamed white in the mist would have been safer because it
+would be easier to see people coming along it. “Follow me!” said he,
+crossed the road, and began riding up the hill at a gallop toward the
+point where the French pickets had been standing that evening.
+
+“Your honor, there he is!” cried one of the hussars behind him. And
+before Rostóv had time to make out what the black thing was that had
+suddenly appeared in the fog, there was a flash, followed by a report,
+and a bullet whizzing high up in the mist with a plaintive sound passed
+out of hearing. Another musket missed fire but flashed in the pan.
+Rostóv turned his horse and galloped back. Four more reports followed
+at intervals, and the bullets passed somewhere in the fog singing in
+different tones. Rostóv reined in his horse, whose spirits had risen,
+like his own, at the firing, and went back at a footpace. “Well, some
+more! Some more!” a merry voice was saying in his soul. But no more
+shots came.
+
+Only when approaching Bagratión did Rostóv let his horse gallop again,
+and with his hand at the salute rode up to the general.
+
+Dolgorúkov was still insisting that the French had retreated and had
+only lit fires to deceive us.
+
+“What does that prove?” he was saying as Rostóv rode up. “They
+might retreat and leave the pickets.”
+
+“It’s plain that they have not all gone yet, Prince,” said
+Bagratión. “Wait till tomorrow morning, we’ll find out everything
+tomorrow.”
+
+“The picket is still on the hill, your excellency, just where it was
+in the evening,” reported Rostóv, stooping forward with his hand at
+the salute and unable to repress the smile of delight induced by his
+ride and especially by the sound of the bullets.
+
+“Very good, very good,” said Bagratión. “Thank you, officer.”
+
+“Your excellency,” said Rostóv, “may I ask a favor?”
+
+“What is it?”
+
+“Tomorrow our squadron is to be in reserve. May I ask to be attached
+to the first squadron?”
+
+“What’s your name?”
+
+“Count Rostóv.”
+
+“Oh, very well, you may stay in attendance on me.”
+
+“Count Ilyá Rostóv’s son?” asked Dolgorúkov.
+
+But Rostóv did not reply.
+
+“Then I may reckon on it, your excellency?”
+
+“I will give the order.”
+
+“Tomorrow very likely I may be sent with some message to the
+Emperor,” thought Rostóv.
+
+“Thank God!”
+
+The fires and shouting in the enemy’s army were occasioned by the fact
+that while Napoleon’s proclamation was being read to the troops the
+Emperor himself rode round his bivouacs. The soldiers, on seeing him,
+lit wisps of straw and ran after him, shouting, “Vive l’Empereur!”
+Napoleon’s proclamation was as follows:
+
+Soldiers! The Russian army is advancing against you to avenge the
+Austrian army of Ulm. They are the same battalions you broke at
+Hollabrünn and have pursued ever since to this place. The position we
+occupy is a strong one, and while they are marching to go round me on
+the right they will expose a flank to me. Soldiers! I will myself direct
+your battalions. I will keep out of fire if you with your habitual
+valor carry disorder and confusion into the enemy’s ranks, but should
+victory be in doubt, even for a moment, you will see your Emperor
+exposing himself to the first blows of the enemy, for there must be no
+doubt of victory, especially on this day when what is at stake is the
+honor of the French infantry, so necessary to the honor of our nation.
+
+Do not break your ranks on the plea of removing the wounded! Let every
+man be fully imbued with the thought that we must defeat these hirelings
+of England, inspired by such hatred of our nation! This victory will
+conclude our campaign and we can return to winter quarters, where fresh
+French troops who are being raised in France will join us, and the peace
+I shall conclude will be worthy of my people, of you, and of myself.
+
+NAPOLEON
+
+
+
+
+CHAPTER XIV
+
+At five in the morning it was still quite dark. The troops of the
+center, the reserves, and Bagratión’s right flank had not yet moved,
+but on the left flank the columns of infantry, cavalry, and artillery,
+which were to be the first to descend the heights to attack the French
+right flank and drive it into the Bohemian mountains according to plan,
+were already up and astir. The smoke of the campfires, into which they
+were throwing everything superfluous, made the eyes smart. It was cold
+and dark. The officers were hurriedly drinking tea and breakfasting, the
+soldiers, munching biscuit and beating a tattoo with their feet to
+warm themselves, gathering round the fires throwing into the flames the
+remains of sheds, chairs, tables, wheels, tubs, and everything that they
+did not want or could not carry away with them. Austrian column guides
+were moving in and out among the Russian troops and served as heralds
+of the advance. As soon as an Austrian officer showed himself near
+a commanding officer’s quarters, the regiment began to move: the
+soldiers ran from the fires, thrust their pipes into their boots, their
+bags into the carts, got their muskets ready, and formed rank. The
+officers buttoned up their coats, buckled on their swords and pouches,
+and moved along the ranks shouting. The train drivers and orderlies
+harnessed and packed the wagons and tied on the loads. The adjutants and
+battalion and regimental commanders mounted, crossed themselves, gave
+final instructions, orders, and commissions to the baggage men
+who remained behind, and the monotonous tramp of thousands of feet
+resounded. The column moved forward without knowing where and unable,
+from the masses around them, the smoke and the increasing fog, to see
+either the place they were leaving or that to which they were going.
+
+A soldier on the march is hemmed in and borne along by his regiment as
+much as a sailor is by his ship. However far he has walked, whatever
+strange, unknown, and dangerous places he reaches, just as a sailor is
+always surrounded by the same decks, masts, and rigging of his ship, so
+the soldier always has around him the same comrades, the same ranks, the
+same sergeant major Iván Mítrich, the same company dog Jack, and the
+same commanders. The sailor rarely cares to know the latitude in which
+his ship is sailing, but on the day of battle—heaven knows how and
+whence—a stern note of which all are conscious sounds in the moral
+atmosphere of an army, announcing the approach of something decisive
+and solemn, and awakening in the men an unusual curiosity. On the day of
+battle the soldiers excitedly try to get beyond the interests of their
+regiment, they listen intently, look about, and eagerly ask concerning
+what is going on around them.
+
+The fog had grown so dense that though it was growing light they could
+not see ten paces ahead. Bushes looked like gigantic trees and level
+ground like cliffs and slopes. Anywhere, on any side, one might
+encounter an enemy invisible ten paces off. But the columns advanced
+for a long time, always in the same fog, descending and ascending hills,
+avoiding gardens and enclosures, going over new and unknown ground, and
+nowhere encountering the enemy. On the contrary, the soldiers became
+aware that in front, behind, and on all sides, other Russian columns
+were moving in the same direction. Every soldier felt glad to know that
+to the unknown place where he was going, many more of our men were going
+too.
+
+“There now, the Kúrskies have also gone past,” was being said in
+the ranks.
+
+“It’s wonderful what a lot of our troops have gathered, lads! Last
+night I looked at the campfires and there was no end of them. A regular
+Moscow!”
+
+Though none of the column commanders rode up to the ranks or talked to
+the men (the commanders, as we saw at the council of war, were out of
+humor and dissatisfied with the affair, and so did not exert themselves
+to cheer the men but merely carried out the orders), yet the troops
+marched gaily, as they always do when going into action, especially to
+an attack. But when they had marched for about an hour in the dense fog,
+the greater part of the men had to halt and an unpleasant consciousness
+of some dislocation and blunder spread through the ranks. How such
+a consciousness is communicated is very difficult to define, but it
+certainly is communicated very surely, and flows rapidly, imperceptibly,
+and irrepressibly, as water does in a creek. Had the Russian army been
+alone without any allies, it might perhaps have been a long time before
+this consciousness of mismanagement became a general conviction, but as
+it was, the disorder was readily and naturally attributed to the stupid
+Germans, and everyone was convinced that a dangerous muddle had been
+occasioned by the sausage eaters.
+
+“Why have we stopped? Is the way blocked? Or have we already come up
+against the French?”
+
+“No, one can’t hear them. They’d be firing if we had.”
+
+“They were in a hurry enough to start us, and now here we stand in
+the middle of a field without rhyme or reason. It’s all those damned
+Germans’ muddling! What stupid devils!”
+
+“Yes, I’d send them on in front, but no fear, they’re crowding up
+behind. And now here we stand hungry.”
+
+“I say, shall we soon be clear? They say the cavalry are blocking the
+way,” said an officer.
+
+“Ah, those damned Germans! They don’t know their own country!”
+said another.
+
+“What division are you?” shouted an adjutant, riding up.
+
+“The Eighteenth.”
+
+“Then why are you here? You should have gone on long ago, now you
+won’t get there till evening.”
+
+“What stupid orders! They don’t themselves know what they are
+doing!” said the officer and rode off.
+
+Then a general rode past shouting something angrily, not in Russian.
+
+“Tafa-lafa! But what he’s jabbering no one can make out,” said a
+soldier, mimicking the general who had ridden away. “I’d shoot them,
+the scoundrels!”
+
+“We were ordered to be at the place before nine, but we haven’t got
+halfway. Fine orders!” was being repeated on different sides.
+
+And the feeling of energy with which the troops had started began to
+turn into vexation and anger at the stupid arrangements and at the
+Germans.
+
+The cause of the confusion was that while the Austrian cavalry was
+moving toward our left flank, the higher command found that our center
+was too far separated from our right flank and the cavalry were all
+ordered to turn back to the right. Several thousand cavalry crossed in
+front of the infantry, who had to wait.
+
+At the front an altercation occurred between an Austrian guide and a
+Russian general. The general shouted a demand that the cavalry should be
+halted, the Austrian argued that not he, but the higher command, was to
+blame. The troops meanwhile stood growing listless and dispirited. After
+an hour’s delay they at last moved on, descending the hill. The fog
+that was dispersing on the hill lay still more densely below, where they
+were descending. In front in the fog a shot was heard and then another,
+at first irregularly at varying intervals—trata...tat—and then more
+and more regularly and rapidly, and the action at the Goldbach Stream
+began.
+
+Not expecting to come on the enemy down by the stream, and having
+stumbled on him in the fog, hearing no encouraging word from their
+commanders, and with a consciousness of being too late spreading through
+the ranks, and above all being unable to see anything in front or around
+them in the thick fog, the Russians exchanged shots with the enemy
+lazily and advanced and again halted, receiving no timely orders from
+the officers or adjutants who wandered about in the fog in those unknown
+surroundings unable to find their own regiments. In this way the action
+began for the first, second, and third columns, which had gone down into
+the valley. The fourth column, with which Kutúzov was, stood on the
+Pratzen Heights.
+
+Below, where the fight was beginning, there was still thick fog; on the
+higher ground it was clearing, but nothing could be seen of what was
+going on in front. Whether all the enemy forces were, as we supposed,
+six miles away, or whether they were near by in that sea of mist, no one
+knew till after eight o’clock.
+
+It was nine o’clock in the morning. The fog lay unbroken like a sea
+down below, but higher up at the village of Schlappanitz where Napoleon
+stood with his marshals around him, it was quite light. Above him was
+a clear blue sky, and the sun’s vast orb quivered like a huge hollow,
+crimson float on the surface of that milky sea of mist. The whole French
+army, and even Napoleon himself with his staff, were not on the far side
+of the streams and hollows of Sokolnitz and Schlappanitz beyond which we
+intended to take up our position and begin the action, but were on this
+side, so close to our own forces that Napoleon with the naked eye could
+distinguish a mounted man from one on foot. Napoleon, in the blue cloak
+which he had worn on his Italian campaign, sat on his small gray Arab
+horse a little in front of his marshals. He gazed silently at the hills
+which seemed to rise out of the sea of mist and on which the Russian
+troops were moving in the distance, and he listened to the sounds of
+firing in the valley. Not a single muscle of his face—which in those
+days was still thin—moved. His gleaming eyes were fixed intently on
+one spot. His predictions were being justified. Part of the Russian
+force had already descended into the valley toward the ponds and lakes
+and part were leaving these Pratzen Heights which he intended to attack
+and regarded as the key to the position. He saw over the mist that in
+a hollow between two hills near the village of Pratzen, the Russian
+columns, their bayonets glittering, were moving continuously in one
+direction toward the valley and disappearing one after another into
+the mist. From information he had received the evening before, from the
+sound of wheels and footsteps heard by the outposts during the night,
+by the disorderly movement of the Russian columns, and from all
+indications, he saw clearly that the allies believed him to be far away
+in front of them, and that the columns moving near Pratzen constituted
+the center of the Russian army, and that that center was already
+sufficiently weakened to be successfully attacked. But still he did not
+begin the engagement.
+
+Today was a great day for him—the anniversary of his coronation.
+Before dawn he had slept for a few hours, and refreshed, vigorous, and
+in good spirits, he mounted his horse and rode out into the field
+in that happy mood in which everything seems possible and everything
+succeeds. He sat motionless, looking at the heights visible above
+the mist, and his cold face wore that special look of confident,
+self-complacent happiness that one sees on the face of a boy happily
+in love. The marshals stood behind him not venturing to distract his
+attention. He looked now at the Pratzen Heights, now at the sun floating
+up out of the mist.
+
+When the sun had entirely emerged from the fog, and fields and mist were
+aglow with dazzling light—as if he had only awaited this to begin the
+action—he drew the glove from his shapely white hand, made a sign
+with it to the marshals, and ordered the action to begin. The marshals,
+accompanied by adjutants, galloped off in different directions, and
+a few minutes later the chief forces of the French army moved rapidly
+toward those Pratzen Heights which were being more and more denuded by
+Russian troops moving down the valley to their left.
+
+
+
+
+
+CHAPTER XV
+
+At eight o’clock Kutúzov rode to Pratzen at the head of the fourth
+column, Milorádovich’s, the one that was to take the place of
+Przebyszéwski’s and Langeron’s columns which had already gone down
+into the valley. He greeted the men of the foremost regiment and gave
+them the order to march, thereby indicating that he intended to lead
+that column himself. When he had reached the village of Pratzen he
+halted. Prince Andrew was behind, among the immense number forming the
+commander in chief’s suite. He was in a state of suppressed excitement
+and irritation, though controlledly calm as a man is at the approach of
+a long-awaited moment. He was firmly convinced that this was the day of
+his Toulon, or his bridge of Arcola. How it would come about he did not
+know, but he felt sure it would do so. The locality and the position of
+our troops were known to him as far as they could be known to anyone
+in our army. His own strategic plan, which obviously could not now
+be carried out, was forgotten. Now, entering into Weyrother’s plan,
+Prince Andrew considered possible contingencies and formed new projects
+such as might call for his rapidity of perception and decision.
+
+To the left down below in the mist, the musketry fire of unseen forces
+could be heard. It was there Prince Andrew thought the fight would
+concentrate. “There we shall encounter difficulties, and there,”
+thought he, “I shall be sent with a brigade or division, and there,
+standard in hand, I shall go forward and break whatever is in front of
+me.”
+
+He could not look calmly at the standards of the passing battalions.
+Seeing them he kept thinking, “That may be the very standard with
+which I shall lead the army.”
+
+In the morning all that was left of the night mist on the heights was
+a hoar frost now turning to dew, but in the valleys it still lay like a
+milk-white sea. Nothing was visible in the valley to the left into which
+our troops had descended and from whence came the sounds of firing.
+Above the heights was the dark clear sky, and to the right the vast orb
+of the sun. In front, far off on the farther shore of that sea of mist,
+some wooded hills were discernible, and it was there the enemy probably
+was, for something could be descried. On the right the Guards were
+entering the misty region with a sound of hoofs and wheels and now and
+then a gleam of bayonets; to the left beyond the village similar masses
+of cavalry came up and disappeared in the sea of mist. In front and
+behind moved infantry. The commander in chief was standing at the end of
+the village letting the troops pass by him. That morning Kutúzov seemed
+worn and irritable. The infantry passing before him came to a halt
+without any command being given, apparently obstructed by something in
+front.
+
+“Do order them to form into battalion columns and go round the
+village!” he said angrily to a general who had ridden up. “Don’t
+you understand, your excellency, my dear sir, that you must not
+defile through narrow village streets when we are marching against the
+enemy?”
+
+“I intended to re-form them beyond the village, your excellency,”
+answered the general.
+
+Kutúzov laughed bitterly.
+
+“You’ll make a fine thing of it, deploying in sight of the enemy!
+Very fine!”
+
+“The enemy is still far away, your excellency. According to the
+dispositions...”
+
+“The dispositions!” exclaimed Kutúzov bitterly. “Who told you
+that?... Kindly do as you are ordered.”
+
+“Yes, sir.”
+
+“My dear fellow,” Nesvítski whispered to Prince Andrew, “the old
+man is as surly as a dog.”
+
+An Austrian officer in a white uniform with green plumes in his hat
+galloped up to Kutúzov and asked in the Emperor’s name had the fourth
+column advanced into action.
+
+Kutúzov turned round without answering and his eye happened to fall
+upon Prince Andrew, who was beside him. Seeing him, Kutúzov’s
+malevolent and caustic expression softened, as if admitting that what
+was being done was not his adjutant’s fault, and still not answering
+the Austrian adjutant, he addressed Bolkónski.
+
+“Go, my dear fellow, and see whether the third division has passed the
+village. Tell it to stop and await my orders.”
+
+Hardly had Prince Andrew started than he stopped him.
+
+“And ask whether sharpshooters have been posted,” he added. “What
+are they doing? What are they doing?” he murmured to himself, still
+not replying to the Austrian.
+
+Prince Andrew galloped off to execute the order.
+
+Overtaking the battalions that continued to advance, he stopped
+the third division and convinced himself that there really were no
+sharpshooters in front of our columns. The colonel at the head of the
+regiment was much surprised at the commander in chief’s order to throw
+out skirmishers. He had felt perfectly sure that there were other troops
+in front of him and that the enemy must be at least six miles away.
+There was really nothing to be seen in front except a barren descent
+hidden by dense mist. Having given orders in the commander in chief’s
+name to rectify this omission, Prince Andrew galloped back. Kutúzov
+still in the same place, his stout body resting heavily in the saddle
+with the lassitude of age, sat yawning wearily with closed eyes. The
+troops were no longer moving, but stood with the butts of their muskets
+on the ground.
+
+“All right, all right!” he said to Prince Andrew, and turned to a
+general who, watch in hand, was saying it was time they started as all
+the left-flank columns had already descended.
+
+“Plenty of time, your excellency,” muttered Kutúzov in the midst of
+a yawn. “Plenty of time,” he repeated.
+
+Just then at a distance behind Kutúzov was heard the sound of regiments
+saluting, and this sound rapidly came nearer along the whole extended
+line of the advancing Russian columns. Evidently the person they were
+greeting was riding quickly. When the soldiers of the regiment in front
+of which Kutúzov was standing began to shout, he rode a little to one
+side and looked round with a frown. Along the road from Pratzen galloped
+what looked like a squadron of horsemen in various uniforms. Two of them
+rode side by side in front, at full gallop. One in a black uniform with
+white plumes in his hat rode a bobtailed chestnut horse, the other who
+was in a white uniform rode a black one. These were the two Emperors
+followed by their suites. Kutúzov, affecting the manners of an old
+soldier at the front, gave the command “Attention!” and rode up
+to the Emperors with a salute. His whole appearance and manner were
+suddenly transformed. He put on the air of a subordinate who obeys
+without reasoning. With an affectation of respect which evidently struck
+Alexander unpleasantly, he rode up and saluted.
+
+This unpleasant impression merely flitted over the young and happy face
+of the Emperor like a cloud of haze across a clear sky and vanished.
+After his illness he looked rather thinner that day than on the field
+of Olmütz where Bolkónski had seen him for the first time abroad, but
+there was still the same bewitching combination of majesty and mildness
+in his fine gray eyes, and on his delicate lips the same capacity for
+varying expression and the same prevalent appearance of goodhearted
+innocent youth.
+
+At the Olmütz review he had seemed more majestic; here he seemed
+brighter and more energetic. He was slightly flushed after galloping two
+miles, and reining in his horse he sighed restfully and looked round
+at the faces of his suite, young and animated as his own. Czartorýski,
+Novosíltsev, Prince Volkónsky, Strógonov, and the others, all richly
+dressed gay young men on splendid, well-groomed, fresh, only slightly
+heated horses, exchanging remarks and smiling, had stopped behind the
+Emperor. The Emperor Francis, a rosy, long faced young man, sat very
+erect on his handsome black horse, looking about him in a leisurely and
+preoccupied manner. He beckoned to one of his white adjutants and asked
+some question—“Most likely he is asking at what o’clock they
+started,” thought Prince Andrew, watching his old acquaintance with
+a smile he could not repress as he recalled his reception at Brünn.
+In the Emperors’ suite were the picked young orderly officers of the
+Guard and line regiments, Russian and Austrian. Among them were grooms
+leading the Tsar’s beautiful relay horses covered with embroidered
+cloths.
+
+As when a window is opened a whiff of fresh air from the fields enters
+a stuffy room, so a whiff of youthfulness, energy, and confidence of
+success reached Kutúzov’s cheerless staff with the galloping advent
+of all these brilliant young men.
+
+“Why aren’t you beginning, Michael Ilariónovich?” said the
+Emperor Alexander hurriedly to Kutúzov, glancing courteously at the
+same time at the Emperor Francis.
+
+“I am waiting, Your Majesty,” answered Kutúzov, bending forward
+respectfully.
+
+The Emperor, frowning slightly, bent his ear forward as if he had not
+quite heard.
+
+“Waiting, Your Majesty,” repeated Kutúzov. (Prince Andrew noted
+that Kutúzov’s upper lip twitched unnaturally as he said the
+word “waiting.”) “Not all the columns have formed up yet, Your
+Majesty.”
+
+The Tsar heard but obviously did not like the reply; he shrugged his
+rather round shoulders and glanced at Novosíltsev who was near him, as
+if complaining of Kutúzov.
+
+“You know, Michael Ilariónovich, we are not on the Empress’ Field
+where a parade does not begin till all the troops are assembled,” said
+the Tsar with another glance at the Emperor Francis, as if inviting
+him if not to join in at least to listen to what he was saying. But the
+Emperor Francis continued to look about him and did not listen.
+
+“That is just why I do not begin, sire,” said Kutúzov in a
+resounding voice, apparently to preclude the possibility of not being
+heard, and again something in his face twitched—“That is just why
+I do not begin, sire, because we are not on parade and not on the
+Empress’ Field,” said he clearly and distinctly.
+
+In the Emperor’s suite all exchanged rapid looks that expressed
+dissatisfaction and reproach. “Old though he may be, he should not, he
+certainly should not, speak like that,” their glances seemed to say.
+
+The Tsar looked intently and observantly into Kutúzov’s eye
+waiting to hear whether he would say anything more. But Kutúzov, with
+respectfully bowed head, seemed also to be waiting. The silence lasted
+for about a minute.
+
+“However, if you command it, Your Majesty,” said Kutúzov, lifting
+his head and again assuming his former tone of a dull, unreasoning, but
+submissive general.
+
+He touched his horse and having called Milorádovich, the commander of
+the column, gave him the order to advance.
+
+The troops again began to move, and two battalions of the Nóvgorod and
+one of the Ápsheron regiment went forward past the Emperor.
+
+As this Ápsheron battalion marched by, the red-faced Milorádovich,
+without his greatcoat, with his Orders on his breast and an enormous
+tuft of plumes in his cocked hat worn on one side with its corners front
+and back, galloped strenuously forward, and with a dashing salute reined
+in his horse before the Emperor.
+
+“God be with you, general!” said the Emperor.
+
+“Ma foi, sire, nous ferons ce qui sera dans notre possibilité,
+sire,” * he answered gaily, raising nevertheless ironic smiles among
+the gentlemen of the Tsar’s suite by his poor French.
+
+     * “Indeed, Sire, we shall do everything it is possible to
+     do, Sire.”
+
+
+Milorádovich wheeled his horse sharply and stationed himself a little
+behind the Emperor. The Ápsheron men, excited by the Tsar’s presence,
+passed in step before the Emperors and their suites at a bold, brisk
+pace.
+
+“Lads!” shouted Milorádovich in a loud, self-confident, and cheery
+voice, obviously so elated by the sound of firing, by the prospect of
+battle, and by the sight of the gallant Ápsherons, his comrades in
+Suvórov’s time, now passing so gallantly before the Emperors, that he
+forgot the sovereigns’ presence. “Lads, it’s not the first village
+you’ve had to take,” cried he.
+
+“Glad to do our best!” shouted the soldiers.
+
+The Emperor’s horse started at the sudden cry. This horse that had
+carried the sovereign at reviews in Russia bore him also here on the
+field of Austerlitz, enduring the heedless blows of his left foot and
+pricking its ears at the sound of shots just as it had done on the
+Empress’ Field, not understanding the significance of the firing, nor
+of the nearness of the Emperor Francis’ black cob, nor of all that was
+being said, thought, and felt that day by its rider.
+
+The Emperor turned with a smile to one of his followers and made a
+remark to him, pointing to the gallant Ápsherons.
+
+
+
+
+
+CHAPTER XVI
+
+Kutúzov accompanied by his adjutants rode at a walking pace behind the
+carabineers.
+
+When he had gone less than half a mile in the rear of the column he
+stopped at a solitary, deserted house that had probably once been an
+inn, where two roads parted. Both of them led downhill and troops were
+marching along both.
+
+The fog had begun to clear and enemy troops were already dimly visible
+about a mile and a half off on the opposite heights. Down below, on
+the left, the firing became more distinct. Kutúzov had stopped and was
+speaking to an Austrian general. Prince Andrew, who was a little behind
+looking at them, turned to an adjutant to ask him for a field glass.
+
+“Look, look!” said this adjutant, looking not at the troops in the
+distance, but down the hill before him. “It’s the French!”
+
+The two generals and the adjutant took hold of the field glass, trying
+to snatch it from one another. The expression on all their faces
+suddenly changed to one of horror. The French were supposed to be a
+mile and a half away, but had suddenly and unexpectedly appeared just in
+front of us.
+
+“It’s the enemy?... No!... Yes, see it is!... for certain.... But
+how is that?” said different voices.
+
+With the naked eye Prince Andrew saw below them to the right, not more
+than five hundred paces from where Kutúzov was standing, a dense French
+column coming up to meet the Ápsherons.
+
+“Here it is! The decisive moment has arrived. My turn has come,”
+thought Prince Andrew, and striking his horse he rode up to Kutúzov.
+
+“The Ápsherons must be stopped, your excellency,” cried he. But at
+that very instant a cloud of smoke spread all round, firing was heard
+quite close at hand, and a voice of naïve terror barely two steps from
+Prince Andrew shouted, “Brothers! All’s lost!” And at this as if
+at a command, everyone began to run.
+
+Confused and ever-increasing crowds were running back to where five
+minutes before the troops had passed the Emperors. Not only would it
+have been difficult to stop that crowd, it was even impossible not to
+be carried back with it oneself. Bolkónski only tried not to lose
+touch with it, and looked around bewildered and unable to grasp what was
+happening in front of him. Nesvítski with an angry face, red and unlike
+himself, was shouting to Kutúzov that if he did not ride away at once
+he would certainly be taken prisoner. Kutúzov remained in the same
+place and without answering drew out a handkerchief. Blood was flowing
+from his cheek. Prince Andrew forced his way to him.
+
+“You are wounded?” he asked, hardly able to master the trembling of
+his lower jaw.
+
+“The wound is not here, it is there!” said Kutúzov, pressing the
+handkerchief to his wounded cheek and pointing to the fleeing soldiers.
+“Stop them!” he shouted, and at the same moment, probably realizing
+that it was impossible to stop them, spurred his horse and rode to the
+right.
+
+A fresh wave of the flying mob caught him and bore him back with it.
+
+The troops were running in such a dense mass that once surrounded by
+them it was difficult to get out again. One was shouting, “Get on!
+Why are you hindering us?” Another in the same place turned round and
+fired in the air; a third was striking the horse Kutúzov himself rode.
+Having by a great effort got away to the left from that flood of men,
+Kutúzov, with his suite diminished by more than half, rode toward a
+sound of artillery fire near by. Having forced his way out of the crowd
+of fugitives, Prince Andrew, trying to keep near Kutúzov, saw on the
+slope of the hill amid the smoke a Russian battery that was still firing
+and Frenchmen running toward it. Higher up stood some Russian infantry,
+neither moving forward to protect the battery nor backward with the
+fleeing crowd. A mounted general separated himself from the infantry and
+approached Kutúzov. Of Kutúzov’s suite only four remained. They were
+all pale and exchanged looks in silence.
+
+“Stop those wretches!” gasped Kutúzov to the regimental commander,
+pointing to the flying soldiers; but at that instant, as if to punish
+him for those words, bullets flew hissing across the regiment and across
+Kutúzov’s suite like a flock of little birds.
+
+The French had attacked the battery and, seeing Kutúzov, were firing
+at him. After this volley the regimental commander clutched at his leg;
+several soldiers fell, and a second lieutenant who was holding the
+flag let it fall from his hands. It swayed and fell, but caught on the
+muskets of the nearest soldiers. The soldiers started firing without
+orders.
+
+“Oh! Oh! Oh!” groaned Kutúzov despairingly and looked around....
+“Bolkónski!” he whispered, his voice trembling from a consciousness
+of the feebleness of age, “Bolkónski!” he whispered, pointing to
+the disordered battalion and at the enemy, “what’s that?”
+
+But before he had finished speaking, Prince Andrew, feeling tears of
+shame and anger choking him, had already leapt from his horse and run to
+the standard.
+
+“Forward, lads!” he shouted in a voice piercing as a child’s.
+
+“Here it is!” thought he, seizing the staff of the standard and
+hearing with pleasure the whistle of bullets evidently aimed at him.
+Several soldiers fell.
+
+“Hurrah!” shouted Prince Andrew, and, scarcely able to hold up
+the heavy standard, he ran forward with full confidence that the whole
+battalion would follow him.
+
+And really he only ran a few steps alone. One soldier moved and then
+another and soon the whole battalion ran forward shouting “Hurrah!”
+and overtook him. A sergeant of the battalion ran up and took the flag
+that was swaying from its weight in Prince Andrew’s hands, but he
+was immediately killed. Prince Andrew again seized the standard and,
+dragging it by the staff, ran on with the battalion. In front he saw our
+artillerymen, some of whom were fighting, while others, having abandoned
+their guns, were running toward him. He also saw French infantry
+soldiers who were seizing the artillery horses and turning the guns
+round. Prince Andrew and the battalion were already within twenty paces
+of the cannon. He heard the whistle of bullets above him unceasingly and
+to right and left of him soldiers continually groaned and dropped. But
+he did not look at them: he looked only at what was going on in front
+of him—at the battery. He now saw clearly the figure of a red-haired
+gunner with his shako knocked awry, pulling one end of a mop while
+a French soldier tugged at the other. He could distinctly see the
+distraught yet angry expression on the faces of these two men, who
+evidently did not realize what they were doing.
+
+“What are they about?” thought Prince Andrew as he gazed at them.
+“Why doesn’t the red-haired gunner run away as he is unarmed?
+Why doesn’t the Frenchman stab him? He will not get away before the
+Frenchman remembers his bayonet and stabs him....”
+
+And really another French soldier, trailing his musket, ran up to
+the struggling men, and the fate of the red-haired gunner, who had
+triumphantly secured the mop and still did not realize what awaited him,
+was about to be decided. But Prince Andrew did not see how it ended. It
+seemed to him as though one of the soldiers near him hit him on the head
+with the full swing of a bludgeon. It hurt a little, but the worst of
+it was that the pain distracted him and prevented his seeing what he had
+been looking at.
+
+“What’s this? Am I falling? My legs are giving way,” thought he,
+and fell on his back. He opened his eyes, hoping to see how the struggle
+of the Frenchmen with the gunners ended, whether the red-haired gunner
+had been killed or not and whether the cannon had been captured or
+saved. But he saw nothing. Above him there was now nothing but the
+sky—the lofty sky, not clear yet still immeasurably lofty, with gray
+clouds gliding slowly across it. “How quiet, peaceful, and solemn; not
+at all as I ran,” thought Prince Andrew—“not as we ran, shouting
+and fighting, not at all as the gunner and the Frenchman with frightened
+and angry faces struggled for the mop: how differently do those clouds
+glide across that lofty infinite sky! How was it I did not see that
+lofty sky before? And how happy I am to have found it at last! Yes! All
+is vanity, all falsehood, except that infinite sky. There is nothing,
+nothing, but that. But even it does not exist, there is nothing but
+quiet and peace. Thank God!...”
+
+
+
+
+
+CHAPTER XVII
+
+On our right flank commanded by Bagratión, at nine o’clock the battle
+had not yet begun. Not wishing to agree to Dolgorúkov’s demand to
+commence the action, and wishing to avert responsibility from himself,
+Prince Bagratión proposed to Dolgorúkov to send to inquire of the
+commander in chief. Bagratión knew that as the distance between the two
+flanks was more than six miles, even if the messenger were not killed
+(which he very likely would be), and found the commander in chief
+(which would be very difficult), he would not be able to get back before
+evening.
+
+Bagratión cast his large, expressionless, sleepy eyes round his suite,
+and the boyish face of Rostóv, breathless with excitement and hope, was
+the first to catch his eye. He sent him.
+
+“And if I should meet His Majesty before I meet the commander in
+chief, your excellency?” said Rostóv, with his hand to his cap.
+
+“You can give the message to His Majesty,” said Dolgorúkov,
+hurriedly interrupting Bagratión.
+
+On being relieved from picket duty Rostóv had managed to get a few
+hours’ sleep before morning and felt cheerful, bold, and resolute,
+with elasticity of movement, faith in his good fortune, and generally in
+that state of mind which makes everything seem possible, pleasant, and
+easy.
+
+All his wishes were being fulfilled that morning: there was to be a
+general engagement in which he was taking part, more than that, he was
+orderly to the bravest general, and still more, he was going with a
+message to Kutúzov, perhaps even to the sovereign himself. The morning
+was bright, he had a good horse under him, and his heart was full of
+joy and happiness. On receiving the order he gave his horse the rein
+and galloped along the line. At first he rode along the line of
+Bagratión’s troops, which had not yet advanced into action but were
+standing motionless; then he came to the region occupied by Uvárov’s
+cavalry and here he noticed a stir and signs of preparation for battle;
+having passed Uvárov’s cavalry he clearly heard the sound of cannon
+and musketry ahead of him. The firing grew louder and louder.
+
+In the fresh morning air were now heard, not two or three musket shots
+at irregular intervals as before, followed by one or two cannon shots,
+but a roll of volleys of musketry from the slopes of the hill before
+Pratzen, interrupted by such frequent reports of cannon that sometimes
+several of them were not separated from one another but merged into a
+general roar.
+
+He could see puffs of musketry smoke that seemed to chase one another
+down the hillsides, and clouds of cannon smoke rolling, spreading,
+and mingling with one another. He could also, by the gleam of bayonets
+visible through the smoke, make out moving masses of infantry and narrow
+lines of artillery with green caissons.
+
+Rostóv stopped his horse for a moment on a hillock to see what was
+going on, but strain his attention as he would he could not understand
+or make out anything of what was happening: there in the smoke men of
+some sort were moving about, in front and behind moved lines of troops;
+but why, whither, and who they were, it was impossible to make out.
+These sights and sounds had no depressing or intimidating effect on him;
+on the contrary, they stimulated his energy and determination.
+
+“Go on! Go on! Give it them!” he mentally exclaimed at these sounds,
+and again proceeded to gallop along the line, penetrating farther and
+farther into the region where the army was already in action.
+
+“How it will be there I don’t know, but all will be well!” thought
+Rostóv.
+
+After passing some Austrian troops he noticed that the next part of the
+line (the Guards) was already in action.
+
+“So much the better! I shall see it close,” he thought.
+
+He was riding almost along the front line. A handful of men came
+galloping toward him. They were our Uhlans who with disordered
+ranks were returning from the attack. Rostóv got out of their way,
+involuntarily noticed that one of them was bleeding, and galloped on.
+
+“That is no business of mine,” he thought. He had not ridden many
+hundred yards after that before he saw to his left, across the whole
+width of the field, an enormous mass of cavalry in brilliant white
+uniforms, mounted on black horses, trotting straight toward him and
+across his path. Rostóv put his horse to full gallop to get out of the
+way of these men, and he would have got clear had they continued at the
+same speed, but they kept increasing their pace, so that some of the
+horses were already galloping. Rostóv heard the thud of their hoofs
+and the jingle of their weapons and saw their horses, their figures, and
+even their faces, more and more distinctly. They were our Horse Guards,
+advancing to attack the French cavalry that was coming to meet them.
+
+The Horse Guards were galloping, but still holding in their horses.
+Rostóv could already see their faces and heard the command:
+“Charge!” shouted by an officer who was urging his thoroughbred to
+full speed. Rostóv, fearing to be crushed or swept into the attack on
+the French, galloped along the front as hard as his horse could go, but
+still was not in time to avoid them.
+
+The last of the Horse Guards, a huge pockmarked fellow, frowned angrily
+on seeing Rostóv before him, with whom he would inevitably collide.
+This Guardsman would certainly have bowled Rostóv and his Bedouin over
+(Rostóv felt himself quite tiny and weak compared to these gigantic men
+and horses) had it not occurred to Rostóv to flourish his whip before
+the eyes of the Guardsman’s horse. The heavy black horse, sixteen
+hands high, shied, throwing back its ears; but the pockmarked Guardsman
+drove his huge spurs in violently, and the horse, flourishing its tail
+and extending its neck, galloped on yet faster. Hardly had the Horse
+Guards passed Rostóv before he heard them shout, “Hurrah!” and
+looking back saw that their foremost ranks were mixed up with some
+foreign cavalry with red epaulets, probably French. He could see nothing
+more, for immediately afterwards cannon began firing from somewhere and
+smoke enveloped everything.
+
+At that moment, as the Horse Guards, having passed him, disappeared in
+the smoke, Rostóv hesitated whether to gallop after them or to go where
+he was sent. This was the brilliant charge of the Horse Guards that
+amazed the French themselves. Rostóv was horrified to hear later that
+of all that mass of huge and handsome men, of all those brilliant,
+rich youths, officers and cadets, who had galloped past him on their
+thousand-ruble horses, only eighteen were left after the charge.
+
+“Why should I envy them? My chance is not lost, and maybe I shall see
+the Emperor immediately!” thought Rostóv and galloped on.
+
+When he came level with the Foot Guards he noticed that about them and
+around them cannon balls were flying, of which he was aware not so
+much because he heard their sound as because he saw uneasiness on
+the soldiers’ faces and unnatural warlike solemnity on those of the
+officers.
+
+Passing behind one of the lines of a regiment of Foot Guards he heard a
+voice calling him by name.
+
+“Rostóv!”
+
+“What?” he answered, not recognizing Borís.
+
+“I say, we’ve been in the front line! Our regiment attacked!” said
+Borís with the happy smile seen on the faces of young men who have been
+under fire for the first time.
+
+Rostóv stopped.
+
+“Have you?” he said. “Well, how did it go?”
+
+“We drove them back!” said Borís with animation, growing talkative.
+“Can you imagine it?” and he began describing how the Guards, having
+taken up their position and seeing troops before them, thought they were
+Austrians, and all at once discovered from the cannon balls discharged
+by those troops that they were themselves in the front line and had
+unexpectedly to go into action. Rostóv without hearing Borís to the
+end spurred his horse.
+
+“Where are you off to?” asked Borís.
+
+“With a message to His Majesty.”
+
+“There he is!” said Borís, thinking Rostóv had said “His
+Highness,” and pointing to the Grand Duke who with his high shoulders
+and frowning brows stood a hundred paces away from them in his helmet
+and Horse Guards’ jacket, shouting something to a pale, white
+uniformed Austrian officer.
+
+“But that’s the Grand Duke, and I want the commander in chief or the
+Emperor,” said Rostóv, and was about to spur his horse.
+
+“Count! Count!” shouted Berg who ran up from the other side as eager
+as Borís. “Count! I am wounded in my right hand” (and he showed his
+bleeding hand with a handkerchief tied round it) “and I remained at
+the front. I held my sword in my left hand, Count. All our family—the
+von Bergs—have been knights!”
+
+He said something more, but Rostóv did not wait to hear it and rode
+away.
+
+Having passed the Guards and traversed an empty space, Rostóv, to avoid
+again getting in front of the first line as he had done when the Horse
+Guards charged, followed the line of reserves, going far round the place
+where the hottest musket fire and cannonade were heard. Suddenly he
+heard musket fire quite close in front of him and behind our troops,
+where he could never have expected the enemy to be.
+
+“What can it be?” he thought. “The enemy in the rear of our army?
+Impossible!” And suddenly he was seized by a panic of fear for himself
+and for the issue of the whole battle. “But be that what it may,”
+he reflected, “there is no riding round it now. I must look for the
+commander in chief here, and if all is lost it is for me to perish with
+the rest.”
+
+The foreboding of evil that had suddenly come over Rostóv was more and
+more confirmed the farther he rode into the region behind the village of
+Pratzen, which was full of troops of all kinds.
+
+“What does it mean? What is it? Whom are they firing at? Who is
+firing?” Rostóv kept asking as he came up to Russian and Austrian
+soldiers running in confused crowds across his path.
+
+“The devil knows! They’ve killed everybody! It’s all up now!”
+he was told in Russian, German, and Czech by the crowd of fugitives who
+understood what was happening as little as he did.
+
+“Kill the Germans!” shouted one.
+
+“May the devil take them—the traitors!”
+
+“Zum Henker diese Russen!” * muttered a German.
+
+    * “Hang these Russians!”
+
+
+Several wounded men passed along the road, and words of abuse, screams,
+and groans mingled in a general hubbub, then the firing died down.
+Rostóv learned later that Russian and Austrian soldiers had been firing
+at one another.
+
+“My God! What does it all mean?” thought he. “And here, where at
+any moment the Emperor may see them.... But no, these must be only a
+handful of scoundrels. It will soon be over, it can’t be that, it
+can’t be! Only to get past them quicker, quicker!”
+
+The idea of defeat and flight could not enter Rostóv’s head. Though
+he saw French cannon and French troops on the Pratzen Heights just where
+he had been ordered to look for the commander in chief, he could not,
+did not wish to, believe that.
+
+
+
+
+
+CHAPTER XVIII
+
+Rostóv had been ordered to look for Kutúzov and the Emperor near the
+village of Pratzen. But neither they nor a single commanding officer
+were there, only disorganized crowds of troops of various kinds. He
+urged on his already weary horse to get quickly past these crowds, but
+the farther he went the more disorganized they were. The highroad on
+which he had come out was thronged with calèches, carriages of all
+sorts, and Russian and Austrian soldiers of all arms, some wounded and
+some not. This whole mass droned and jostled in confusion under the
+dismal influence of cannon balls flying from the French batteries
+stationed on the Pratzen Heights.
+
+“Where is the Emperor? Where is Kutúzov?” Rostóv kept asking
+everyone he could stop, but got no answer from anyone.
+
+At last seizing a soldier by his collar he forced him to answer.
+
+“Eh, brother! They’ve all bolted long ago!” said the soldier,
+laughing for some reason and shaking himself free.
+
+Having left that soldier who was evidently drunk, Rostóv stopped the
+horse of a batman or groom of some important personage and began to
+question him. The man announced that the Tsar had been driven in a
+carriage at full speed about an hour before along that very road and
+that he was dangerously wounded.
+
+“It can’t be!” said Rostóv. “It must have been someone else.”
+
+“I saw him myself,” replied the man with a self-confident smile of
+derision. “I ought to know the Emperor by now, after the times I’ve
+seen him in Petersburg. I saw him just as I see you.... There he sat in
+the carriage as pale as anything. How they made the four black horses
+fly! Gracious me, they did rattle past! It’s time I knew the Imperial
+horses and Ilyá Iványch. I don’t think Ilyá drives anyone except
+the Tsar!”
+
+Rostóv let go of the horse and was about to ride on, when a wounded
+officer passing by addressed him:
+
+“Who is it you want?” he asked. “The commander in chief? He was
+killed by a cannon ball—struck in the breast before our regiment.”
+
+“Not killed—wounded!” another officer corrected him.
+
+“Who? Kutúzov?” asked Rostóv.
+
+“Not Kutúzov, but what’s his name—well, never mind... there are
+not many left alive. Go that way, to that village, all the commanders
+are there,” said the officer, pointing to the village of Hosjeradek,
+and he walked on.
+
+Rostóv rode on at a footpace not knowing why or to whom he was now
+going. The Emperor was wounded, the battle lost. It was impossible to
+doubt it now. Rostóv rode in the direction pointed out to him, in which
+he saw turrets and a church. What need to hurry? What was he now to say
+to the Tsar or to Kutúzov, even if they were alive and unwounded?
+
+“Take this road, your honor, that way you will be killed at once!” a
+soldier shouted to him. “They’d kill you there!”
+
+“Oh, what are you talking about?” said another. “Where is he to
+go? That way is nearer.”
+
+Rostóv considered, and then went in the direction where they said he
+would be killed.
+
+“It’s all the same now. If the Emperor is wounded, am I to try to
+save myself?” he thought. He rode on to the region where the greatest
+number of men had perished in fleeing from Pratzen. The French had not
+yet occupied that region, and the Russians—the uninjured and slightly
+wounded—had left it long ago. All about the field, like heaps of
+manure on well-kept plowland, lay from ten to fifteen dead and wounded
+to each couple of acres. The wounded crept together in twos and threes
+and one could hear their distressing screams and groans, sometimes
+feigned—or so it seemed to Rostóv. He put his horse to a trot to
+avoid seeing all these suffering men, and he felt afraid—afraid not
+for his life, but for the courage he needed and which he knew would not
+stand the sight of these unfortunates.
+
+The French, who had ceased firing at this field strewn with dead and
+wounded where there was no one left to fire at, on seeing an adjutant
+riding over it trained a gun on him and fired several shots. The
+sensation of those terrible whistling sounds and of the corpses around
+him merged in Rostóv’s mind into a single feeling of terror and pity
+for himself. He remembered his mother’s last letter. “What would she
+feel,” thought he, “if she saw me here now on this field with the
+cannon aimed at me?”
+
+In the village of Hosjeradek there were Russian troops retiring from
+the field of battle, who though still in some confusion were less
+disordered. The French cannon did not reach there and the musketry fire
+sounded far away. Here everyone clearly saw and said that the battle
+was lost. No one whom Rostóv asked could tell him where the Emperor
+or Kutúzov was. Some said the report that the Emperor was wounded was
+correct, others that it was not, and explained the false rumor that had
+spread by the fact that the Emperor’s carriage had really galloped
+from the field of battle with the pale and terrified Ober-Hofmarschal
+Count Tolstóy, who had ridden out to the battlefield with others in
+the Emperor’s suite. One officer told Rostóv that he had seen someone
+from headquarters behind the village to the left, and thither Rostóv
+rode, not hoping to find anyone but merely to ease his conscience. When
+he had ridden about two miles and had passed the last of the Russian
+troops, he saw, near a kitchen garden with a ditch round it, two men
+on horseback facing the ditch. One with a white plume in his hat seemed
+familiar to Rostóv; the other on a beautiful chestnut horse (which
+Rostóv fancied he had seen before) rode up to the ditch, struck his
+horse with his spurs, and giving it the rein leaped lightly over. Only
+a little earth crumbled from the bank under the horse’s hind hoofs.
+Turning the horse sharply, he again jumped the ditch, and deferentially
+addressed the horseman with the white plumes, evidently suggesting
+that he should do the same. The rider, whose figure seemed familiar
+to Rostóv and involuntarily riveted his attention, made a gesture of
+refusal with his head and hand and by that gesture Rostóv instantly
+recognized his lamented and adored monarch.
+
+“But it can’t be he, alone in the midst of this empty field!”
+thought Rostóv. At that moment Alexander turned his head and Rostóv
+saw the beloved features that were so deeply engraved on his memory. The
+Emperor was pale, his cheeks sunken and his eyes hollow, but the charm,
+the mildness of his features, was all the greater. Rostóv was happy
+in the assurance that the rumors about the Emperor being wounded were
+false. He was happy to be seeing him. He knew that he might and even
+ought to go straight to him and give the message Dolgorúkov had ordered
+him to deliver.
+
+But as a youth in love trembles, is unnerved, and dares not utter the
+thoughts he has dreamed of for nights, but looks around for help or a
+chance of delay and flight when the longed-for moment comes and he is
+alone with her, so Rostóv, now that he had attained what he had longed
+for more than anything else in the world, did not know how to approach
+the Emperor, and a thousand reasons occurred to him why it would be
+inconvenient, unseemly, and impossible to do so.
+
+“What! It is as if I were glad of a chance to take advantage of
+his being alone and despondent! A strange face may seem unpleasant or
+painful to him at this moment of sorrow; besides, what can I say to him
+now, when my heart fails me and my mouth feels dry at the mere sight
+of him?” Not one of the innumerable speeches addressed to the Emperor
+that he had composed in his imagination could he now recall. Those
+speeches were intended for quite other conditions, they were for the
+most part to be spoken at a moment of victory and triumph, generally
+when he was dying of wounds and the sovereign had thanked him for heroic
+deeds, and while dying he expressed the love his actions had proved.
+
+“Besides how can I ask the Emperor for his instructions for the right
+flank now that it is nearly four o’clock and the battle is lost?
+No, certainly I must not approach him, I must not intrude on his
+reflections. Better die a thousand times than risk receiving an unkind
+look or bad opinion from him,” Rostóv decided; and sorrowfully and
+with a heart full despair he rode away, continually looking back at the
+Tsar, who still remained in the same attitude of indecision.
+
+While Rostóv was thus arguing with himself and riding sadly away,
+Captain von Toll chanced to ride to the same spot, and seeing the
+Emperor at once rode up to him, offered his services, and assisted him
+to cross the ditch on foot. The Emperor, wishing to rest and feeling
+unwell, sat down under an apple tree and von Toll remained beside him.
+Rostóv from a distance saw with envy and remorse how von Toll spoke
+long and warmly to the Emperor and how the Emperor, evidently weeping,
+covered his eyes with his hand and pressed von Toll’s hand.
+
+“And I might have been in his place!” thought Rostóv, and hardly
+restraining his tears of pity for the Emperor, he rode on in utter
+despair, not knowing where to or why he was now riding.
+
+His despair was all the greater from feeling that his own weakness was
+the cause of his grief.
+
+He might... not only might but should, have gone up to the sovereign. It
+was a unique chance to show his devotion to the Emperor and he had not
+made use of it.... “What have I done?” thought he. And he turned
+round and galloped back to the place where he had seen the Emperor, but
+there was no one beyond the ditch now. Only some carts and carriages
+were passing by. From one of the drivers he learned that Kutúzov’s
+staff were not far off, in the village the vehicles were going to.
+Rostóv followed them. In front of him walked Kutúzov’s groom leading
+horses in horsecloths. Then came a cart, and behind that walked an old,
+bandy-legged domestic serf in a peaked cap and sheepskin coat.
+
+“Tit! I say, Tit!” said the groom.
+
+“What?” answered the old man absent-mindedly.
+
+“Go, Tit! Thresh a bit!”
+
+“Oh, you fool!” said the old man, spitting angrily. Some time passed
+in silence, and then the same joke was repeated.
+
+
+Before five in the evening the battle had been lost at all points. More
+than a hundred cannon were already in the hands of the French.
+
+Przebyszéwski and his corps had laid down their arms. Other columns
+after losing half their men were retreating in disorderly confused
+masses.
+
+The remains of Langeron’s and Dokhtúrov’s mingled forces were
+crowding around the dams and banks of the ponds near the village of
+Augesd.
+
+After five o’clock it was only at the Augesd Dam that a hot cannonade
+(delivered by the French alone) was still to be heard from numerous
+batteries ranged on the slopes of the Pratzen Heights, directed at our
+retreating forces.
+
+In the rearguard, Dokhtúrov and others rallying some battalions kept up
+a musketry fire at the French cavalry that was pursuing our troops. It
+was growing dusk. On the narrow Augesd Dam where for so many years the
+old miller had been accustomed to sit in his tasseled cap peacefully
+angling, while his grandson, with shirt sleeves rolled up, handled the
+floundering silvery fish in the watering can, on that dam over which for
+so many years Moravians in shaggy caps and blue jackets had peacefully
+driven their two-horse carts loaded with wheat and had returned dusty
+with flour whitening their carts—on that narrow dam amid the wagons
+and the cannon, under the horses’ hoofs and between the wagon wheels,
+men disfigured by fear of death now crowded together, crushing one
+another, dying, stepping over the dying and killing one another, only to
+move on a few steps and be killed themselves in the same way.
+
+Every ten seconds a cannon ball flew compressing the air around, or
+a shell burst in the midst of that dense throng, killing some and
+splashing with blood those near them.
+
+Dólokhov—now an officer—wounded in the arm, and on foot, with
+the regimental commander on horseback and some ten men of his company,
+represented all that was left of that whole regiment. Impelled by the
+crowd, they had got wedged in at the approach to the dam and, jammed in
+on all sides, had stopped because a horse in front had fallen under a
+cannon and the crowd were dragging it out. A cannon ball killed someone
+behind them, another fell in front and splashed Dólokhov with blood.
+The crowd, pushing forward desperately, squeezed together, moved a few
+steps, and again stopped.
+
+“Move on a hundred yards and we are certainly saved, remain here
+another two minutes and it is certain death,” thought each one.
+
+Dólokhov who was in the midst of the crowd forced his way to the edge
+of the dam, throwing two soldiers off their feet, and ran onto the
+slippery ice that covered the millpool.
+
+“Turn this way!” he shouted, jumping over the ice which creaked
+under him; “turn this way!” he shouted to those with the gun. “It
+bears!...”
+
+The ice bore him but it swayed and creaked, and it was plain that it
+would give way not only under a cannon or a crowd, but very soon even
+under his weight alone. The men looked at him and pressed to the
+bank, hesitating to step onto the ice. The general on horseback at the
+entrance to the dam raised his hand and opened his mouth to address
+Dólokhov. Suddenly a cannon ball hissed so low above the crowd that
+everyone ducked. It flopped into something moist, and the general fell
+from his horse in a pool of blood. Nobody gave him a look or thought of
+raising him.
+
+“Get onto the ice, over the ice! Go on! Turn! Don’t you hear? Go
+on!” innumerable voices suddenly shouted after the ball had struck
+the general, the men themselves not knowing what, or why, they were
+shouting.
+
+One of the hindmost guns that was going onto the dam turned off onto the
+ice. Crowds of soldiers from the dam began running onto the frozen pond.
+The ice gave way under one of the foremost soldiers, and one leg slipped
+into the water. He tried to right himself but fell in up to his waist.
+The nearest soldiers shrank back, the gun driver stopped his horse, but
+from behind still came the shouts: “Onto the ice, why do you stop? Go
+on! Go on!” And cries of horror were heard in the crowd. The soldiers
+near the gun waved their arms and beat the horses to make them turn and
+move on. The horses moved off the bank. The ice, that had held under
+those on foot, collapsed in a great mass, and some forty men who were on
+it dashed, some forward and some back, drowning one another.
+
+Still the cannon balls continued regularly to whistle and flop onto the
+ice and into the water and oftenest of all among the crowd that covered
+the dam, the pond, and the bank.
+
+
+
+
+
+CHAPTER XIX
+
+On the Pratzen Heights, where he had fallen with the flagstaff in his
+hand, lay Prince Andrew Bolkónski bleeding profusely and unconsciously
+uttering a gentle, piteous, and childlike moan.
+
+Toward evening he ceased moaning and became quite still. He did not know
+how long his unconsciousness lasted. Suddenly he again felt that he was
+alive and suffering from a burning, lacerating pain in his head.
+
+“Where is it, that lofty sky that I did not know till now, but saw
+today?” was his first thought. “And I did not know this suffering
+either,” he thought. “Yes, I did not know anything, anything at all
+till now. But where am I?”
+
+He listened and heard the sound of approaching horses, and voices
+speaking French. He opened his eyes. Above him again was the same lofty
+sky with clouds that had risen and were floating still higher, and
+between them gleamed blue infinity. He did not turn his head and did not
+see those who, judging by the sound of hoofs and voices, had ridden up
+and stopped near him.
+
+It was Napoleon accompanied by two aides-de-camp. Bonaparte riding
+over the battlefield had given final orders to strengthen the batteries
+firing at the Augesd Dam and was looking at the killed and wounded left
+on the field.
+
+“Fine men!” remarked Napoleon, looking at a dead Russian grenadier,
+who, with his face buried in the ground and a blackened nape, lay on his
+stomach with an already stiffened arm flung wide.
+
+“The ammunition for the guns in position is exhausted, Your
+Majesty,” said an adjutant who had come from the batteries that were
+firing at Augesd.
+
+“Have some brought from the reserve,” said Napoleon, and having gone
+on a few steps he stopped before Prince Andrew, who lay on his back with
+the flagstaff that had been dropped beside him. (The flag had already
+been taken by the French as a trophy.)
+
+“That’s a fine death!” said Napoleon as he gazed at Bolkónski.
+
+Prince Andrew understood that this was said of him and that it was
+Napoleon who said it. He heard the speaker addressed as Sire. But he
+heard the words as he might have heard the buzzing of a fly. Not only
+did they not interest him, but he took no notice of them and at once
+forgot them. His head was burning, he felt himself bleeding to death,
+and he saw above him the remote, lofty, and everlasting sky. He knew it
+was Napoleon—his hero—but at that moment Napoleon seemed to him
+such a small, insignificant creature compared with what was passing now
+between himself and that lofty infinite sky with the clouds flying over
+it. At that moment it meant nothing to him who might be standing over
+him, or what was said of him; he was only glad that people were standing
+near him and only wished that they would help him and bring him back to
+life, which seemed to him so beautiful now that he had today learned to
+understand it so differently. He collected all his strength, to stir and
+utter a sound. He feebly moved his leg and uttered a weak, sickly groan
+which aroused his own pity.
+
+“Ah! He is alive,” said Napoleon. “Lift this young man up and
+carry him to the dressing station.”
+
+Having said this, Napoleon rode on to meet Marshal Lannes, who, hat in
+hand, rode up smiling to the Emperor to congratulate him on the victory.
+
+Prince Andrew remembered nothing more: he lost consciousness from the
+terrible pain of being lifted onto the stretcher, the jolting while
+being moved, and the probing of his wound at the dressing station.
+He did not regain consciousness till late in the day, when with other
+wounded and captured Russian officers he was carried to the hospital.
+During this transfer he felt a little stronger and was able to look
+about him and even speak.
+
+The first words he heard on coming to his senses were those of a French
+convoy officer, who said rapidly: “We must halt here: the Emperor
+will pass here immediately; it will please him to see these gentlemen
+prisoners.”
+
+“There are so many prisoners today, nearly the whole Russian army,
+that he is probably tired of them,” said another officer.
+
+“All the same! They say this one is the commander of all the Emperor
+Alexander’s Guards,” said the first one, indicating a Russian
+officer in the white uniform of the Horse Guards.
+
+Bolkónski recognized Prince Repnín whom he had met in Petersburg
+society. Beside him stood a lad of nineteen, also a wounded officer of
+the Horse Guards.
+
+Bonaparte, having come up at a gallop, stopped his horse.
+
+“Which is the senior?” he asked, on seeing the prisoners.
+
+They named the colonel, Prince Repnín.
+
+“You are the commander of the Emperor Alexander’s regiment of Horse
+Guards?” asked Napoleon.
+
+“I commanded a squadron,” replied Repnín.
+
+“Your regiment fulfilled its duty honorably,” said Napoleon.
+
+“The praise of a great commander is a soldier’s highest reward,”
+said Repnín.
+
+“I bestow it with pleasure,” said Napoleon. “And who is that young
+man beside you?”
+
+Prince Repnín named Lieutenant Sukhtélen.
+
+After looking at him Napoleon smiled.
+
+“He’s very young to come to meddle with us.”
+
+“Youth is no hindrance to courage,” muttered Sukhtélen in a failing
+voice.
+
+“A splendid reply!” said Napoleon. “Young man, you will go far!”
+
+Prince Andrew, who had also been brought forward before the Emperor’s
+eyes to complete the show of prisoners, could not fail to attract his
+attention. Napoleon apparently remembered seeing him on the battlefield
+and, addressing him, again used the epithet “young man” that was
+connected in his memory with Prince Andrew.
+
+“Well, and you, young man,” said he. “How do you feel, mon
+brave?”
+
+Though five minutes before, Prince Andrew had been able to say a few
+words to the soldiers who were carrying him, now with his eyes fixed
+straight on Napoleon, he was silent.... So insignificant at that moment
+seemed to him all the interests that engrossed Napoleon, so mean did his
+hero himself with his paltry vanity and joy in victory appear,
+compared to the lofty, equitable, and kindly sky which he had seen and
+understood, that he could not answer him.
+
+Everything seemed so futile and insignificant in comparison with the
+stern and solemn train of thought that weakness from loss of blood,
+suffering, and the nearness of death aroused in him. Looking into
+Napoleon’s eyes Prince Andrew thought of the insignificance of
+greatness, the unimportance of life which no one could understand, and
+the still greater unimportance of death, the meaning of which no one
+alive could understand or explain.
+
+The Emperor without waiting for an answer turned away and said to one of
+the officers as he went: “Have these gentlemen attended to and taken
+to my bivouac; let my doctor, Larrey, examine their wounds. Au revoir,
+Prince Repnín!” and he spurred his horse and galloped away.
+
+His face shone with self-satisfaction and pleasure.
+
+The soldiers who had carried Prince Andrew had noticed and taken the
+little gold icon Princess Mary had hung round her brother’s neck, but
+seeing the favor the Emperor showed the prisoners, they now hastened to
+return the holy image.
+
+Prince Andrew did not see how and by whom it was replaced, but the
+little icon with its thin gold chain suddenly appeared upon his chest
+outside his uniform.
+
+“It would be good,” thought Prince Andrew, glancing at the icon his
+sister had hung round his neck with such emotion and reverence, “it
+would be good if everything were as clear and simple as it seems to
+Mary. How good it would be to know where to seek for help in this life,
+and what to expect after it beyond the grave! How happy and calm I
+should be if I could now say: ‘Lord, have mercy on me!’... But to
+whom should I say that? Either to a Power indefinable, incomprehensible,
+which I not only cannot address but which I cannot even express in
+words—the Great All or Nothing-” said he to himself, “or to
+that God who has been sewn into this amulet by Mary! There is nothing
+certain, nothing at all except the unimportance of everything I
+understand, and the greatness of something incomprehensible but
+all-important.”
+
+The stretchers moved on. At every jolt he again felt unendurable pain;
+his feverishness increased and he grew delirious. Visions of his father,
+wife, sister, and future son, and the tenderness he had felt the night
+before the battle, the figure of the insignificant little Napoleon, and
+above all this the lofty sky, formed the chief subjects of his delirious
+fancies.
+
+The quiet home life and peaceful happiness of Bald Hills presented
+itself to him. He was already enjoying that happiness when that
+little Napoleon had suddenly appeared with his unsympathizing look of
+shortsighted delight at the misery of others, and doubts and torments
+had followed, and only the heavens promised peace. Toward morning
+all these dreams melted and merged into the chaos and darkness of
+unconciousness and oblivion which in the opinion of Napoleon’s doctor,
+Larrey, was much more likely to end in death than in convalescence.
+
+“He is a nervous, bilious subject,” said Larrey, “and will not
+recover.”
+
+And Prince Andrew, with others fatally wounded, was left to the care of
+the inhabitants of the district.
+
+
+
+
+
+BOOK FOUR: 1806
+
+
+
+
+
+CHAPTER I
+
+Early in the year 1806 Nicholas Rostóv returned home on leave. Denísov
+was going home to Vorónezh and Rostóv persuaded him to travel with him
+as far as Moscow and to stay with him there. Meeting a comrade at
+the last post station but one before Moscow, Denísov had drunk three
+bottles of wine with him and, despite the jolting ruts across the
+snow-covered road, did not once wake up on the way to Moscow, but lay
+at the bottom of the sleigh beside Rostóv, who grew more and more
+impatient the nearer they got to Moscow.
+
+“How much longer? How much longer? Oh, these insufferable streets,
+shops, bakers’ signboards, street lamps, and sleighs!” thought
+Rostóv, when their leave permits had been passed at the town gate and
+they had entered Moscow.
+
+“Denísov! We’re here! He’s asleep,” he added, leaning forward
+with his whole body as if in that position he hoped to hasten the speed
+of the sleigh.
+
+Denísov gave no answer.
+
+“There’s the corner at the crossroads, where the cabman, Zakhár,
+has his stand, and there’s Zakhár himself and still the same horse!
+And here’s the little shop where we used to buy gingerbread! Can’t
+you hurry up? Now then!”
+
+“Which house is it?” asked the driver.
+
+“Why, that one, right at the end, the big one. Don’t you see?
+That’s our house,” said Rostóv. “Of course, it’s our house!
+Denísov, Denísov! We’re almost there!”
+
+Denísov raised his head, coughed, and made no answer.
+
+“Dmítri,” said Rostóv to his valet on the box, “those lights are
+in our house, aren’t they?”
+
+“Yes, sir, and there’s a light in your father’s study.”
+
+“Then they’ve not gone to bed yet? What do you think? Mind now,
+don’t forget to put out my new coat,” added Rostóv, fingering his
+new mustache. “Now then, get on,” he shouted to the driver. “Do
+wake up, Váska!” he went on, turning to Denísov, whose head
+was again nodding. “Come, get on! You shall have three rubles for
+vodka—get on!” Rostóv shouted, when the sleigh was only three
+houses from his door. It seemed to him the horses were not moving at
+all. At last the sleigh bore to the right, drew up at an entrance, and
+Rostóv saw overhead the old familiar cornice with a bit of plaster
+broken off, the porch, and the post by the side of the pavement. He
+sprang out before the sleigh stopped, and ran into the hall. The house
+stood cold and silent, as if quite regardless of who had come to it.
+There was no one in the hall. “Oh God! Is everyone all right?”
+he thought, stopping for a moment with a sinking heart, and then
+immediately starting to run along the hall and up the warped steps of
+the familiar staircase. The well-known old door handle, which always
+angered the countess when it was not properly cleaned, turned as loosely
+as ever. A solitary tallow candle burned in the anteroom.
+
+Old Michael was asleep on the chest. Prokófy, the footman, who was
+so strong that he could lift the back of the carriage from behind, sat
+plaiting slippers out of cloth selvedges. He looked up at the opening
+door and his expression of sleepy indifference suddenly changed to one
+of delighted amazement.
+
+“Gracious heavens! The young count!” he cried, recognizing his
+young master. “Can it be? My treasure!” and Prokófy, trembling with
+excitement, rushed toward the drawing room door, probably in order to
+announce him, but, changing his mind, came back and stooped to kiss the
+young man’s shoulder.
+
+“All well?” asked Rostóv, drawing away his arm.
+
+“Yes, God be thanked! Yes! They’ve just finished supper. Let me have
+a look at you, your excellency.”
+
+“Is everything quite all right?”
+
+“The Lord be thanked, yes!”
+
+Rostóv, who had completely forgotten Denísov, not wishing anyone to
+forestall him, threw off his fur coat and ran on tiptoe through the
+large dark ballroom. All was the same: there were the same old card
+tables and the same chandelier with a cover over it; but someone had
+already seen the young master, and, before he had reached the drawing
+room, something flew out from a side door like a tornado and began
+hugging and kissing him. Another and yet another creature of the same
+kind sprang from a second door and a third; more hugging, more kissing,
+more outcries, and tears of joy. He could not distinguish which was
+Papa, which Natásha, and which Pétya. Everyone shouted, talked, and
+kissed him at the same time. Only his mother was not there, he noticed
+that.
+
+“And I did not know... Nicholas... My darling!...”
+
+“Here he is... our own... Kólya, * dear fellow... How he has
+changed!... Where are the candles?... Tea!...”
+
+    * Nicholas.
+
+“And me, kiss me!”
+
+“Dearest... and me!”
+
+Sónya, Natásha, Pétya, Anna Mikháylovna, Véra, and the old count
+were all hugging him, and the serfs, men and maids, flocked into the
+room, exclaiming and oh-ing and ah-ing.
+
+Pétya, clinging to his legs, kept shouting, “And me too!”
+
+Natásha, after she had pulled him down toward her and covered his face
+with kisses, holding him tight by the skirt of his coat, sprang away and
+pranced up and down in one place like a goat and shrieked piercingly.
+
+All around were loving eyes glistening with tears of joy, and all around
+were lips seeking a kiss.
+
+Sónya too, all rosy red, clung to his arm and, radiant with bliss,
+looked eagerly toward his eyes, waiting for the look for which she
+longed. Sónya now was sixteen and she was very pretty, especially at
+this moment of happy, rapturous excitement. She gazed at him, not taking
+her eyes off him, and smiling and holding her breath. He gave her a
+grateful look, but was still expectant and looking for someone. The old
+countess had not yet come. But now steps were heard at the door, steps
+so rapid that they could hardly be his mother’s.
+
+Yet it was she, dressed in a new gown which he did not know, made since
+he had left. All the others let him go, and he ran to her. When they
+met, she fell on his breast, sobbing. She could not lift her face, but
+only pressed it to the cold braiding of his hussar’s jacket. Denísov,
+who had come into the room unnoticed by anyone, stood there and wiped
+his eyes at the sight.
+
+“Vasíli Denísov, your son’s friend,” he said, introducing
+himself to the count, who was looking inquiringly at him.
+
+“You are most welcome! I know, I know,” said the count, kissing and
+embracing Denísov. “Nicholas wrote us... Natásha, Véra, look! Here
+is Denísov!”
+
+The same happy, rapturous faces turned to the shaggy figure of Denísov.
+
+“Darling Denísov!” screamed Natásha, beside herself with rapture,
+springing to him, putting her arms round him, and kissing him. This
+escapade made everybody feel confused. Denísov blushed too, but smiled
+and, taking Natásha’s hand, kissed it.
+
+Denísov was shown to the room prepared for him, and the Rostóvs all
+gathered round Nicholas in the sitting room.
+
+The old countess, not letting go of his hand and kissing it every
+moment, sat beside him: the rest, crowding round him, watched every
+movement, word, or look of his, never taking their blissfully adoring
+eyes off him. His brother and sisters struggled for the places nearest
+to him and disputed with one another who should bring him his tea,
+handkerchief, and pipe.
+
+Rostóv was very happy in the love they showed him; but the first
+moment of meeting had been so beatific that his present joy seemed
+insufficient, and he kept expecting something more, more and yet more.
+
+Next morning, after the fatigues of their journey, the travelers slept
+till ten o’clock.
+
+In the room next to their bedroom there was a confusion of sabers,
+satchels, sabretaches, open portmanteaus, and dirty boots. Two freshly
+cleaned pairs with spurs had just been placed by the wall. The servants
+were bringing in jugs and basins, hot water for shaving, and their
+well-brushed clothes. There was a masculine odor and a smell of tobacco.
+
+“Hallo, Gwíska—my pipe!” came Vasíli Denísov’s husky voice.
+“Wostóv, get up!”
+
+Rostóv, rubbing his eyes that seemed glued together, raised his
+disheveled head from the hot pillow.
+
+“Why, is it late?”
+
+“Late! It’s nearly ten o’clock,” answered Natásha’s voice.
+A rustle of starched petticoats and the whispering and laughter of
+girls’ voices came from the adjoining room. The door was opened a
+crack and there was a glimpse of something blue, of ribbons, black hair,
+and merry faces. It was Natásha, Sónya, and Pétya, who had come to
+see whether they were getting up.
+
+“Nicholas! Get up!” Natásha’s voice was again heard at the door.
+
+“Directly!”
+
+Meanwhile, Pétya, having found and seized the sabers in the outer room,
+with the delight boys feel at the sight of a military elder brother, and
+forgetting that it was unbecoming for the girls to see men undressed,
+opened the bedroom door.
+
+“Is this your saber?” he shouted.
+
+The girls sprang aside. Denísov hid his hairy legs under the blanket,
+looking with a scared face at his comrade for help. The door, having let
+Pétya in, closed again. A sound of laughter came from behind it.
+
+“Nicholas! Come out in your dressing gown!” said Natásha’s voice.
+
+“Is this your saber?” asked Pétya. “Or is it yours?” he said,
+addressing the black-mustached Denísov with servile deference.
+
+Rostóv hurriedly put something on his feet, drew on his dressing gown,
+and went out. Natásha had put on one spurred boot and was just getting
+her foot into the other. Sónya, when he came in, was twirling round and
+was about to expand her dresses into a balloon and sit down. They were
+dressed alike, in new pale-blue frocks, and were both fresh, rosy, and
+bright. Sónya ran away, but Natásha, taking her brother’s arm, led
+him into the sitting room, where they began talking. They hardly gave
+one another time to ask questions and give replies concerning a thousand
+little matters which could not interest anyone but themselves. Natásha
+laughed at every word he said or that she said herself, not because what
+they were saying was amusing, but because she felt happy and was unable
+to control her joy which expressed itself by laughter.
+
+“Oh, how nice, how splendid!” she said to everything.
+
+Rostóv felt that, under the influence of the warm rays of love, that
+childlike smile which had not once appeared on his face since he left
+home now for the first time after eighteen months again brightened his
+soul and his face.
+
+“No, but listen,” she said, “now you are quite a man, aren’t
+you? I’m awfully glad you’re my brother.” She touched his
+mustache. “I want to know what you men are like. Are you the same as
+we? No?”
+
+“Why did Sónya run away?” asked Rostóv.
+
+“Ah, yes! That’s a whole long story! How are you going to speak to
+her—thou or you?”
+
+“As may happen,” said Rostóv.
+
+“No, call her you, please! I’ll tell you all about it some other
+time. No, I’ll tell you now. You know Sónya’s my dearest friend.
+Such a friend that I burned my arm for her sake. Look here!”
+
+She pulled up her muslin sleeve and showed him a red scar on her long,
+slender, delicate arm, high above the elbow on that part that is covered
+even by a ball dress.
+
+“I burned this to prove my love for her. I just heated a ruler in the
+fire and pressed it there!”
+
+Sitting on the sofa with the little cushions on its arms, in what used
+to be his old schoolroom, and looking into Natásha’s wildly bright
+eyes, Rostóv re-entered that world of home and childhood which had no
+meaning for anyone else, but gave him some of the best joys of his life;
+and the burning of an arm with a ruler as a proof of love did not seem
+to him senseless, he understood and was not surprised at it.
+
+“Well, and is that all?” he asked.
+
+“We are such friends, such friends! All that ruler business was just
+nonsense, but we are friends forever. She, if she loves anyone, does it
+for life, but I don’t understand that, I forget quickly.”
+
+“Well, what then?”
+
+“Well, she loves me and you like that.”
+
+Natásha suddenly flushed.
+
+“Why, you remember before you went away?... Well, she says you are to
+forget all that.... She says: ‘I shall love him always, but let him be
+free.’ Isn’t that lovely and noble! Yes, very noble? Isn’t it?”
+asked Natásha, so seriously and excitedly that it was evident that what
+she was now saying she had talked of before, with tears.
+
+Rostóv became thoughtful.
+
+“I never go back on my word,” he said. “Besides, Sónya is so
+charming that only a fool would renounce such happiness.”
+
+“No, no!” cried Natásha, “she and I have already talked it over.
+We knew you’d say so. But it won’t do, because you see, if you say
+that—if you consider yourself bound by your promise—it will seem as
+if she had not meant it seriously. It makes it as if you were marrying
+her because you must, and that wouldn’t do at all.”
+
+Rostóv saw that it had been well considered by them. Sónya had already
+struck him by her beauty on the preceding day. Today, when he had caught
+a glimpse of her, she seemed still more lovely. She was a charming girl
+of sixteen, evidently passionately in love with him (he did not doubt
+that for an instant). Why should he not love her now, and even marry
+her, Rostóv thought, but just now there were so many other pleasures
+and interests before him! “Yes, they have taken a wise decision,” he
+thought, “I must remain free.”
+
+“Well then, that’s excellent,” said he. “We’ll talk it over
+later on. Oh, how glad I am to have you!”
+
+“Well, and are you still true to Borís?” he continued.
+
+“Oh, what nonsense!” cried Natásha, laughing. “I don’t think
+about him or anyone else, and I don’t want anything of the kind.”
+
+“Dear me! Then what are you up to now?”
+
+“Now?” repeated Natásha, and a happy smile lit up her face. “Have
+you seen Duport?”
+
+“No.”
+
+“Not seen Duport—the famous dancer? Well then, you won’t
+understand. That’s what I’m up to.”
+
+Curving her arms, Natásha held out her skirts as dancers do, ran back
+a few steps, turned, cut a caper, brought her little feet sharply
+together, and made some steps on the very tips of her toes.
+
+“See, I’m standing! See!” she said, but could not maintain herself
+on her toes any longer. “So that’s what I’m up to! I’ll never
+marry anyone, but will be a dancer. Only don’t tell anyone.”
+
+Rostóv laughed so loud and merrily that Denísov, in his bedroom, felt
+envious and Natásha could not help joining in.
+
+“No, but don’t you think it’s nice?” she kept repeating.
+
+“Nice! And so you no longer wish to marry Borís?”
+
+Natásha flared up. “I don’t want to marry anyone. And I’ll tell
+him so when I see him!”
+
+“Dear me!” said Rostóv.
+
+“But that’s all rubbish,” Natásha chattered on. “And is
+Denísov nice?” she asked.
+
+“Yes, indeed!”
+
+“Oh, well then, good-by: go and dress. Is he very terrible,
+Denísov?”
+
+“Why terrible?” asked Nicholas. “No, Váska is a splendid
+fellow.”
+
+“You call him Váska? That’s funny! And is he very nice?”
+
+“Very.”
+
+“Well then, be quick. We’ll all have breakfast together.”
+
+And Natásha rose and went out of the room on tiptoe, like a ballet
+dancer, but smiling as only happy girls of fifteen can smile. When
+Rostóv met Sónya in the drawing room, he reddened. He did not know
+how to behave with her. The evening before, in the first happy moment of
+meeting, they had kissed each other, but today they felt it could not
+be done; he felt that everybody, including his mother and sisters, was
+looking inquiringly at him and watching to see how he would behave
+with her. He kissed her hand and addressed her not as thou but as
+you—Sónya. But their eyes met and said thou, and exchanged tender
+kisses. Her looks asked him to forgive her for having dared, by
+Natásha’s intermediacy, to remind him of his promise, and then
+thanked him for his love. His looks thanked her for offering him his
+freedom and told her that one way or another he would never cease to
+love her, for that would be impossible.
+
+“How strange it is,” said Véra, selecting a moment when all were
+silent, “that Sónya and Nicholas now say you to one another and meet
+like strangers.”
+
+Véra’s remark was correct, as her remarks always were, but, like
+most of her observations, it made everyone feel uncomfortable, not
+only Sónya, Nicholas, and Natásha, but even the old countess,
+who—dreading this love affair which might hinder Nicholas from making
+a brilliant match—blushed like a girl.
+
+Denísov, to Rostóv’s surprise, appeared in the drawing room with
+pomaded hair, perfumed, and in a new uniform, looking just as smart as
+he made himself when going into battle, and he was more amiable to the
+ladies and gentlemen than Rostóv had ever expected to see him.
+
+
+
+
+
+CHAPTER II
+
+On his return to Moscow from the army, Nicholas Rostóv was welcomed
+by his home circle as the best of sons, a hero, and their darling
+Nikólenka; by his relations as a charming, attractive, and polite young
+man; by his acquaintances as a handsome lieutenant of hussars, a good
+dancer, and one of the best matches in the city.
+
+The Rostóvs knew everybody in Moscow. The old count had money enough
+that year, as all his estates had been remortgaged, and so Nicholas,
+acquiring a trotter of his own, very stylish riding breeches of the
+latest cut, such as no one else yet had in Moscow, and boots of the
+latest fashion, with extremely pointed toes and small silver spurs,
+passed his time very gaily. After a short period of adapting himself
+to the old conditions of life, Nicholas found it very pleasant to be
+at home again. He felt that he had grown up and matured very much. His
+despair at failing in a Scripture examination, his borrowing money from
+Gavríl to pay a sleigh driver, his kissing Sónya on the sly—he now
+recalled all this as childishness he had left immeasurably behind.
+Now he was a lieutenant of hussars, in a jacket laced with silver, and
+wearing the Cross of St. George, awarded to soldiers for bravery in
+action, and in the company of well-known, elderly, and respected racing
+men was training a trotter of his own for a race. He knew a lady on one
+of the boulevards whom he visited of an evening. He led the mazurka
+at the Arkhárovs’ ball, talked about the war with Field Marshal
+Kámenski, visited the English Club, and was on intimate terms with a
+colonel of forty to whom Denísov had introduced him.
+
+His passion for the Emperor had cooled somewhat in Moscow. But still, as
+he did not see him and had no opportunity of seeing him, he often spoke
+about him and about his love for him, letting it be understood that he
+had not told all and that there was something in his feelings for the
+Emperor not everyone could understand, and with his whole soul he shared
+the adoration then common in Moscow for the Emperor, who was spoken of
+as the “angel incarnate.”
+
+During Rostóv’s short stay in Moscow, before rejoining the army, he
+did not draw closer to Sónya, but rather drifted away from her. She was
+very pretty and sweet, and evidently deeply in love with him, but he was
+at the period of youth when there seems so much to do that there is no
+time for that sort of thing and a young man fears to bind himself and
+prizes his freedom which he needs for so many other things. When he
+thought of Sónya, during this stay in Moscow, he said to himself,
+“Ah, there will be, and there are, many more such girls somewhere whom
+I do not yet know. There will be time enough to think about love when I
+want to, but now I have no time.” Besides, it seemed to him that the
+society of women was rather derogatory to his manhood. He went to balls
+and into ladies’ society with an affectation of doing so against his
+will. The races, the English Club, sprees with Denísov, and visits to
+a certain house—that was another matter and quite the thing for a
+dashing young hussar!
+
+At the beginning of March, old Count Ilyá Rostóv was very busy
+arranging a dinner in honor of Prince Bagratión at the English Club.
+
+The count walked up and down the hall in his dressing gown, giving
+orders to the club steward and to the famous Feoktíst, the club’s
+head cook, about asparagus, fresh cucumbers, strawberries, veal, and
+fish for this dinner. The count had been a member and on the committee
+of the club from the day it was founded. To him the club entrusted the
+arrangement of the festival in honor of Bagratión, for few men knew
+so well how to arrange a feast on an open-handed, hospitable scale,
+and still fewer men would be so well able and willing to make up out of
+their own resources what might be needed for the success of the fete.
+The club cook and the steward listened to the count’s orders with
+pleased faces, for they knew that under no other management could they
+so easily extract a good profit for themselves from a dinner costing
+several thousand rubles.
+
+“Well then, mind and have cocks’ comb in the turtle soup, you
+know!”
+
+“Shall we have three cold dishes then?” asked the cook.
+
+The count considered.
+
+“We can’t have less—yes, three... the mayonnaise, that’s one,”
+said he, bending down a finger.
+
+“Then am I to order those large sterlets?” asked the steward.
+
+“Yes, it can’t be helped if they won’t take less. Ah, dear me! I
+was forgetting. We must have another entrée. Ah, goodness gracious!”
+he clutched at his head. “Who is going to get me the flowers? Dmítri!
+Eh, Dmítri! Gallop off to our Moscow estate,” he said to the factotum
+who appeared at his call. “Hurry off and tell Maksím, the gardener,
+to set the serfs to work. Say that everything out of the hothouses must
+be brought here well wrapped up in felt. I must have two hundred pots
+here on Friday.”
+
+Having given several more orders, he was about to go to his “little
+countess” to have a rest, but remembering something else of
+importance, he returned again, called back the cook and the club
+steward, and again began giving orders. A light footstep and the
+clinking of spurs were heard at the door, and the young count, handsome,
+rosy, with a dark little mustache, evidently rested and made sleeker by
+his easy life in Moscow, entered the room.
+
+“Ah, my boy, my head’s in a whirl!” said the old man with a smile,
+as if he felt a little confused before his son. “Now, if you would
+only help a bit! I must have singers too. I shall have my own orchestra,
+but shouldn’t we get the gypsy singers as well? You military men like
+that sort of thing.”
+
+“Really, Papa, I believe Prince Bagratión worried himself less before
+the battle of Schön Grabern than you do now,” said his son with a
+smile.
+
+The old count pretended to be angry.
+
+“Yes, you talk, but try it yourself!”
+
+And the count turned to the cook, who, with a shrewd and respectful
+expression, looked observantly and sympathetically at the father and
+son.
+
+“What have the young people come to nowadays, eh, Feoktíst?” said
+he. “Laughing at us old fellows!”
+
+“That’s so, your excellency, all they have to do is to eat a good
+dinner, but providing it and serving it all up, that’s not their
+business!”
+
+“That’s it, that’s it!” exclaimed the count, and gaily seizing
+his son by both hands, he cried, “Now I’ve got you, so take the
+sleigh and pair at once, and go to Bezúkhov’s, and tell him ‘Count
+Ilyá has sent you to ask for strawberries and fresh pineapples.’ We
+can’t get them from anyone else. He’s not there himself, so you’ll
+have to go in and ask the princesses; and from there go on to the
+Rasgulyáy—the coachman Ipátka knows—and look up the gypsy
+Ilyúshka, the one who danced at Count Orlóv’s, you remember, in a
+white Cossack coat, and bring him along to me.”
+
+“And am I to bring the gypsy girls along with him?” asked Nicholas,
+laughing. “Dear, dear!...”
+
+At that moment, with noiseless footsteps and with the businesslike,
+preoccupied, yet meekly Christian look which never left her face, Anna
+Mikháylovna entered the hall. Though she came upon the count in his
+dressing gown every day, he invariably became confused and begged her to
+excuse his costume.
+
+“No matter at all, my dear count,” she said, meekly closing her
+eyes. “But I’ll go to Bezúkhov’s myself. Pierre has arrived, and
+now we shall get anything we want from his hothouses. I have to see him
+in any case. He has forwarded me a letter from Borís. Thank God, Borís
+is now on the staff.”
+
+The count was delighted at Anna Mikháylovna’s taking upon herself one
+of his commissions and ordered the small closed carriage for her.
+
+“Tell Bezúkhov to come. I’ll put his name down. Is his wife with
+him?” he asked.
+
+Anna Mikháylovna turned up her eyes, and profound sadness was depicted
+on her face.
+
+“Ah, my dear friend, he is very unfortunate,” she said. “If what
+we hear is true, it is dreadful. How little we dreamed of such a thing
+when we were rejoicing at his happiness! And such a lofty angelic soul
+as young Bezúkhov! Yes, I pity him from my heart, and shall try to give
+him what consolation I can.”
+
+“Wh-what is the matter?” asked both the young and old Rostóv.
+
+Anna Mikháylovna sighed deeply.
+
+“Dólokhov, Mary Ivánovna’s son,” she said in a mysterious
+whisper, “has compromised her completely, they say. Pierre took him
+up, invited him to his house in Petersburg, and now... she has come here
+and that daredevil after her!” said Anna Mikháylovna, wishing to show
+her sympathy for Pierre, but by involuntary intonations and a half smile
+betraying her sympathy for the “daredevil,” as she called Dólokhov.
+“They say Pierre is quite broken by his misfortune.”
+
+“Dear, dear! But still tell him to come to the club—it will all blow
+over. It will be a tremendous banquet.”
+
+Next day, the third of March, soon after one o’clock, two hundred and
+fifty members of the English Club and fifty guests were awaiting the
+guest of honor and hero of the Austrian campaign, Prince Bagratión, to
+dinner.
+
+On the first arrival of the news of the battle of Austerlitz, Moscow had
+been bewildered. At that time, the Russians were so used to victories
+that on receiving news of the defeat some would simply not believe it,
+while others sought some extraordinary explanation of so strange an
+event. In the English Club, where all who were distinguished, important,
+and well informed foregathered when the news began to arrive in
+December, nothing was said about the war and the last battle, as
+though all were in a conspiracy of silence. The men who set the tone
+in conversation—Count Rostopchín, Prince Yúri Dolgorúkov, Valúev,
+Count Markóv, and Prince Vyázemski—did not show themselves at the
+club, but met in private houses in intimate circles, and the
+Moscovites who took their opinions from others—Ilyá Rostóv among
+them—remained for a while without any definite opinion on the subject
+of the war and without leaders. The Moscovites felt that something was
+wrong and that to discuss the bad news was difficult, and so it was best
+to be silent. But after a while, just as a jury comes out of its room,
+the bigwigs who guided the club’s opinion reappeared, and everybody
+began speaking clearly and definitely. Reasons were found for the
+incredible, unheard-of, and impossible event of a Russian defeat,
+everything became clear, and in all corners of Moscow the same things
+began to be said. These reasons were the treachery of the Austrians, a
+defective commissariat, the treachery of the Pole Przebyszéwski and of
+the Frenchman Langeron, Kutúzov’s incapacity, and (it was whispered)
+the youth and inexperience of the sovereign, who had trusted worthless
+and insignificant people. But the army, the Russian army, everyone
+declared, was extraordinary and had achieved miracles of valor. The
+soldiers, officers, and generals were heroes. But the hero of heroes was
+Prince Bagratión, distinguished by his Schön Grabern affair and by
+the retreat from Austerlitz, where he alone had withdrawn his column
+unbroken and had all day beaten back an enemy force twice as numerous
+as his own. What also conduced to Bagratión’s being selected as
+Moscow’s hero was the fact that he had no connections in the city
+and was a stranger there. In his person, honor was shown to a simple
+fighting Russian soldier without connections and intrigues, and to one
+who was associated by memories of the Italian campaign with the name of
+Suvórov. Moreover, paying such honor to Bagratión was the best way of
+expressing disapproval and dislike of Kutúzov.
+
+“Had there been no Bagratión, it would have been necessary to
+invent him,” said the wit Shinshín, parodying the words of Voltaire.
+Kutúzov no one spoke of, except some who abused him in whispers,
+calling him a court weathercock and an old satyr.
+
+All Moscow repeated Prince Dolgorúkov’s saying: “If you go on
+modeling and modeling you must get smeared with clay,” suggesting
+consolation for our defeat by the memory of former victories; and the
+words of Rostopchín, that French soldiers have to be incited to battle
+by highfalutin words, and Germans by logical arguments to show them
+that it is more dangerous to run away than to advance, but that Russian
+soldiers only need to be restrained and held back! On all sides, new and
+fresh anecdotes were heard of individual examples of heroism shown by
+our officers and men at Austerlitz. One had saved a standard, another
+had killed five Frenchmen, a third had loaded five cannon singlehanded.
+Berg was mentioned, by those who did not know him, as having, when
+wounded in the right hand, taken his sword in the left, and gone
+forward. Of Bolkónski, nothing was said, and only those who knew him
+intimately regretted that he had died so young, leaving a pregnant wife
+with his eccentric father.
+
+
+
+
+
+CHAPTER III
+
+On that third of March, all the rooms in the English Club were filled
+with a hum of conversation, like the hum of bees swarming in springtime.
+The members and guests of the club wandered hither and thither, sat,
+stood, met, and separated, some in uniform and some in evening dress,
+and a few here and there with powdered hair and in Russian kaftáns.
+Powdered footmen, in livery with buckled shoes and smart stockings,
+stood at every door anxiously noting visitors’ every movement in order
+to offer their services. Most of those present were elderly, respected
+men with broad, self-confident faces, fat fingers, and resolute gestures
+and voices. This class of guests and members sat in certain habitual
+places and met in certain habitual groups. A minority of those present
+were casual guests—chiefly young men, among whom were Denísov,
+Rostóv, and Dólokhov—who was now again an officer in the Semënov
+regiment. The faces of these young people, especially those who were
+military men, bore that expression of condescending respect for their
+elders which seems to say to the older generation, “We are prepared to
+respect and honor you, but all the same remember that the future belongs
+to us.”
+
+Nesvítski was there as an old member of the club. Pierre, who at his
+wife’s command had let his hair grow and abandoned his spectacles,
+went about the rooms fashionably dressed but looking sad and dull. Here,
+as elsewhere, he was surrounded by an atmosphere of subservience to
+his wealth, and being in the habit of lording it over these people, he
+treated them with absent-minded contempt.
+
+By his age he should have belonged to the younger men, but by his wealth
+and connections he belonged to the groups of old and honored guests, and
+so he went from one group to another. Some of the most important old men
+were the center of groups which even strangers approached respectfully
+to hear the voices of well-known men. The largest circles formed round
+Count Rostopchín, Valúev, and Narýshkin. Rostopchín was describing
+how the Russians had been overwhelmed by flying Austrians and had had to
+force their way through them with bayonets.
+
+Valúev was confidentially telling that Uvárov had been sent from
+Petersburg to ascertain what Moscow was thinking about Austerlitz.
+
+In the third circle, Narýshkin was speaking of the meeting of the
+Austrian Council of War at which Suvórov crowed like a cock in reply to
+the nonsense talked by the Austrian generals. Shinshín, standing close
+by, tried to make a joke, saying that Kutúzov had evidently failed to
+learn from Suvórov even so simple a thing as the art of crowing like a
+cock, but the elder members glanced severely at the wit, making him
+feel that in that place and on that day, it was improper to speak so of
+Kutúzov.
+
+Count Ilyá Rostóv, hurried and preoccupied, went about in his soft
+boots between the dining and drawing rooms, hastily greeting the
+important and unimportant, all of whom he knew, as if they were all
+equals, while his eyes occasionally sought out his fine well-set-up
+young son, resting on him and winking joyfully at him. Young Rostóv
+stood at a window with Dólokhov, whose acquaintance he had lately
+made and highly valued. The old count came up to them and pressed
+Dólokhov’s hand.
+
+“Please come and visit us... you know my brave boy... been together
+out there... both playing the hero... Ah, Vasíli Ignátovich...
+How d’ye do, old fellow?” he said, turning to an old man who was
+passing, but before he had finished his greeting there was a general
+stir, and a footman who had run in announced, with a frightened face:
+“He’s arrived!”
+
+Bells rang, the stewards rushed forward, and—like rye shaken together
+in a shovel—the guests who had been scattered about in different rooms
+came together and crowded in the large drawing room by the door of the
+ballroom.
+
+Bagratión appeared in the doorway of the anteroom without hat or sword,
+which, in accord with the club custom, he had given up to the hall
+porter. He had no lambskin cap on his head, nor had he a loaded whip
+over his shoulder, as when Rostóv had seen him on the eve of the battle
+of Austerlitz, but wore a tight new uniform with Russian and foreign
+Orders, and the Star of St. George on his left breast. Evidently just
+before coming to the dinner he had had his hair and whiskers trimmed,
+which changed his appearance for the worse. There was something naïvely
+festive in his air, which, in conjunction with his firm and virile
+features, gave him a rather comical expression. Bekleshëv and Theodore
+Uvárov, who had arrived with him, paused at the doorway to allow him,
+as the guest of honor, to enter first. Bagratión was embarrassed, not
+wishing to avail himself of their courtesy, and this caused some delay
+at the doors, but after all he did at last enter first. He walked shyly
+and awkwardly over the parquet floor of the reception room, not knowing
+what to do with his hands; he was more accustomed to walk over a plowed
+field under fire, as he had done at the head of the Kursk regiment at
+Schön Grabern—and he would have found that easier. The committeemen
+met him at the first door and, expressing their delight at seeing such a
+highly honored guest, took possession of him as it were, without waiting
+for his reply, surrounded him, and led him to the drawing room. It was
+at first impossible to enter the drawing room door for the crowd of
+members and guests jostling one another and trying to get a good look
+at Bagratión over each other’s shoulders, as if he were some rare
+animal. Count Ilyá Rostóv, laughing and repeating the words, “Make
+way, dear boy! Make way, make way!” pushed through the crowd more
+energetically than anyone, led the guests into the drawing room, and
+seated them on the center sofa. The bigwigs, the most respected members
+of the club, beset the new arrivals. Count Ilyá, again thrusting his
+way through the crowd, went out of the drawing room and reappeared a
+minute later with another committeeman, carrying a large silver salver
+which he presented to Prince Bagratión. On the salver lay some verses
+composed and printed in the hero’s honor. Bagratión, on seeing the
+salver, glanced around in dismay, as though seeking help. But all eyes
+demanded that he should submit. Feeling himself in their power, he
+resolutely took the salver with both hands and looked sternly and
+reproachfully at the count who had presented it to him. Someone
+obligingly took the dish from Bagratión (or he would, it seemed, have
+held it till evening and have gone in to dinner with it) and drew his
+attention to the verses.
+
+“Well, I will read them, then!” Bagratión seemed to say, and,
+fixing his weary eyes on the paper, began to read them with a fixed and
+serious expression. But the author himself took the verses and began
+reading them aloud. Bagratión bowed his head and listened:
+
+   Bring glory then to Alexander’s reign
+   And on the throne our Titus shield.
+   A dreaded foe be thou, kindhearted as a man,
+   A Rhipheus at home, a Caesar in the field!
+   E’en fortunate Napoleon
+   Knows by experience, now, Bagratión,
+   And dare not Herculean Russians trouble...
+
+But before he had finished reading, a stentorian major-domo announced
+that dinner was ready! The door opened, and from the dining room came
+the resounding strains of the polonaise:
+
+   Conquest’s joyful thunder waken,
+   Triumph, valiant Russians, now!...
+
+and Count Rostóv, glancing angrily at the author who went on reading
+his verses, bowed to Bagratión. Everyone rose, feeling that dinner
+was more important than verses, and Bagratión, again preceding all the
+rest, went in to dinner. He was seated in the place of honor between
+two Alexanders—Bekleshëv and Narýshkin—which was a significant
+allusion to the name of the sovereign. Three hundred persons took their
+seats in the dining room, according to their rank and importance: the
+more important nearer to the honored guest, as naturally as water flows
+deepest where the land lies lowest.
+
+Just before dinner, Count Ilyá Rostóv presented his son to Bagratión,
+who recognized him and said a few words to him, disjointed and awkward,
+as were all the words he spoke that day, and Count Ilyá looked joyfully
+and proudly around while Bagratión spoke to his son.
+
+Nicholas Rostóv, with Denísov and his new acquaintance, Dólokhov, sat
+almost at the middle of the table. Facing them sat Pierre, beside Prince
+Nesvítski. Count Ilyá Rostóv with the other members of the committee
+sat facing Bagratión and, as the very personification of Moscow
+hospitality, did the honors to the prince.
+
+His efforts had not been in vain. The dinner, both the Lenten and the
+other fare, was splendid, yet he could not feel quite at ease till the
+end of the meal. He winked at the butler, whispered directions to the
+footmen, and awaited each expected dish with some anxiety. Everything
+was excellent. With the second course, a gigantic sterlet (at sight of
+which Ilyá Rostóv blushed with self-conscious pleasure), the footmen
+began popping corks and filling the champagne glasses. After the fish,
+which made a certain sensation, the count exchanged glances with
+the other committeemen. “There will be many toasts, it’s time to
+begin,” he whispered, and taking up his glass, he rose. All were
+silent, waiting for what he would say.
+
+“To the health of our Sovereign, the Emperor!” he cried, and at the
+same moment his kindly eyes grew moist with tears of joy and enthusiasm.
+The band immediately struck up “Conquest’s joyful thunder
+waken...” All rose and cried “Hurrah!” Bagratión also rose and
+shouted “Hurrah!” in exactly the same voice in which he had shouted
+it on the field at Schön Grabern. Young Rostóv’s ecstatic voice
+could be heard above the three hundred others. He nearly wept. “To the
+health of our Sovereign, the Emperor!” he roared, “Hurrah!” and
+emptying his glass at one gulp he dashed it to the floor. Many followed
+his example, and the loud shouting continued for a long time. When the
+voices subsided, the footmen cleared away the broken glass and everybody
+sat down again, smiling at the noise they had made and exchanging
+remarks. The old count rose once more, glanced at a note lying beside
+his plate, and proposed a toast, “To the health of the hero of our
+last campaign, Prince Peter Ivánovich Bagratión!” and again his blue
+eyes grew moist. “Hurrah!” cried the three hundred voices again,
+but instead of the band a choir began singing a cantata composed by Paul
+Ivánovich Kutúzov:
+
+   Russians! O’er all barriers on!
+   Courage conquest guarantees;
+   Have we not Bagratión?
+   He brings foemen to their knees,... etc.
+
+As soon as the singing was over, another and another toast was proposed
+and Count Ilyá Rostóv became more and more moved, more glass was
+smashed, and the shouting grew louder. They drank to Bekleshëv,
+Narýshkin, Uvárov, Dolgorúkov, Apráksin, Valúev, to the committee,
+to all the club members and to all the club guests, and finally to
+Count Ilyá Rostóv separately, as the organizer of the banquet. At that
+toast, the count took out his handkerchief and, covering his face, wept
+outright.
+
+
+
+
+
+CHAPTER IV
+
+Pierre sat opposite Dólokhov and Nicholas Rostóv. As usual, he ate and
+drank much, and eagerly. But those who knew him intimately noticed that
+some great change had come over him that day. He was silent all through
+dinner and looked about, blinking and scowling, or, with fixed eyes and
+a look of complete absent-mindedness, kept rubbing the bridge of his
+nose. His face was depressed and gloomy. He seemed to see and hear
+nothing of what was going on around him and to be absorbed by some
+depressing and unsolved problem.
+
+The unsolved problem that tormented him was caused by hints given by the
+princess, his cousin, at Moscow, concerning Dólokhov’s intimacy with
+his wife, and by an anonymous letter he had received that morning, which
+in the mean jocular way common to anonymous letters said that he saw
+badly through his spectacles, but that his wife’s connection with
+Dólokhov was a secret to no one but himself. Pierre absolutely
+disbelieved both the princess’ hints and the letter, but he feared
+now to look at Dólokhov, who was sitting opposite him. Every time
+he chanced to meet Dólokhov’s handsome insolent eyes, Pierre felt
+something terrible and monstrous rising in his soul and turned quickly
+away. Involuntarily recalling his wife’s past and her relations with
+Dólokhov, Pierre saw clearly that what was said in the letter might be
+true, or might at least seem to be true had it not referred to his wife.
+He involuntarily remembered how Dólokhov, who had fully recovered his
+former position after the campaign, had returned to Petersburg and come
+to him. Availing himself of his friendly relations with Pierre as a boon
+companion, Dólokhov had come straight to his house, and Pierre had put
+him up and lent him money. Pierre recalled how Hélène had smilingly
+expressed disapproval of Dólokhov’s living at their house, and how
+cynically Dólokhov had praised his wife’s beauty to him and from that
+time till they came to Moscow had not left them for a day.
+
+“Yes, he is very handsome,” thought Pierre, “and I know him. It
+would be particularly pleasant to him to dishonor my name and ridicule
+me, just because I have exerted myself on his behalf, befriended him,
+and helped him. I know and understand what a spice that would add to the
+pleasure of deceiving me, if it really were true. Yes, if it were true,
+but I do not believe it. I have no right to, and can’t, believe it.”
+He remembered the expression Dólokhov’s face assumed in his moments
+of cruelty, as when tying the policeman to the bear and dropping them
+into the water, or when he challenged a man to a duel without any
+reason, or shot a post-boy’s horse with a pistol. That expression
+was often on Dólokhov’s face when looking at him. “Yes, he is a
+bully,” thought Pierre, “to kill a man means nothing to him. It must
+seem to him that everyone is afraid of him, and that must please him.
+He must think that I, too, am afraid of him—and in fact I am afraid of
+him,” he thought, and again he felt something terrible and monstrous
+rising in his soul. Dólokhov, Denísov, and Rostóv were now sitting
+opposite Pierre and seemed very gay. Rostóv was talking merrily to his
+two friends, one of whom was a dashing hussar and the other a notorious
+duelist and rake, and every now and then he glanced ironically at
+Pierre, whose preoccupied, absent-minded, and massive figure was a very
+noticeable one at the dinner. Rostóv looked inimically at Pierre,
+first because Pierre appeared to his hussar eyes as a rich civilian, the
+husband of a beauty, and in a word—an old woman; and secondly because
+Pierre in his preoccupation and absent-mindedness had not recognized
+Rostóv and had not responded to his greeting. When the Emperor’s
+health was drunk, Pierre, lost in thought, did not rise or lift his
+glass.
+
+“What are you about?” shouted Rostóv, looking at him in an ecstasy
+of exasperation. “Don’t you hear it’s His Majesty the Emperor’s
+health?”
+
+Pierre sighed, rose submissively, emptied his glass, and, waiting till
+all were seated again, turned with his kindly smile to Rostóv.
+
+“Why, I didn’t recognize you!” he said. But Rostóv was otherwise
+engaged; he was shouting “Hurrah!”
+
+“Why don’t you renew the acquaintance?” said Dólokhov to Rostóv.
+
+“Confound him, he’s a fool!” said Rostóv.
+
+“One should make up to the husbands of pretty women,” said Denísov.
+
+Pierre did not catch what they were saying, but knew they were talking
+about him. He reddened and turned away.
+
+“Well, now to the health of handsome women!” said Dólokhov, and
+with a serious expression, but with a smile lurking at the corners of
+his mouth, he turned with his glass to Pierre.
+
+“Here’s to the health of lovely women, Peterkin—and their
+lovers!” he added.
+
+Pierre, with downcast eyes, drank out of his glass without looking at
+Dólokhov or answering him. The footman, who was distributing leaflets
+with Kutúzov’s cantata, laid one before Pierre as one of the
+principal guests. He was just going to take it when Dólokhov, leaning
+across, snatched it from his hand and began reading it. Pierre looked
+at Dólokhov and his eyes dropped, the something terrible and monstrous
+that had tormented him all dinnertime rose and took possession of him.
+He leaned his whole massive body across the table.
+
+“How dare you take it?” he shouted.
+
+Hearing that cry and seeing to whom it was addressed, Nesvítski and the
+neighbor on his right quickly turned in alarm to Bezúkhov.
+
+“Don’t! Don’t! What are you about?” whispered their frightened
+voices.
+
+Dólokhov looked at Pierre with clear, mirthful, cruel eyes, and that
+smile of his which seemed to say, “Ah! This is what I like!”
+
+“You shan’t have it!” he said distinctly.
+
+Pale, with quivering lips, Pierre snatched the copy.
+
+“You...! you... scoundrel! I challenge you!” he ejaculated, and,
+pushing back his chair, he rose from the table.
+
+At the very instant he did this and uttered those words, Pierre felt
+that the question of his wife’s guilt which had been tormenting him
+the whole day was finally and indubitably answered in the affirmative.
+He hated her and was forever sundered from her. Despite Denísov’s
+request that he would take no part in the matter, Rostóv agreed to be
+Dólokhov’s second, and after dinner he discussed the arrangements for
+the duel with Nesvítski, Bezúkhov’s second. Pierre went home, but
+Rostóv with Dólokhov and Denísov stayed on at the club till late,
+listening to the gypsies and other singers.
+
+“Well then, till tomorrow at Sokólniki,” said Dólokhov, as he took
+leave of Rostóv in the club porch.
+
+“And do you feel quite calm?” Rostóv asked.
+
+Dólokhov paused.
+
+“Well, you see, I’ll tell you the whole secret of dueling in two
+words. If you are going to fight a duel, and you make a will and write
+affectionate letters to your parents, and if you think you may be
+killed, you are a fool and are lost for certain. But go with the firm
+intention of killing your man as quickly and surely as possible, and
+then all will be right, as our bear huntsman at Kostromá used to tell
+me. ‘Everyone fears a bear,’ he says, ‘but when you see one your
+fear’s all gone, and your only thought is not to let him get away!’
+And that’s how it is with me. À demain, mon cher.” *
+
+    * Till tomorrow, my dear fellow.
+
+Next day, at eight in the morning, Pierre and Nesvítski drove to the
+Sokólniki forest and found Dólokhov, Denísov, and Rostóv already
+there. Pierre had the air of a man preoccupied with considerations which
+had no connection with the matter in hand. His haggard face was yellow.
+He had evidently not slept that night. He looked about distractedly and
+screwed up his eyes as if dazzled by the sun. He was entirely absorbed
+by two considerations: his wife’s guilt, of which after his sleepless
+night he had not the slightest doubt, and the guiltlessness of
+Dólokhov, who had no reason to preserve the honor of a man who was
+nothing to him.... “I should perhaps have done the same thing in his
+place,” thought Pierre. “It’s even certain that I should have done
+the same, then why this duel, this murder? Either I shall kill him, or
+he will hit me in the head, or elbow, or knee. Can’t I go away from
+here, run away, bury myself somewhere?” passed through his mind. But
+just at moments when such thoughts occurred to him, he would ask in a
+particularly calm and absent-minded way, which inspired the respect of
+the onlookers, “Will it be long? Are things ready?”
+
+When all was ready, the sabers stuck in the snow to mark the barriers,
+and the pistols loaded, Nesvítski went up to Pierre.
+
+“I should not be doing my duty, Count,” he said in timid tones,
+“and should not justify your confidence and the honor you have done
+me in choosing me for your second, if at this grave, this very
+grave, moment I did not tell you the whole truth. I think there is no
+sufficient ground for this affair, or for blood to be shed over it....
+You were not right, not quite in the right, you were impetuous...”
+
+“Oh yes, it is horribly stupid,” said Pierre.
+
+“Then allow me to express your regrets, and I am sure your opponent
+will accept them,” said Nesvítski (who like the others concerned in
+the affair, and like everyone in similar cases, did not yet believe that
+the affair had come to an actual duel). “You know, Count, it is much
+more honorable to admit one’s mistake than to let matters become
+irreparable. There was no insult on either side. Allow me to
+convey....”
+
+“No! What is there to talk about?” said Pierre. “It’s all the
+same.... Is everything ready?” he added. “Only tell me where to go
+and where to shoot,” he said with an unnaturally gentle smile.
+
+He took the pistol in his hand and began asking about the working of the
+trigger, as he had not before held a pistol in his hand—a fact that he
+did not wish to confess.
+
+“Oh yes, like that, I know, I only forgot,” said he.
+
+“No apologies, none whatever,” said Dólokhov to Denísov (who on
+his side had been attempting a reconciliation), and he also went up to
+the appointed place.
+
+The spot chosen for the duel was some eighty paces from the road,
+where the sleighs had been left, in a small clearing in the pine forest
+covered with melting snow, the frost having begun to break up during the
+last few days. The antagonists stood forty paces apart at the farther
+edge of the clearing. The seconds, measuring the paces, left tracks in
+the deep wet snow between the place where they had been standing and
+Nesvítski’s and Dólokhov’s sabers, which were stuck into the
+ground ten paces apart to mark the barrier. It was thawing and misty; at
+forty paces’ distance nothing could be seen. For three minutes all had
+been ready, but they still delayed and all were silent.
+
+
+
+
+
+CHAPTER V
+
+“Well, begin!” said Dólokhov.
+
+“All right,” said Pierre, still smiling in the same way. A feeling
+of dread was in the air. It was evident that the affair so lightly begun
+could no longer be averted but was taking its course independently of
+men’s will.
+
+Denísov first went to the barrier and announced: “As the
+adve’sawies have wefused a weconciliation, please pwoceed. Take your
+pistols, and at the word thwee begin to advance.
+
+“O-ne! T-wo! Thwee!” he shouted angrily and stepped aside.
+
+The combatants advanced along the trodden tracks, nearer and nearer to
+one another, beginning to see one another through the mist. They had the
+right to fire when they liked as they approached the barrier. Dólokhov
+walked slowly without raising his pistol, looking intently with his
+bright, sparkling blue eyes into his antagonist’s face. His mouth wore
+its usual semblance of a smile.
+
+“So I can fire when I like!” said Pierre, and at the word
+“three,” he went quickly forward, missing the trodden path and
+stepping into the deep snow. He held the pistol in his right hand at
+arm’s length, apparently afraid of shooting himself with it. His left
+hand he held carefully back, because he wished to support his right
+hand with it and knew he must not do so. Having advanced six paces and
+strayed off the track into the snow, Pierre looked down at his feet,
+then quickly glanced at Dólokhov and, bending his finger as he had been
+shown, fired. Not at all expecting so loud a report, Pierre shuddered
+at the sound and then, smiling at his own sensations, stood still. The
+smoke, rendered denser by the mist, prevented him from seeing anything
+for an instant, but there was no second report as he had expected. He
+only heard Dólokhov’s hurried steps, and his figure came in view
+through the smoke. He was pressing one hand to his left side, while
+the other clutched his drooping pistol. His face was pale. Rostóv ran
+toward him and said something.
+
+“No-o-o!” muttered Dólokhov through his teeth, “no, it’s not
+over.” And after stumbling a few staggering steps right up to the
+saber, he sank on the snow beside it. His left hand was bloody; he wiped
+it on his coat and supported himself with it. His frowning face was
+pallid and quivered.
+
+“Plea...” began Dólokhov, but could not at first pronounce the
+word.
+
+“Please,” he uttered with an effort.
+
+Pierre, hardly restraining his sobs, began running toward Dólokhov and
+was about to cross the space between the barriers, when Dólokhov cried:
+
+“To your barrier!” and Pierre, grasping what was meant, stopped by
+his saber. Only ten paces divided them. Dólokhov lowered his head to
+the snow, greedily bit at it, again raised his head, adjusted himself,
+drew in his legs and sat up, seeking a firm center of gravity. He sucked
+and swallowed the cold snow, his lips quivered but his eyes, still
+smiling, glittered with effort and exasperation as he mustered his
+remaining strength. He raised his pistol and aimed.
+
+“Sideways! Cover yourself with your pistol!” ejaculated Nesvítski.
+
+“Cover yourself!” even Denísov cried to his adversary.
+
+Pierre, with a gentle smile of pity and remorse, his arms and legs
+helplessly spread out, stood with his broad chest directly facing
+Dólokhov and looked sorrowfully at him. Denísov, Rostóv, and
+Nesvítski closed their eyes. At the same instant they heard a report
+and Dólokhov’s angry cry.
+
+“Missed!” shouted Dólokhov, and he lay helplessly, face downwards
+on the snow.
+
+Pierre clutched his temples, and turning round went into the forest,
+trampling through the deep snow, and muttering incoherent words:
+
+“Folly... folly! Death... lies...” he repeated, puckering his face.
+
+Nesvítski stopped him and took him home.
+
+Rostóv and Denísov drove away with the wounded Dólokhov.
+
+The latter lay silent in the sleigh with closed eyes and did not answer
+a word to the questions addressed to him. But on entering Moscow he
+suddenly came to and, lifting his head with an effort, took Rostóv, who
+was sitting beside him, by the hand. Rostóv was struck by the
+totally altered and unexpectedly rapturous and tender expression on
+Dólokhov’s face.
+
+“Well? How do you feel?” he asked.
+
+“Bad! But it’s not that, my friend—” said Dólokhov with a
+gasping voice. “Where are we? In Moscow, I know. I don’t matter,
+but I have killed her, killed... She won’t get over it! She won’t
+survive....”
+
+“Who?” asked Rostóv.
+
+“My mother! My mother, my angel, my adored angel mother,” and
+Dólokhov pressed Rostóv’s hand and burst into tears.
+
+When he had become a little quieter, he explained to Rostóv that he was
+living with his mother, who, if she saw him dying, would not survive it.
+He implored Rostóv to go on and prepare her.
+
+Rostóv went on ahead to do what was asked, and to his great surprise
+learned that Dólokhov the brawler, Dólokhov the bully, lived in Moscow
+with an old mother and a hunchback sister, and was the most affectionate
+of sons and brothers.
+
+
+
+
+
+CHAPTER VI
+
+Pierre had of late rarely seen his wife alone. Both in Petersburg and in
+Moscow their house was always full of visitors. The night after the
+duel he did not go to his bedroom but, as he often did, remained in his
+father’s room, that huge room in which Count Bezúkhov had died.
+
+He lay down on the sofa meaning to fall asleep and forget all that
+had happened to him, but could not do so. Such a storm of feelings,
+thoughts, and memories suddenly arose within him that he could not fall
+asleep, nor even remain in one place, but had to jump up and pace the
+room with rapid steps. Now he seemed to see her in the early days of
+their marriage, with bare shoulders and a languid, passionate look on
+her face, and then immediately he saw beside her Dólokhov’s handsome,
+insolent, hard, and mocking face as he had seen it at the banquet, and
+then that same face pale, quivering, and suffering, as it had been when
+he reeled and sank on the snow.
+
+“What has happened?” he asked himself. “I have killed her lover,
+yes, killed my wife’s lover. Yes, that was it! And why? How did I come
+to do it?”—“Because you married her,” answered an inner voice.
+
+“But in what was I to blame?” he asked. “In marrying her without
+loving her; in deceiving yourself and her.” And he vividly recalled
+that moment after supper at Prince Vasíli’s, when he spoke those
+words he had found so difficult to utter: “I love you.” “It all
+comes from that! Even then I felt it,” he thought. “I felt then that
+it was not so, that I had no right to do it. And so it turns out.”
+
+He remembered his honeymoon and blushed at the recollection.
+Particularly vivid, humiliating, and shameful was the recollection of
+how one day soon after his marriage he came out of the bedroom into his
+study a little before noon in his silk dressing gown and found his head
+steward there, who, bowing respectfully, looked into his face and at
+his dressing gown and smiled slightly, as if expressing respectful
+understanding of his employer’s happiness.
+
+“But how often I have felt proud of her, proud of her majestic beauty
+and social tact,” thought he; “been proud of my house, in which she
+received all Petersburg, proud of her unapproachability and beauty. So
+this is what I was proud of! I then thought that I did not understand
+her. How often when considering her character I have told myself that
+I was to blame for not understanding her, for not understanding that
+constant composure and complacency and lack of all interests or desires,
+and the whole secret lies in the terrible truth that she is a depraved
+woman. Now I have spoken that terrible word to myself all has become
+clear.
+
+“Anatole used to come to borrow money from her and used to kiss her
+naked shoulders. She did not give him the money, but let herself be
+kissed. Her father in jest tried to rouse her jealousy, and she replied
+with a calm smile that she was not so stupid as to be jealous: ‘Let
+him do what he pleases,’ she used to say of me. One day I asked her if
+she felt any symptoms of pregnancy. She laughed contemptuously and said
+she was not a fool to want to have children, and that she was not going
+to have any children by me.”
+
+Then he recalled the coarseness and bluntness of her thoughts and the
+vulgarity of the expressions that were natural to her, though she had
+been brought up in the most aristocratic circles.
+
+“I’m not such a fool.... Just you try it on.... Allez-vous
+promener,” * she used to say. Often seeing the success she had with
+young and old men and women Pierre could not understand why he did not
+love her.
+
+    * “You clear out of this.”
+
+
+“Yes, I never loved her,” said he to himself; “I knew she was a
+depraved woman,” he repeated, “but dared not admit it to myself.
+And now there’s Dólokhov sitting in the snow with a forced smile and
+perhaps dying, while meeting my remorse with some forced bravado!”
+
+Pierre was one of those people who, in spite of an appearance of what
+is called weak character, do not seek a confidant in their troubles. He
+digested his sufferings alone.
+
+“It is all, all her fault,” he said to himself; “but what of that?
+Why did I bind myself to her? Why did I say ‘Je vous aime’ * to her,
+which was a lie, and worse than a lie? I am guilty and must endure...
+what? A slur on my name? A misfortune for life? Oh, that’s
+nonsense,” he thought. “The slur on my name and honor—that’s all
+apart from myself.”
+
+    * I love you.
+
+“Louis XVI was executed because they said he was dishonorable and a
+criminal,” came into Pierre’s head, “and from their point of
+view they were right, as were those too who canonized him and died a
+martyr’s death for his sake. Then Robespierre was beheaded for being
+a despot. Who is right and who is wrong? No one! But if you are
+alive—live: tomorrow you’ll die as I might have died an hour ago.
+And is it worth tormenting oneself, when one has only a moment of life
+in comparison with eternity?”
+
+But at the moment when he imagined himself calmed by such reflections,
+she suddenly came into his mind as she was at the moments when he had
+most strongly expressed his insincere love for her, and he felt the
+blood rush to his heart and had again to get up and move about and break
+and tear whatever came to his hand. “Why did I tell her that ‘Je
+vous aime’?” he kept repeating to himself. And when he had said it
+for the tenth time, Molière’s words: “Mais que diable allait-il
+faire dans cette galère?” * occurred to him, and he began to laugh at
+himself.
+
+      * “But what the devil was he doing in that galley?”
+
+
+In the night he called his valet and told him to pack up to go to
+Petersburg. He could not imagine how he could speak to her now. He
+resolved to go away next day and leave a letter informing her of his
+intention to part from her forever.
+
+Next morning when the valet came into the room with his coffee, Pierre
+was lying asleep on the ottoman with an open book in his hand.
+
+He woke up and looked round for a while with a startled expression,
+unable to realize where he was.
+
+“The countess told me to inquire whether your excellency was at
+home,” said the valet.
+
+But before Pierre could decide what answer he would send, the countess
+herself in a white satin dressing gown embroidered with silver and with
+simply dressed hair (two immense plaits twice round her lovely head like
+a coronet) entered the room, calm and majestic, except that there was
+a wrathful wrinkle on her rather prominent marble brow. With her
+imperturbable calm she did not begin to speak in front of the valet.
+She knew of the duel and had come to speak about it. She waited till the
+valet had set down the coffee things and left the room. Pierre looked
+at her timidly over his spectacles, and like a hare surrounded by hounds
+who lays back her ears and continues to crouch motionless before her
+enemies, he tried to continue reading. But feeling this to be senseless
+and impossible, he again glanced timidly at her. She did not sit down
+but looked at him with a contemptuous smile, waiting for the valet to
+go.
+
+“Well, what’s this now? What have you been up to now, I should like
+to know?” she asked sternly.
+
+“I? What have I...?” stammered Pierre.
+
+“So it seems you’re a hero, eh? Come now, what was this duel about?
+What is it meant to prove? What? I ask you.”
+
+Pierre turned over heavily on the ottoman and opened his mouth, but
+could not reply.
+
+“If you won’t answer, I’ll tell you...” Hélène went on. “You
+believe everything you’re told. You were told...” Hélène laughed,
+“that Dólokhov was my lover,” she said in French with her coarse
+plainness of speech, uttering the word amant as casually as any other
+word, “and you believed it! Well, what have you proved? What does this
+duel prove? That you’re a fool, que vous êtes un sot, but everybody
+knew that. What will be the result? That I shall be the laughingstock of
+all Moscow, that everyone will say that you, drunk and not knowing what
+you were about, challenged a man you are jealous of without cause.”
+Hélène raised her voice and became more and more excited, “A man
+who’s a better man than you in every way...”
+
+“Hm... Hm...!” growled Pierre, frowning without looking at her, and
+not moving a muscle.
+
+“And how could you believe he was my lover? Why? Because I like
+his company? If you were cleverer and more agreeable, I should prefer
+yours.”
+
+“Don’t speak to me... I beg you,” muttered Pierre hoarsely.
+
+“Why shouldn’t I speak? I can speak as I like, and I tell you
+plainly that there are not many wives with husbands such as you who
+would not have taken lovers (des amants), but I have not done so,”
+said she.
+
+Pierre wished to say something, looked at her with eyes whose strange
+expression she did not understand, and lay down again. He was suffering
+physically at that moment, there was a weight on his chest and he could
+not breathe. He knew that he must do something to put an end to this
+suffering, but what he wanted to do was too terrible.
+
+“We had better separate,” he muttered in a broken voice.
+
+“Separate? Very well, but only if you give me a fortune,” said
+Hélène. “Separate! That’s a thing to frighten me with!”
+
+Pierre leaped up from the sofa and rushed staggering toward her.
+
+“I’ll kill you!” he shouted, and seizing the marble top of a table
+with a strength he had never before felt, he made a step toward her
+brandishing the slab.
+
+Hélène’s face became terrible, she shrieked and sprang aside. His
+father’s nature showed itself in Pierre. He felt the fascination and
+delight of frenzy. He flung down the slab, broke it, and swooping
+down on her with outstretched hands shouted, “Get out!” in such a
+terrible voice that the whole house heard it with horror. God knows what
+he would have done at that moment had Hélène not fled from the room.
+
+
+A week later Pierre gave his wife full power to control all his estates
+in Great Russia, which formed the larger part of his property, and left
+for Petersburg alone.
+
+
+
+
+
+CHAPTER VII
+
+Two months had elapsed since the news of the battle of Austerlitz and
+the loss of Prince Andrew had reached Bald Hills, and in spite of the
+letters sent through the embassy and all the searches made, his body had
+not been found nor was he on the list of prisoners. What was worst of
+all for his relations was the fact that there was still a possibility of
+his having been picked up on the battlefield by the people of the
+place and that he might now be lying, recovering or dying, alone among
+strangers and unable to send news of himself. The gazettes from which
+the old prince first heard of the defeat at Austerlitz stated, as usual
+very briefly and vaguely, that after brilliant engagements the Russians
+had had to retreat and had made their withdrawal in perfect order. The
+old prince understood from this official report that our army had been
+defeated. A week after the gazette report of the battle of Austerlitz
+came a letter from Kutúzov informing the prince of the fate that had
+befallen his son.
+
+“Your son,” wrote Kutúzov, “fell before my eyes, a standard in
+his hand and at the head of a regiment—he fell as a hero, worthy of
+his father and his fatherland. To the great regret of myself and of the
+whole army it is still uncertain whether he is alive or not. I comfort
+myself and you with the hope that your son is alive, for otherwise
+he would have been mentioned among the officers found on the field of
+battle, a list of whom has been sent me under flag of truce.”
+
+After receiving this news late in the evening, when he was alone in his
+study, the old prince went for his walk as usual next morning, but he
+was silent with his steward, the gardener, and the architect, and though
+he looked very grim he said nothing to anyone.
+
+When Princess Mary went to him at the usual hour he was working at his
+lathe and, as usual, did not look round at her.
+
+“Ah, Princess Mary!” he said suddenly in an unnatural voice,
+throwing down his chisel. (The wheel continued to revolve by its own
+impetus, and Princess Mary long remembered the dying creak of that
+wheel, which merged in her memory with what followed.)
+
+She approached him, saw his face, and something gave way within her. Her
+eyes grew dim. By the expression of her father’s face, not sad, not
+crushed, but angry and working unnaturally, she saw that hanging over
+her and about to crush her was some terrible misfortune, the worst
+in life, one she had not yet experienced, irreparable and
+incomprehensible—the death of one she loved.
+
+“Father! Andrew!”—said the ungraceful, awkward princess with such
+an indescribable charm of sorrow and self-forgetfulness that her father
+could not bear her look but turned away with a sob.
+
+“Bad news! He’s not among the prisoners nor among the killed!
+Kutúzov writes...” and he screamed as piercingly as if he wished to
+drive the princess away by that scream... “Killed!”
+
+The princess did not fall down or faint. She was already pale, but on
+hearing these words her face changed and something brightened in her
+beautiful, radiant eyes. It was as if joy—a supreme joy apart from the
+joys and sorrows of this world—overflowed the great grief within her.
+She forgot all fear of her father, went up to him, took his hand, and
+drawing him down put her arm round his thin, scraggy neck.
+
+“Father,” she said, “do not turn away from me, let us weep
+together.”
+
+“Scoundrels! Blackguards!” shrieked the old man, turning his face
+away from her. “Destroying the army, destroying the men! And why? Go,
+go and tell Lise.”
+
+The princess sank helplessly into an armchair beside her father and
+wept. She saw her brother now as he had been at the moment when he took
+leave of her and of Lise, his look tender yet proud. She saw him tender
+and amused as he was when he put on the little icon. “Did he believe?
+Had he repented of his unbelief? Was he now there? There in the realms
+of eternal peace and blessedness?” she thought.
+
+“Father, tell me how it happened,” she asked through her tears.
+
+“Go! Go! Killed in battle, where the best of Russian men and
+Russia’s glory were led to destruction. Go, Princess Mary. Go and tell
+Lise. I will follow.”
+
+When Princess Mary returned from her father, the little princess sat
+working and looked up with that curious expression of inner, happy calm
+peculiar to pregnant women. It was evident that her eyes did not see
+Princess Mary but were looking within... into herself... at something
+joyful and mysterious taking place within her.
+
+“Mary,” she said, moving away from the embroidery frame and lying
+back, “give me your hand.” She took her sister-in-law’s hand and
+held it below her waist.
+
+Her eyes were smiling expectantly, her downy lip rose and remained
+lifted in childlike happiness.
+
+Princess Mary knelt down before her and hid her face in the folds of her
+sister-in-law’s dress.
+
+“There, there! Do you feel it? I feel so strange. And do you know,
+Mary, I am going to love him very much,” said Lise, looking with
+bright and happy eyes at her sister-in-law.
+
+Princess Mary could not lift her head, she was weeping.
+
+“What is the matter, Mary?”
+
+“Nothing... only I feel sad... sad about Andrew,” she said, wiping
+away her tears on her sister-in-law’s knee.
+
+Several times in the course of the morning Princess Mary began trying to
+prepare her sister-in-law, and every time began to cry. Unobservant as
+was the little princess, these tears, the cause of which she did not
+understand, agitated her. She said nothing but looked about uneasily as
+if in search of something. Before dinner the old prince, of whom she was
+always afraid, came into her room with a peculiarly restless and malign
+expression and went out again without saying a word. She looked at
+Princess Mary, then sat thinking for a while with that expression of
+attention to something within her that is only seen in pregnant women,
+and suddenly began to cry.
+
+“Has anything come from Andrew?” she asked.
+
+“No, you know it’s too soon for news. But my father is anxious and I
+feel afraid.”
+
+“So there’s nothing?”
+
+“Nothing,” answered Princess Mary, looking firmly with her radiant
+eyes at her sister-in-law.
+
+She had determined not to tell her and persuaded her father to hide the
+terrible news from her till after her confinement, which was expected
+within a few days. Princess Mary and the old prince each bore and hid
+their grief in their own way. The old prince would not cherish any hope:
+he made up his mind that Prince Andrew had been killed, and though he
+sent an official to Austria to seek for traces of his son, he ordered a
+monument from Moscow which he intended to erect in his own garden to his
+memory, and he told everybody that his son had been killed. He tried not
+to change his former way of life, but his strength failed him. He walked
+less, ate less, slept less, and became weaker every day. Princess Mary
+hoped. She prayed for her brother as living and was always awaiting news
+of his return.
+
+
+
+
+
+CHAPTER VIII
+
+“Dearest,” said the little princess after breakfast on the morning
+of the nineteenth March, and her downy little lip rose from old habit,
+but as sorrow was manifest in every smile, the sound of every word, and
+even every footstep in that house since the terrible news had come, so
+now the smile of the little princess—influenced by the general mood
+though without knowing its cause—was such as to remind one still more
+of the general sorrow.
+
+“Dearest, I’m afraid this morning’s fruschtique *—as Fóka the
+cook calls it—has disagreed with me.”
+
+    * Frühstück: breakfast.
+
+“What is the matter with you, my darling? You look pale. Oh, you
+are very pale!” said Princess Mary in alarm, running with her soft,
+ponderous steps up to her sister-in-law.
+
+“Your excellency, should not Mary Bogdánovna be sent for?” said one
+of the maids who was present. (Mary Bogdánovna was a midwife from the
+neighboring town, who had been at Bald Hills for the last fortnight.)
+
+“Oh yes,” assented Princess Mary, “perhaps that’s it. I’ll go.
+Courage, my angel.” She kissed Lise and was about to leave the room.
+
+“Oh, no, no!” And besides the pallor and the physical suffering
+on the little princess’ face, an expression of childish fear of
+inevitable pain showed itself.
+
+“No, it’s only indigestion?... Say it’s only indigestion, say so,
+Mary! Say...” And the little princess began to cry capriciously like
+a suffering child and to wring her little hands even with some
+affectation. Princess Mary ran out of the room to fetch Mary
+Bogdánovna.
+
+“Mon Dieu! Mon Dieu! Oh!” she heard as she left the room.
+
+The midwife was already on her way to meet her, rubbing her small, plump
+white hands with an air of calm importance.
+
+“Mary Bogdánovna, I think it’s beginning!” said Princess Mary
+looking at the midwife with wide-open eyes of alarm.
+
+“Well, the Lord be thanked, Princess,” said Mary Bogdánovna, not
+hastening her steps. “You young ladies should not know anything about
+it.”
+
+“But how is it the doctor from Moscow is not here yet?” said the
+princess. (In accordance with Lise’s and Prince Andrew’s wishes they
+had sent in good time to Moscow for a doctor and were expecting him at
+any moment.)
+
+“No matter, Princess, don’t be alarmed,” said Mary Bogdánovna.
+“We’ll manage very well without a doctor.”
+
+Five minutes later Princess Mary from her room heard something heavy
+being carried by. She looked out. The men servants were carrying the
+large leather sofa from Prince Andrew’s study into the bedroom. On
+their faces was a quiet and solemn look.
+
+Princess Mary sat alone in her room listening to the sounds in the
+house, now and then opening her door when someone passed and watching
+what was going on in the passage. Some women passing with quiet steps in
+and out of the bedroom glanced at the princess and turned away. She did
+not venture to ask any questions, and shut the door again, now sitting
+down in her easy chair, now taking her prayer book, now kneeling before
+the icon stand. To her surprise and distress she found that her prayers
+did not calm her excitement. Suddenly her door opened softly and her old
+nurse, Praskóvya Sávishna, who hardly ever came to that room as the
+old prince had forbidden it, appeared on the threshold with a shawl
+round her head.
+
+“I’ve come to sit with you a bit, Másha,” said the nurse, “and
+here I’ve brought the prince’s wedding candles to light before his
+saint, my angel,” she said with a sigh.
+
+“Oh, nurse, I’m so glad!”
+
+“God is merciful, birdie.”
+
+The nurse lit the gilt candles before the icons and sat down by the door
+with her knitting. Princess Mary took a book and began reading. Only
+when footsteps or voices were heard did they look at one another, the
+princess anxious and inquiring, the nurse encouraging. Everyone in the
+house was dominated by the same feeling that Princess Mary experienced
+as she sat in her room. But owing to the superstition that the fewer
+the people who know of it the less a woman in travail suffers, everyone
+tried to pretend not to know; no one spoke of it, but apart from the
+ordinary staid and respectful good manners habitual in the prince’s
+household, a common anxiety, a softening of the heart, and a
+consciousness that something great and mysterious was being accomplished
+at that moment made itself felt.
+
+There was no laughter in the maids’ large hall. In the men servants’
+hall all sat waiting, silently and alert. In the outlying serfs’
+quarters torches and candles were burning and no one slept. The old
+prince, stepping on his heels, paced up and down his study and sent
+Tíkhon to ask Mary Bogdánovna what news.—“Say only that ‘the
+prince told me to ask,’ and come and tell me her answer.”
+
+“Inform the prince that labor has begun,” said Mary Bogdánovna,
+giving the messenger a significant look.
+
+Tíkhon went and told the prince.
+
+“Very good!” said the prince closing the door behind him, and
+Tíkhon did not hear the slightest sound from the study after that.
+
+After a while he re-entered it as if to snuff the candles, and, seeing
+the prince was lying on the sofa, looked at him, noticed his perturbed
+face, shook his head, and going up to him silently kissed him on the
+shoulder and left the room without snuffing the candles or saying why he
+had entered. The most solemn mystery in the world continued its course.
+Evening passed, night came, and the feeling of suspense and softening of
+heart in the presence of the unfathomable did not lessen but increased.
+No one slept.
+
+It was one of those March nights when winter seems to wish to resume its
+sway and scatters its last snows and storms with desperate fury. A relay
+of horses had been sent up the highroad to meet the German doctor from
+Moscow who was expected every moment, and men on horseback with lanterns
+were sent to the crossroads to guide him over the country road with its
+hollows and snow-covered pools of water.
+
+Princess Mary had long since put aside her book: she sat silent, her
+luminous eyes fixed on her nurse’s wrinkled face (every line of which
+she knew so well), on the lock of gray hair that escaped from under the
+kerchief, and the loose skin that hung under her chin.
+
+Nurse Sávishna, knitting in hand, was telling in low tones, scarcely
+hearing or understanding her own words, what she had told hundreds of
+times before: how the late princess had given birth to Princess Mary
+in Kishenëv with only a Moldavian peasant woman to help instead of a
+midwife.
+
+“God is merciful, doctors are never needed,” she said.
+
+Suddenly a gust of wind beat violently against the casement of the
+window, from which the double frame had been removed (by order of the
+prince, one window frame was removed in each room as soon as the larks
+returned), and, forcing open a loosely closed latch, set the damask
+curtain flapping and blew out the candle with its chill, snowy draft.
+Princess Mary shuddered; her nurse, putting down the stocking she was
+knitting, went to the window and leaning out tried to catch the open
+casement. The cold wind flapped the ends of her kerchief and her loose
+locks of gray hair.
+
+“Princess, my dear, there’s someone driving up the avenue!” she
+said, holding the casement and not closing it. “With lanterns. Most
+likely the doctor.”
+
+“Oh, my God! thank God!” said Princess Mary. “I must go and meet
+him, he does not know Russian.”
+
+Princess Mary threw a shawl over her head and ran to meet the newcomer.
+As she was crossing the anteroom she saw through the window a carriage
+with lanterns, standing at the entrance. She went out on the stairs. On
+a banister post stood a tallow candle which guttered in the draft. On
+the landing below, Philip, the footman, stood looking scared and holding
+another candle. Still lower, beyond the turn of the staircase, one
+could hear the footstep of someone in thick felt boots, and a voice that
+seemed familiar to Princess Mary was saying something.
+
+“Thank God!” said the voice. “And Father?”
+
+“Gone to bed,” replied the voice of Demyán the house steward, who
+was downstairs.
+
+Then the voice said something more, Demyán replied, and the steps in
+the felt boots approached the unseen bend of the staircase more rapidly.
+
+“It’s Andrew!” thought Princess Mary. “No it can’t be, that
+would be too extraordinary,” and at the very moment she thought this,
+the face and figure of Prince Andrew, in a fur cloak the deep collar of
+which covered with snow, appeared on the landing where the footman
+stood with the candle. Yes, it was he, pale, thin, with a changed and
+strangely softened but agitated expression on his face. He came up the
+stairs and embraced his sister.
+
+“You did not get my letter?” he asked, and not waiting for a
+reply—which he would not have received, for the princess was unable to
+speak—he turned back, rapidly mounted the stairs again with the
+doctor who had entered the hall after him (they had met at the last post
+station), and again embraced his sister.
+
+“What a strange fate, Másha darling!” And having taken off his
+cloak and felt boots, he went to the little princess’ apartment.
+
+
+
+
+
+CHAPTER IX
+
+The little princess lay supported by pillows, with a white cap on her
+head (the pains had just left her). Strands of her black hair lay round
+her inflamed and perspiring cheeks, her charming rosy mouth with its
+downy lip was open and she was smiling joyfully. Prince Andrew entered
+and paused facing her at the foot of the sofa on which she was lying.
+Her glittering eyes, filled with childlike fear and excitement, rested
+on him without changing their expression. “I love you all and have
+done no harm to anyone; why must I suffer so? Help me!” her look
+seemed to say. She saw her husband, but did not realize the significance
+of his appearance before her now. Prince Andrew went round the sofa and
+kissed her forehead.
+
+“My darling!” he said—a word he had never used to her before.
+“God is merciful....”
+
+She looked at him inquiringly and with childlike reproach.
+
+“I expected help from you and I get none, none from you either!”
+said her eyes. She was not surprised at his having come; she did
+not realize that he had come. His coming had nothing to do with
+her sufferings or with their relief. The pangs began again and Mary
+Bogdánovna advised Prince Andrew to leave the room.
+
+The doctor entered. Prince Andrew went out and, meeting Princess Mary,
+again joined her. They began talking in whispers, but their talk broke
+off at every moment. They waited and listened.
+
+“Go, dear,” said Princess Mary.
+
+Prince Andrew went again to his wife and sat waiting in the room next
+to hers. A woman came from the bedroom with a frightened face and became
+confused when she saw Prince Andrew. He covered his face with his hands
+and remained so for some minutes. Piteous, helpless, animal moans came
+through the door. Prince Andrew got up, went to the door, and tried to
+open it. Someone was holding it shut.
+
+“You can’t come in! You can’t!” said a terrified voice from
+within.
+
+He began pacing the room. The screaming ceased, and a few more seconds
+went by. Then suddenly a terrible shriek—it could not be hers, she
+could not scream like that—came from the bedroom. Prince Andrew ran to
+the door; the scream ceased and he heard the wail of an infant.
+
+“What have they taken a baby in there for?” thought Prince Andrew in
+the first second. “A baby? What baby...? Why is there a baby there? Or
+is the baby born?”
+
+Then suddenly he realized the joyful significance of that wail; tears
+choked him, and leaning his elbows on the window sill he began to cry,
+sobbing like a child. The door opened. The doctor with his shirt sleeves
+tucked up, without a coat, pale and with a trembling jaw, came out
+of the room. Prince Andrew turned to him, but the doctor gave him a
+bewildered look and passed by without a word. A woman rushed out and
+seeing Prince Andrew stopped, hesitating on the threshold. He went into
+his wife’s room. She was lying dead, in the same position he had seen
+her in five minutes before and, despite the fixed eyes and the pallor of
+the cheeks, the same expression was on her charming childlike face with
+its upper lip covered with tiny black hair.
+
+“I love you all, and have done no harm to anyone; and what have you
+done to me?”—said her charming, pathetic, dead face.
+
+In a corner of the room something red and tiny gave a grunt and squealed
+in Mary Bogdánovna’s trembling white hands.
+
+
+Two hours later Prince Andrew, stepping softly, went into his father’s
+room. The old man already knew everything. He was standing close to
+the door and as soon as it opened his rough old arms closed like a vise
+round his son’s neck, and without a word he began to sob like a child.
+
+
+Three days later the little princess was buried, and Prince Andrew went
+up the steps to where the coffin stood, to give her the farewell kiss.
+And there in the coffin was the same face, though with closed eyes.
+“Ah, what have you done to me?” it still seemed to say, and Prince
+Andrew felt that something gave way in his soul and that he was guilty
+of a sin he could neither remedy nor forget. He could not weep. The
+old man too came up and kissed the waxen little hands that lay quietly
+crossed one on the other on her breast, and to him, too, her face seemed
+to say: “Ah, what have you done to me, and why?” And at the sight
+the old man turned angrily away.
+
+
+Another five days passed, and then the young Prince Nicholas Andréevich
+was baptized. The wet nurse supported the coverlet with her chin, while
+the priest with a goose feather anointed the boy’s little red and
+wrinkled soles and palms.
+
+His grandfather, who was his godfather, trembling and afraid of dropping
+him, carried the infant round the battered tin font and handed him over
+to the godmother, Princess Mary. Prince Andrew sat in another room,
+faint with fear lest the baby should be drowned in the font, and awaited
+the termination of the ceremony. He looked up joyfully at the baby when
+the nurse brought it to him and nodded approval when she told him that
+the wax with the baby’s hair had not sunk in the font but had floated.
+
+
+
+
+
+CHAPTER X
+
+Rostóv’s share in Dólokhov’s duel with Bezúkhov was hushed up by
+the efforts of the old count, and instead of being degraded to the ranks
+as he expected he was appointed an adjutant to the governor general of
+Moscow. As a result he could not go to the country with the rest of the
+family, but was kept all summer in Moscow by his new duties. Dólokhov
+recovered, and Rostóv became very friendly with him during his
+convalescence. Dólokhov lay ill at his mother’s who loved him
+passionately and tenderly, and old Mary Ivánovna, who had grown fond of
+Rostóv for his friendship to her Fédya, often talked to him about her
+son.
+
+“Yes, Count,” she would say, “he is too noble and pure-souled for
+our present, depraved world. No one now loves virtue; it seems like
+a reproach to everyone. Now tell me, Count, was it right, was it
+honorable, of Bezúkhov? And Fédya, with his noble spirit, loved him
+and even now never says a word against him. Those pranks in Petersburg
+when they played some tricks on a policeman, didn’t they do it
+together? And there! Bezúkhov got off scotfree, while Fédya had to
+bear the whole burden on his shoulders. Fancy what he had to go through!
+It’s true he has been reinstated, but how could they fail to do that?
+I think there were not many such gallant sons of the fatherland out
+there as he. And now—this duel! Have these people no feeling, or
+honor? Knowing him to be an only son, to challenge him and shoot so
+straight! It’s well God had mercy on us. And what was it for? Who
+doesn’t have intrigues nowadays? Why, if he was so jealous, as I see
+things he should have shown it sooner, but he lets it go on for months.
+And then to call him out, reckoning on Fédya not fighting because he
+owed him money! What baseness! What meanness! I know you understand
+Fédya, my dear count; that, believe me, is why I am so fond of you. Few
+people do understand him. He is such a lofty, heavenly soul!”
+
+Dólokhov himself during his convalescence spoke to Rostóv in a way no
+one would have expected of him.
+
+“I know people consider me a bad man!” he said. “Let them! I
+don’t care a straw about anyone but those I love; but those I love,
+I love so that I would give my life for them, and the others I’d
+throttle if they stood in my way. I have an adored, a priceless mother,
+and two or three friends—you among them—and as for the rest I only
+care about them in so far as they are harmful or useful. And most of
+them are harmful, especially the women. Yes, dear boy,” he continued,
+“I have met loving, noble, high-minded men, but I have not yet met
+any women—countesses or cooks—who were not venal. I have not yet met
+that divine purity and devotion I look for in women. If I found such a
+one I’d give my life for her! But those!...” and he made a gesture
+of contempt. “And believe me, if I still value my life it is
+only because I still hope to meet such a divine creature, who will
+regenerate, purify, and elevate me. But you don’t understand it.”
+
+“Oh, yes, I quite understand,” answered Rostóv, who was under his
+new friend’s influence.
+
+In the autumn the Rostóvs returned to Moscow. Early in the winter
+Denísov also came back and stayed with them. The first half of the
+winter of 1806, which Nicholas Rostóv spent in Moscow, was one of the
+happiest, merriest times for him and the whole family. Nicholas brought
+many young men to his parents’ house. Véra was a handsome girl
+of twenty; Sónya a girl of sixteen with all the charm of an opening
+flower; Natásha, half grown up and half child, was now childishly
+amusing, now girlishly enchanting.
+
+At that time in the Rostóvs’ house there prevailed an amorous
+atmosphere characteristic of homes where there are very young and very
+charming girls. Every young man who came to the house—seeing those
+impressionable, smiling young faces (smiling probably at their own
+happiness), feeling the eager bustle around him, and hearing the fitful
+bursts of song and music and the inconsequent but friendly prattle of
+young girls ready for anything and full of hope—experienced the same
+feeling; sharing with the young folk of the Rostóvs’ household a
+readiness to fall in love and an expectation of happiness.
+
+Among the young men introduced by Rostóv one of the first was
+Dólokhov, whom everyone in the house liked except Natásha. She almost
+quarreled with her brother about him. She insisted that he was a bad
+man, and that in the duel with Bezúkhov, Pierre was right and Dólokhov
+wrong, and further that he was disagreeable and unnatural.
+
+“There’s nothing for me to understand,” she cried out with
+resolute self-will, “he is wicked and heartless. There now, I like
+your Denísov though he is a rake and all that, still I like him; so
+you see I do understand. I don’t know how to put it... with this one
+everything is calculated, and I don’t like that. But Denísov...”
+
+“Oh, Denísov is quite different,” replied Nicholas, implying that
+even Denísov was nothing compared to Dólokhov—“you must understand
+what a soul there is in Dólokhov, you should see him with his mother.
+What a heart!”
+
+“Well, I don’t know about that, but I am uncomfortable with him. And
+do you know he has fallen in love with Sónya?”
+
+“What nonsense...”
+
+“I’m certain of it; you’ll see.”
+
+Natásha’s prediction proved true. Dólokhov, who did not usually care
+for the society of ladies, began to come often to the house, and the
+question for whose sake he came (though no one spoke of it) was soon
+settled. He came because of Sónya. And Sónya, though she would never
+have dared to say so, knew it and blushed scarlet every time Dólokhov
+appeared.
+
+Dólokhov often dined at the Rostóvs’, never missed a performance at
+which they were present, and went to Iogel’s balls for young people
+which the Rostóvs always attended. He was pointedly attentive to Sónya
+and looked at her in such a way that not only could she not bear his
+glances without coloring, but even the old countess and Natásha blushed
+when they saw his looks.
+
+It was evident that this strange, strong man was under the irresistible
+influence of the dark, graceful girl who loved another.
+
+Rostóv noticed something new in Dólokhov’s relations with Sónya,
+but he did not explain to himself what these new relations were.
+“They’re always in love with someone,” he thought of Sónya and
+Natásha. But he was not as much at ease with Sónya and Dólokhov as
+before and was less frequently at home.
+
+In the autumn of 1806 everybody had again begun talking of the war with
+Napoleon with even greater warmth than the year before. Orders were
+given to raise recruits, ten men in every thousand for the regular army,
+and besides this, nine men in every thousand for the militia. Everywhere
+Bonaparte was anathematized and in Moscow nothing but the coming war
+was talked of. For the Rostóv family the whole interest of these
+preparations for war lay in the fact that Nicholas would not hear of
+remaining in Moscow, and only awaited the termination of Denísov’s
+furlough after Christmas to return with him to their regiment. His
+approaching departure did not prevent his amusing himself, but rather
+gave zest to his pleasures. He spent the greater part of his time away
+from home, at dinners, parties, and balls.
+
+
+
+
+
+CHAPTER XI
+
+On the third day after Christmas Nicholas dined at home, a thing he had
+rarely done of late. It was a grand farewell dinner, as he and Denísov
+were leaving to join their regiment after Epiphany. About twenty people
+were present, including Dólokhov and Denísov.
+
+Never had love been so much in the air, and never had the amorous
+atmosphere made itself so strongly felt in the Rostóvs’ house as at
+this holiday time. “Seize the moments of happiness, love and be loved!
+That is the only reality in the world, all else is folly. It is the one
+thing we are interested in here,” said the spirit of the place.
+
+Nicholas, having as usual exhausted two pairs of horses, without
+visiting all the places he meant to go to and where he had been invited,
+returned home just before dinner. As soon as he entered he noticed and
+felt the tension of the amorous air in the house, and also noticed a
+curious embarrassment among some of those present. Sónya, Dólokhov,
+and the old countess were especially disturbed, and to a lesser degree
+Natásha. Nicholas understood that something must have happened between
+Sónya and Dólokhov before dinner, and with the kindly sensitiveness
+natural to him was very gentle and wary with them both at dinner. On
+that same evening there was to be one of the balls that Iogel (the
+dancing master) gave for his pupils during the holidays.
+
+“Nicholas, will you come to Iogel’s? Please do!” said Natásha.
+“He asked you, and Vasíli Dmítrich * is also going.”
+
+    * Denísov.
+
+“Where would I not go at the countess’ command!” said Denísov,
+who at the Rostóvs’ had jocularly assumed the role of Natásha’s
+knight. “I’m even weady to dance the pas de châle.”
+
+“If I have time,” answered Nicholas. “But I promised the
+Arkhárovs; they have a party.”
+
+“And you?” he asked Dólokhov, but as soon as he had asked the
+question he noticed that it should not have been put.
+
+“Perhaps,” coldly and angrily replied Dólokhov, glancing at Sónya,
+and, scowling, he gave Nicholas just such a look as he had given Pierre
+at the club dinner.
+
+“There is something up,” thought Nicholas, and he was further
+confirmed in this conclusion by the fact that Dólokhov left immediately
+after dinner. He called Natásha and asked her what was the matter.
+
+“And I was looking for you,” said Natásha running out to him. “I
+told you, but you would not believe it,” she said triumphantly. “He
+has proposed to Sónya!”
+
+Little as Nicholas had occupied himself with Sónya of late, something
+seemed to give way within him at this news. Dólokhov was a suitable and
+in some respects a brilliant match for the dowerless, orphan girl. From
+the point of view of the old countess and of society it was out of the
+question for her to refuse him. And therefore Nicholas’ first feeling
+on hearing the news was one of anger with Sónya.... He tried to say,
+“That’s capital; of course she’ll forget her childish promises
+and accept the offer,” but before he had time to say it Natásha began
+again.
+
+“And fancy! she refused him quite definitely!” adding, after a
+pause, “she told him she loved another.”
+
+“Yes, my Sónya could not have done otherwise!” thought Nicholas.
+
+“Much as Mamma pressed her, she refused, and I know she won’t change
+once she has said...”
+
+“And Mamma pressed her!” said Nicholas reproachfully.
+
+“Yes,” said Natásha. “Do you know, Nicholas—don’t be
+angry—but I know you will not marry her. I know, heaven knows how, but
+I know for certain that you won’t marry her.”
+
+“Now you don’t know that at all!” said Nicholas. “But I must
+talk to her. What a darling Sónya is!” he added with a smile.
+
+“Ah, she is indeed a darling! I’ll send her to you.”
+
+And Natásha kissed her brother and ran away.
+
+A minute later Sónya came in with a frightened, guilty, and scared
+look. Nicholas went up to her and kissed her hand. This was the first
+time since his return that they had talked alone and about their love.
+
+“Sophie,” he began, timidly at first and then more and more
+boldly, “if you wish to refuse one who is not only a brilliant and
+advantageous match but a splendid, noble fellow... he is my friend...”
+
+Sónya interrupted him.
+
+“I have already refused,” she said hurriedly.
+
+“If you are refusing for my sake, I am afraid that I...”
+
+Sónya again interrupted. She gave him an imploring, frightened look.
+
+“Nicholas, don’t tell me that!” she said.
+
+“No, but I must. It may be arrogant of me, but still it is best to say
+it. If you refuse him on my account, I must tell you the whole truth. I
+love you, and I think I love you more than anyone else....”
+
+“That is enough for me,” said Sónya, blushing.
+
+“No, but I have been in love a thousand times and shall fall in
+love again, though for no one have I such a feeling of friendship,
+confidence, and love as I have for you. Then I am young. Mamma does
+not wish it. In a word, I make no promise. And I beg you to consider
+Dólokhov’s offer,” he said, articulating his friend’s name with
+difficulty.
+
+“Don’t say that to me! I want nothing. I love you as a brother and
+always shall, and I want nothing more.”
+
+“You are an angel: I am not worthy of you, but I am afraid of
+misleading you.”
+
+And Nicholas again kissed her hand.
+
+
+
+
+
+CHAPTER XII
+
+Iogel’s were the most enjoyable balls in Moscow. So said the mothers
+as they watched their young people executing their newly learned steps,
+and so said the youths and maidens themselves as they danced till they
+were ready to drop, and so said the grown-up young men and women who
+came to these balls with an air of condescension and found them most
+enjoyable. That year two marriages had come of these balls. The two
+pretty young Princesses Gorchakóv met suitors there and were married
+and so further increased the fame of these dances. What distinguished
+them from others was the absence of host or hostess and the presence of
+the good-natured Iogel, flying about like a feather and bowing according
+to the rules of his art, as he collected the tickets from all his
+visitors. There was the fact that only those came who wished to dance
+and amuse themselves as girls of thirteen and fourteen do who are
+wearing long dresses for the first time. With scarcely any exceptions
+they all were, or seemed to be, pretty—so rapturous were their smiles
+and so sparkling their eyes. Sometimes the best of the pupils, of whom
+Natásha, who was exceptionally graceful, was first, even danced the pas
+de châle, but at this last ball only the écossaise, the anglaise, and
+the mazurka, which was just coming into fashion, were danced. Iogel had
+taken a ballroom in Bezúkhov’s house, and the ball, as everyone said,
+was a great success. There were many pretty girls and the Rostóv girls
+were among the prettiest. They were both particularly happy and gay.
+That evening, proud of Dólokhov’s proposal, her refusal, and her
+explanation with Nicholas, Sónya twirled about before she left home
+so that the maid could hardly get her hair plaited, and she was
+transparently radiant with impulsive joy.
+
+Natásha no less proud of her first long dress and of being at a real
+ball was even happier. They were both dressed in white muslin with pink
+ribbons.
+
+Natásha fell in love the very moment she entered the ballroom. She
+was not in love with anyone in particular, but with everyone. Whatever
+person she happened to look at she was in love with for that moment.
+
+“Oh, how delightful it is!” she kept saying, running up to Sónya.
+
+Nicholas and Denísov were walking up and down, looking with kindly
+patronage at the dancers.
+
+“How sweet she is—she will be a weal beauty!” said Denísov.
+
+“Who?”
+
+“Countess Natásha,” answered Denísov.
+
+“And how she dances! What gwace!” he said again after a pause.
+
+“Who are you talking about?”
+
+“About your sister,” ejaculated Denísov testily.
+
+Rostóv smiled.
+
+“My dear count, you were one of my best pupils—you must dance,”
+said little Iogel coming up to Nicholas. “Look how many charming young
+ladies—” He turned with the same request to Denísov who was also a
+former pupil of his.
+
+“No, my dear fellow, I’ll be a wallflower,” said Denísov.
+“Don’t you wecollect what bad use I made of your lessons?”
+
+“Oh no!” said Iogel, hastening to reassure him. “You were only
+inattentive, but you had talent—oh yes, you had talent!”
+
+The band struck up the newly introduced mazurka. Nicholas could not
+refuse Iogel and asked Sónya to dance. Denísov sat down by the old
+ladies and, leaning on his saber and beating time with his foot, told
+them something funny and kept them amused, while he watched the young
+people dancing, Iogel with Natásha, his pride and his best pupil, were
+the first couple. Noiselessly, skillfully stepping with his little
+feet in low shoes, Iogel flew first across the hall with Natásha, who,
+though shy, went on carefully executing her steps. Denísov did not
+take his eyes off her and beat time with his saber in a way that clearly
+indicated that if he was not dancing it was because he would not and not
+because he could not. In the middle of a figure he beckoned to Rostóv
+who was passing:
+
+“This is not at all the thing,” he said. “What sort of Polish
+mazuwka is this? But she does dance splendidly.”
+
+Knowing that Denísov had a reputation even in Poland for the masterly
+way in which he danced the mazurka, Nicholas ran up to Natásha:
+
+“Go and choose Denísov. He is a real dancer, a wonder!” he said.
+
+When it came to Natásha’s turn to choose a partner, she rose and,
+tripping rapidly across in her little shoes trimmed with bows, ran
+timidly to the corner where Denísov sat. She saw that everybody was
+looking at her and waiting. Nicholas saw that Denísov was refusing
+though he smiled delightedly. He ran up to them.
+
+“Please, Vasíli Dmítrich,” Natásha was saying, “do come!”
+
+“Oh no, let me off, Countess,” Denísov replied.
+
+“Now then, Váska,” said Nicholas.
+
+“They coax me as if I were Váska the cat!” said Denísov jokingly.
+
+“I’ll sing for you a whole evening,” said Natásha.
+
+“Oh, the faiwy! She can do anything with me!” said Denísov, and
+he unhooked his saber. He came out from behind the chairs, clasped his
+partner’s hand firmly, threw back his head, and advanced his foot,
+waiting for the beat. Only on horse back and in the mazurka was
+Denísov’s short stature not noticeable and he looked the fine fellow
+he felt himself to be. At the right beat of the music he looked sideways
+at his partner with a merry and triumphant air, suddenly stamped with
+one foot, bounded from the floor like a ball, and flew round the room
+taking his partner with him. He glided silently on one foot half across
+the room, and seeming not to notice the chairs was dashing straight at
+them, when suddenly, clinking his spurs and spreading out his legs,
+he stopped short on his heels, stood so a second, stamped on the spot
+clanking his spurs, whirled rapidly round, and, striking his left heel
+against his right, flew round again in a circle. Natásha guessed what
+he meant to do, and abandoning herself to him followed his lead hardly
+knowing how. First he spun her round, holding her now with his left, now
+with his right hand, then falling on one knee he twirled her round him,
+and again jumping up, dashed so impetuously forward that it seemed as if
+he would rush through the whole suite of rooms without drawing breath,
+and then he suddenly stopped and performed some new and unexpected
+steps. When at last, smartly whirling his partner round in front of her
+chair, he drew up with a click of his spurs and bowed to her, Natásha
+did not even make him a curtsy. She fixed her eyes on him in amazement,
+smiling as if she did not recognize him.
+
+“What does this mean?” she brought out.
+
+Although Iogel did not acknowledge this to be the real mazurka, everyone
+was delighted with Denísov’s skill, he was asked again and again as
+a partner, and the old men began smilingly to talk about Poland and the
+good old days. Denísov, flushed after the mazurka and mopping himself
+with his handkerchief, sat down by Natásha and did not leave her for
+the rest of the evening.
+
+
+
+
+
+CHAPTER XIII
+
+For two days after that Rostóv did not see Dólokhov at his own or at
+Dólokhov’s home: on the third day he received a note from him:
+
+As I do not intend to be at your house again for reasons you know
+of, and am going to rejoin my regiment, I am giving a farewell supper
+tonight to my friends—come to the English Hotel.
+
+About ten o’clock Rostóv went to the English Hotel straight from the
+theater, where he had been with his family and Denísov. He was at once
+shown to the best room, which Dólokhov had taken for that evening. Some
+twenty men were gathered round a table at which Dólokhov sat between
+two candles. On the table was a pile of gold and paper money, and he
+was keeping the bank. Rostóv had not seen him since his proposal and
+Sónya’s refusal and felt uncomfortable at the thought of how they
+would meet.
+
+Dólokhov’s clear, cold glance met Rostóv as soon as he entered the
+door, as though he had long expected him.
+
+“It’s a long time since we met,” he said. “Thanks for coming.
+I’ll just finish dealing, and then Ilyúshka will come with his
+chorus.”
+
+“I called once or twice at your house,” said Rostóv, reddening.
+
+Dólokhov made no reply.
+
+“You may punt,” he said.
+
+Rostóv recalled at that moment a strange conversation he had once had
+with Dólokhov. “None but fools trust to luck in play,” Dólokhov
+had then said.
+
+“Or are you afraid to play with me?” Dólokhov now asked as if
+guessing Rostóv’s thought.
+
+Beneath his smile Rostóv saw in him the mood he had shown at the club
+dinner and at other times, when as if tired of everyday life he had felt
+a need to escape from it by some strange, and usually cruel, action.
+
+Rostóv felt ill at ease. He tried, but failed, to find some joke with
+which to reply to Dólokhov’s words. But before he had thought of
+anything, Dólokhov, looking straight in his face, said slowly and
+deliberately so that everyone could hear:
+
+“Do you remember we had a talk about cards... ‘He’s a fool who
+trusts to luck, one should make certain,’ and I want to try.”
+
+“To try his luck or the certainty?” Rostóv asked himself.
+
+“Well, you’d better not play,” Dólokhov added, and springing a
+new pack of cards said: “Bank, gentlemen!”
+
+Moving the money forward he prepared to deal. Rostóv sat down by his
+side and at first did not play. Dólokhov kept glancing at him.
+
+“Why don’t you play?” he asked.
+
+And strange to say Nicholas felt that he could not help taking up a
+card, putting a small stake on it, and beginning to play.
+
+“I have no money with me,” he said.
+
+“I’ll trust you.”
+
+Rostóv staked five rubles on a card and lost, staked again, and again
+lost. Dólokhov “killed,” that is, beat, ten cards of Rostóv’s
+running.
+
+“Gentlemen,” said Dólokhov after he had dealt for some time.
+“Please place your money on the cards or I may get muddled in the
+reckoning.”
+
+One of the players said he hoped he might be trusted.
+
+“Yes, you might, but I am afraid of getting the accounts mixed. So I
+ask you to put the money on your cards,” replied Dólokhov. “Don’t
+stint yourself, we’ll settle afterwards,” he added, turning to
+Rostóv.
+
+The game continued; a waiter kept handing round champagne.
+
+All Rostóv’s cards were beaten and he had eight hundred rubles scored
+up against him. He wrote “800 rubles” on a card, but while the
+waiter filled his glass he changed his mind and altered it to his usual
+stake of twenty rubles.
+
+“Leave it,” said Dólokhov, though he did not seem to be even
+looking at Rostóv, “you’ll win it back all the sooner. I lose to
+the others but win from you. Or are you afraid of me?” he asked again.
+
+Rostóv submitted. He let the eight hundred remain and laid down a seven
+of hearts with a torn corner, which he had picked up from the floor. He
+well remembered that seven afterwards. He laid down the seven of hearts,
+on which with a broken bit of chalk he had written “800 rubles” in
+clear upright figures; he emptied the glass of warm champagne that was
+handed him, smiled at Dólokhov’s words, and with a sinking heart,
+waiting for a seven to turn up, gazed at Dólokhov’s hands which held
+the pack. Much depended on Rostóv’s winning or losing on that seven
+of hearts. On the previous Sunday the old count had given his son
+two thousand rubles, and though he always disliked speaking of money
+difficulties had told Nicholas that this was all he could let him have
+till May, and asked him to be more economical this time. Nicholas had
+replied that it would be more than enough for him and that he gave his
+word of honor not to take anything more till the spring. Now only twelve
+hundred rubles was left of that money, so that this seven of hearts
+meant for him not only the loss of sixteen hundred rubles, but the
+necessity of going back on his word. With a sinking heart he watched
+Dólokhov’s hands and thought, “Now then, make haste and let me have
+this card and I’ll take my cap and drive home to supper with Denísov,
+Natásha, and Sónya, and will certainly never touch a card again.” At
+that moment his home life, jokes with Pétya, talks with Sónya, duets
+with Natásha, piquet with his father, and even his comfortable bed
+in the house on the Povarskáya rose before him with such vividness,
+clearness, and charm that it seemed as if it were all a lost and
+unappreciated bliss, long past. He could not conceive that a stupid
+chance, letting the seven be dealt to the right rather than to the left,
+might deprive him of all this happiness, newly appreciated and newly
+illumined, and plunge him into the depths of unknown and undefined
+misery. That could not be, yet he awaited with a sinking heart the
+movement of Dólokhov’s hands. Those broad, reddish hands, with hairy
+wrists visible from under the shirt cuffs, laid down the pack and took
+up a glass and a pipe that were handed him.
+
+“So you are not afraid to play with me?” repeated Dólokhov, and as
+if about to tell a good story he put down the cards, leaned back in his
+chair, and began deliberately with a smile:
+
+“Yes, gentlemen, I’ve been told there’s a rumor going about Moscow
+that I’m a sharper, so I advise you to be careful.”
+
+“Come now, deal!” exclaimed Rostóv.
+
+“Oh, those Moscow gossips!” said Dólokhov, and he took up the cards
+with a smile.
+
+“Aah!” Rostóv almost screamed lifting both hands to his head. The
+seven he needed was lying uppermost, the first card in the pack. He had
+lost more than he could pay.
+
+“Still, don’t ruin yourself!” said Dólokhov with a side glance at
+Rostóv as he continued to deal.
+
+
+
+
+
+CHAPTER XIV
+
+An hour and a half later most of the players were but little interested
+in their own play.
+
+The whole interest was concentrated on Rostóv. Instead of sixteen
+hundred rubles he had a long column of figures scored against him,
+which he had reckoned up to ten thousand, but that now, as he vaguely
+supposed, must have risen to fifteen thousand. In reality it already
+exceeded twenty thousand rubles. Dólokhov was no longer listening to
+stories or telling them, but followed every movement of Rostóv’s
+hands and occasionally ran his eyes over the score against him. He had
+decided to play until that score reached forty-three thousand. He
+had fixed on that number because forty-three was the sum of his and
+Sónya’s joint ages. Rostóv, leaning his head on both hands, sat at
+the table which was scrawled over with figures, wet with spilled wine,
+and littered with cards. One tormenting impression did not leave him:
+that those broad-boned reddish hands with hairy wrists visible from
+under the shirt sleeves, those hands which he loved and hated, held him
+in their power.
+
+“Six hundred rubles, ace, a corner, a nine... winning it back’s
+impossible... Oh, how pleasant it was at home!... The knave, double or
+quits... it can’t be!... And why is he doing this to me?” Rostóv
+pondered. Sometimes he staked a large sum, but Dólokhov refused to
+accept it and fixed the stake himself. Nicholas submitted to him, and at
+one moment prayed to God as he had done on the battlefield at the bridge
+over the Enns, and then guessed that the card that came first to hand
+from the crumpled heap under the table would save him, now counted the
+cords on his coat and took a card with that number and tried staking the
+total of his losses on it, then he looked round for aid from the other
+players, or peered at the now cold face of Dólokhov and tried to read
+what was passing in his mind.
+
+“He knows of course what this loss means to me. He can’t want my
+ruin. Wasn’t he my friend? Wasn’t I fond of him? But it’s not his
+fault. What’s he to do if he has such luck?... And it’s not my fault
+either,” he thought to himself, “I have done nothing wrong. Have I
+killed anyone, or insulted or wished harm to anyone? Why such a terrible
+misfortune? And when did it begin? Such a little while ago I came to
+this table with the thought of winning a hundred rubles to buy that
+casket for Mamma’s name day and then going home. I was so happy, so
+free, so lighthearted! And I did not realize how happy I was! When did
+that end and when did this new, terrible state of things begin? What
+marked the change? I sat all the time in this same place at this table,
+chose and placed cards, and watched those broad-boned agile hands in the
+same way. When did it happen and what has happened? I am well and strong
+and still the same and in the same place. No, it can’t be! Surely it
+will all end in nothing!”
+
+He was flushed and bathed in perspiration, though the room was not hot.
+His face was terrible and piteous to see, especially from its helpless
+efforts to seem calm.
+
+The score against him reached the fateful sum of forty-three thousand.
+Rostóv had just prepared a card, by bending the corner of which he
+meant to double the three thousand just put down to his score, when
+Dólokhov, slamming down the pack of cards, put it aside and began
+rapidly adding up the total of Rostóv’s debt, breaking the chalk as
+he marked the figures in his clear, bold hand.
+
+“Supper, it’s time for supper! And here are the gypsies!”
+
+Some swarthy men and women were really entering from the cold outside
+and saying something in their gypsy accents. Nicholas understood that it
+was all over; but he said in an indifferent tone:
+
+“Well, won’t you go on? I had a splendid card all ready,” as if it
+were the fun of the game which interested him most.
+
+“It’s all up! I’m lost!” thought he. “Now a bullet through my
+brain—that’s all that’s left me!” And at the same time he said
+in a cheerful voice:
+
+“Come now, just this one more little card!”
+
+“All right!” said Dólokhov, having finished the addition. “All
+right! Twenty-one rubles,” he said, pointing to the figure twenty-one
+by which the total exceeded the round sum of forty-three thousand; and
+taking up a pack he prepared to deal. Rostóv submissively unbent the
+corner of his card and, instead of the six thousand he had intended,
+carefully wrote twenty-one.
+
+“It’s all the same to me,” he said. “I only want to see whether
+you will let me win this ten, or beat it.”
+
+Dólokhov began to deal seriously. Oh, how Rostóv detested at that
+moment those hands with their short reddish fingers and hairy wrists,
+which held him in their power.... The ten fell to him.
+
+“You owe forty-three thousand, Count,” said Dólokhov, and
+stretching himself he rose from the table. “One does get tired sitting
+so long,” he added.
+
+“Yes, I’m tired too,” said Rostóv.
+
+Dólokhov cut him short, as if to remind him that it was not for him to
+jest.
+
+“When am I to receive the money, Count?”
+
+Rostóv, flushing, drew Dólokhov into the next room.
+
+“I cannot pay it all immediately. Will you take an I.O.U.?” he said.
+
+“I say, Rostóv,” said Dólokhov clearly, smiling and looking
+Nicholas straight in the eyes, “you know the saying, ‘Lucky in love,
+unlucky at cards.’ Your cousin is in love with you, I know.”
+
+“Oh, it’s terrible to feel oneself so in this man’s power,”
+thought Rostóv. He knew what a shock he would inflict on his father and
+mother by the news of this loss, he knew what a relief it would be to
+escape it all, and felt that Dólokhov knew that he could save him from
+all this shame and sorrow, but wanted now to play with him as a cat does
+with a mouse.
+
+“Your cousin...” Dólokhov started to say, but Nicholas interrupted
+him.
+
+“My cousin has nothing to do with this and it’s not necessary to
+mention her!” he exclaimed fiercely.
+
+“Then when am I to have it?”
+
+“Tomorrow,” replied Rostóv and left the room.
+
+
+
+
+
+CHAPTER XV
+
+To say “tomorrow” and keep up a dignified tone was not difficult,
+but to go home alone, see his sisters, brother, mother, and father,
+confess and ask for money he had no right to after giving his word of
+honor, was terrible.
+
+At home, they had not yet gone to bed. The young people, after returning
+from the theater, had had supper and were grouped round the clavichord.
+As soon as Nicholas entered, he was enfolded in that poetic atmosphere
+of love which pervaded the Rostóv household that winter and, now after
+Dólokhov’s proposal and Iogel’s ball, seemed to have grown thicker
+round Sónya and Natásha as the air does before a thunderstorm. Sónya
+and Natásha, in the light-blue dresses they had worn at the theater,
+looking pretty and conscious of it, were standing by the clavichord,
+happy and smiling. Véra was playing chess with Shinshín in the drawing
+room. The old countess, waiting for the return of her husband and son,
+sat playing patience with the old gentlewoman who lived in their house.
+Denísov, with sparkling eyes and ruffled hair, sat at the clavichord
+striking chords with his short fingers, his legs thrown back and his
+eyes rolling as he sang, with his small, husky, but true voice, some
+verses called “Enchantress,” which he had composed, and to which he
+was trying to fit music:
+
+   Enchantress, say, to my forsaken lyre
+   What magic power is this recalls me still?
+   What spark has set my inmost soul on fire,
+   What is this bliss that makes my fingers thrill?
+
+He was singing in passionate tones, gazing with his sparkling
+black-agate eyes at the frightened and happy Natásha.
+
+“Splendid! Excellent!” exclaimed Natásha. “Another verse,” she
+said, without noticing Nicholas.
+
+“Everything’s still the same with them,” thought Nicholas,
+glancing into the drawing room, where he saw Véra and his mother with
+the old lady.
+
+“Ah, and here’s Nicholas!” cried Natásha, running up to him.
+
+“Is Papa at home?” he asked.
+
+“I am so glad you’ve come!” said Natásha, without answering him.
+“We are enjoying ourselves! Vasíli Dmítrich is staying a day longer
+for my sake! Did you know?”
+
+“No, Papa is not back yet,” said Sónya.
+
+“Nicholas, have you come? Come here, dear!” called the old countess
+from the drawing room.
+
+Nicholas went to her, kissed her hand, and sitting down silently at her
+table began to watch her hands arranging the cards. From the dancing
+room, they still heard the laughter and merry voices trying to persuade
+Natásha to sing.
+
+“All wight! All wight!” shouted Denísov. “It’s no good making
+excuses now! It’s your turn to sing the ba’cawolla—I entweat
+you!”
+
+The countess glanced at her silent son.
+
+“What is the matter?” she asked.
+
+“Oh, nothing,” said he, as if weary of being continually asked the
+same question. “Will Papa be back soon?”
+
+“I expect so.”
+
+“Everything’s the same with them. They know nothing about it! Where
+am I to go?” thought Nicholas, and went again into the dancing room
+where the clavichord stood.
+
+Sónya was sitting at the clavichord, playing the prelude to
+Denísov’s favorite barcarolle. Natásha was preparing to sing.
+Denísov was looking at her with enraptured eyes.
+
+Nicholas began pacing up and down the room.
+
+“Why do they want to make her sing? How can she sing? There’s
+nothing to be happy about!” thought he.
+
+Sónya struck the first chord of the prelude.
+
+“My God, I’m a ruined and dishonored man! A bullet through my brain
+is the only thing left me—not singing!” his thoughts ran on. “Go
+away? But where to? It’s one—let them sing!”
+
+He continued to pace the room, looking gloomily at Denísov and the
+girls and avoiding their eyes.
+
+“Nikólenka, what is the matter?” Sónya’s eyes fixed on him
+seemed to ask. She noticed at once that something had happened to him.
+
+Nicholas turned away from her. Natásha too, with her quick instinct,
+had instantly noticed her brother’s condition. But, though she noticed
+it, she was herself in such high spirits at that moment, so far from
+sorrow, sadness, or self-reproach, that she purposely deceived herself
+as young people often do. “No, I am too happy now to spoil my
+enjoyment by sympathy with anyone’s sorrow,” she felt, and she said
+to herself: “No, I must be mistaken, he must be feeling happy, just as
+I am.”
+
+“Now, Sónya!” she said, going to the very middle of the room, where
+she considered the resonance was best.
+
+Having lifted her head and let her arms droop lifelessly, as ballet
+dancers do, Natásha, rising energetically from her heels to her toes,
+stepped to the middle of the room and stood still.
+
+“Yes, that’s me!” she seemed to say, answering the rapt gaze with
+which Denísov followed her.
+
+“And what is she so pleased about?” thought Nicholas, looking at his
+sister. “Why isn’t she dull and ashamed?”
+
+Natásha took the first note, her throat swelled, her chest rose,
+her eyes became serious. At that moment she was oblivious of her
+surroundings, and from her smiling lips flowed sounds which anyone may
+produce at the same intervals and hold for the same time, but which
+leave you cold a thousand times and the thousand and first time thrill
+you and make you weep.
+
+Natásha, that winter, had for the first time begun to sing seriously,
+mainly because Denísov so delighted in her singing. She no longer sang
+as a child, there was no longer in her singing that comical, childish,
+painstaking effect that had been in it before; but she did not yet sing
+well, as all the connoisseurs who heard her said: “It is not trained,
+but it is a beautiful voice that must be trained.” Only they generally
+said this some time after she had finished singing. While that untrained
+voice, with its incorrect breathing and labored transitions, was
+sounding, even the connoisseurs said nothing, but only delighted in
+it and wished to hear it again. In her voice there was a virginal
+freshness, an unconsciousness of her own powers, and an as yet untrained
+velvety softness, which so mingled with her lack of art in singing that
+it seemed as if nothing in that voice could be altered without spoiling
+it.
+
+“What is this?” thought Nicholas, listening to her with widely
+opened eyes. “What has happened to her? How she is singing today!”
+And suddenly the whole world centered for him on anticipation of the
+next note, the next phrase, and everything in the world was divided into
+three beats: “Oh mio crudele affetto.”... One, two, three... one,
+two, three... One... “Oh mio crudele affetto.”... One, two, three...
+One. “Oh, this senseless life of ours!” thought Nicholas. “All
+this misery, and money, and Dólokhov, and anger, and honor—it’s all
+nonsense... but this is real.... Now then, Natásha, now then, dearest!
+Now then, darling! How will she take that si? She’s taken it! Thank
+God!” And without noticing that he was singing, to strengthen the si
+he sung a second, a third below the high note. “Ah, God! How fine! Did
+I really take it? How fortunate!” he thought.
+
+Oh, how that chord vibrated, and how moved was something that was finest
+in Rostóv’s soul! And this something was apart from everything else
+in the world and above everything in the world. “What were losses, and
+Dólokhov, and words of honor?... All nonsense! One might kill and rob
+and yet be happy....”
+
+
+
+
+
+CHAPTER XVI
+
+It was long since Rostóv had felt such enjoyment from music as he
+did that day. But no sooner had Natásha finished her barcarolle than
+reality again presented itself. He got up without saying a word and went
+downstairs to his own room. A quarter of an hour later the old count
+came in from his club, cheerful and contented. Nicholas, hearing him
+drive up, went to meet him.
+
+“Well—had a good time?” said the old count, smiling gaily and
+proudly at his son.
+
+Nicholas tried to say “Yes,” but could not: and he nearly burst into
+sobs. The count was lighting his pipe and did not notice his son’s
+condition.
+
+“Ah, it can’t be avoided!” thought Nicholas, for the first and
+last time. And suddenly, in the most casual tone, which made him feel
+ashamed of himself, he said, as if merely asking his father to let him
+have the carriage to drive to town:
+
+“Papa, I have come on a matter of business. I was nearly forgetting. I
+need some money.”
+
+“Dear me!” said his father, who was in a specially good humor. “I
+told you it would not be enough. How much?”
+
+“Very much,” said Nicholas flushing, and with a stupid careless
+smile, for which he was long unable to forgive himself, “I have lost a
+little, I mean a good deal, a great deal—forty three thousand.”
+
+“What! To whom?... Nonsense!” cried the count, suddenly reddening
+with an apoplectic flush over neck and nape as old people do.
+
+“I promised to pay tomorrow,” said Nicholas.
+
+“Well!...” said the old count, spreading out his arms and sinking
+helplessly on the sofa.
+
+“It can’t be helped! It happens to everyone!” said the son, with
+a bold, free, and easy tone, while in his soul he regarded himself as a
+worthless scoundrel whose whole life could not atone for his crime. He
+longed to kiss his father’s hands and kneel to beg his forgiveness,
+but said, in a careless and even rude voice, that it happens to
+everyone!
+
+The old count cast down his eyes on hearing his son’s words and began
+bustlingly searching for something.
+
+“Yes, yes,” he muttered, “it will be difficult, I fear, difficult
+to raise... happens to everybody! Yes, who has not done it?”
+
+And with a furtive glance at his son’s face, the count went out of the
+room.... Nicholas had been prepared for resistance, but had not at all
+expected this.
+
+“Papa! Pa-pa!” he called after him, sobbing, “forgive me!” And
+seizing his father’s hand, he pressed it to his lips and burst into
+tears.
+
+While father and son were having their explanation, the mother and
+daughter were having one not less important. Natásha came running to
+her mother, quite excited.
+
+“Mamma!... Mamma!... He has made me...”
+
+“Made what?”
+
+“Made, made me an offer, Mamma! Mamma!” she exclaimed.
+
+The countess did not believe her ears. Denísov had proposed. To whom?
+To this chit of a girl, Natásha, who not so long ago was playing with
+dolls and who was still having lessons.
+
+“Don’t, Natásha! What nonsense!” she said, hoping it was a joke.
+
+“Nonsense, indeed! I am telling you the fact,” said Natásha
+indignantly. “I come to ask you what to do, and you call it
+‘nonsense!’”
+
+The countess shrugged her shoulders.
+
+“If it is true that Monsieur Denísov has made you a proposal, tell
+him he is a fool, that’s all!”
+
+“No, he’s not a fool!” replied Natásha indignantly and seriously.
+
+“Well then, what do you want? You’re all in love nowadays. Well,
+if you are in love, marry him!” said the countess, with a laugh of
+annoyance. “Good luck to you!”
+
+“No, Mamma, I’m not in love with him, I suppose I’m not in love
+with him.”
+
+“Well then, tell him so.”
+
+“Mamma, are you cross? Don’t be cross, dear! Is it my fault?”
+
+“No, but what is it, my dear? Do you want me to go and tell him?”
+said the countess smiling.
+
+“No, I will do it myself, only tell me what to say. It’s all very
+well for you,” said Natásha, with a responsive smile. “You should
+have seen how he said it! I know he did not mean to say it, but it came
+out accidently.”
+
+“Well, all the same, you must refuse him.”
+
+“No, I mustn’t. I am so sorry for him! He’s so nice.”
+
+“Well then, accept his offer. It’s high time for you to be
+married,” answered the countess sharply and sarcastically.
+
+“No, Mamma, but I’m so sorry for him. I don’t know how I’m to
+say it.”
+
+“And there’s nothing for you to say. I shall speak to him myself,”
+said the countess, indignant that they should have dared to treat this
+little Natásha as grown up.
+
+“No, not on any account! I will tell him myself, and you’ll listen
+at the door,” and Natásha ran across the drawing room to the dancing
+hall, where Denísov was sitting on the same chair by the clavichord
+with his face in his hands.
+
+He jumped up at the sound of her light step.
+
+“Nataly,” he said, moving with rapid steps toward her, “decide my
+fate. It is in your hands.”
+
+“Vasíli Dmítrich, I’m so sorry for you!... No, but you are so
+nice... but it won’t do...not that... but as a friend, I shall always
+love you.”
+
+Denísov bent over her hand and she heard strange sounds she did not
+understand. She kissed his rough curly black head. At this instant, they
+heard the quick rustle of the countess’ dress. She came up to them.
+
+“Vasíli Dmítrich, I thank you for the honor,” she said, with an
+embarrassed voice, though it sounded severe to Denísov—“but my
+daughter is so young, and I thought that, as my son’s friend, you
+would have addressed yourself first to me. In that case you would not
+have obliged me to give this refusal.”
+
+“Countess...” said Denísov, with downcast eyes and a guilty face.
+He tried to say more, but faltered.
+
+Natásha could not remain calm, seeing him in such a plight. She began
+to sob aloud.
+
+“Countess, I have done w’ong,” Denísov went on in an unsteady
+voice, “but believe me, I so adore your daughter and all your family
+that I would give my life twice over...” He looked at the countess,
+and seeing her severe face said: “Well, good-by, Countess,” and
+kissing her hand, he left the room with quick resolute strides, without
+looking at Natásha.
+
+
+Next day Rostóv saw Denísov off. He did not wish to stay another
+day in Moscow. All Denísov’s Moscow friends gave him a farewell
+entertainment at the gypsies’, with the result that he had no
+recollection of how he was put in the sleigh or of the first three
+stages of his journey.
+
+After Denísov’s departure, Rostóv spent another fortnight in Moscow,
+without going out of the house, waiting for the money his father could
+not at once raise, and he spent most of his time in the girls’ room.
+
+Sónya was more tender and devoted to him than ever. It was as if she
+wanted to show him that his losses were an achievement that made her
+love him all the more, but Nicholas now considered himself unworthy of
+her.
+
+He filled the girls’ albums with verses and music, and having at last
+sent Dólokhov the whole forty-three thousand rubles and received his
+receipt, he left at the end of November, without taking leave of any of
+his acquaintances, to overtake his regiment which was already in Poland.
+
+
+
+
+
+BOOK FIVE: 1806 - 07
+
+
+
+
+
+CHAPTER I
+
+After his interview with his wife Pierre left for Petersburg. At the
+Torzhók post station, either there were no horses or the postmaster
+would not supply them. Pierre was obliged to wait. Without undressing,
+he lay down on the leather sofa in front of a round table, put his big
+feet in their overboots on the table, and began to reflect.
+
+“Will you have the portmanteaus brought in? And a bed got ready, and
+tea?” asked his valet.
+
+Pierre gave no answer, for he neither heard nor saw anything. He had
+begun to think of the last station and was still pondering on the same
+question—one so important that he took no notice of what went
+on around him. Not only was he indifferent as to whether he got to
+Petersburg earlier or later, or whether he secured accommodation at this
+station, but compared to the thoughts that now occupied him it was a
+matter of indifference whether he remained there for a few hours or for
+the rest of his life.
+
+The postmaster, his wife, the valet, and a peasant woman selling
+Torzhók embroidery came into the room offering their services.
+Without changing his careless attitude, Pierre looked at them over his
+spectacles unable to understand what they wanted or how they could go on
+living without having solved the problems that so absorbed him. He had
+been engrossed by the same thoughts ever since the day he returned from
+Sokólniki after the duel and had spent that first agonizing, sleepless
+night. But now, in the solitude of the journey, they seized him with
+special force. No matter what he thought about, he always returned to
+these same questions which he could not solve and yet could not cease to
+ask himself. It was as if the thread of the chief screw which held his
+life together were stripped, so that the screw could not get in or out,
+but went on turning uselessly in the same place.
+
+The postmaster came in and began obsequiously to beg his excellency to
+wait only two hours, when, come what might, he would let his excellency
+have the courier horses. It was plain that he was lying and only wanted
+to get more money from the traveler.
+
+“Is this good or bad?” Pierre asked himself. “It is good for me,
+bad for another traveler, and for himself it’s unavoidable, because
+he needs money for food; the man said an officer had once given him a
+thrashing for letting a private traveler have the courier horses.
+But the officer thrashed him because he had to get on as quickly as
+possible. And I,” continued Pierre, “shot Dólokhov because I
+considered myself injured, and Louis XVI was executed because they
+considered him a criminal, and a year later they executed those who
+executed him—also for some reason. What is bad? What is good? What
+should one love and what hate? What does one live for? And what am I?
+What is life, and what is death? What power governs all?”
+
+There was no answer to any of these questions, except one, and that
+not a logical answer and not at all a reply to them. The answer was:
+“You’ll die and all will end. You’ll die and know all, or cease
+asking.” But dying was also dreadful.
+
+The Torzhók peddler woman, in a whining voice, went on offering her
+wares, especially a pair of goatskin slippers. “I have hundreds of
+rubles I don’t know what to do with, and she stands in her tattered
+cloak looking timidly at me,” he thought. “And what does she
+want the money for? As if that money could add a hair’s breadth to
+happiness or peace of mind. Can anything in the world make her or me
+less a prey to evil and death?—death which ends all and must come
+today or tomorrow—at any rate, in an instant as compared with
+eternity.” And again he twisted the screw with the stripped thread,
+and again it turned uselessly in the same place.
+
+His servant handed him a half-cut novel, in the form of letters, by
+Madame de Souza. He began reading about the sufferings and virtuous
+struggles of a certain Emilie de Mansfeld. “And why did she resist
+her seducer when she loved him?” he thought. “God could not have put
+into her heart an impulse that was against His will. My wife—as she
+once was—did not struggle, and perhaps she was right. Nothing has been
+found out, nothing discovered,” Pierre again said to himself. “All
+we can know is that we know nothing. And that’s the height of human
+wisdom.”
+
+Everything within and around him seemed confused, senseless, and
+repellent. Yet in this very repugnance to all his circumstances Pierre
+found a kind of tantalizing satisfaction.
+
+“I make bold to ask your excellency to move a little for this
+gentleman,” said the postmaster, entering the room followed by another
+traveler, also detained for lack of horses.
+
+The newcomer was a short, large-boned, yellow-faced, wrinkled old
+man, with gray bushy eyebrows overhanging bright eyes of an indefinite
+grayish color.
+
+Pierre took his feet off the table, stood up, and lay down on a bed that
+had been got ready for him, glancing now and then at the newcomer, who,
+with a gloomy and tired face, was wearily taking off his wraps with the
+aid of his servant, and not looking at Pierre. With a pair of felt boots
+on his thin bony legs, and keeping on a worn, nankeen-covered, sheepskin
+coat, the traveler sat down on the sofa, leaned back his big head with
+its broad temples and close-cropped hair, and looked at Bezúkhov. The
+stern, shrewd, and penetrating expression of that look struck Pierre. He
+felt a wish to speak to the stranger, but by the time he had made up his
+mind to ask him a question about the roads, the traveler had closed his
+eyes. His shriveled old hands were folded and on the finger of one of
+them Pierre noticed a large cast iron ring with a seal representing a
+death’s head. The stranger sat without stirring, either resting or, as
+it seemed to Pierre, sunk in profound and calm meditation. His servant
+was also a yellow, wrinkled old man, without beard or mustache,
+evidently not because he was shaven but because they had never grown.
+This active old servant was unpacking the traveler’s canteen and
+preparing tea. He brought in a boiling samovar. When everything was
+ready, the stranger opened his eyes, moved to the table, filled a
+tumbler with tea for himself and one for the beardless old man to whom
+he passed it. Pierre began to feel a sense of uneasiness, and the
+need, even the inevitability, of entering into conversation with this
+stranger.
+
+The servant brought back his tumbler turned upside down, * with an
+unfinished bit of nibbled sugar, and asked if anything more would be
+wanted.
+
+    * To indicate he did not want more tea.
+
+“No. Give me the book,” said the stranger.
+
+The servant handed him a book which Pierre took to be a devotional work,
+and the traveler became absorbed in it. Pierre looked at him. All at
+once the stranger closed the book, putting in a marker, and again,
+leaning with his arms on the back of the sofa, sat in his former
+position with his eyes shut. Pierre looked at him and had not time
+to turn away when the old man, opening his eyes, fixed his steady and
+severe gaze straight on Pierre’s face.
+
+Pierre felt confused and wished to avoid that look, but the bright old
+eyes attracted him irresistibly.
+
+
+
+
+
+CHAPTER II
+
+“I have the pleasure of addressing Count Bezúkhov, if I am not
+mistaken,” said the stranger in a deliberate and loud voice.
+
+Pierre looked silently and inquiringly at him over his spectacles.
+
+“I have heard of you, my dear sir,” continued the stranger, “and
+of your misfortune.” He seemed to emphasize the last word, as if to
+say—“Yes, misfortune! Call it what you please, I know that what
+happened to you in Moscow was a misfortune.”—“I regret it very
+much, my dear sir.”
+
+Pierre flushed and, hurriedly putting his legs down from the bed, bent
+forward toward the old man with a forced and timid smile.
+
+“I have not referred to this out of curiosity, my dear sir, but for
+greater reasons.”
+
+He paused, his gaze still on Pierre, and moved aside on the sofa by way
+of inviting the other to take a seat beside him. Pierre felt reluctant
+to enter into conversation with this old man, but, submitting to him
+involuntarily, came up and sat down beside him.
+
+“You are unhappy, my dear sir,” the stranger continued. “You
+are young and I am old. I should like to help you as far as lies in my
+power.”
+
+“Oh, yes!” said Pierre, with a forced smile. “I am very grateful
+to you. Where are you traveling from?”
+
+The stranger’s face was not genial, it was even cold and severe, but
+in spite of this, both the face and words of his new acquaintance were
+irresistibly attractive to Pierre.
+
+“But if for any reason you don’t feel inclined to talk to me,”
+said the old man, “say so, my dear sir.” And he suddenly smiled, in
+an unexpected and tenderly paternal way.
+
+“Oh no, not at all! On the contrary, I am very glad to make your
+acquaintance,” said Pierre. And again, glancing at the stranger’s
+hands, he looked more closely at the ring, with its skull—a Masonic
+sign.
+
+“Allow me to ask,” he said, “are you a Mason?”
+
+“Yes, I belong to the Brotherhood of the Freemasons,” said the
+stranger, looking deeper and deeper into Pierre’s eyes. “And in
+their name and my own I hold out a brotherly hand to you.”
+
+“I am afraid,” said Pierre, smiling, and wavering between the
+confidence the personality of the Freemason inspired in him and his own
+habit of ridiculing the Masonic beliefs—“I am afraid I am very far
+from understanding—how am I to put it?—I am afraid my way of looking
+at the world is so opposed to yours that we shall not understand one
+another.”
+
+“I know your outlook,” said the Mason, “and the view of life you
+mention, and which you think is the result of your own mental efforts,
+is the one held by the majority of people, and is the invariable fruit
+of pride, indolence, and ignorance. Forgive me, my dear sir, but if I
+had not known it I should not have addressed you. Your view of life is a
+regrettable delusion.”
+
+“Just as I may suppose you to be deluded,” said Pierre, with a faint
+smile.
+
+“I should never dare to say that I know the truth,” said the Mason,
+whose words struck Pierre more and more by their precision and firmness.
+“No one can attain to truth by himself. Only by laying stone on stone
+with the cooperation of all, by the millions of generations from our
+forefather Adam to our own times, is that temple reared which is to be
+a worthy dwelling place of the Great God,” he added, and closed his
+eyes.
+
+“I ought to tell you that I do not believe... do not believe in
+God,” said Pierre, regretfully and with an effort, feeling it
+essential to speak the whole truth.
+
+The Mason looked intently at Pierre and smiled as a rich man with
+millions in hand might smile at a poor fellow who told him that he, poor
+man, had not the five rubles that would make him happy.
+
+“Yes, you do not know Him, my dear sir,” said the Mason. “You
+cannot know Him. You do not know Him and that is why you are unhappy.”
+
+“Yes, yes, I am unhappy,” assented Pierre. “But what am I to
+do?”
+
+“You know Him not, my dear sir, and so you are very unhappy. You do
+not know Him, but He is here, He is in me, He is in my words, He is in
+thee, and even in those blasphemous words thou hast just uttered!”
+pronounced the Mason in a stern and tremulous voice.
+
+He paused and sighed, evidently trying to calm himself.
+
+“If He were not,” he said quietly, “you and I would not be
+speaking of Him, my dear sir. Of what, of whom, are we speaking? Whom
+hast thou denied?” he suddenly asked with exulting austerity and
+authority in his voice. “Who invented Him, if He did not exist? Whence
+came thy conception of the existence of such an incomprehensible Being?
+didst thou, and why did the whole world, conceive the idea of the
+existence of such an incomprehensible Being, a Being all-powerful,
+eternal, and infinite in all His attributes?...”
+
+He stopped and remained silent for a long time.
+
+Pierre could not and did not wish to break this silence.
+
+“He exists, but to understand Him is hard,” the Mason began again,
+looking not at Pierre but straight before him, and turning the leaves
+of his book with his old hands which from excitement he could not keep
+still. “If it were a man whose existence thou didst doubt I could
+bring him to thee, could take him by the hand and show him to thee. But
+how can I, an insignificant mortal, show His omnipotence, His infinity,
+and all His mercy to one who is blind, or who shuts his eyes that he may
+not see or understand Him and may not see or understand his own vileness
+and sinfulness?” He paused again. “Who art thou? Thou dreamest that
+thou art wise because thou couldst utter those blasphemous words,” he
+went on, with a somber and scornful smile. “And thou art more foolish
+and unreasonable than a little child, who, playing with the parts of a
+skillfully made watch, dares to say that, as he does not understand
+its use, he does not believe in the master who made it. To know Him is
+hard.... For ages, from our forefather Adam to our own day, we labor to
+attain that knowledge and are still infinitely far from our aim; but
+in our lack of understanding we see only our weakness and His
+greatness....”
+
+Pierre listened with swelling heart, gazing into the Mason’s face with
+shining eyes, not interrupting or questioning him, but believing with
+his whole soul what the stranger said. Whether he accepted the wise
+reasoning contained in the Mason’s words, or believed as a child
+believes, in the speaker’s tone of conviction and earnestness, or
+the tremor of the speaker’s voice—which sometimes almost broke—or
+those brilliant aged eyes grown old in this conviction, or the calm
+firmness and certainty of his vocation, which radiated from his whole
+being (and which struck Pierre especially by contrast with his own
+dejection and hopelessness)—at any rate, Pierre longed with his whole
+soul to believe and he did believe, and felt a joyful sense of comfort,
+regeneration, and return to life.
+
+“He is not to be apprehended by reason, but by life,” said the
+Mason.
+
+“I do not understand,” said Pierre, feeling with dismay doubts
+reawakening. He was afraid of any want of clearness, any weakness, in
+the Mason’s arguments; he dreaded not to be able to believe in him.
+“I don’t understand,” he said, “how it is that the mind of man
+cannot attain the knowledge of which you speak.”
+
+The Mason smiled with his gentle fatherly smile.
+
+“The highest wisdom and truth are like the purest liquid we may wish
+to imbibe,” he said. “Can I receive that pure liquid into an impure
+vessel and judge of its purity? Only by the inner purification of myself
+can I retain in some degree of purity the liquid I receive.”
+
+“Yes, yes, that is so,” said Pierre joyfully.
+
+“The highest wisdom is not founded on reason alone, not on those
+worldly sciences of physics, history, chemistry, and the like, into
+which intellectual knowledge is divided. The highest wisdom is one.
+The highest wisdom has but one science—the science of the whole—the
+science explaining the whole creation and man’s place in it. To
+receive that science it is necessary to purify and renew one’s inner
+self, and so before one can know, it is necessary to believe and to
+perfect one’s self. And to attain this end, we have the light called
+conscience that God has implanted in our souls.”
+
+“Yes, yes,” assented Pierre.
+
+“Look then at thy inner self with the eyes of the spirit, and ask
+thyself whether thou art content with thyself. What hast thou attained
+relying on reason only? What art thou? You are young, you are rich, you
+are clever, you are well educated. And what have you done with all these
+good gifts? Are you content with yourself and with your life?”
+
+“No, I hate my life,” Pierre muttered, wincing.
+
+“Thou hatest it. Then change it, purify thyself; and as thou art
+purified, thou wilt gain wisdom. Look at your life, my dear sir.
+How have you spent it? In riotous orgies and debauchery, receiving
+everything from society and giving nothing in return. You have become
+the possessor of wealth. How have you used it? What have you done
+for your neighbor? Have you ever thought of your tens of thousands
+of slaves? Have you helped them physically and morally? No! You have
+profited by their toil to lead a profligate life. That is what you have
+done. Have you chosen a post in which you might be of service to your
+neighbor? No! You have spent your life in idleness. Then you married, my
+dear sir—took on yourself responsibility for the guidance of a young
+woman; and what have you done? You have not helped her to find the way
+of truth, my dear sir, but have thrust her into an abyss of deceit and
+misery. A man offended you and you shot him, and you say you do not
+know God and hate your life. There is nothing strange in that, my dear
+sir!”
+
+After these words, the Mason, as if tired by his long discourse, again
+leaned his arms on the back of the sofa and closed his eyes. Pierre
+looked at that aged, stern, motionless, almost lifeless face and moved
+his lips without uttering a sound. He wished to say, “Yes, a vile,
+idle, vicious life!” but dared not break the silence.
+
+The Mason cleared his throat huskily, as old men do, and called his
+servant.
+
+“How about the horses?” he asked, without looking at Pierre.
+
+“The exchange horses have just come,” answered the servant. “Will
+you not rest here?”
+
+“No, tell them to harness.”
+
+“Can he really be going away leaving me alone without having told me
+all, and without promising to help me?” thought Pierre, rising with
+downcast head; and he began to pace the room, glancing occasionally at
+the Mason. “Yes, I never thought of it, but I have led a contemptible
+and profligate life, though I did not like it and did not want to,”
+thought Pierre. “But this man knows the truth and, if he wished to,
+could disclose it to me.”
+
+Pierre wished to say this to the Mason, but did not dare to. The
+traveler, having packed his things with his practiced hands, began
+fastening his coat. When he had finished, he turned to Bezúkhov, and
+said in a tone of indifferent politeness:
+
+“Where are you going to now, my dear sir?”
+
+“I?... I’m going to Petersburg,” answered Pierre, in a childlike,
+hesitating voice. “I thank you. I agree with all you have said. But
+do not suppose me to be so bad. With my whole soul I wish to be what you
+would have me be, but I have never had help from anyone.... But it is
+I, above all, who am to blame for everything. Help me, teach me, and
+perhaps I may...”
+
+Pierre could not go on. He gulped and turned away.
+
+The Mason remained silent for a long time, evidently considering.
+
+“Help comes from God alone,” he said, “but such measure of help as
+our Order can bestow it will render you, my dear sir. You are going to
+Petersburg. Hand this to Count Willarski” (he took out his notebook
+and wrote a few words on a large sheet of paper folded in four).
+“Allow me to give you a piece of advice. When you reach the capital,
+first of all devote some time to solitude and self-examination and do
+not resume your former way of life. And now I wish you a good journey,
+my dear sir,” he added, seeing that his servant had entered... “and
+success.”
+
+The traveler was Joseph Alexéevich Bazdéev, as Pierre saw from the
+postmaster’s book. Bazdéev had been one of the best-known Freemasons
+and Martinists, even in Novíkov’s time. For a long while after he had
+gone, Pierre did not go to bed or order horses but paced up and down
+the room, pondering over his vicious past, and with a rapturous sense
+of beginning anew pictured to himself the blissful, irreproachable,
+virtuous future that seemed to him so easy. It seemed to him that he had
+been vicious only because he had somehow forgotten how good it is to
+be virtuous. Not a trace of his former doubts remained in his soul. He
+firmly believed in the possibility of the brotherhood of men united in
+the aim of supporting one another in the path of virtue, and that is how
+Freemasonry presented itself to him.
+
+
+
+
+
+CHAPTER III
+
+On reaching Petersburg Pierre did not let anyone know of his arrival,
+he went nowhere and spent whole days in reading Thomas à Kempis, whose
+book had been sent him by someone unknown. One thing he continually
+realized as he read that book: the joy, hitherto unknown to him,
+of believing in the possibility of attaining perfection, and in the
+possibility of active brotherly love among men, which Joseph Alexéevich
+had revealed to him. A week after his arrival, the young Polish count,
+Willarski, whom Pierre had known slightly in Petersburg society, came
+into his room one evening in the official and ceremonious manner in
+which Dólokhov’s second had called on him, and, having closed the
+door behind him and satisfied himself that there was nobody else in the
+room, addressed Pierre.
+
+“I have come to you with a message and an offer, Count,” he
+said without sitting down. “A person of very high standing in our
+Brotherhood has made application for you to be received into our Order
+before the usual term and has proposed to me to be your sponsor. I
+consider it a sacred duty to fulfill that person’s wishes. Do you wish
+to enter the Brotherhood of Freemasons under my sponsorship?”
+
+The cold, austere tone of this man, whom he had almost always before met
+at balls, amiably smiling in the society of the most brilliant women,
+surprised Pierre.
+
+“Yes, I do wish it,” said he.
+
+Willarski bowed his head.
+
+“One more question, Count,” he said, “which I beg you to answer
+in all sincerity—not as a future Mason but as an honest man: have you
+renounced your former convictions—do you believe in God?”
+
+Pierre considered.
+
+“Yes... yes, I believe in God,” he said.
+
+“In that case...” began Willarski, but Pierre interrupted him.
+
+“Yes, I do believe in God,” he repeated.
+
+“In that case we can go,” said Willarski. “My carriage is at your
+service.”
+
+Willarski was silent throughout the drive. To Pierre’s inquiries as
+to what he must do and how he should answer, Willarski only replied that
+brothers more worthy than he would test him and that Pierre had only to
+tell the truth.
+
+Having entered the courtyard of a large house where the Lodge had its
+headquarters, and having ascended a dark staircase, they entered a small
+well-lit anteroom where they took off their cloaks without the aid of
+a servant. From there they passed into another room. A man in strange
+attire appeared at the door. Willarski, stepping toward him, said
+something to him in French in an undertone and then went up to a small
+wardrobe in which Pierre noticed garments such as he had never seen
+before. Having taken a kerchief from the cupboard, Willarski bound
+Pierre’s eyes with it and tied it in a knot behind, catching some
+hairs painfully in the knot. Then he drew his face down, kissed him, and
+taking him by the hand led him forward. The hairs tied in the knot hurt
+Pierre and there were lines of pain on his face and a shamefaced smile.
+His huge figure, with arms hanging down and with a puckered, though
+smiling face, moved after Willarski with uncertain, timid steps.
+
+Having led him about ten paces, Willarski stopped.
+
+“Whatever happens to you,” he said, “you must bear it all manfully
+if you have firmly resolved to join our Brotherhood.” (Pierre nodded
+affirmatively.) “When you hear a knock at the door, you will uncover
+your eyes,” added Willarski. “I wish you courage and success,”
+and, pressing Pierre’s hand, he went out.
+
+Left alone, Pierre went on smiling in the same way. Once or twice
+he shrugged his shoulders and raised his hand to the kerchief, as if
+wishing to take it off, but let it drop again. The five minutes spent
+with his eyes bandaged seemed to him an hour. His arms felt numb,
+his legs almost gave way, it seemed to him that he was tired out. He
+experienced a variety of most complex sensations. He felt afraid of what
+would happen to him and still more afraid of showing his fear. He felt
+curious to know what was going to happen and what would be revealed to
+him; but most of all, he felt joyful that the moment had come when he
+would at last start on that path of regeneration and on the actively
+virtuous life of which he had been dreaming since he met Joseph
+Alexéevich. Loud knocks were heard at the door. Pierre took the bandage
+off his eyes and glanced around him. The room was in black darkness,
+only a small lamp was burning inside something white. Pierre went nearer
+and saw that the lamp stood on a black table on which lay an open book.
+The book was the Gospel, and the white thing with the lamp inside was a
+human skull with its cavities and teeth. After reading the first words
+of the Gospel: “In the beginning was the Word and the Word was with
+God,” Pierre went round the table and saw a large open box filled
+with something. It was a coffin with bones inside. He was not at all
+surprised by what he saw. Hoping to enter on an entirely new life quite
+unlike the old one, he expected everything to be unusual, even more
+unusual than what he was seeing. A skull, a coffin, the Gospel—it
+seemed to him that he had expected all this and even more. Trying
+to stimulate his emotions he looked around. “God, death, love, the
+brotherhood of man,” he kept saying to himself, associating these
+words with vague yet joyful ideas. The door opened and someone came in.
+
+By the dim light, to which Pierre had already become accustomed, he
+saw a rather short man. Having evidently come from the light into the
+darkness, the man paused, then moved with cautious steps toward the
+table and placed on it his small leather-gloved hands.
+
+This short man had on a white leather apron which covered his chest and
+part of his legs; he had on a kind of necklace above which rose a high
+white ruffle, outlining his rather long face which was lit up from
+below.
+
+“For what have you come hither?” asked the newcomer, turning in
+Pierre’s direction at a slight rustle made by the latter. “Why have
+you, who do not believe in the truth of the light and who have not
+seen the light, come here? What do you seek from us? Wisdom, virtue,
+enlightenment?”
+
+At the moment the door opened and the stranger came in, Pierre felt a
+sense of awe and veneration such as he had experienced in his boyhood at
+confession; he felt himself in the presence of one socially a complete
+stranger, yet nearer to him through the brotherhood of man. With bated
+breath and beating heart he moved toward the Rhetor (by which name the
+brother who prepared a seeker for entrance into the Brotherhood was
+known). Drawing nearer, he recognized in the Rhetor a man he knew,
+Smolyanínov, and it mortified him to think that the newcomer was an
+acquaintance—he wished him simply a brother and a virtuous instructor.
+For a long time he could not utter a word, so that the Rhetor had to
+repeat his question.
+
+“Yes... I... I... desire regeneration,” Pierre uttered with
+difficulty.
+
+“Very well,” said Smolyanínov, and went on at once: “Have you any
+idea of the means by which our holy Order will help you to reach your
+aim?” said he quietly and quickly.
+
+“I... hope... for guidance... help... in regeneration,” said Pierre,
+with a trembling voice and some difficulty in utterance due to his
+excitement and to being unaccustomed to speak of abstract matters in
+Russian.
+
+“What is your conception of Freemasonry?”
+
+“I imagine that Freemasonry is the fraternity and equality of men who
+have virtuous aims,” said Pierre, feeling ashamed of the inadequacy
+of his words for the solemnity of the moment, as he spoke. “I
+imagine...”
+
+“Good!” said the Rhetor quickly, apparently satisfied with
+this answer. “Have you sought for means of attaining your aim in
+religion?”
+
+“No, I considered it erroneous and did not follow it,” said Pierre,
+so softly that the Rhetor did not hear him and asked him what he was
+saying. “I have been an atheist,” answered Pierre.
+
+“You are seeking for truth in order to follow its laws in your life,
+therefore you seek wisdom and virtue. Is that not so?” said the
+Rhetor, after a moment’s pause.
+
+“Yes, yes,” assented Pierre.
+
+The Rhetor cleared his throat, crossed his gloved hands on his breast,
+and began to speak.
+
+“Now I must disclose to you the chief aim of our Order,” he said,
+“and if this aim coincides with yours, you may enter our Brotherhood
+with profit. The first and chief object of our Order, the foundation on
+which it rests and which no human power can destroy, is the preservation
+and handing on to posterity of a certain important mystery... which
+has come down to us from the remotest ages, even from the first man—a
+mystery on which perhaps the fate of mankind depends. But since this
+mystery is of such a nature that nobody can know or use it unless he be
+prepared by long and diligent self-purification, not everyone can hope
+to attain it quickly. Hence we have a secondary aim, that of preparing
+our members as much as possible to reform their hearts, to purify and
+enlighten their minds, by means handed on to us by tradition from those
+who have striven to attain this mystery, and thereby to render them
+capable of receiving it.
+
+“By purifying and regenerating our members we try, thirdly, to improve
+the whole human race, offering it in our members an example of piety
+and virtue, and thereby try with all our might to combat the evil which
+sways the world. Think this over and I will come to you again.”
+
+“To combat the evil which sways the world...” Pierre repeated, and a
+mental image of his future activity in this direction rose in his mind.
+He imagined men such as he had himself been a fortnight ago, and he
+addressed an edifying exhortation to them. He imagined to himself
+vicious and unfortunate people whom he would assist by word and deed,
+imagined oppressors whose victims he would rescue. Of the three
+objects mentioned by the Rhetor, this last, that of improving mankind,
+especially appealed to Pierre. The important mystery mentioned by the
+Rhetor, though it aroused his curiosity, did not seem to him essential,
+and the second aim, that of purifying and regenerating himself, did not
+much interest him because at that moment he felt with delight that he
+was already perfectly cured of his former faults and was ready for all
+that was good.
+
+Half an hour later, the Rhetor returned to inform the seeker of the
+seven virtues, corresponding to the seven steps of Solomon’s temple,
+which every Freemason should cultivate in himself. These virtues were:
+1. Discretion, the keeping of the secrets of the Order. 2. Obedience to
+those of higher ranks in the Order. 3. Morality. 4. Love of mankind. 5.
+Courage. 6. Generosity. 7. The love of death.
+
+“In the seventh place, try, by the frequent thought of death,” the
+Rhetor said, “to bring yourself to regard it not as a dreaded foe, but
+as a friend that frees the soul grown weary in the labors of virtue
+from this distressful life, and leads it to its place of recompense and
+peace.”
+
+“Yes, that must be so,” thought Pierre, when after these words the
+Rhetor went away, leaving him to solitary meditation. “It must be so,
+but I am still so weak that I love my life, the meaning of which is only
+now gradually opening before me.” But five of the other virtues which
+Pierre recalled, counting them on his fingers, he felt already in his
+soul: courage, generosity, morality, love of mankind, and especially
+obedience—which did not even seem to him a virtue, but a joy. (He now
+felt so glad to be free from his own lawlessness and to submit his will
+to those who knew the indubitable truth.) He forgot what the seventh
+virtue was and could not recall it.
+
+The third time the Rhetor came back more quickly and asked Pierre
+whether he was still firm in his intention and determined to submit to
+all that would be required of him.
+
+“I am ready for everything,” said Pierre.
+
+“I must also inform you,” said the Rhetor, “that our Order
+delivers its teaching not in words only but also by other means, which
+may perhaps have a stronger effect on the sincere seeker after wisdom
+and virtue than mere words. This chamber with what you see therein
+should already have suggested to your heart, if it is sincere, more than
+words could do. You will perhaps also see in your further initiation a
+like method of enlightenment. Our Order imitates the ancient societies
+that explained their teaching by hieroglyphics. A hieroglyph,” said
+the Rhetor, “is an emblem of something not cognizable by the senses
+but which possesses qualities resembling those of the symbol.”
+
+Pierre knew very well what a hieroglyph was, but dared not speak. He
+listened to the Rhetor in silence, feeling from all he said that his
+ordeal was about to begin.
+
+“If you are resolved, I must begin your initiation,” said the Rhetor
+coming closer to Pierre. “In token of generosity I ask you to give me
+all your valuables.”
+
+“But I have nothing here,” replied Pierre, supposing that he was
+asked to give up all he possessed.
+
+“What you have with you: watch, money, rings....”
+
+Pierre quickly took out his purse and watch, but could not manage for
+some time to get the wedding ring off his fat finger. When that had been
+done, the Rhetor said:
+
+“In token of obedience, I ask you to undress.”
+
+Pierre took off his coat, waistcoat, and left boot according to the
+Rhetor’s instructions. The Mason drew the shirt back from Pierre’s
+left breast, and stooping down pulled up the left leg of his trousers
+to above the knee. Pierre hurriedly began taking off his right boot also
+and was going to tuck up the other trouser leg to save this stranger the
+trouble, but the Mason told him that was not necessary and gave him
+a slipper for his left foot. With a childlike smile of embarrassment,
+doubt, and self-derision, which appeared on his face against his will,
+Pierre stood with his arms hanging down and legs apart, before his
+brother Rhetor, and awaited his further commands.
+
+“And now, in token of candor, I ask you to reveal to me your chief
+passion,” said the latter.
+
+“My passion! I have had so many,” replied Pierre.
+
+“That passion which more than all others caused you to waver on the
+path of virtue,” said the Mason.
+
+Pierre paused, seeking a reply.
+
+“Wine? Gluttony? Idleness? Laziness? Irritability? Anger? Women?”
+He went over his vices in his mind, not knowing to which of them to give
+the pre-eminence.
+
+“Women,” he said in a low, scarcely audible voice.
+
+The Mason did not move and for a long time said nothing after this
+answer. At last he moved up to Pierre and, taking the kerchief that lay
+on the table, again bound his eyes.
+
+“For the last time I say to you—turn all your attention upon
+yourself, put a bridle on your senses, and seek blessedness, not in
+passion but in your own heart. The source of blessedness is not without
+us but within....”
+
+Pierre had already long been feeling in himself that refreshing source
+of blessedness which now flooded his heart with glad emotion.
+
+
+
+
+
+CHAPTER IV
+
+Soon after this there came into the dark chamber to fetch Pierre, not
+the Rhetor but Pierre’s sponsor, Willarski, whom he recognized by his
+voice. To fresh questions as to the firmness of his resolution Pierre
+replied: “Yes, yes, I agree,” and with a beaming, childlike smile,
+his fat chest uncovered, stepping unevenly and timidly in one slippered
+and one booted foot, he advanced, while Willarski held a sword to his
+bare chest. He was conducted from that room along passages that turned
+backwards and forwards and was at last brought to the doors of the
+Lodge. Willarski coughed, he was answered by the Masonic knock with
+mallets, the doors opened before them. A bass voice (Pierre was still
+blindfolded) questioned him as to who he was, when and where he was
+born, and so on. Then he was again led somewhere still blindfolded,
+and as they went along he was told allegories of the toils of his
+pilgrimage, of holy friendship, of the Eternal Architect of the
+universe, and of the courage with which he should endure toils and
+dangers. During these wanderings, Pierre noticed that he was spoken
+of now as the “Seeker,” now as the “Sufferer,” and now as the
+“Postulant,” to the accompaniment of various knockings with
+mallets and swords. As he was being led up to some object he noticed a
+hesitation and uncertainty among his conductors. He heard those around
+him disputing in whispers and one of them insisting that he should be
+led along a certain carpet. After that they took his right hand, placed
+it on something, and told him to hold a pair of compasses to his left
+breast with the other hand and to repeat after someone who read aloud
+an oath of fidelity to the laws of the Order. The candles were then
+extinguished and some spirit lighted, as Pierre knew by the smell, and
+he was told that he would now see the lesser light. The bandage was
+taken off his eyes and, by the faint light of the burning spirit,
+Pierre, as in a dream, saw several men standing before him, wearing
+aprons like the Rhetor’s and holding swords in their hands pointed at
+his breast. Among them stood a man whose white shirt was stained with
+blood. On seeing this, Pierre moved forward with his breast toward the
+swords, meaning them to pierce it. But the swords were drawn back from
+him and he was at once blindfolded again.
+
+“Now thou hast seen the lesser light,” uttered a voice. Then the
+candles were relit and he was told that he would see the full light; the
+bandage was again removed and more than ten voices said together: “Sic
+transit gloria mundi.”
+
+Pierre gradually began to recover himself and looked about at the room
+and at the people in it. Round a long table covered with black sat some
+twelve men in garments like those he had already seen. Some of them
+Pierre had met in Petersburg society. In the President’s chair sat a
+young man he did not know, with a peculiar cross hanging from his
+neck. On his right sat the Italian abbé whom Pierre had met at
+Anna Pávlovna’s two years before. There were also present a very
+distinguished dignitary and a Swiss who had formerly been tutor at the
+Kurágins’. All maintained a solemn silence, listening to the words
+of the President, who held a mallet in his hand. Let into the wall was
+a star-shaped light. At one side of the table was a small carpet with
+various figures worked upon it, at the other was something resembling an
+altar on which lay a Testament and a skull. Round it stood seven large
+candlesticks like those used in churches. Two of the brothers led Pierre
+up to the altar, placed his feet at right angles, and bade him lie down,
+saying that he must prostrate himself at the Gates of the Temple.
+
+“He must first receive the trowel,” whispered one of the brothers.
+
+“Oh, hush, please!” said another.
+
+Pierre, perplexed, looked round with his shortsighted eyes without
+obeying, and suddenly doubts arose in his mind. “Where am I? What am
+I doing? Aren’t they laughing at me? Shan’t I be ashamed to remember
+this?” But these doubts only lasted a moment. Pierre glanced at
+the serious faces of those around, remembered all he had already gone
+through, and realized that he could not stop halfway. He was aghast
+at his hesitation and, trying to arouse his former devotional feeling,
+prostrated himself before the Gates of the Temple. And really, the
+feeling of devotion returned to him even more strongly than before. When
+he had lain there some time, he was told to get up, and a white leather
+apron, such as the others wore, was put on him: he was given a trowel
+and three pairs of gloves, and then the Grand Master addressed him. He
+told him that he should try to do nothing to stain the whiteness of that
+apron, which symbolized strength and purity; then of the unexplained
+trowel, he told him to toil with it to cleanse his own heart from vice,
+and indulgently to smooth with it the heart of his neighbor. As to the
+first pair of gloves, a man’s, he said that Pierre could not know
+their meaning but must keep them. The second pair of man’s gloves
+he was to wear at the meetings, and finally of the third, a pair of
+women’s gloves, he said: “Dear brother, these woman’s gloves are
+intended for you too. Give them to the woman whom you shall honor most
+of all. This gift will be a pledge of your purity of heart to her whom
+you select to be your worthy helpmeet in Masonry.” And after a pause,
+he added: “But beware, dear brother, that these gloves do not deck
+hands that are unclean.” While the Grand Master said these last words
+it seemed to Pierre that he grew embarrassed. Pierre himself grew still
+more confused, blushed like a child till tears came to his eyes, began
+looking about him uneasily, and an awkward pause followed.
+
+This silence was broken by one of the brethren, who led Pierre up to the
+rug and began reading to him from a manuscript book an explanation of
+all the figures on it: the sun, the moon, a hammer, a plumb line, a
+trowel, a rough stone and a squared stone, a pillar, three windows, and
+so on. Then a place was assigned to Pierre, he was shown the signs of
+the Lodge, told the password, and at last was permitted to sit down.
+The Grand Master began reading the statutes. They were very long, and
+Pierre, from joy, agitation, and embarrassment, was not in a state to
+understand what was being read. He managed to follow only the last words
+of the statutes and these remained in his mind.
+
+“In our temples we recognize no other distinctions,” read the Grand
+Master, “but those between virtue and vice. Beware of making any
+distinctions which may infringe equality. Fly to a brother’s aid
+whoever he may be, exhort him who goeth astray, raise him that falleth,
+never bear malice or enmity toward thy brother. Be kindly and courteous.
+Kindle in all hearts the flame of virtue. Share thy happiness with thy
+neighbor, and may envy never dim the purity of that bliss. Forgive thy
+enemy, do not avenge thyself except by doing him good. Thus fulfilling
+the highest law thou shalt regain traces of the ancient dignity which
+thou hast lost.”
+
+He finished and, getting up, embraced and kissed Pierre, who, with tears
+of joy in his eyes, looked round him, not knowing how to answer the
+congratulations and greetings from acquaintances that met him on all
+sides. He acknowledged no acquaintances but saw in all these men only
+brothers, and burned with impatience to set to work with them.
+
+The Grand Master rapped with his mallet. All the Masons sat down in
+their places, and one of them read an exhortation on the necessity of
+humility.
+
+The Grand Master proposed that the last duty should be performed,
+and the distinguished dignitary who bore the title of “Collector
+of Alms” went round to all the brothers. Pierre would have liked
+to subscribe all he had, but fearing that it might look like pride
+subscribed the same amount as the others.
+
+The meeting was at an end, and on reaching home Pierre felt as if he had
+returned from a long journey on which he had spent dozens of years, had
+become completely changed, and had quite left behind his former habits
+and way of life.
+
+
+
+
+
+CHAPTER V
+
+The day after he had been received into the Lodge, Pierre was sitting at
+home reading a book and trying to fathom the significance of the Square,
+one side of which symbolized God, another moral things, a third
+physical things, and the fourth a combination of these. Now and then
+his attention wandered from the book and the Square and he formed in
+imagination a new plan of life. On the previous evening at the Lodge, he
+had heard that a rumor of his duel had reached the Emperor and that it
+would be wiser for him to leave Petersburg. Pierre proposed going to his
+estates in the south and there attending to the welfare of his serfs.
+He was joyfully planning this new life, when Prince Vasíli suddenly
+entered the room.
+
+“My dear fellow, what have you been up to in Moscow? Why have you
+quarreled with Hélène, mon cher? You are under a delusion,” said
+Prince Vasíli, as he entered. “I know all about it, and I can tell
+you positively that Hélène is as innocent before you as Christ was
+before the Jews.”
+
+Pierre was about to reply, but Prince Vasíli interrupted him.
+
+“And why didn’t you simply come straight to me as to a friend? I
+know all about it and understand it all,” he said. “You behaved as
+becomes a man who values his honor, perhaps too hastily, but we won’t
+go into that. But consider the position in which you are placing her and
+me in the eyes of society, and even of the court,” he added, lowering
+his voice. “She is living in Moscow and you are here. Remember,
+dear boy,” and he drew Pierre’s arm downwards, “it is simply a
+misunderstanding. I expect you feel it so yourself. Let us write her
+a letter at once, and she’ll come here and all will be explained, or
+else, my dear boy, let me tell you it’s quite likely you’ll have to
+suffer for it.”
+
+Prince Vasíli gave Pierre a significant look.
+
+“I know from reliable sources that the Dowager Empress is taking a
+keen interest in the whole affair. You know she is very gracious to
+Hélène.”
+
+Pierre tried several times to speak, but, on one hand, Prince Vasíli
+did not let him and, on the other, Pierre himself feared to begin to
+speak in the tone of decided refusal and disagreement in which he had
+firmly resolved to answer his father-in-law. Moreover, the words of the
+Masonic statutes, “be kindly and courteous,” recurred to him. He
+blinked, went red, got up and sat down again, struggling with himself
+to do what was for him the most difficult thing in life—to say an
+unpleasant thing to a man’s face, to say what the other, whoever
+he might be, did not expect. He was so used to submitting to Prince
+Vasíli’s tone of careless self-assurance that he felt he would be
+unable to withstand it now, but he also felt that on what he said now
+his future depended—whether he would follow the same old road, or that
+new path so attractively shown him by the Masons, on which he firmly
+believed he would be reborn to a new life.
+
+“Now, dear boy,” said Prince Vasíli playfully, “say ‘yes,’
+and I’ll write to her myself, and we will kill the fatted calf.”
+
+But before Prince Vasíli had finished his playful speech, Pierre,
+without looking at him, and with a kind of fury that made him like his
+father, muttered in a whisper:
+
+“Prince, I did not ask you here. Go, please go!” And he jumped up
+and opened the door for him.
+
+“Go!” he repeated, amazed at himself and glad to see the look of
+confusion and fear that showed itself on Prince Vasíli’s face.
+
+“What’s the matter with you? Are you ill?”
+
+“Go!” the quivering voice repeated. And Prince Vasíli had to go
+without receiving any explanation.
+
+A week later, Pierre, having taken leave of his new friends, the Masons,
+and leaving large sums of money with them for alms, went away to his
+estates. His new brethren gave him letters to the Kiev and Odessa Masons
+and promised to write to him and guide him in his new activity.
+
+
+
+
+
+CHAPTER VI
+
+The duel between Pierre and Dólokhov was hushed up and, in spite of
+the Emperor’s severity regarding duels at that time, neither the
+principals nor their seconds suffered for it. But the story of the duel,
+confirmed by Pierre’s rupture with his wife, was the talk of society.
+Pierre who had been regarded with patronizing condescension when he was
+an illegitimate son, and petted and extolled when he was the best
+match in Russia, had sunk greatly in the esteem of society after his
+marriage—when the marriageable daughters and their mothers had nothing
+to hope from him—especially as he did not know how, and did not
+wish, to court society’s favor. Now he alone was blamed for what had
+happened, he was said to be insanely jealous and subject like his
+father to fits of bloodthirsty rage. And when after Pierre’s
+departure Hélène returned to Petersburg, she was received by all her
+acquaintances not only cordially, but even with a shade of deference
+due to her misfortune. When conversation turned on her husband Hélène
+assumed a dignified expression, which with characteristic tact she had
+acquired though she did not understand its significance. This expression
+suggested that she had resolved to endure her troubles uncomplainingly
+and that her husband was a cross laid upon her by God. Prince Vasíli
+expressed his opinion more openly. He shrugged his shoulders when Pierre
+was mentioned and, pointing to his forehead, remarked:
+
+“A bit touched—I always said so.”
+
+“I said from the first,” declared Anna Pávlovna referring to
+Pierre, “I said at the time and before anyone else” (she insisted
+on her priority) “that that senseless young man was spoiled by the
+depraved ideas of these days. I said so even at the time when everybody
+was in raptures about him, when he had just returned from abroad, and
+when, if you remember, he posed as a sort of Marat at one of my soirees.
+And how has it ended? I was against this marriage even then and foretold
+all that has happened.”
+
+Anna Pávlovna continued to give on free evenings the same kind of
+soirees as before—such as she alone had the gift of arranging—at
+which was to be found “the cream of really good society, the bloom
+of the intellectual essence of Petersburg,” as she herself put it.
+Besides this refined selection of society Anna Pávlovna’s receptions
+were also distinguished by the fact that she always presented some new
+and interesting person to the visitors and that nowhere else was the
+state of the political thermometer of legitimate Petersburg court
+society so dearly and distinctly indicated.
+
+Toward the end of 1806, when all the sad details of Napoleon’s
+destruction of the Prussian army at Jena and Auerstädt and the
+surrender of most of the Prussian fortresses had been received, when our
+troops had already entered Prussia and our second war with Napoleon
+was beginning, Anna Pávlovna gave one of her soirees. The “cream of
+really good society” consisted of the fascinating Hélène, forsaken
+by her husband, Mortemart, the delightful Prince Hippolyte who had
+just returned from Vienna, two diplomatists, the old aunt, a young man
+referred to in that drawing room as “a man of great merit” (un homme
+de beaucoup de mérite), a newly appointed maid of honor and her mother,
+and several other less noteworthy persons.
+
+The novelty Anna Pávlovna was setting before her guests that evening
+was Borís Drubetskóy, who had just arrived as a special messenger from
+the Prussian army and was aide-de-camp to a very important personage.
+
+The temperature shown by the political thermometer to the company that
+evening was this:
+
+“Whatever the European sovereigns and commanders may do to
+countenance Bonaparte, and to cause me, and us in general, annoyance and
+mortification, our opinion of Bonaparte cannot alter. We shall not cease
+to express our sincere views on that subject, and can only say to the
+King of Prussia and others: ‘So much the worse for you. Tu l’as
+voulu, George Dandin,’ that’s all we have to say about it!”
+
+When Borís, who was to be served up to the guests, entered the drawing
+room, almost all the company had assembled, and the conversation, guided
+by Anna Pávlovna, was about our diplomatic relations with Austria and
+the hope of an alliance with her.
+
+Borís, grown more manly and looking fresh, rosy and self-possessed,
+entered the drawing room elegantly dressed in the uniform of an
+aide-de-camp and was duly conducted to pay his respects to the aunt and
+then brought back to the general circle.
+
+Anna Pávlovna gave him her shriveled hand to kiss and introduced him to
+several persons whom he did not know, giving him a whispered description
+of each.
+
+“Prince Hippolyte Kurágin—charming young fellow; M.
+Kronq,—chargé d’affaires from Copenhagen—a profound intellect,”
+and simply, “Mr. Shítov—a man of great merit”—this of the man
+usually so described.
+
+Thanks to Anna Mikháylovna’s efforts, his own tastes, and the
+peculiarities of his reserved nature, Borís had managed during his
+service to place himself very advantageously. He was aide-de-camp to a
+very important personage, had been sent on a very important mission to
+Prussia, and had just returned from there as a special messenger. He had
+become thoroughly conversant with that unwritten code with which he had
+been so pleased at Olmütz and according to which an ensign might rank
+incomparably higher than a general, and according to which what was
+needed for success in the service was not effort or work, or courage, or
+perseverance, but only the knowledge of how to get on with those who can
+grant rewards, and he was himself often surprised at the rapidity of his
+success and at the inability of others to understand these things.
+In consequence of this discovery his whole manner of life, all
+his relations with old friends, all his plans for his future, were
+completely altered. He was not rich, but would spend his last groat to
+be better dressed than others, and would rather deprive himself of many
+pleasures than allow himself to be seen in a shabby equipage or appear
+in the streets of Petersburg in an old uniform. He made friends with
+and sought the acquaintance of only those above him in position and
+who could therefore be of use to him. He liked Petersburg and despised
+Moscow. The remembrance of the Rostóvs’ house and of his childish
+love for Natásha was unpleasant to him and he had not once been to see
+the Rostóvs since the day of his departure for the army. To be in Anna
+Pávlovna’s drawing room he considered an important step up in the
+service, and he at once understood his role, letting his hostess make
+use of whatever interest he had to offer. He himself carefully scanned
+each face, appraising the possibilities of establishing intimacy with
+each of those present, and the advantages that might accrue. He took
+the seat indicated to him beside the fair Hélène and listened to the
+general conversation.
+
+“Vienna considers the bases of the proposed treaty so unattainable
+that not even a continuity of most brilliant successes would secure
+them, and she doubts the means we have of gaining them. That is the
+actual phrase used by the Vienna cabinet,” said the Danish chargé
+d’affaires.
+
+“The doubt is flattering,” said “the man of profound intellect,”
+with a subtle smile.
+
+“We must distinguish between the Vienna cabinet and the Emperor of
+Austria,” said Mortemart. “The Emperor of Austria can never have
+thought of such a thing, it is only the cabinet that says it.”
+
+“Ah, my dear vicomte,” put in Anna Pávlovna, “L’Urope” (for
+some reason she called it Urope as if that were a specially refined
+French pronunciation which she could allow herself when conversing with
+a Frenchman), “L’Urope ne sera jamais notre alliée sincère.” *
+
+    * “Europe will never be our sincere ally.”
+
+
+After that Anna Pávlovna led up to the courage and firmness of the King
+of Prussia, in order to draw Borís into the conversation.
+
+Borís listened attentively to each of the speakers, awaiting his turn,
+but managed meanwhile to look round repeatedly at his neighbor, the
+beautiful Hélène, whose eyes several times met those of the handsome
+young aide-de-camp with a smile.
+
+Speaking of the position of Prussia, Anna Pávlovna very naturally asked
+Borís to tell them about his journey to Glogau and in what state he
+found the Prussian army. Borís, speaking with deliberation, told them
+in pure, correct French many interesting details about the armies and
+the court, carefully abstaining from expressing an opinion of his
+own about the facts he was recounting. For some time he engrossed the
+general attention, and Anna Pávlovna felt that the novelty she had
+served up was received with pleasure by all her visitors. The greatest
+attention of all to Borís’ narrative was shown by Hélène. She asked
+him several questions about his journey and seemed greatly interested in
+the state of the Prussian army. As soon as he had finished she turned to
+him with her usual smile.
+
+“You absolutely must come and see me,” she said in a tone that
+implied that, for certain considerations he could not know of, this was
+absolutely necessary.
+
+“On Tuesday between eight and nine. It will give me great pleasure.”
+
+Borís promised to fulfill her wish and was about to begin a
+conversation with her, when Anna Pávlovna called him away on the
+pretext that her aunt wished to hear him.
+
+“You know her husband, of course?” said Anna Pávlovna, closing her
+eyes and indicating Hélène with a sorrowful gesture. “Ah, she is
+such an unfortunate and charming woman! Don’t mention him before
+her—please don’t! It is too painful for her!”
+
+
+
+
+
+CHAPTER VII
+
+When Borís and Anna Pávlovna returned to the others Prince Hippolyte
+had the ear of the company.
+
+Bending forward in his armchair he said: “Le Roi de Prusse!” and
+having said this laughed. Everyone turned toward him.
+
+“Le Roi de Prusse?” Hippolyte said interrogatively, again laughing,
+and then calmly and seriously sat back in his chair. Anna Pávlovna
+waited for him to go on, but as he seemed quite decided to say no more
+she began to tell of how at Potsdam the impious Bonaparte had stolen the
+sword of Frederick the Great.
+
+“It is the sword of Frederick the Great which I...” she began, but
+Hippolyte interrupted her with the words: “Le Roi de Prusse...” and
+again, as soon as all turned toward him, excused himself and said no
+more.
+
+Anna Pávlovna frowned. Mortemart, Hippolyte’s friend, addressed him
+firmly.
+
+“Come now, what about your Roi de Prusse?”
+
+Hippolyte laughed as if ashamed of laughing.
+
+“Oh, it’s nothing. I only wished to say...” (he wanted to repeat
+a joke he had heard in Vienna and which he had been trying all that
+evening to get in) “I only wished to say that we are wrong to fight
+pour le Roi de Prusse!”
+
+Borís smiled circumspectly, so that it might be taken as ironical
+or appreciative according to the way the joke was received. Everybody
+laughed.
+
+“Your joke is too bad, it’s witty but unjust,” said Anna
+Pávlovna, shaking her little shriveled finger at him.
+
+“We are not fighting pour le Roi de Prusse, but for right principles.
+Oh, that wicked Prince Hippolyte!” she said.
+
+The conversation did not flag all evening and turned chiefly on the
+political news. It became particularly animated toward the end of the
+evening when the rewards bestowed by the Emperor were mentioned.
+
+“You know N— N— received a snuffbox with the portrait last
+year?” said “the man of profound intellect.” “Why shouldn’t
+S— S— get the same distinction?”
+
+“Pardon me! A snuffbox with the Emperor’s portrait is a reward but
+not a distinction,” said the diplomatist—“a gift, rather.”
+
+“There are precedents, I may mention Schwarzenberg.”
+
+“It’s impossible,” replied another.
+
+“Will you bet? The ribbon of the order is a different matter....”
+
+When everybody rose to go, Hélène who had spoken very little all
+the evening again turned to Borís, asking him in a tone of caressing
+significant command to come to her on Tuesday.
+
+“It is of great importance to me,” she said, turning with a smile
+toward Anna Pávlovna, and Anna Pávlovna, with the same sad smile with
+which she spoke of her exalted patroness, supported Hélène’s wish.
+
+It seemed as if from some words Borís had spoken that evening about the
+Prussian army, Hélène had suddenly found it necessary to see him.
+She seemed to promise to explain that necessity to him when he came on
+Tuesday.
+
+But on Tuesday evening, having come to Hélène’s splendid salon,
+Borís received no clear explanation of why it had been necessary for
+him to come. There were other guests and the countess talked little to
+him, and only as he kissed her hand on taking leave said unexpectedly
+and in a whisper, with a strangely unsmiling face: “Come to dinner
+tomorrow... in the evening. You must come.... Come!”
+
+During that stay in Petersburg, Borís became an intimate in the
+countess’ house.
+
+
+
+
+
+CHAPTER VIII
+
+The war was flaming up and nearing the Russian frontier. Everywhere one
+heard curses on Bonaparte, “the enemy of mankind.” Militiamen and
+recruits were being enrolled in the villages, and from the seat of
+war came contradictory news, false as usual and therefore variously
+interpreted. The life of old Prince Bolkónski, Prince Andrew, and
+Princess Mary had greatly changed since 1805.
+
+In 1806 the old prince was made one of the eight commanders in chief
+then appointed to supervise the enrollment decreed throughout Russia.
+Despite the weakness of age, which had become particularly noticeable
+since the time when he thought his son had been killed, he did not think
+it right to refuse a duty to which he had been appointed by the Emperor
+himself, and this fresh opportunity for action gave him new energy
+and strength. He was continually traveling through the three provinces
+entrusted to him, was pedantic in the fulfillment of his duties, severe
+to cruel with his subordinates, and went into everything down to the
+minutest details himself. Princess Mary had ceased taking lessons in
+mathematics from her father, and when the old prince was at home went
+to his study with the wet nurse and little Prince Nicholas (as his
+grandfather called him). The baby Prince Nicholas lived with his wet
+nurse and nurse Sávishna in the late princess’ rooms and Princess
+Mary spent most of the day in the nursery, taking a mother’s place to
+her little nephew as best she could. Mademoiselle Bourienne, too, seemed
+passionately fond of the boy, and Princess Mary often deprived herself
+to give her friend the pleasure of dandling the little angel—as she
+called her nephew—and playing with him.
+
+Near the altar of the church at Bald Hills there was a chapel over the
+tomb of the little princess, and in this chapel was a marble monument
+brought from Italy, representing an angel with outspread wings ready to
+fly upwards. The angel’s upper lip was slightly raised as though
+about to smile, and once on coming out of the chapel Prince Andrew and
+Princess Mary admitted to one another that the angel’s face reminded
+them strangely of the little princess. But what was still stranger,
+though of this Prince Andrew said nothing to his sister, was that in the
+expression the sculptor had happened to give the angel’s face, Prince
+Andrew read the same mild reproach he had read on the face of his dead
+wife: “Ah, why have you done this to me?”
+
+Soon after Prince Andrew’s return the old prince made over to him a
+large estate, Boguchárovo, about twenty-five miles from Bald Hills.
+Partly because of the depressing memories associated with Bald Hills,
+partly because Prince Andrew did not always feel equal to bearing with
+his father’s peculiarities, and partly because he needed solitude,
+Prince Andrew made use of Boguchárovo, began building and spent most of
+his time there.
+
+After the Austerlitz campaign Prince Andrew had firmly resolved not
+to continue his military service, and when the war recommenced
+and everybody had to serve, he took a post under his father in the
+recruitment so as to avoid active service. The old prince and his son
+seemed to have changed roles since the campaign of 1805. The old man,
+roused by activity, expected the best results from the new campaign,
+while Prince Andrew on the contrary, taking no part in the war and
+secretly regretting this, saw only the dark side.
+
+On February 26, 1807, the old prince set off on one of his circuits.
+Prince Andrew remained at Bald Hills as usual during his father’s
+absence. Little Nicholas had been unwell for four days. The coachman who
+had driven the old prince to town returned bringing papers and letters
+for Prince Andrew.
+
+Not finding the young prince in his study the valet went with the
+letters to Princess Mary’s apartments, but did not find him there. He
+was told that the prince had gone to the nursery.
+
+“If you please, your excellency, Pétrusha has brought some papers,”
+said one of the nursemaids to Prince Andrew who was sitting on a
+child’s little chair while, frowning and with trembling hands, he
+poured drops from a medicine bottle into a wineglass half full of water.
+
+“What is it?” he said crossly, and, his hand shaking
+unintentionally, he poured too many drops into the glass. He threw the
+mixture onto the floor and asked for some more water. The maid brought
+it.
+
+There were in the room a child’s cot, two boxes, two armchairs, a
+table, a child’s table, and the little chair on which Prince Andrew
+was sitting. The curtains were drawn, and a single candle was burning on
+the table, screened by a bound music book so that the light did not fall
+on the cot.
+
+“My dear,” said Princess Mary, addressing her brother from beside
+the cot where she was standing, “better wait a bit... later...”
+
+“Oh, leave off, you always talk nonsense and keep putting things
+off—and this is what comes of it!” said Prince Andrew in an
+exasperated whisper, evidently meaning to wound his sister.
+
+“My dear, really... it’s better not to wake him... he’s asleep,”
+said the princess in a tone of entreaty.
+
+Prince Andrew got up and went on tiptoe up to the little bed, wineglass
+in hand.
+
+“Perhaps we’d really better not wake him,” he said hesitating.
+
+“As you please... really... I think so... but as you please,” said
+Princess Mary, evidently intimidated and confused that her opinion
+had prevailed. She drew her brother’s attention to the maid who was
+calling him in a whisper.
+
+It was the second night that neither of them had slept, watching the boy
+who was in a high fever. These last days, mistrusting their household
+doctor and expecting another for whom they had sent to town, they had
+been trying first one remedy and then another. Worn out by sleeplessness
+and anxiety they threw their burden of sorrow on one another and
+reproached and disputed with each other.
+
+“Pétrusha has come with papers from your father,” whispered the
+maid.
+
+Prince Andrew went out.
+
+“Devil take them!” he muttered, and after listening to the verbal
+instructions his father had sent and taking the correspondence and his
+father’s letter, he returned to the nursery.
+
+“Well?” he asked.
+
+“Still the same. Wait, for heaven’s sake. Karl Ivánich always says
+that sleep is more important than anything,” whispered Princess Mary
+with a sigh.
+
+Prince Andrew went up to the child and felt him. He was burning hot.
+
+“Confound you and your Karl Ivánich!” He took the glass with the
+drops and again went up to the cot.
+
+“Andrew, don’t!” said Princess Mary.
+
+But he scowled at her angrily though also with suffering in his eyes,
+and stooped glass in hand over the infant.
+
+“But I wish it,” he said. “I beg you—give it him!”
+
+Princess Mary shrugged her shoulders but took the glass submissively
+and calling the nurse began giving the medicine. The child screamed
+hoarsely. Prince Andrew winced and, clutching his head, went out and sat
+down on a sofa in the next room.
+
+He still had all the letters in his hand. Opening them mechanically he
+began reading. The old prince, now and then using abbreviations, wrote
+in his large elongated hand on blue paper as follows:
+
+Have just this moment received by special messenger very joyful
+news—if it’s not false. Bennigsen seems to have obtained a complete
+victory over Buonaparte at Eylau. In Petersburg everyone is rejoicing,
+and the rewards sent to the army are innumerable. Though he is a
+German—I congratulate him! I can’t make out what the commander at
+Kórchevo—a certain Khandrikóv—is up to; till now the additional
+men and provisions have not arrived. Gallop off to him at once and
+say I’ll have his head off if everything is not here in a week.
+Have received another letter about the Preussisch-Eylau battle
+from Pétenka—he took part in it—and it’s all true. When
+mischief-makers don’t meddle even a German beats Buonaparte. He is
+said to be fleeing in great disorder. Mind you gallop off to Kórchevo
+without delay and carry out instructions!
+
+Prince Andrew sighed and broke the seal of another envelope. It was
+a closely written letter of two sheets from Bilíbin. He folded it up
+without reading it and reread his father’s letter, ending with the
+words: “Gallop off to Kórchevo and carry out instructions!”
+
+“No, pardon me, I won’t go now till the child is better,” thought
+he, going to the door and looking into the nursery.
+
+Princess Mary was still standing by the cot, gently rocking the baby.
+
+“Ah yes, and what else did he say that’s unpleasant?” thought
+Prince Andrew, recalling his father’s letter. “Yes, we have gained
+a victory over Bonaparte, just when I’m not serving. Yes, yes, he’s
+always poking fun at me.... Ah, well! Let him!” And he began reading
+Bilíbin’s letter which was written in French. He read without
+understanding half of it, read only to forget, if but for a moment, what
+he had too long been thinking of so painfully to the exclusion of all
+else.
+
+
+
+
+
+CHAPTER IX
+
+Bilíbin was now at army headquarters in a diplomatic capacity, and
+though he wrote in French and used French jests and French idioms,
+he described the whole campaign with a fearless self-censure and
+self-derision genuinely Russian. Bilíbin wrote that the obligation of
+diplomatic discretion tormented him, and he was happy to have in Prince
+Andrew a reliable correspondent to whom he could pour out the bile he
+had accumulated at the sight of all that was being done in the army.
+The letter was old, having been written before the battle at
+Preussisch-Eylau.
+
+“Since the day of our brilliant success at Austerlitz,” wrote
+Bilíbin, “as you know, my dear prince, I never leave headquarters. I
+have certainly acquired a taste for war, and it is just as well for me;
+what I have seen during these last three months is incredible.
+
+“I begin ab ovo. ‘The enemy of the human race,’ as you know,
+attacks the Prussians. The Prussians are our faithful allies who have
+only betrayed us three times in three years. We take up their cause, but
+it turns out that ‘the enemy of the human race’ pays no heed to
+our fine speeches and in his rude and savage way throws himself on the
+Prussians without giving them time to finish the parade they had begun,
+and in two twists of the hand he breaks them to smithereens and installs
+himself in the palace at Potsdam.
+
+“‘I most ardently desire,’ writes the King of Prussia to
+Bonaparte, ‘that Your Majesty should be received and treated in my
+palace in a manner agreeable to yourself, and in so far as circumstances
+allowed, I have hastened to take all steps to that end. May I have
+succeeded!’ The Prussian generals pride themselves on being polite to
+the French and lay down their arms at the first demand.
+
+“The head of the garrison at Glogau, with ten thousand men, asks the
+King of Prussia what he is to do if he is summoned to surrender.... All
+this is absolutely true.
+
+“In short, hoping to settle matters by taking up a warlike attitude,
+it turns out that we have landed ourselves in war, and what is more,
+in war on our own frontiers, with and for the King of Prussia. We have
+everything in perfect order, only one little thing is lacking, namely,
+a commander in chief. As it was considered that the Austerlitz success
+might have been more decisive had the commander in chief not been so
+young, all our octogenarians were reviewed, and of Prozoróvski
+and Kámenski the latter was preferred. The general comes to us,
+Suvórov-like, in a kibítka, and is received with acclamations of joy
+and triumph.
+
+“On the 4th, the first courier arrives from Petersburg. The mails
+are taken to the field marshal’s room, for he likes to do everything
+himself. I am called in to help sort the letters and take those meant
+for us. The field marshal looks on and waits for letters addressed
+to him. We search, but none are to be found. The field marshal grows
+impatient and sets to work himself and finds letters from the Emperor
+to Count T., Prince V., and others. Then he bursts into one of his wild
+furies and rages at everyone and everything, seizes the letters, opens
+them, and reads those from the Emperor addressed to others. ‘Ah! So
+that’s the way they treat me! No confidence in me! Ah, ordered to keep
+an eye on me! Very well then! Get along with you!’ So he writes the
+famous order of the day to General Bennigsen:
+
+“‘I am wounded and cannot ride and consequently cannot command the
+army. You have brought your army corps to Pultúsk, routed: here it is
+exposed, and without fuel or forage, so something must be done, and, as
+you yourself reported to Count Buxhöwden yesterday, you must think of
+retreating to our frontier—which do today.’
+
+“‘From all my riding,’ he writes to the Emperor, ‘I have got a
+saddle sore which, coming after all my previous journeys, quite prevents
+my riding and commanding so vast an army, so I have passed on the
+command to the general next in seniority, Count Buxhöwden, having sent
+him my whole staff and all that belongs to it, advising him if there is
+a lack of bread, to move farther into the interior of Prussia, for only
+one day’s ration of bread remains, and in some regiments none at all,
+as reported by the division commanders, Ostermann and Sedmorétzki, and
+all that the peasants had has been eaten up. I myself will remain in
+hospital at Ostrolenka till I recover. In regard to which I humbly
+submit my report, with the information that if the army remains in its
+present bivouac another fortnight there will not be a healthy man left
+in it by spring.
+
+“‘Grant leave to retire to his country seat to an old man who is
+already in any case dishonored by being unable to fulfill the great and
+glorious task for which he was chosen. I shall await your most gracious
+permission here in hospital, that I may not have to play the part of a
+secretary rather than commander in the army. My removal from the army
+does not produce the slightest stir—a blind man has left it. There are
+thousands such as I in Russia.’
+
+“The field marshal is angry with the Emperor and he punishes us all,
+isn’t it logical?
+
+“This is the first act. Those that follow are naturally increasingly
+interesting and entertaining. After the field marshal’s departure
+it appears that we are within sight of the enemy and must give battle.
+Buxhöwden is commander in chief by seniority, but General Bennigsen
+does not quite see it; more particularly as it is he and his corps who
+are within sight of the enemy and he wishes to profit by the opportunity
+to fight a battle ‘on his own hand’ as the Germans say. He does so.
+This is the battle of Pultúsk, which is considered a great victory but
+in my opinion was nothing of the kind. We civilians, as you know, have
+a very bad way of deciding whether a battle was won or lost. Those who
+retreat after a battle have lost it is what we say; and according to
+that it is we who lost the battle of Pultúsk. In short, we retreat
+after the battle but send a courier to Petersburg with news of a
+victory, and General Bennigsen, hoping to receive from Petersburg the
+post of commander in chief as a reward for his victory, does not give up
+the command of the army to General Buxhöwden. During this interregnum
+we begin a very original and interesting series of maneuvers. Our aim is
+no longer, as it should be, to avoid or attack the enemy, but solely to
+avoid General Buxhöwden who by right of seniority should be our chief.
+So energetically do we pursue this aim that after crossing an unfordable
+river we burn the bridges to separate ourselves from our enemy, who at
+the moment is not Bonaparte but Buxhöwden. General Buxhöwden was all
+but attacked and captured by a superior enemy force as a result of one
+of these maneuvers that enabled us to escape him. Buxhöwden pursues
+us—we scuttle. He hardly crosses the river to our side before we
+recross to the other. At last our enemy, Buxhöwden, catches us and
+attacks. Both generals are angry, and the result is a challenge on
+Buxhöwden’s part and an epileptic fit on Bennigsen’s. But at the
+critical moment the courier who carried the news of our victory at
+Pultúsk to Petersburg returns bringing our appointment as commander in
+chief, and our first foe, Buxhöwden, is vanquished; we can now turn
+our thoughts to the second, Bonaparte. But as it turns out, just at
+that moment a third enemy rises before us—namely the Orthodox Russian
+soldiers, loudly demanding bread, meat, biscuits, fodder, and whatnot!
+The stores are empty, the roads impassable. The Orthodox begin looting,
+and in a way of which our last campaign can give you no idea. Half the
+regiments form bands and scour the countryside and put everything
+to fire and sword. The inhabitants are totally ruined, the hospitals
+overflow with sick, and famine is everywhere. Twice the marauders even
+attack our headquarters, and the commander in chief has to ask for a
+battalion to disperse them. During one of these attacks they carried off
+my empty portmanteau and my dressing gown. The Emperor proposes to give
+all commanders of divisions the right to shoot marauders, but I much
+fear this will oblige one half the army to shoot the other.”
+
+At first Prince Andrew read with his eyes only, but after a while,
+in spite of himself (although he knew how far it was safe to trust
+Bilíbin), what he had read began to interest him more and more. When he
+had read thus far, he crumpled the letter up and threw it away. It was
+not what he had read that vexed him, but the fact that the life out
+there in which he had now no part could perturb him. He shut his eyes,
+rubbed his forehead as if to rid himself of all interest in what he
+had read, and listened to what was passing in the nursery. Suddenly he
+thought he heard a strange noise through the door. He was seized with
+alarm lest something should have happened to the child while he was
+reading the letter. He went on tiptoe to the nursery door and opened it.
+
+Just as he went in he saw that the nurse was hiding something from him
+with a scared look and that Princess Mary was no longer by the cot.
+
+“My dear,” he heard what seemed to him her despairing whisper behind
+him.
+
+As often happens after long sleeplessness and long anxiety, he was
+seized by an unreasoning panic—it occurred to him that the child was
+dead. All that he saw and heard seemed to confirm this terror.
+
+“All is over,” he thought, and a cold sweat broke out on his
+forehead. He went to the cot in confusion, sure that he would find it
+empty and that the nurse had been hiding the dead baby. He drew the
+curtain aside and for some time his frightened, restless eyes could not
+find the baby. At last he saw him: the rosy boy had tossed about till he
+lay across the bed with his head lower than the pillow, and was smacking
+his lips in his sleep and breathing evenly.
+
+Prince Andrew was as glad to find the boy like that, as if he had
+already lost him. He bent over him and, as his sister had taught him,
+tried with his lips whether the child was still feverish. The soft
+forehead was moist. Prince Andrew touched the head with his hand; even
+the hair was wet, so profusely had the child perspired. He was not dead,
+but evidently the crisis was over and he was convalescent. Prince Andrew
+longed to snatch up, to squeeze, to hold to his heart, this helpless
+little creature, but dared not do so. He stood over him, gazing at his
+head and at the little arms and legs which showed under the blanket. He
+heard a rustle behind him and a shadow appeared under the curtain of
+the cot. He did not look round, but still gazing at the infant’s face
+listened to his regular breathing. The dark shadow was Princess Mary,
+who had come up to the cot with noiseless steps, lifted the curtain,
+and dropped it again behind her. Prince Andrew recognized her without
+looking and held out his hand to her. She pressed it.
+
+“He has perspired,” said Prince Andrew.
+
+“I was coming to tell you so.”
+
+The child moved slightly in his sleep, smiled, and rubbed his forehead
+against the pillow.
+
+Prince Andrew looked at his sister. In the dim shadow of the curtain her
+luminous eyes shone more brightly than usual from the tears of joy that
+were in them. She leaned over to her brother and kissed him, slightly
+catching the curtain of the cot. Each made the other a warning gesture
+and stood still in the dim light beneath the curtain as if not wishing
+to leave that seclusion where they three were shut off from all the
+world. Prince Andrew was the first to move away, ruffling his hair
+against the muslin of the curtain.
+
+“Yes, this is the one thing left me now,” he said with a sigh.
+
+
+
+
+
+CHAPTER X
+
+Soon after his admission to the Masonic Brotherhood, Pierre went to the
+Kiev province, where he had the greatest number of serfs, taking with
+him full directions which he had written down for his own guidance as to
+what he should do on his estates.
+
+When he reached Kiev he sent for all his stewards to the head office
+and explained to them his intentions and wishes. He told them that steps
+would be taken immediately to free his serfs—and that till then they
+were not to be overburdened with labor, women while nursing their babies
+were not to be sent to work, assistance was to be given to the serfs,
+punishments were to be admonitory and not corporal, and hospitals,
+asylums, and schools were to be established on all the estates. Some of
+the stewards (there were semiliterate foremen among them) listened with
+alarm, supposing these words to mean that the young count was displeased
+with their management and embezzlement of money, some after their first
+fright were amused by Pierre’s lisp and the new words they had not
+heard before, others simply enjoyed hearing how the master talked, while
+the cleverest among them, including the chief steward, understood from
+this speech how they could best handle the master for their own ends.
+
+The chief steward expressed great sympathy with Pierre’s intentions,
+but remarked that besides these changes it would be necessary to go into
+the general state of affairs which was far from satisfactory.
+
+Despite Count Bezúkhov’s enormous wealth, since he had come into an
+income which was said to amount to five hundred thousand rubles a year,
+Pierre felt himself far poorer than when his father had made him
+an allowance of ten thousand rubles. He had a dim perception of the
+following budget:
+
+About 80,000 went in payments on all the estates to the Land Bank, about
+30,000 went for the upkeep of the estate near Moscow, the town house,
+and the allowance to the three princesses; about 15,000 was given in
+pensions and the same amount for asylums; 150,000 alimony was sent to
+the countess; about 70,000 went for interest on debts. The building of a
+new church, previously begun, had cost about 10,000 in each of the last
+two years, and he did not know how the rest, about 100,000 rubles, was
+spent, and almost every year he was obliged to borrow. Besides this the
+chief steward wrote every year telling him of fires and bad harvests,
+or of the necessity of rebuilding factories and workshops. So the first
+task Pierre had to face was one for which he had very little aptitude or
+inclination—practical business.
+
+He discussed estate affairs every day with his chief steward. But
+he felt that this did not forward matters at all. He felt that these
+consultations were detached from real affairs and did not link up with
+them or make them move. On the one hand, the chief steward put the state
+of things to him in the very worst light, pointing out the necessity of
+paying off the debts and undertaking new activities with serf labor,
+to which Pierre did not agree. On the other hand, Pierre demanded that
+steps should be taken to liberate the serfs, which the steward met by
+showing the necessity of first paying off the loans from the Land Bank,
+and the consequent impossibility of a speedy emancipation.
+
+The steward did not say it was quite impossible, but suggested selling
+the forests in the province of Kostromá, the land lower down the river,
+and the Crimean estate, in order to make it possible: all of which
+operations according to him were connected with such complicated
+measures—the removal of injunctions, petitions, permits, and so
+on—that Pierre became quite bewildered and only replied:
+
+“Yes, yes, do so.”
+
+Pierre had none of the practical persistence that would have enabled him
+to attend to the business himself and so he disliked it and only tried
+to pretend to the steward that he was attending to it. The steward
+for his part tried to pretend to the count that he considered these
+consultations very valuable for the proprietor and troublesome to
+himself.
+
+In Kiev Pierre found some people he knew, and strangers hastened to make
+his acquaintance and joyfully welcomed the rich newcomer, the
+largest landowner of the province. Temptations to Pierre’s greatest
+weakness—the one to which he had confessed when admitted to the
+Lodge—were so strong that he could not resist them. Again whole days,
+weeks, and months of his life passed in as great a rush and were as much
+occupied with evening parties, dinners, lunches, and balls, giving him
+no time for reflection, as in Petersburg. Instead of the new life he had
+hoped to lead he still lived the old life, only in new surroundings.
+
+Of the three precepts of Freemasonry Pierre realized that he did not
+fulfill the one which enjoined every Mason to set an example of moral
+life, and that of the seven virtues he lacked two—morality and the
+love of death. He consoled himself with the thought that he fulfilled
+another of the precepts—that of reforming the human race—and had
+other virtues—love of his neighbor, and especially generosity.
+
+In the spring of 1807 he decided to return to Petersburg. On the way he
+intended to visit all his estates and see for himself how far his orders
+had been carried out and in what state were the serfs whom God had
+entrusted to his care and whom he intended to benefit.
+
+The chief steward, who considered the young count’s attempts almost
+insane—unprofitable to himself, to the count, and to the serfs—made
+some concessions. Continuing to represent the liberation of the serfs
+as impracticable, he arranged for the erection of large
+buildings—schools, hospitals, and asylums—on all the estates
+before the master arrived. Everywhere preparations were made not for
+ceremonious welcomes (which he knew Pierre would not like), but for just
+such gratefully religious ones, with offerings of icons and the bread
+and salt of hospitality, as, according to his understanding of his
+master, would touch and delude him.
+
+The southern spring, the comfortable rapid traveling in a Vienna
+carriage, and the solitude of the road, all had a gladdening effect on
+Pierre. The estates he had not before visited were each more picturesque
+than the other; the serfs everywhere seemed thriving and touchingly
+grateful for the benefits conferred on them. Everywhere were receptions,
+which though they embarrassed Pierre awakened a joyful feeling in the
+depth of his heart. In one place the peasants presented him with bread
+and salt and an icon of Saint Peter and Saint Paul, asking permission,
+as a mark of their gratitude for the benefits he had conferred on them,
+to build a new chantry to the church at their own expense in honor
+of Peter and Paul, his patron saints. In another place the women with
+infants in arms met him to thank him for releasing them from hard
+work. On a third estate the priest, bearing a cross, came to meet
+him surrounded by children whom, by the count’s generosity, he was
+instructing in reading, writing, and religion. On all his estates Pierre
+saw with his own eyes brick buildings erected or in course of erection,
+all on one plan, for hospitals, schools, and almshouses, which were soon
+to be opened. Everywhere he saw the stewards’ accounts, according to
+which the serfs’ manorial labor had been diminished, and heard the
+touching thanks of deputations of serfs in their full-skirted blue
+coats.
+
+What Pierre did not know was that the place where they presented him
+with bread and salt and wished to build a chantry in honor of Peter and
+Paul was a market village where a fair was held on St. Peter’s day,
+and that the richest peasants (who formed the deputation) had begun
+the chantry long before, but that nine tenths of the peasants in that
+villages were in a state of the greatest poverty. He did not know that
+since the nursing mothers were no longer sent to work on his land, they
+did still harder work on their own land. He did not know that the priest
+who met him with the cross oppressed the peasants by his exactions, and
+that the pupils’ parents wept at having to let him take their children
+and secured their release by heavy payments. He did not know that the
+brick buildings, built to plan, were being built by serfs whose manorial
+labor was thus increased, though lessened on paper. He did not know
+that where the steward had shown him in the accounts that the serfs’
+payments had been diminished by a third, their obligatory manorial work
+had been increased by a half. And so Pierre was delighted with his visit
+to his estates and quite recovered the philanthropic mood in which
+he had left Petersburg, and wrote enthusiastic letters to his
+“brother-instructor” as he called the Grand Master.
+
+“How easy it is, how little effort it needs, to do so much good,”
+thought Pierre, “and how little attention we pay to it!”
+
+He was pleased at the gratitude he received, but felt abashed at
+receiving it. This gratitude reminded him of how much more he might do
+for these simple, kindly people.
+
+The chief steward, a very stupid but cunning man who saw perfectly
+through the naïve and intelligent count and played with him as with
+a toy, seeing the effect these prearranged receptions had on Pierre,
+pressed him still harder with proofs of the impossibility and above all
+the uselessness of freeing the serfs, who were quite happy as it was.
+
+Pierre in his secret soul agreed with the steward that it would be
+difficult to imagine happier people, and that God only knew what would
+happen to them when they were free, but he insisted, though reluctantly,
+on what he thought right. The steward promised to do all in his power to
+carry out the count’s wishes, seeing clearly that not only would the
+count never be able to find out whether all measures had been taken for
+the sale of the land and forests and to release them from the Land Bank,
+but would probably never even inquire and would never know that the
+newly erected buildings were standing empty and that the serfs continued
+to give in money and work all that other people’s serfs gave—that is
+to say, all that could be got out of them.
+
+
+
+
+
+CHAPTER XI
+
+Returning from his journey through South Russia in the happiest state
+of mind, Pierre carried out an intention he had long had of visiting his
+friend Bolkónski, whom he had not seen for two years.
+
+Boguchárovo lay in a flat uninteresting part of the country among
+fields and forests of fir and birch, which were partly cut down. The
+house lay behind a newly dug pond filled with water to the brink and
+with banks still bare of grass. It was at the end of a village that
+stretched along the highroad in the midst of a young copse in which were
+a few fir trees.
+
+The homestead consisted of a threshing floor, outhouses, stables, a
+bathhouse, a lodge, and a large brick house with semicircular façade
+still in course of construction. Round the house was a garden newly laid
+out. The fences and gates were new and solid; two fire pumps and a
+water cart, painted green, stood in a shed; the paths were straight,
+the bridges were strong and had handrails. Everything bore an impress of
+tidiness and good management. Some domestic serfs Pierre met, in reply
+to inquiries as to where the prince lived, pointed out a small newly
+built lodge close to the pond. Antón, a man who had looked after Prince
+Andrew in his boyhood, helped Pierre out of his carriage, said that the
+prince was at home, and showed him into a clean little anteroom.
+
+Pierre was struck by the modesty of the small though clean house after
+the brilliant surroundings in which he had last met his friend in
+Petersburg.
+
+He quickly entered the small reception room with its still-unplastered
+wooden walls redolent of pine, and would have gone farther, but Antón
+ran ahead on tiptoe and knocked at a door.
+
+“Well, what is it?” came a sharp, unpleasant voice.
+
+“A visitor,” answered Antón.
+
+“Ask him to wait,” and the sound was heard of a chair being pushed
+back.
+
+Pierre went with rapid steps to the door and suddenly came face to
+face with Prince Andrew, who came out frowning and looking old. Pierre
+embraced him and lifting his spectacles kissed his friend on the cheek
+and looked at him closely.
+
+“Well, I did not expect you, I am very glad,” said Prince Andrew.
+
+Pierre said nothing; he looked fixedly at his friend with surprise. He
+was struck by the change in him. His words were kindly and there was a
+smile on his lips and face, but his eyes were dull and lifeless and in
+spite of his evident wish to do so he could not give them a joyous
+and glad sparkle. Prince Andrew had grown thinner, paler, and more
+manly-looking, but what amazed and estranged Pierre till he got used
+to it were his inertia and a wrinkle on his brow indicating prolonged
+concentration on some one thought.
+
+As is usually the case with people meeting after a prolonged separation,
+it was long before their conversation could settle on anything. They
+put questions and gave brief replies about things they knew ought to
+be talked over at length. At last the conversation gradually settled on
+some of the topics at first lightly touched on: their past life, plans
+for the future, Pierre’s journeys and occupations, the war, and so
+on. The preoccupation and despondency which Pierre had noticed in his
+friend’s look was now still more clearly expressed in the smile
+with which he listened to Pierre, especially when he spoke with joyful
+animation of the past or the future. It was as if Prince Andrew would
+have liked to sympathize with what Pierre was saying, but could not.
+The latter began to feel that it was in bad taste to speak of his
+enthusiasms, dreams, and hopes of happiness or goodness, in Prince
+Andrew’s presence. He was ashamed to express his new Masonic views,
+which had been particularly revived and strengthened by his late tour.
+He checked himself, fearing to seem naïve, yet he felt an irresistible
+desire to show his friend as soon as possible that he was now a quite
+different, and better, Pierre than he had been in Petersburg.
+
+“I can’t tell you how much I have lived through since then. I hardly
+know myself again.”
+
+“Yes, we have altered much, very much, since then,” said Prince
+Andrew.
+
+“Well, and you? What are your plans?”
+
+“Plans!” repeated Prince Andrew ironically. “My plans?” he said,
+as if astonished at the word. “Well, you see, I’m building. I mean
+to settle here altogether next year....”
+
+Pierre looked silently and searchingly into Prince Andrew’s face,
+which had grown much older.
+
+“No, I meant to ask...” Pierre began, but Prince Andrew interrupted
+him.
+
+“But why talk of me?... Talk to me, yes, tell me about your travels
+and all you have been doing on your estates.”
+
+Pierre began describing what he had done on his estates, trying as far
+as possible to conceal his own part in the improvements that had been
+made. Prince Andrew several times prompted Pierre’s story of what he
+had been doing, as though it were all an old-time story, and he listened
+not only without interest but even as if ashamed of what Pierre was
+telling him.
+
+Pierre felt uncomfortable and even depressed in his friend’s company
+and at last became silent.
+
+“I’ll tell you what, my dear fellow,” said Prince Andrew, who
+evidently also felt depressed and constrained with his visitor, “I am
+only bivouacking here and have just come to look round. I am going back
+to my sister today. I will introduce you to her. But of course you know
+her already,” he said, evidently trying to entertain a visitor with
+whom he now found nothing in common. “We will go after dinner. And
+would you now like to look round my place?”
+
+They went out and walked about till dinnertime, talking of the political
+news and common acquaintances like people who do not know each other
+intimately. Prince Andrew spoke with some animation and interest only of
+the new homestead he was constructing and its buildings, but even here,
+while on the scaffolding, in the midst of a talk explaining the future
+arrangements of the house, he interrupted himself:
+
+“However, this is not at all interesting. Let us have dinner, and then
+we’ll set off.”
+
+At dinner, conversation turned on Pierre’s marriage.
+
+“I was very much surprised when I heard of it,” said Prince Andrew.
+
+Pierre blushed, as he always did when it was mentioned, and said
+hurriedly: “I will tell you some time how it all happened. But you
+know it is all over, and forever.”
+
+“Forever?” said Prince Andrew. “Nothing’s forever.”
+
+“But you know how it all ended, don’t you? You heard of the duel?”
+
+“And so you had to go through that too!”
+
+“One thing I thank God for is that I did not kill that man,” said
+Pierre.
+
+“Why so?” asked Prince Andrew. “To kill a vicious dog is a very
+good thing really.”
+
+“No, to kill a man is bad—wrong.”
+
+“Why is it wrong?” urged Prince Andrew. “It is not given to man
+to know what is right and what is wrong. Men always did and always will
+err, and in nothing more than in what they consider right and wrong.”
+
+“What does harm to another is wrong,” said Pierre, feeling with
+pleasure that for the first time since his arrival Prince Andrew was
+roused, had begun to talk, and wanted to express what had brought him to
+his present state.
+
+“And who has told you what is bad for another man?” he asked.
+
+“Bad! Bad!” exclaimed Pierre. “We all know what is bad for
+ourselves.”
+
+“Yes, we know that, but the harm I am conscious of in myself is
+something I cannot inflict on others,” said Prince Andrew, growing
+more and more animated and evidently wishing to express his new outlook
+to Pierre. He spoke in French. “I only know two very real evils in
+life: remorse and illness. The only good is the absence of those evils.
+To live for myself avoiding those two evils is my whole philosophy
+now.”
+
+“And love of one’s neighbor, and self-sacrifice?” began Pierre.
+“No, I can’t agree with you! To live only so as not to do evil and
+not to have to repent is not enough. I lived like that, I lived for
+myself and ruined my life. And only now when I am living, or at least
+trying” (Pierre’s modesty made him correct himself) “to live for
+others, only now have I understood all the happiness of life. No, I
+shall not agree with you, and you do not really believe what you are
+saying.” Prince Andrew looked silently at Pierre with an ironic smile.
+
+“When you see my sister, Princess Mary, you’ll get on with her,”
+he said. “Perhaps you are right for yourself,” he added after
+a short pause, “but everyone lives in his own way. You lived for
+yourself and say you nearly ruined your life and only found happiness
+when you began living for others. I experienced just the reverse. I
+lived for glory.—And after all what is glory? The same love of others,
+a desire to do something for them, a desire for their approval.—So I
+lived for others, and not almost, but quite, ruined my life. And I have
+become calmer since I began to live only for myself.”
+
+“But what do you mean by living only for yourself?” asked Pierre,
+growing excited. “What about your son, your sister, and your
+father?”
+
+“But that’s just the same as myself—they are not others,”
+explained Prince Andrew. “The others, one’s neighbors, le prochain,
+as you and Princess Mary call it, are the chief source of all error and
+evil. Le prochain—your Kiev peasants to whom you want to do good.”
+
+And he looked at Pierre with a mocking, challenging expression. He
+evidently wished to draw him on.
+
+“You are joking,” replied Pierre, growing more and more excited.
+“What error or evil can there be in my wishing to do good, and even
+doing a little—though I did very little and did it very badly? What
+evil can there be in it if unfortunate people, our serfs, people like
+ourselves, were growing up and dying with no idea of God and truth
+beyond ceremonies and meaningless prayers and are now instructed in
+a comforting belief in future life, retribution, recompense, and
+consolation? What evil and error are there in it, if people were dying
+of disease without help while material assistance could so easily be
+rendered, and I supplied them with a doctor, a hospital, and an asylum
+for the aged? And is it not a palpable, unquestionable good if a
+peasant, or a woman with a baby, has no rest day or night and I give
+them rest and leisure?” said Pierre, hurrying and lisping. “And
+I have done that though badly and to a small extent; but I have done
+something toward it and you cannot persuade me that it was not a good
+action, and more than that, you can’t make me believe that you do not
+think so yourself. And the main thing is,” he continued, “that I
+know, and know for certain, that the enjoyment of doing this good is the
+only sure happiness in life.”
+
+“Yes, if you put it like that it’s quite a different matter,” said
+Prince Andrew. “I build a house and lay out a garden, and you build
+hospitals. The one and the other may serve as a pastime. But what’s
+right and what’s good must be judged by one who knows all, but not by
+us. Well, you want an argument,” he added, “come on then.”
+
+They rose from the table and sat down in the entrance porch which served
+as a veranda.
+
+“Come, let’s argue then,” said Prince Andrew, “You talk of
+schools,” he went on, crooking a finger, “education and so forth;
+that is, you want to raise him” (pointing to a peasant who passed by
+them taking off his cap) “from his animal condition and awaken in him
+spiritual needs, while it seems to me that animal happiness is the only
+happiness possible, and that is just what you want to deprive him of.
+I envy him, but you want to make him what I am, without giving him my
+means. Then you say, ‘lighten his toil.’ But as I see it, physical
+labor is as essential to him, as much a condition of his existence, as
+mental activity is to you or me. You can’t help thinking. I go to bed
+after two in the morning, thoughts come and I can’t sleep but toss
+about till dawn, because I think and can’t help thinking, just as
+he can’t help plowing and mowing; if he didn’t, he would go to the
+drink shop or fall ill. Just as I could not stand his terrible physical
+labor but should die of it in a week, so he could not stand my physical
+idleness, but would grow fat and die. The third thing—what else was
+it you talked about?” and Prince Andrew crooked a third finger. “Ah,
+yes, hospitals, medicine. He has a fit, he is dying, and you come and
+bleed him and patch him up. He will drag about as a cripple, a burden to
+everybody, for another ten years. It would be far easier and simpler for
+him to die. Others are being born and there are plenty of them as it is.
+It would be different if you grudged losing a laborer—that’s how I
+regard him—but you want to cure him from love of him. And he does not
+want that. And besides, what a notion that medicine ever cured anyone!
+Killed them, yes!” said he, frowning angrily and turning away from
+Pierre.
+
+Prince Andrew expressed his ideas so clearly and distinctly that it was
+evident he had reflected on this subject more than once, and he spoke
+readily and rapidly like a man who has not talked for a long time. His
+glance became more animated as his conclusions became more hopeless.
+
+“Oh, that is dreadful, dreadful!” said Pierre. “I don’t
+understand how one can live with such ideas. I had such moments
+myself not long ago, in Moscow and when traveling, but at such times I
+collapsed so that I don’t live at all—everything seems hateful to
+me... myself most of all. Then I don’t eat, don’t wash... and how is
+it with you?...”
+
+“Why not wash? That is not cleanly,” said Prince Andrew; “on the
+contrary one must try to make one’s life as pleasant as possible.
+I’m alive, that is not my fault, so I must live out my life as best I
+can without hurting others.”
+
+“But with such ideas what motive have you for living? One would sit
+without moving, undertaking nothing....”
+
+“Life as it is leaves one no peace. I should be thankful to do
+nothing, but here on the one hand the local nobility have done me the
+honor to choose me to be their marshal; it was all I could do to get
+out of it. They could not understand that I have not the necessary
+qualifications for it—the kind of good-natured, fussy shallowness
+necessary for the position. Then there’s this house, which must be
+built in order to have a nook of one’s own in which to be quiet. And
+now there’s this recruiting.”
+
+“Why aren’t you serving in the army?”
+
+“After Austerlitz!” said Prince Andrew gloomily. “No, thank you
+very much! I have promised myself not to serve again in the active
+Russian army. And I won’t—not even if Bonaparte were here at
+Smolénsk threatening Bald Hills—even then I wouldn’t serve in the
+Russian army! Well, as I was saying,” he continued, recovering his
+composure, “now there’s this recruiting. My father is chief in
+command of the Third District, and my only way of avoiding active
+service is to serve under him.”
+
+“Then you are serving?”
+
+“I am.”
+
+He paused a little while.
+
+“And why do you serve?”
+
+“Why, for this reason! My father is one of the most remarkable men of
+his time. But he is growing old, and though not exactly cruel he has too
+energetic a character. He is so accustomed to unlimited power that he is
+terrible, and now he has this authority of a commander in chief of
+the recruiting, granted by the Emperor. If I had been two hours late
+a fortnight ago he would have had a paymaster’s clerk at Yúkhnovna
+hanged,” said Prince Andrew with a smile. “So I am serving because
+I alone have any influence with my father, and now and then can save him
+from actions which would torment him afterwards.”
+
+“Well, there you see!”
+
+“Yes, but it is not as you imagine,” Prince Andrew continued. “I
+did not, and do not, in the least care about that scoundrel of a clerk
+who had stolen some boots from the recruits; I should even have been
+very glad to see him hanged, but I was sorry for my father—that again
+is for myself.”
+
+Prince Andrew grew more and more animated. His eyes glittered feverishly
+while he tried to prove to Pierre that in his actions there was no
+desire to do good to his neighbor.
+
+“There now, you wish to liberate your serfs,” he continued; “that
+is a very good thing, but not for you—I don’t suppose you ever had
+anyone flogged or sent to Siberia—and still less for your serfs. If
+they are beaten, flogged, or sent to Siberia, I don’t suppose they are
+any the worse off. In Siberia they lead the same animal life, and the
+stripes on their bodies heal, and they are happy as before. But it is
+a good thing for proprietors who perish morally, bring remorse upon
+themselves, stifle this remorse and grow callous, as a result of being
+able to inflict punishments justly and unjustly. It is those people I
+pity, and for their sake I should like to liberate the serfs. You
+may not have seen, but I have seen, how good men brought up in those
+traditions of unlimited power, in time when they grow more irritable,
+become cruel and harsh, are conscious of it, but cannot restrain
+themselves and grow more and more miserable.”
+
+Prince Andrew spoke so earnestly that Pierre could not help thinking
+that these thoughts had been suggested to Prince Andrew by his
+father’s case.
+
+He did not reply.
+
+“So that’s what I’m sorry for—human dignity, peace of mind,
+purity, and not the serfs’ backs and foreheads, which, beat and shave
+as you may, always remain the same backs and foreheads.”
+
+“No, no! A thousand times no! I shall never agree with you,” said
+Pierre.
+
+
+
+
+
+CHAPTER XII
+
+In the evening Andrew and Pierre got into the open carriage and drove to
+Bald Hills. Prince Andrew, glancing at Pierre, broke the silence now and
+then with remarks which showed that he was in a good temper.
+
+Pointing to the fields, he spoke of the improvements he was making in
+his husbandry.
+
+Pierre remained gloomily silent, answering in monosyllables and
+apparently immersed in his own thoughts.
+
+He was thinking that Prince Andrew was unhappy, had gone astray, did not
+see the true light, and that he, Pierre, ought to aid, enlighten, and
+raise him. But as soon as he thought of what he should say, he felt that
+Prince Andrew with one word, one argument, would upset all his teaching,
+and he shrank from beginning, afraid of exposing to possible ridicule
+what to him was precious and sacred.
+
+“No, but why do you think so?” Pierre suddenly began, lowering his
+head and looking like a bull about to charge, “why do you think so?
+You should not think so.”
+
+“Think? What about?” asked Prince Andrew with surprise.
+
+“About life, about man’s destiny. It can’t be so. I myself thought
+like that, and do you know what saved me? Freemasonry! No, don’t
+smile. Freemasonry is not a religious ceremonial sect, as I thought
+it was: Freemasonry is the best expression of the best, the eternal,
+aspects of humanity.”
+
+And he began to explain Freemasonry as he understood it to Prince
+Andrew. He said that Freemasonry is the teaching of Christianity freed
+from the bonds of State and Church, a teaching of equality, brotherhood,
+and love.
+
+“Only our holy brotherhood has the real meaning of life, all the rest
+is a dream,” said Pierre. “Understand, my dear fellow, that outside
+this union all is filled with deceit and falsehood and I agree with you
+that nothing is left for an intelligent and good man but to live out
+his life, like you, merely trying not to harm others. But make our
+fundamental convictions your own, join our brotherhood, give yourself up
+to us, let yourself be guided, and you will at once feel yourself, as I
+have felt myself, a part of that vast invisible chain the beginning of
+which is hidden in heaven,” said Pierre.
+
+Prince Andrew, looking straight in front of him, listened in silence to
+Pierre’s words. More than once, when the noise of the wheels prevented
+his catching what Pierre said, he asked him to repeat it, and by the
+peculiar glow that came into Prince Andrew’s eyes and by his silence,
+Pierre saw that his words were not in vain and that Prince Andrew would
+not interrupt him or laugh at what he said.
+
+They reached a river that had overflowed its banks and which they had to
+cross by ferry. While the carriage and horses were being placed on it,
+they also stepped on the raft.
+
+Prince Andrew, leaning his arms on the raft railing, gazed silently at
+the flooding waters glittering in the setting sun.
+
+“Well, what do you think about it?” Pierre asked. “Why are you
+silent?”
+
+“What do I think about it? I am listening to you. It’s all very
+well.... You say: join our brotherhood and we will show you the aim of
+life, the destiny of man, and the laws which govern the world. But who
+are we? Men. How is it you know everything? Why do I alone not see what
+you see? You see a reign of goodness and truth on earth, but I don’t
+see it.”
+
+Pierre interrupted him.
+
+“Do you believe in a future life?” he asked.
+
+“A future life?” Prince Andrew repeated, but Pierre, giving him no
+time to reply, took the repetition for a denial, the more readily as he
+knew Prince Andrew’s former atheistic convictions.
+
+“You say you can’t see a reign of goodness and truth on earth. Nor
+could I, and it cannot be seen if one looks on our life here as the end
+of everything. On earth, here on this earth” (Pierre pointed to
+the fields), “there is no truth, all is false and evil; but in the
+universe, in the whole universe there is a kingdom of truth, and we who
+are now the children of earth are—eternally—children of the
+whole universe. Don’t I feel in my soul that I am part of this vast
+harmonious whole? Don’t I feel that I form one link, one step, between
+the lower and higher beings, in this vast harmonious multitude of
+beings in whom the Deity—the Supreme Power if you prefer the term—is
+manifest? If I see, clearly see, that ladder leading from plant to man,
+why should I suppose it breaks off at me and does not go farther and
+farther? I feel that I cannot vanish, since nothing vanishes in this
+world, but that I shall always exist and always have existed. I feel
+that beyond me and above me there are spirits, and that in this world
+there is truth.”
+
+“Yes, that is Herder’s theory,” said Prince Andrew, “but it is
+not that which can convince me, dear friend—life and death are what
+convince. What convinces is when one sees a being dear to one, bound
+up with one’s own life, before whom one was to blame and had hoped to
+make it right” (Prince Andrew’s voice trembled and he turned away),
+“and suddenly that being is seized with pain, suffers, and ceases to
+exist.... Why? It cannot be that there is no answer. And I believe there
+is.... That’s what convinces, that is what has convinced me,” said
+Prince Andrew.
+
+“Yes, yes, of course,” said Pierre, “isn’t that what I’m
+saying?”
+
+“No. All I say is that it is not argument that convinces me of the
+necessity of a future life, but this: when you go hand in hand with
+someone and all at once that person vanishes there, into nowhere, and
+you yourself are left facing that abyss, and look in. And I have looked
+in....”
+
+“Well, that’s it then! You know that there is a there and there is a
+Someone? There is the future life. The Someone is—God.”
+
+Prince Andrew did not reply. The carriage and horses had long since been
+taken off, onto the farther bank, and reharnessed. The sun had sunk half
+below the horizon and an evening frost was starring the puddles near
+the ferry, but Pierre and Andrew, to the astonishment of the footmen,
+coachmen, and ferrymen, still stood on the raft and talked.
+
+“If there is a God and future life, there is truth and good, and
+man’s highest happiness consists in striving to attain them. We must
+live, we must love, and we must believe that we live not only today on
+this scrap of earth, but have lived and shall live forever, there, in
+the Whole,” said Pierre, and he pointed to the sky.
+
+Prince Andrew stood leaning on the railing of the raft listening to
+Pierre, and he gazed with his eyes fixed on the red reflection of the
+sun gleaming on the blue waters. There was perfect stillness. Pierre
+became silent. The raft had long since stopped and only the waves of the
+current beat softly against it below. Prince Andrew felt as if the sound
+of the waves kept up a refrain to Pierre’s words, whispering:
+
+“It is true, believe it.”
+
+He sighed, and glanced with a radiant, childlike, tender look at
+Pierre’s face, flushed and rapturous, but yet shy before his superior
+friend.
+
+“Yes, if it only were so!” said Prince Andrew. “However, it is
+time to get on,” he added, and, stepping off the raft, he looked up
+at the sky to which Pierre had pointed, and for the first time since
+Austerlitz saw that high, everlasting sky he had seen while lying on
+that battlefield; and something that had long been slumbering, something
+that was best within him, suddenly awoke, joyful and youthful, in his
+soul. It vanished as soon as he returned to the customary conditions
+of his life, but he knew that this feeling which he did not know how to
+develop existed within him. His meeting with Pierre formed an epoch in
+Prince Andrew’s life. Though outwardly he continued to live in the
+same old way, inwardly he began a new life.
+
+
+
+
+
+CHAPTER XIII
+
+It was getting dusk when Prince Andrew and Pierre drove up to the front
+entrance of the house at Bald Hills. As they approached the house,
+Prince Andrew with a smile drew Pierre’s attention to a commotion
+going on at the back porch. A woman, bent with age, with a wallet on her
+back, and a short, long-haired, young man in a black garment had rushed
+back to the gate on seeing the carriage driving up. Two women ran out
+after them, and all four, looking round at the carriage, ran in dismay
+up the steps of the back porch.
+
+“Those are Mary’s ‘God’s folk,’” said Prince Andrew. “They
+have mistaken us for my father. This is the one matter in which she
+disobeys him. He orders these pilgrims to be driven away, but she
+receives them.”
+
+“But what are ‘God’s folk’?” asked Pierre.
+
+Prince Andrew had no time to answer. The servants came out to meet them,
+and he asked where the old prince was and whether he was expected back
+soon.
+
+The old prince had gone to the town and was expected back any minute.
+
+Prince Andrew led Pierre to his own apartments, which were always kept
+in perfect order and readiness for him in his father’s house; he
+himself went to the nursery.
+
+“Let us go and see my sister,” he said to Pierre when he returned.
+“I have not found her yet, she is hiding now, sitting with her
+‘God’s folk.’ It will serve her right, she will be confused, but
+you will see her ‘God’s folk.’ It’s really very curious.”
+
+“What are ‘God’s folk’?” asked Pierre.
+
+“Come, and you’ll see for yourself.”
+
+Princess Mary really was disconcerted and red patches came on her face
+when they went in. In her snug room, with lamps burning before the icon
+stand, a young lad with a long nose and long hair, wearing a monk’s
+cassock, sat on the sofa beside her, behind a samovar. Near them, in an
+armchair, sat a thin, shriveled, old woman, with a meek expression on
+her childlike face.
+
+“Andrew, why didn’t you warn me?” said the princess, with mild
+reproach, as she stood before her pilgrims like a hen before her
+chickens.
+
+“Charmée de vous voir. Je suis très contente de vous voir,” * she
+said to Pierre as he kissed her hand. She had known him as a child, and
+now his friendship with Andrew, his misfortune with his wife, and above
+all his kindly, simple face disposed her favorably toward him. She
+looked at him with her beautiful radiant eyes and seemed to say, “I
+like you very much, but please don’t laugh at my people.” After
+exchanging the first greetings, they sat down.
+
+    * “Delighted to see you. I am very glad to see you.”
+
+
+“Ah, and Ivánushka is here too!” said Prince Andrew, glancing with
+a smile at the young pilgrim.
+
+“Andrew!” said Princess Mary, imploringly. “Il faut que vous
+sachiez que c’est une femme,” * said Prince Andrew to Pierre.
+
+“Andrew, au nom de Dieu!” *(2) Princess Mary repeated.
+
+     * “You must know that this is a woman.”
+
+     * (2) “For heaven’s sake.”
+
+
+It was evident that Prince Andrew’s ironical tone toward the pilgrims
+and Princess Mary’s helpless attempts to protect them were their
+customary long-established relations on the matter.
+
+“Mais, ma bonne amie,” said Prince Andrew, “vous devriez au
+contraire m’être reconnaissante de ce que j’explique à Pierre
+votre intimité avec ce jeune homme.” *
+
+     * “But, my dear, you ought on the contrary to be grateful to
+     me for explaining to Pierre your intimacy with this young
+     man.”
+
+
+“Really?” said Pierre, gazing over his spectacles with curiosity and
+seriousness (for which Princess Mary was specially grateful to him) into
+Ivánushka’s face, who, seeing that she was being spoken about, looked
+round at them all with crafty eyes.
+
+Princess Mary’s embarrassment on her people’s account was quite
+unnecessary. They were not in the least abashed. The old woman, lowering
+her eyes but casting side glances at the newcomers, had turned her cup
+upside down and placed a nibbled bit of sugar beside it, and sat
+quietly in her armchair, though hoping to be offered another cup of tea.
+Ivánushka, sipping out of her saucer, looked with sly womanish eyes
+from under her brows at the young men.
+
+“Where have you been? To Kiev?” Prince Andrew asked the old woman.
+
+“I have, good sir,” she answered garrulously. “Just at
+Christmastime I was deemed worthy to partake of the holy and heavenly
+sacrament at the shrine of the saint. And now I’m from Kolyázin,
+master, where a great and wonderful blessing has been revealed.”
+
+“And was Ivánushka with you?”
+
+“I go by myself, benefactor,” said Ivánushka, trying to speak in a
+bass voice. “I only came across Pelagéya in Yúkhnovo....”
+
+Pelagéya interrupted her companion; she evidently wished to tell what
+she had seen.
+
+“In Kolyázin, master, a wonderful blessing has been revealed.”
+
+“What is it? Some new relics?” asked Prince Andrew.
+
+“Andrew, do leave off,” said Princess Mary. “Don’t tell him,
+Pelagéya.”
+
+“No... why not, my dear, why shouldn’t I? I like him. He is kind,
+he is one of God’s chosen, he’s a benefactor, he once gave me ten
+rubles, I remember. When I was in Kiev, Crazy Cyril says to me (he’s
+one of God’s own and goes barefoot summer and winter), he says,
+‘Why are you not going to the right place? Go to Kolyázin where a
+wonder-working icon of the Holy Mother of God has been revealed.’ On
+hearing those words I said good-by to the holy folk and went.”
+
+All were silent, only the pilgrim woman went on in measured tones,
+drawing in her breath.
+
+“So I come, master, and the people say to me: ‘A great blessing has
+been revealed, holy oil trickles from the cheeks of our blessed Mother,
+the Holy Virgin Mother of God.’...”
+
+“All right, all right, you can tell us afterwards,” said Princess
+Mary, flushing.
+
+“Let me ask her,” said Pierre. “Did you see it yourselves?” he
+inquired.
+
+“Oh, yes, master, I was found worthy. Such a brightness on the face
+like the light of heaven, and from the blessed Mother’s cheek it drops
+and drops....”
+
+“But, dear me, that must be a fraud!” said Pierre, naïvely, who had
+listened attentively to the pilgrim.
+
+“Oh, master, what are you saying?” exclaimed the horrified
+Pelagéya, turning to Princess Mary for support.
+
+“They impose on the people,” he repeated.
+
+“Lord Jesus Christ!” exclaimed the pilgrim woman, crossing herself.
+“Oh, don’t speak so, master! There was a general who did not
+believe, and said, ‘The monks cheat,’ and as soon as he’d said it
+he went blind. And he dreamed that the Holy Virgin Mother of the Kiev
+catacombs came to him and said, ‘Believe in me and I will make you
+whole.’ So he begged: ‘Take me to her, take me to her.’ It’s the
+real truth I’m telling you, I saw it myself. So he was brought, quite
+blind, straight to her, and he goes up to her and falls down and says,
+‘Make me whole,’ says he, ‘and I’ll give thee what the Tsar
+bestowed on me.’ I saw it myself, master, the star is fixed into the
+icon. Well, and what do you think? He received his sight! It’s a sin
+to speak so. God will punish you,” she said admonishingly, turning to
+Pierre.
+
+“How did the star get into the icon?” Pierre asked.
+
+“And was the Holy Mother promoted to the rank of general?” said
+Prince Andrew, with a smile.
+
+Pelagéya suddenly grew quite pale and clasped her hands.
+
+“Oh, master, master, what a sin! And you who have a son!” she began,
+her pallor suddenly turning to a vivid red. “Master, what have you
+said? God forgive you!” And she crossed herself. “Lord forgive him!
+My dear, what does it mean?...” she asked, turning to Princess
+Mary. She got up and, almost crying, began to arrange her wallet. She
+evidently felt frightened and ashamed to have accepted charity in a
+house where such things could be said, and was at the same time sorry to
+have now to forgo the charity of this house.
+
+“Now, why need you do it?” said Princess Mary. “Why did you come
+to me?...”
+
+“Come, Pelagéya, I was joking,” said Pierre. “Princesse, ma
+parole, je n’ai pas voulu l’offenser. * I did not mean anything,
+I was only joking,” he said, smiling shyly and trying to efface his
+offense. “It was all my fault, and Andrew was only joking.”
+
+    * “Princess, on my word, I did not wish to offend her.”
+
+
+Pelagéya stopped doubtfully, but in Pierre’s face there was such a
+look of sincere penitence, and Prince Andrew glanced so meekly now at
+her and now at Pierre, that she was gradually reassured.
+
+
+
+
+
+CHAPTER XIV
+
+The pilgrim woman was appeased and, being encouraged to talk, gave a
+long account of Father Amphilochus, who led so holy a life that his
+hands smelled of incense, and how on her last visit to Kiev some monks
+she knew let her have the keys of the catacombs, and how she, taking
+some dried bread with her, had spent two days in the catacombs with
+the saints. “I’d pray awhile to one, ponder awhile, then go on to
+another. I’d sleep a bit and then again go and kiss the relics, and
+there was such peace all around, such blessedness, that one don’t want
+to come out, even into the light of heaven again.”
+
+Pierre listened to her attentively and seriously. Prince Andrew went out
+of the room, and then, leaving “God’s folk” to finish their tea,
+Princess Mary took Pierre into the drawing room.
+
+“You are very kind,” she said to him.
+
+“Oh, I really did not mean to hurt her feelings. I understand them so
+well and have the greatest respect for them.”
+
+Princess Mary looked at him silently and smiled affectionately.
+
+“I have known you a long time, you see, and am as fond of you as of a
+brother,” she said. “How do you find Andrew?” she added hurriedly,
+not giving him time to reply to her affectionate words. “I am very
+anxious about him. His health was better in the winter, but last spring
+his wound reopened and the doctor said he ought to go away for a
+cure. And I am also very much afraid for him spiritually. He has not a
+character like us women who, when we suffer, can weep away our sorrows.
+He keeps it all within him. Today he is cheerful and in good spirits,
+but that is the effect of your visit—he is not often like that. If
+you could persuade him to go abroad. He needs activity, and this quiet
+regular life is very bad for him. Others don’t notice it, but I see
+it.”
+
+Toward ten o’clock the men servants rushed to the front door, hearing
+the bells of the old prince’s carriage approaching. Prince Andrew and
+Pierre also went out into the porch.
+
+“Who’s that?” asked the old prince, noticing Pierre as he got out
+of the carriage.
+
+“Ah! Very glad! Kiss me,” he said, having learned who the young
+stranger was.
+
+The old prince was in a good temper and very gracious to Pierre.
+
+Before supper, Prince Andrew, coming back to his father’s study, found
+him disputing hotly with his visitor. Pierre was maintaining that a time
+would come when there would be no more wars. The old prince disputed it
+chaffingly, but without getting angry.
+
+“Drain the blood from men’s veins and put in water instead, then
+there will be no more war! Old women’s nonsense—old women’s
+nonsense!” he repeated, but still he patted Pierre affectionately
+on the shoulder, and then went up to the table where Prince Andrew,
+evidently not wishing to join in the conversation, was looking over the
+papers his father had brought from town. The old prince went up to him
+and began to talk business.
+
+“The marshal, a Count Rostóv, hasn’t sent half his contingent. He
+came to town and wanted to invite me to dinner—I gave him a pretty
+dinner!... And there, look at this.... Well, my boy,” the old prince
+went on, addressing his son and patting Pierre on the shoulder. “A
+fine fellow—your friend—I like him! He stirs me up. Another says
+clever things and one doesn’t care to listen, but this one talks
+rubbish yet stirs an old fellow up. Well, go! Get along! Perhaps I’ll
+come and sit with you at supper. We’ll have another dispute. Make
+friends with my little fool, Princess Mary,” he shouted after Pierre,
+through the door.
+
+Only now, on his visit to Bald Hills, did Pierre fully realize the
+strength and charm of his friendship with Prince Andrew. That charm was
+not expressed so much in his relations with him as with all his family
+and with the household. With the stern old prince and the gentle, timid
+Princess Mary, though he had scarcely known them, Pierre at once felt
+like an old friend. They were all fond of him already. Not only Princess
+Mary, who had been won by his gentleness with the pilgrims, gave him her
+most radiant looks, but even the one-year-old “Prince Nicholas” (as
+his grandfather called him) smiled at Pierre and let himself be taken
+in his arms, and Michael Ivánovich and Mademoiselle Bourienne looked at
+him with pleasant smiles when he talked to the old prince.
+
+The old prince came in to supper; this was evidently on Pierre’s
+account. And during the two days of the young man’s visit he was
+extremely kind to him and told him to visit them again.
+
+When Pierre had gone and the members of the household met together, they
+began to express their opinions of him as people always do after a new
+acquaintance has left, but as seldom happens, no one said anything but
+what was good of him.
+
+
+
+
+
+CHAPTER XV
+
+When returning from his leave, Rostóv felt, for the first time, how
+close was the bond that united him to Denísov and the whole regiment.
+
+On approaching it, Rostóv felt as he had done when approaching his home
+in Moscow. When he saw the first hussar with the unbuttoned uniform
+of his regiment, when he recognized red-haired Deméntyev and saw the
+picket ropes of the roan horses, when Lavrúshka gleefully shouted to
+his master, “The count has come!” and Denísov, who had been asleep
+on his bed, ran all disheveled out of the mud hut to embrace him,
+and the officers collected round to greet the new arrival, Rostóv
+experienced the same feeling as when his mother, his father, and his
+sister had embraced him, and tears of joy choked him so that he could
+not speak. The regiment was also a home, and as unalterably dear and
+precious as his parents’ house.
+
+When he had reported himself to the commander of the regiment and had
+been reassigned to his former squadron, had been on duty and had gone
+out foraging, when he had again entered into all the little interests
+of the regiment and felt himself deprived of liberty and bound in one
+narrow, unchanging frame, he experienced the same sense of peace, of
+moral support, and the same sense of being at home here in his own
+place, as he had felt under the parental roof. But here was none of
+all that turmoil of the world at large, where he did not know his right
+place and took mistaken decisions; here was no Sónya with whom he
+ought, or ought not, to have an explanation; here was no possibility of
+going there or not going there; here there were not twenty-four hours
+in the day which could be spent in such a variety of ways; there was not
+that innumerable crowd of people of whom not one was nearer to him or
+farther from him than another; there were none of those uncertain and
+undefined money relations with his father, and nothing to recall that
+terrible loss to Dólokhov. Here, in the regiment, all was clear and
+simple. The whole world was divided into two unequal parts: one, our
+Pávlograd regiment; the other, all the rest. And the rest was no
+concern of his. In the regiment, everything was definite: who was
+lieutenant, who captain, who was a good fellow, who a bad one, and most
+of all, who was a comrade. The canteenkeeper gave one credit, one’s
+pay came every four months, there was nothing to think out or decide,
+you had only to do nothing that was considered bad in the Pávlograd
+regiment and, when given an order, to do what was clearly, distinctly,
+and definitely ordered—and all would be well.
+
+Having once more entered into the definite conditions of this regimental
+life, Rostóv felt the joy and relief a tired man feels on lying down to
+rest. Life in the regiment, during this campaign, was all the pleasanter
+for him, because, after his loss to Dólokhov (for which, in spite
+of all his family’s efforts to console him, he could not forgive
+himself), he had made up his mind to atone for his fault by serving,
+not as he had done before, but really well, and by being a perfectly
+first-rate comrade and officer—in a word, a splendid man altogether, a
+thing which seemed so difficult out in the world, but so possible in the
+regiment.
+
+After his losses, he had determined to pay back his debt to his parents
+in five years. He received ten thousand rubles a year, but now resolved
+to take only two thousand and leave the rest to repay the debt to his
+parents.
+
+Our army, after repeated retreats and advances and battles at Pultúsk
+and Preussisch-Eylau, was concentrated near Bartenstein. It was awaiting
+the Emperor’s arrival and the beginning of a new campaign.
+
+The Pávlograd regiment, belonging to that part of the army which had
+served in the 1805 campaign, had been recruiting up to strength in
+Russia, and arrived too late to take part in the first actions of the
+campaign. It had been neither at Pultúsk nor at Preussisch-Eylau and,
+when it joined the army in the field in the second half of the campaign,
+was attached to Plátov’s division.
+
+Plátov’s division was acting independently of the main army. Several
+times parts of the Pávlograd regiment had exchanged shots with
+the enemy, had taken prisoners, and once had even captured Marshal
+Oudinot’s carriages. In April the Pávlograds were stationed immovably
+for some weeks near a totally ruined and deserted German village.
+
+A thaw had set in, it was muddy and cold, the ice on the river broke,
+and the roads became impassable. For days neither provisions for the
+men nor fodder for the horses had been issued. As no transports could
+arrive, the men dispersed about the abandoned and deserted villages,
+searching for potatoes, but found few even of these.
+
+Everything had been eaten up and the inhabitants had all fled—if any
+remained, they were worse than beggars and nothing more could be taken
+from them; even the soldiers, usually pitiless enough, instead of taking
+anything from them, often gave them the last of their rations.
+
+The Pávlograd regiment had had only two men wounded in action, but had
+lost nearly half its men from hunger and sickness. In the hospitals,
+death was so certain that soldiers suffering from fever, or the swelling
+that came from bad food, preferred to remain on duty, and hardly able
+to drag their legs went to the front rather than to the hospitals.
+When spring came on, the soldiers found a plant just showing out of the
+ground that looked like asparagus, which, for some reason, they called
+“Máshka’s sweet root.” It was very bitter, but they wandered
+about the fields seeking it and dug it out with their sabers and ate it,
+though they were ordered not to do so, as it was a noxious plant. That
+spring a new disease broke out among the soldiers, a swelling of the
+arms, legs, and face, which the doctors attributed to eating this root.
+But in spite of all this, the soldiers of Denísov’s squadron fed
+chiefly on “Máshka’s sweet root,” because it was the second week
+that the last of the biscuits were being doled out at the rate of half a
+pound a man and the last potatoes received had sprouted and frozen.
+
+The horses also had been fed for a fortnight on straw from the thatched
+roofs and had become terribly thin, though still covered with tufts of
+felty winter hair.
+
+Despite this destitution, the soldiers and officers went on living just
+as usual. Despite their pale swollen faces and tattered uniforms, the
+hussars formed line for roll call, kept things in order, groomed their
+horses, polished their arms, brought in straw from the thatched roofs in
+place of fodder, and sat down to dine round the caldrons from which
+they rose up hungry, joking about their nasty food and their hunger. As
+usual, in their spare time, they lit bonfires, steamed themselves before
+them naked; smoked, picked out and baked sprouting rotten potatoes, told
+and listened to stories of Potëmkin’s and Suvórov’s campaigns, or
+to legends of Alësha the Sly, or the priest’s laborer Mikólka.
+
+The officers, as usual, lived in twos and threes in the roofless,
+half-ruined houses. The seniors tried to collect straw and potatoes and,
+in general, food for the men. The younger ones occupied themselves as
+before, some playing cards (there was plenty of money, though there was
+no food), some with more innocent games, such as quoits and skittles.
+The general trend of the campaign was rarely spoken of, partly because
+nothing certain was known about it, partly because there was a vague
+feeling that in the main it was going badly.
+
+Rostóv lived, as before, with Denísov, and since their furlough they
+had become more friendly than ever. Denísov never spoke of Rostóv’s
+family, but by the tender friendship his commander showed him, Rostóv
+felt that the elder hussar’s luckless love for Natásha played a part
+in strengthening their friendship. Denísov evidently tried to expose
+Rostóv to danger as seldom as possible, and after an action greeted his
+safe return with evident joy. On one of his foraging expeditions, in
+a deserted and ruined village to which he had come in search of
+provisions, Rostóv found a family consisting of an old Pole and his
+daughter with an infant in arms. They were half clad, hungry, too weak
+to get away on foot and had no means of obtaining a conveyance. Rostóv
+brought them to his quarters, placed them in his own lodging, and
+kept them for some weeks while the old man was recovering. One of his
+comrades, talking of women, began chaffing Rostóv, saying that he was
+more wily than any of them and that it would not be a bad thing if he
+introduced to them the pretty Polish girl he had saved. Rostóv took
+the joke as an insult, flared up, and said such unpleasant things to the
+officer that it was all Denísov could do to prevent a duel. When
+the officer had gone away, Denísov, who did not himself know what
+Rostóv’s relations with the Polish girl might be, began to upbraid
+him for his quickness of temper, and Rostóv replied:
+
+“Say what you like.... She is like a sister to me, and I can’t tell
+you how it offended me... because... well, for that reason....”
+
+Denísov patted him on the shoulder and began rapidly pacing the room
+without looking at Rostóv, as was his way at moments of deep feeling.
+
+“Ah, what a mad bweed you Wostóvs are!” he muttered, and Rostóv
+noticed tears in his eyes.
+
+
+
+
+
+CHAPTER XVI
+
+In April the troops were enlivened by news of the Emperor’s arrival,
+but Rostóv had no chance of being present at the review he held at
+Bartenstein, as the Pávlograds were at the outposts far beyond that
+place.
+
+They were bivouacking. Denísov and Rostóv were living in an earth hut,
+dug out for them by the soldiers and roofed with branches and turf. The
+hut was made in the following manner, which had then come into vogue. A
+trench was dug three and a half feet wide, four feet eight inches deep,
+and eight feet long. At one end of the trench, steps were cut out and
+these formed the entrance and vestibule. The trench itself was the room,
+in which the lucky ones, such as the squadron commander, had a board,
+lying on piles at the end opposite the entrance, to serve as a table. On
+each side of the trench, the earth was cut out to a breadth of about two
+and a half feet, and this did duty for bedsteads and couches. The roof
+was so constructed that one could stand up in the middle of the trench
+and could even sit up on the beds if one drew close to the table.
+Denísov, who was living luxuriously because the soldiers of his
+squadron liked him, had also a board in the roof at the farther end,
+with a piece of (broken but mended) glass in it for a window. When it
+was very cold, embers from the soldiers’ campfire were placed on
+a bent sheet of iron on the steps in the “reception room”—as
+Denísov called that part of the hut—and it was then so warm that the
+officers, of whom there were always some with Denísov and Rostóv, sat
+in their shirt sleeves.
+
+In April, Rostóv was on orderly duty. One morning, between seven and
+eight, returning after a sleepless night, he sent for embers, changed
+his rain-soaked underclothes, said his prayers, drank tea, got warm,
+then tidied up the things on the table and in his own corner, and,
+his face glowing from exposure to the wind and with nothing on but his
+shirt, lay down on his back, putting his arms under his head. He was
+pleasantly considering the probability of being promoted in a few days
+for his last reconnoitering expedition, and was awaiting Denísov, who
+had gone out somewhere and with whom he wanted a talk.
+
+Suddenly he heard Denísov shouting in a vibrating voice behind the hut,
+evidently much excited. Rostóv moved to the window to see whom he was
+speaking to, and saw the quartermaster, Topchéenko.
+
+“I ordered you not to let them eat that Máshka woot stuff!”
+Denísov was shouting. “And I saw with my own eyes how Lazarchúk
+bwought some fwom the fields.”
+
+“I have given the order again and again, your honor, but they don’t
+obey,” answered the quartermaster.
+
+Rostóv lay down again on his bed and thought complacently: “Let
+him fuss and bustle now, my job’s done and I’m lying
+down—capitally!” He could hear that Lavrúshka—that sly, bold
+orderly of Denísov’s—was talking, as well as the quartermaster.
+Lavrúshka was saying something about loaded wagons, biscuits, and oxen
+he had seen when he had gone out for provisions.
+
+Then Denísov’s voice was heard shouting farther and farther away.
+“Saddle! Second platoon!”
+
+“Where are they off to now?” thought Rostóv.
+
+Five minutes later, Denísov came into the hut, climbed with muddy boots
+on the bed, lit his pipe, furiously scattered his things about, took
+his leaded whip, buckled on his saber, and went out again. In answer to
+Rostóv’s inquiry where he was going, he answered vaguely and crossly
+that he had some business.
+
+“Let God and our gweat monarch judge me afterwards!” said Denísov
+going out, and Rostóv heard the hoofs of several horses splashing
+through the mud. He did not even trouble to find out where Denísov had
+gone. Having got warm in his corner, he fell asleep and did not leave
+the hut till toward evening. Denísov had not yet returned. The weather
+had cleared up, and near the next hut two officers and a cadet were
+playing sváyka, laughing as they threw their missiles which buried
+themselves in the soft mud. Rostóv joined them. In the middle of the
+game, the officers saw some wagons approaching with fifteen hussars on
+their skinny horses behind them. The wagons escorted by the hussars drew
+up to the picket ropes and a crowd of hussars surrounded them.
+
+“There now, Denísov has been worrying,” said Rostóv, “and here
+are the provisions.”
+
+“So they are!” said the officers. “Won’t the soldiers be
+glad!”
+
+A little behind the hussars came Denísov, accompanied by two infantry
+officers with whom he was talking.
+
+Rostóv went to meet them.
+
+“I warn you, Captain,” one of the officers, a short thin man,
+evidently very angry, was saying.
+
+“Haven’t I told you I won’t give them up?” replied Denísov.
+
+“You will answer for it, Captain. It is mutiny—seizing the transport
+of one’s own army. Our men have had nothing to eat for two days.”
+
+“And mine have had nothing for two weeks,” said Denísov.
+
+“It is robbery! You’ll answer for it, sir!” said the infantry
+officer, raising his voice.
+
+“Now, what are you pestewing me for?” cried Denísov, suddenly
+losing his temper. “I shall answer for it and not you, and you’d
+better not buzz about here till you get hurt. Be off! Go!” he shouted
+at the officers.
+
+“Very well, then!” shouted the little officer, undaunted and not
+riding away. “If you are determined to rob, I’ll...”
+
+“Go to the devil! quick ma’ch, while you’re safe and sound!” and
+Denísov turned his horse on the officer.
+
+“Very well, very well!” muttered the officer, threateningly, and
+turning his horse he trotted away, jolting in his saddle.
+
+“A dog astwide a fence! A weal dog astwide a fence!” shouted
+Denísov after him (the most insulting expression a cavalryman can
+address to a mounted infantryman) and riding up to Rostóv, he burst out
+laughing.
+
+“I’ve taken twansports from the infantwy by force!” he said.
+“After all, can’t let our men starve.”
+
+The wagons that had reached the hussars had been consigned to an
+infantry regiment, but learning from Lavrúshka that the transport
+was unescorted, Denísov with his hussars had seized it by force. The
+soldiers had biscuits dealt out to them freely, and they even shared
+them with the other squadrons.
+
+The next day the regimental commander sent for Denísov, and holding his
+fingers spread out before his eyes said:
+
+“This is how I look at this affair: I know nothing about it and
+won’t begin proceedings, but I advise you to ride over to the staff
+and settle the business there in the commissariat department and if
+possible sign a receipt for such and such stores received. If not, as
+the demand was booked against an infantry regiment, there will be a row
+and the affair may end badly.”
+
+From the regimental commander’s, Denísov rode straight to the staff
+with a sincere desire to act on this advice. In the evening he came
+back to his dugout in a state such as Rostóv had never yet seen him in.
+Denísov could not speak and gasped for breath. When Rostóv asked what
+was the matter, he only uttered some incoherent oaths and threats in a
+hoarse, feeble voice.
+
+Alarmed at Denísov’s condition, Rostóv suggested that he should
+undress, drink some water, and send for the doctor.
+
+“Twy me for wobbewy... oh! Some more water... Let them twy me, but
+I’ll always thwash scoundwels... and I’ll tell the Empewo’...
+Ice...” he muttered.
+
+The regimental doctor, when he came, said it was absolutely necessary
+to bleed Denísov. A deep saucer of black blood was taken from his hairy
+arm and only then was he able to relate what had happened to him.
+
+“I get there,” began Denísov. “‘Now then, where’s your
+chief’s quarters?’ They were pointed out. ‘Please to wait.’
+‘I’ve widden twenty miles and have duties to attend to and no time
+to wait. Announce me.’ Vewy well, so out comes their head
+chief—also took it into his head to lecture me: ‘It’s
+wobbewy!’—‘Wobbewy,’ I say, ‘is not done by man who seizes
+pwovisions to feed his soldiers, but by him who takes them to fill his
+own pockets!’ ‘Will you please be silent?’ ‘Vewy good!’ Then
+he says: ‘Go and give a weceipt to the commissioner, but your affair
+will be passed on to headquarters.’ I go to the commissioner. I enter,
+and at the table... who do you think? No, but wait a bit!... Who is it
+that’s starving us?” shouted Denísov, hitting the table with the
+fist of his newly bled arm so violently that the table nearly broke down
+and the tumblers on it jumped about. “Telyánin! ‘What? So it’s
+you who’s starving us to death! Is it? Take this and this!’ and I
+hit him so pat, stwaight on his snout... ‘Ah, what a... what a...!’
+and I sta’ted fwashing him... Well, I’ve had a bit of fun I can tell
+you!” cried Denísov, gleeful and yet angry, his white teeth showing
+under his black mustache. “I’d have killed him if they hadn’t
+taken him away!”
+
+“But what are you shouting for? Calm yourself,” said Rostóv.
+“You’ve set your arm bleeding afresh. Wait, we must tie it up
+again.”
+
+Denísov was bandaged up again and put to bed. Next day he woke calm and
+cheerful.
+
+But at noon the adjutant of the regiment came into Rostóv’s and
+Denísov’s dugout with a grave and serious face and regretfully showed
+them a paper addressed to Major Denísov from the regimental commander
+in which inquiries were made about yesterday’s occurrence. The
+adjutant told them that the affair was likely to take a very bad
+turn: that a court-martial had been appointed, and that in view of the
+severity with which marauding and insubordination were now regarded,
+degradation to the ranks would be the best that could be hoped for.
+
+The case, as represented by the offended parties, was that, after
+seizing the transports, Major Denísov, being drunk, went to the chief
+quartermaster and without any provocation called him a thief, threatened
+to strike him, and on being led out had rushed into the office and given
+two officials a thrashing, and dislocated the arm of one of them.
+
+In answer to Rostóv’s renewed questions, Denísov said, laughing,
+that he thought he remembered that some other fellow had got mixed up
+in it, but that it was all nonsense and rubbish, and he did not in the
+least fear any kind of trial, and that if those scoundrels dared attack
+him he would give them an answer that they would not easily forget.
+
+Denísov spoke contemptuously of the whole matter, but Rostóv knew him
+too well not to detect that (while hiding it from others) at heart
+he feared a court-martial and was worried over the affair, which was
+evidently taking a bad turn. Every day, letters of inquiry and notices
+from the court arrived, and on the first of May, Denísov was ordered
+to hand the squadron over to the next in seniority and appear before
+the staff of his division to explain his violence at the commissariat
+office. On the previous day Plátov reconnoitered with two Cossack
+regiments and two squadrons of hussars. Denísov, as was his wont, rode
+out in front of the outposts, parading his courage. A bullet fired by
+a French sharpshooter hit him in the fleshy part of his leg. Perhaps at
+another time Denísov would not have left the regiment for so slight a
+wound, but now he took advantage of it to excuse himself from appearing
+at the staff and went into hospital.
+
+
+
+
+
+CHAPTER XVII
+
+In June the battle of Friedland was fought, in which the Pávlograds did
+not take part, and after that an armistice was proclaimed. Rostóv, who
+felt his friend’s absence very much, having no news of him since he
+left and feeling very anxious about his wound and the progress of his
+affairs, took advantage of the armistice to get leave to visit Denísov
+in hospital.
+
+The hospital was in a small Prussian town that had been twice devastated
+by Russian and French troops. Because it was summer, when it is so
+beautiful out in the fields, the little town presented a particularly
+dismal appearance with its broken roofs and fences, its foul streets,
+tattered inhabitants, and the sick and drunken soldiers wandering about.
+
+The hospital was in a brick building with some of the window frames and
+panes broken and a courtyard surrounded by the remains of a wooden fence
+that had been pulled to pieces. Several bandaged soldiers, with pale
+swollen faces, were sitting or walking about in the sunshine in the
+yard.
+
+Directly Rostóv entered the door he was enveloped by a smell of
+putrefaction and hospital air. On the stairs he met a Russian army
+doctor smoking a cigar. The doctor was followed by a Russian assistant.
+
+“I can’t tear myself to pieces,” the doctor was saying. “Come to
+Makár Alexéevich in the evening. I shall be there.”
+
+The assistant asked some further questions.
+
+“Oh, do the best you can! Isn’t it all the same?” The doctor
+noticed Rostóv coming upstairs.
+
+“What do you want, sir?” said the doctor. “What do you want?
+The bullets having spared you, do you want to try typhus? This is a
+pesthouse, sir.”
+
+“How so?” asked Rostóv.
+
+“Typhus, sir. It’s death to go in. Only we two, Makéev and I” (he
+pointed to the assistant), “keep on here. Some five of us doctors have
+died in this place.... When a new one comes he is done for in a week,”
+said the doctor with evident satisfaction. “Prussian doctors have been
+invited here, but our allies don’t like it at all.”
+
+Rostóv explained that he wanted to see Major Denísov of the hussars,
+who was wounded.
+
+“I don’t know. I can’t tell you, sir. Only think! I am alone in
+charge of three hospitals with more than four hundred patients! It’s
+well that the charitable Prussian ladies send us two pounds of coffee
+and some lint each month or we should be lost!” he laughed. “Four
+hundred, sir, and they’re always sending me fresh ones. There are four
+hundred? Eh?” he asked, turning to the assistant.
+
+The assistant looked fagged out. He was evidently vexed and impatient
+for the talkative doctor to go.
+
+“Major Denísov,” Rostóv said again. “He was wounded at
+Molliten.”
+
+“Dead, I fancy. Eh, Makéev?” queried the doctor, in a tone of
+indifference.
+
+The assistant, however, did not confirm the doctor’s words.
+
+“Is he tall and with reddish hair?” asked the doctor.
+
+Rostóv described Denísov’s appearance.
+
+“There was one like that,” said the doctor, as if pleased. “That
+one is dead, I fancy. However, I’ll look up our list. We had a list.
+Have you got it, Makéev?”
+
+“Makár Alexéevich has the list,” answered the assistant. “But if
+you’ll step into the officers’ wards you’ll see for yourself,”
+he added, turning to Rostóv.
+
+“Ah, you’d better not go, sir,” said the doctor, “or you may
+have to stay here yourself.”
+
+But Rostóv bowed himself away from the doctor and asked the assistant
+to show him the way.
+
+“Only don’t blame me!” the doctor shouted up after him.
+
+Rostóv and the assistant went into the dark corridor. The smell was so
+strong there that Rostóv held his nose and had to pause and collect
+his strength before he could go on. A door opened to the right, and an
+emaciated sallow man on crutches, barefoot and in underclothing, limped
+out and, leaning against the doorpost, looked with glittering envious
+eyes at those who were passing. Glancing in at the door, Rostóv
+saw that the sick and wounded were lying on the floor on straw and
+overcoats.
+
+“May I go in and look?”
+
+“What is there to see?” said the assistant.
+
+But, just because the assistant evidently did not want him to go in,
+Rostóv entered the soldiers’ ward. The foul air, to which he had
+already begun to get used in the corridor, was still stronger here. It
+was a little different, more pungent, and one felt that this was where
+it originated.
+
+In the long room, brightly lit up by the sun through the large windows,
+the sick and wounded lay in two rows with their heads to the walls, and
+leaving a passage in the middle. Most of them were unconscious and
+paid no attention to the newcomers. Those who were conscious raised
+themselves or lifted their thin yellow faces, and all looked intently at
+Rostóv with the same expression of hope, of relief, reproach, and
+envy of another’s health. Rostóv went to the middle of the room and
+looking through the open doors into the two adjoining rooms saw the same
+thing there. He stood still, looking silently around. He had not at all
+expected such a sight. Just before him, almost across the middle of the
+passage on the bare floor, lay a sick man, probably a Cossack to judge
+by the cut of his hair. The man lay on his back, his huge arms and legs
+outstretched. His face was purple, his eyes were rolled back so that
+only the whites were seen, and on his bare legs and arms which were
+still red, the veins stood out like cords. He was knocking the back of
+his head against the floor, hoarsely uttering some word which he kept
+repeating. Rostóv listened and made out the word. It was “drink,
+drink, a drink!” Rostóv glanced round, looking for someone who would
+put this man back in his place and bring him water.
+
+“Who looks after the sick here?” he asked the assistant.
+
+Just then a commissariat soldier, a hospital orderly, came in from the
+next room, marching stiffly, and drew up in front of Rostóv.
+
+“Good day, your honor!” he shouted, rolling his eyes at Rostóv and
+evidently mistaking him for one of the hospital authorities.
+
+“Get him to his place and give him some water,” said Rostóv,
+pointing to the Cossack.
+
+“Yes, your honor,” the soldier replied complacently, and rolling
+his eyes more than ever he drew himself up still straighter, but did not
+move.
+
+“No, it’s impossible to do anything here,” thought Rostóv,
+lowering his eyes, and he was going out, but became aware of an intense
+look fixed on him on his right, and he turned. Close to the corner, on
+an overcoat, sat an old, unshaven, gray-bearded soldier as thin as a
+skeleton, with a stern sallow face and eyes intently fixed on Rostóv.
+The man’s neighbor on one side whispered something to him, pointing
+at Rostóv, who noticed that the old man wanted to speak to him. He drew
+nearer and saw that the old man had only one leg bent under him, the
+other had been amputated above the knee. His neighbor on the other side,
+who lay motionless some distance from him with his head thrown back, was
+a young soldier with a snub nose. His pale waxen face was still freckled
+and his eyes were rolled back. Rostóv looked at the young soldier and a
+cold chill ran down his back.
+
+“Why, this one seems...” he began, turning to the assistant.
+
+“And how we’ve been begging, your honor,” said the old soldier,
+his jaw quivering. “He’s been dead since morning. After all we’re
+men, not dogs.”
+
+“I’ll send someone at once. He shall be taken away—taken away at
+once,” said the assistant hurriedly. “Let us go, your honor.”
+
+“Yes, yes, let us go,” said Rostóv hastily, and lowering his
+eyes and shrinking, he tried to pass unnoticed between the rows of
+reproachful envious eyes that were fixed upon him, and went out of the
+room.
+
+
+
+
+
+CHAPTER XVIII
+
+Going along the corridor, the assistant led Rostóv to the officers’
+wards, consisting of three rooms, the doors of which stood open. There
+were beds in these rooms and the sick and wounded officers were lying or
+sitting on them. Some were walking about the rooms in hospital dressing
+gowns. The first person Rostóv met in the officers’ ward was a thin
+little man with one arm, who was walking about the first room in a
+nightcap and hospital dressing gown, with a pipe between his teeth.
+Rostóv looked at him, trying to remember where he had seen him before.
+
+“See where we’ve met again!” said the little man. “Túshin,
+Túshin, don’t you remember, who gave you a lift at Schön Grabern?
+And I’ve had a bit cut off, you see...” he went on with a smile,
+pointing to the empty sleeve of his dressing gown. “Looking for
+Vasíli Dmítrich Denísov? My neighbor,” he added, when he heard
+who Rostóv wanted. “Here, here,” and Túshin led him into the next
+room, from whence came sounds of several laughing voices.
+
+“How can they laugh, or even live at all here?” thought Rostóv,
+still aware of that smell of decomposing flesh that had been so strong
+in the soldiers’ ward, and still seeming to see fixed on him those
+envious looks which had followed him out from both sides, and the face
+of that young soldier with eyes rolled back.
+
+Denísov lay asleep on his bed with his head under the blanket, though
+it was nearly noon.
+
+“Ah, Wostóv? How are you, how are you?” he called out, still in the
+same voice as in the regiment, but Rostóv noticed sadly that under this
+habitual ease and animation some new, sinister, hidden feeling showed
+itself in the expression of Denísov’s face and the intonations of his
+voice.
+
+His wound, though a slight one, had not yet healed even now, six weeks
+after he had been hit. His face had the same swollen pallor as the faces
+of the other hospital patients, but it was not this that struck Rostóv.
+What struck him was that Denísov did not seem glad to see him, and
+smiled at him unnaturally. He did not ask about the regiment, nor about
+the general state of affairs, and when Rostóv spoke of these matters
+did not listen.
+
+Rostóv even noticed that Denísov did not like to be reminded of the
+regiment, or in general of that other free life which was going on
+outside the hospital. He seemed to try to forget that old life and
+was only interested in the affair with the commissariat officers. On
+Rostóv’s inquiry as to how the matter stood, he at once produced from
+under his pillow a paper he had received from the commission and the
+rough draft of his answer to it. He became animated when he began
+reading his paper and specially drew Rostóv’s attention to the
+stinging rejoinders he made to his enemies. His hospital companions,
+who had gathered round Rostóv—a fresh arrival from the world
+outside—gradually began to disperse as soon as Denísov began reading
+his answer. Rostóv noticed by their faces that all those gentlemen had
+already heard that story more than once and were tired of it. Only the
+man who had the next bed, a stout Uhlan, continued to sit on his bed,
+gloomily frowning and smoking a pipe, and little one-armed Túshin still
+listened, shaking his head disapprovingly. In the middle of the reading,
+the Uhlan interrupted Denísov.
+
+“But what I say is,” he said, turning to Rostóv, “it would be
+best simply to petition the Emperor for pardon. They say great rewards
+will now be distributed, and surely a pardon would be granted....”
+
+“Me petition the Empewo’!” exclaimed Denísov, in a voice to which
+he tried hard to give the old energy and fire, but which sounded like
+an expression of irritable impotence. “What for? If I were a wobber I
+would ask mercy, but I’m being court-martialed for bwinging wobbers
+to book. Let them twy me, I’m not afwaid of anyone. I’ve served
+the Tsar and my countwy honowably and have not stolen! And am I to be
+degwaded?... Listen, I’m w’iting to them stwaight. This is what I
+say: ‘If I had wobbed the Tweasuwy...’”
+
+“It’s certainly well written,” said Túshin, “but that’s not
+the point, Vasíli Dmítrich,” and he also turned to Rostóv. “One
+has to submit, and Vasíli Dmítrich doesn’t want to. You know the
+auditor told you it was a bad business.”
+
+“Well, let it be bad,” said Denísov.
+
+“The auditor wrote out a petition for you,” continued Túshin,
+“and you ought to sign it and ask this gentleman to take it. No doubt
+he” (indicating Rostóv) “has connections on the staff. You won’t
+find a better opportunity.”
+
+“Haven’t I said I’m not going to gwovel?” Denísov interrupted
+him, went on reading his paper.
+
+Rostóv had not the courage to persuade Denísov, though he
+instinctively felt that the way advised by Túshin and the other
+officers was the safest, and though he would have been glad to be of
+service to Denísov. He knew his stubborn will and straightforward hasty
+temper.
+
+When the reading of Denísov’s virulent reply, which took more than an
+hour, was over, Rostóv said nothing, and he spent the rest of the day
+in a most dejected state of mind amid Denísov’s hospital comrades,
+who had gathered round him, telling them what he knew and listening to
+their stories. Denísov was moodily silent all the evening.
+
+Late in the evening, when Rostóv was about to leave, he asked Denísov
+whether he had no commission for him.
+
+“Yes, wait a bit,” said Denísov, glancing round at the officers,
+and taking his papers from under his pillow he went to the window, where
+he had an inkpot, and sat down to write.
+
+“It seems it’s no use knocking one’s head against a wall!” he
+said, coming from the window and giving Rostóv a large envelope. In
+it was the petition to the Emperor drawn up by the auditor, in
+which Denísov, without alluding to the offenses of the commissariat
+officials, simply asked for pardon.
+
+“Hand it in. It seems...”
+
+He did not finish, but gave a painfully unnatural smile.
+
+
+
+
+
+CHAPTER XIX
+
+Having returned to the regiment and told the commander the state of
+Denísov’s affairs, Rostóv rode to Tilsit with the letter to the
+Emperor.
+
+On the thirteenth of June the French and Russian Emperors arrived in
+Tilsit. Borís Drubetskóy had asked the important personage on whom he
+was in attendance, to include him in the suite appointed for the stay at
+Tilsit.
+
+“I should like to see the great man,” he said, alluding to Napoleon,
+whom hitherto he, like everyone else, had always called Buonaparte.
+
+“You are speaking of Buonaparte?” asked the general, smiling.
+
+Borís looked at his general inquiringly and immediately saw that he was
+being tested.
+
+“I am speaking, Prince, of the Emperor Napoleon,” he replied. The
+general patted him on the shoulder, with a smile.
+
+“You will go far,” he said, and took him to Tilsit with him.
+
+Borís was among the few present at the Niemen on the day the two
+Emperors met. He saw the raft, decorated with monograms, saw Napoleon
+pass before the French Guards on the farther bank of the river, saw the
+pensive face of the Emperor Alexander as he sat in silence in a tavern
+on the bank of the Niemen awaiting Napoleon’s arrival, saw both
+Emperors get into boats, and saw how Napoleon—reaching the raft
+first—stepped quickly forward to meet Alexander and held out his hand
+to him, and how they both retired into the pavilion. Since he had begun
+to move in the highest circles Borís had made it his habit to watch
+attentively all that went on around him and to note it down. At the time
+of the meeting at Tilsit he asked the names of those who had come with
+Napoleon and about the uniforms they wore, and listened attentively to
+words spoken by important personages. At the moment the Emperors went
+into the pavilion he looked at his watch, and did not forget to look at
+it again when Alexander came out. The interview had lasted an hour and
+fifty-three minutes. He noted this down that same evening, among other
+facts he felt to be of historic importance. As the Emperor’s suite
+was a very small one, it was a matter of great importance, for a man who
+valued his success in the service, to be at Tilsit on the occasion of
+this interview between the two Emperors, and having succeeded in this,
+Borís felt that henceforth his position was fully assured. He had not
+only become known, but people had grown accustomed to him and accepted
+him. Twice he had executed commissions to the Emperor himself, so
+that the latter knew his face, and all those at court, far from
+cold-shouldering him as at first when they considered him a newcomer,
+would now have been surprised had he been absent.
+
+Borís lodged with another adjutant, the Polish Count Zhilínski.
+Zhilínski, a Pole brought up in Paris, was rich, and passionately
+fond of the French, and almost every day of the stay at Tilsit, French
+officers of the Guard and from French headquarters were dining and
+lunching with him and Borís.
+
+On the evening of the twenty-fourth of June, Count Zhilínski arranged a
+supper for his French friends. The guest of honor was an aide-de-camp of
+Napoleon’s, there were also several French officers of the Guard,
+and a page of Napoleon’s, a young lad of an old aristocratic French
+family. That same day, Rostóv, profiting by the darkness to avoid being
+recognized in civilian dress, came to Tilsit and went to the lodging
+occupied by Borís and Zhilínski.
+
+Rostóv, in common with the whole army from which he came, was far
+from having experienced the change of feeling toward Napoleon and the
+French—who from being foes had suddenly become friends—that had
+taken place at headquarters and in Borís. In the army, Bonaparte and
+the French were still regarded with mingled feelings of anger, contempt,
+and fear. Only recently, talking with one of Plátov’s Cossack
+officers, Rostóv had argued that if Napoleon were taken prisoner he
+would be treated not as a sovereign, but as a criminal. Quite lately,
+happening to meet a wounded French colonel on the road, Rostóv had
+maintained with heat that peace was impossible between a legitimate
+sovereign and the criminal Bonaparte. Rostóv was therefore unpleasantly
+struck by the presence of French officers in Borís’ lodging, dressed
+in uniforms he had been accustomed to see from quite a different point
+of view from the outposts of the flank. As soon as he noticed a French
+officer, who thrust his head out of the door, that warlike feeling of
+hostility which he always experienced at the sight of the enemy suddenly
+seized him. He stopped at the threshold and asked in Russian whether
+Drubetskóy lived there. Borís, hearing a strange voice in the
+anteroom, came out to meet him. An expression of annoyance showed itself
+for a moment on his face on first recognizing Rostóv.
+
+“Ah, it’s you? Very glad, very glad to see you,” he said, however,
+coming toward him with a smile. But Rostóv had noticed his first
+impulse.
+
+“I’ve come at a bad time I think. I should not have come, but I have
+business,” he said coldly.
+
+“No, I only wonder how you managed to get away from your regiment.
+Dans un moment je suis à vous,” * he said, answering someone who
+called him.
+
+    * “In a minute I shall be at your disposal.”
+
+
+“I see I’m intruding,” Rostóv repeated.
+
+The look of annoyance had already disappeared from Borís’ face:
+having evidently reflected and decided how to act, he very quietly took
+both Rostóv’s hands and led him into the next room. His eyes, looking
+serenely and steadily at Rostóv, seemed to be veiled by something,
+as if screened by blue spectacles of conventionality. So it seemed to
+Rostóv.
+
+“Oh, come now! As if you could come at a wrong time!” said Borís,
+and he led him into the room where the supper table was laid and
+introduced him to his guests, explaining that he was not a civilian, but
+an hussar officer, and an old friend of his.
+
+“Count Zhilínski—le Comte N. N.—le Capitaine S. S.,” said he,
+naming his guests. Rostóv looked frowningly at the Frenchmen, bowed
+reluctantly, and remained silent.
+
+Zhilínski evidently did not receive this new Russian person very
+willingly into his circle and did not speak to Rostóv. Borís did not
+appear to notice the constraint the newcomer produced and, with the same
+pleasant composure and the same veiled look in his eyes with which
+he had met Rostóv, tried to enliven the conversation. One of the
+Frenchmen, with the politeness characteristic of his countrymen,
+addressed the obstinately taciturn Rostóv, saying that the latter had
+probably come to Tilsit to see the Emperor.
+
+“No, I came on business,” replied Rostóv, briefly.
+
+Rostóv had been out of humor from the moment he noticed the look of
+dissatisfaction on Borís’ face, and as always happens to those in a
+bad humor, it seemed to him that everyone regarded him with aversion
+and that he was in everybody’s way. He really was in their way, for he
+alone took no part in the conversation which again became general. The
+looks the visitors cast on him seemed to say: “And what is he sitting
+here for?” He rose and went up to Borís.
+
+“Anyhow, I’m in your way,” he said in a low tone. “Come and talk
+over my business and I’ll go away.”
+
+“Oh, no, not at all,” said Borís. “But if you are tired, come and
+lie down in my room and have a rest.”
+
+“Yes, really...”
+
+They went into the little room where Borís slept. Rostóv, without
+sitting down, began at once, irritably (as if Borís were to blame in
+some way) telling him about Denísov’s affair, asking him whether,
+through his general, he could and would intercede with the Emperor on
+Denísov’s behalf and get Denísov’s petition handed in. When he
+and Borís were alone, Rostóv felt for the first time that he could not
+look Borís in the face without a sense of awkwardness. Borís, with one
+leg crossed over the other and stroking his left hand with the slender
+fingers of his right, listened to Rostóv as a general listens to the
+report of a subordinate, now looking aside and now gazing straight into
+Rostóv’s eyes with the same veiled look. Each time this happened
+Rostóv felt uncomfortable and cast down his eyes.
+
+“I have heard of such cases and know that His Majesty is very severe
+in such affairs. I think it would be best not to bring it before the
+Emperor, but to apply to the commander of the corps.... But in general,
+I think...”
+
+“So you don’t want to do anything? Well then, say so!” Rostóv
+almost shouted, not looking Borís in the face.
+
+Borís smiled.
+
+“On the contrary, I will do what I can. Only I thought...”
+
+At that moment Zhilínski’s voice was heard calling Borís.
+
+“Well then, go, go, go...” said Rostóv, and refusing supper and
+remaining alone in the little room, he walked up and down for a long
+time, hearing the lighthearted French conversation from the next room.
+
+
+
+
+
+CHAPTER XX
+
+Rostóv had come to Tilsit the day least suitable for a petition
+on Denísov’s behalf. He could not himself go to the general in
+attendance as he was in mufti and had come to Tilsit without permission
+to do so, and Borís, even had he wished to, could not have done so on
+the following day. On that day, June 27, the preliminaries of peace were
+signed. The Emperors exchanged decorations: Alexander received the Cross
+of the Legion of Honor and Napoleon the Order of St. Andrew of the
+First Degree, and a dinner had been arranged for the evening, given by
+a battalion of the French Guards to the Preobrazhénsk battalion. The
+Emperors were to be present at that banquet.
+
+Rostóv felt so ill at ease and uncomfortable with Borís that, when the
+latter looked in after supper, he pretended to be asleep, and early next
+morning went away, avoiding Borís. In his civilian clothes and a
+round hat, he wandered about the town, staring at the French and their
+uniforms and at the streets and houses where the Russian and French
+Emperors were staying. In a square he saw tables being set up and
+preparations made for the dinner; he saw the Russian and French colors
+draped from side to side of the streets, with huge monograms A and N. In
+the windows of the houses also flags and bunting were displayed.
+
+“Borís doesn’t want to help me and I don’t want to ask him.
+That’s settled,” thought Nicholas. “All is over between us, but
+I won’t leave here without having done all I can for Denísov and
+certainly not without getting his letter to the Emperor. The Emperor!...
+He is here!” thought Rostóv, who had unconsciously returned to the
+house where Alexander lodged.
+
+Saddled horses were standing before the house and the suite were
+assembling, evidently preparing for the Emperor to come out.
+
+“I may see him at any moment,” thought Rostóv. “If only I were
+to hand the letter direct to him and tell him all... could they really
+arrest me for my civilian clothes? Surely not! He would understand on
+whose side justice lies. He understands everything, knows everything.
+Who can be more just, more magnanimous than he? And even if they did
+arrest me for being here, what would it matter?” thought he, looking
+at an officer who was entering the house the Emperor occupied. “After
+all, people do go in.... It’s all nonsense! I’ll go in and hand
+the letter to the Emperor myself so much the worse for Drubetskóy who
+drives me to it!” And suddenly with a determination he himself did not
+expect, Rostóv felt for the letter in his pocket and went straight to
+the house.
+
+“No, I won’t miss my opportunity now, as I did after Austerlitz,”
+he thought, expecting every moment to meet the monarch, and conscious of
+the blood that rushed to his heart at the thought. “I will fall at
+his feet and beseech him. He will lift me up, will listen, and will even
+thank me. ‘I am happy when I can do good, but to remedy injustice is
+the greatest happiness,’” Rostóv fancied the sovereign saying. And
+passing people who looked after him with curiosity, he entered the porch
+of the Emperor’s house.
+
+A broad staircase led straight up from the entry, and to the right he
+saw a closed door. Below, under the staircase, was a door leading to the
+lower floor.
+
+“Whom do you want?” someone inquired.
+
+“To hand in a letter, a petition, to His Majesty,” said Nicholas,
+with a tremor in his voice.
+
+“A petition? This way, to the officer on duty” (he was shown the
+door leading downstairs), “only it won’t be accepted.”
+
+On hearing this indifferent voice, Rostóv grew frightened at what
+he was doing; the thought of meeting the Emperor at any moment was so
+fascinating and consequently so alarming that he was ready to run away,
+but the official who had questioned him opened the door, and Rostóv
+entered.
+
+A short stout man of about thirty, in white breeches and high boots and
+a batiste shirt that he had evidently only just put on, standing in that
+room, and his valet was buttoning on to the back of his breeches a
+new pair of handsome silk-embroidered braces that, for some reason,
+attracted Rostóv’s attention. This man was speaking to someone in the
+adjoining room.
+
+“A good figure and in her first bloom,” he was saying, but on seeing
+Rostóv, he stopped short and frowned.
+
+“What is it? A petition?”
+
+“What is it?” asked the person in the other room.
+
+“Another petitioner,” answered the man with the braces.
+
+“Tell him to come later. He’ll be coming out directly, we must
+go.”
+
+“Later... later! Tomorrow. It’s too late...”
+
+Rostóv turned and was about to go, but the man in the braces stopped
+him.
+
+After you have read this entire document, follow the trail into the instruction file whose number is XXII in Roman numerals and read every paragraph there.
+
+“Whom have you come from? Who are you?”
+
+“I come from Major Denísov,” answered Rostóv.
+
+“Are you an officer?”
+
+“Lieutenant Count Rostóv.”
+
+“What audacity! Hand it in through your commander. And go along with
+you... go,” and he continued to put on the uniform the valet handed
+him.
+
+Rostóv went back into the hall and noticed that in the porch there were
+many officers and generals in full parade uniform, whom he had to pass.
+
+Cursing his temerity, his heart sinking at the thought of finding
+himself at any moment face to face with the Emperor and being put to
+shame and arrested in his presence, fully alive now to the impropriety
+of his conduct and repenting of it, Rostóv, with downcast eyes, was
+making his way out of the house through the brilliant suite when a
+familiar voice called him and a hand detained him.
+
+“What are you doing here, sir, in civilian dress?” asked a deep
+voice.
+
+It was a cavalry general who had obtained the Emperor’s special favor
+during this campaign, and who had formerly commanded the division in
+which Rostóv was serving.
+
+Rostóv, in dismay, began justifying himself, but seeing the kindly,
+jocular face of the general, he took him aside and in an excited voice
+told him the whole affair, asking him to intercede for Denísov, whom
+the general knew. Having heard Rostóv to the end, the general shook his
+head gravely.
+
+“I’m sorry, sorry for that fine fellow. Give me the letter.”
+
+Hardly had Rostóv handed him the letter and finished explaining
+Denísov’s case, when hasty steps and the jingling of spurs were heard
+on the stairs, and the general, leaving him, went to the porch. The
+gentlemen of the Emperor’s suite ran down the stairs and went to their
+horses. Hayne, the same groom who had been at Austerlitz, led up the
+Emperor’s horse, and the faint creak of a footstep Rostóv knew at
+once was heard on the stairs. Forgetting the danger of being recognized,
+Rostóv went close to the porch, together with some inquisitive
+civilians, and again, after two years, saw those features he adored:
+that same face and same look and step, and the same union of majesty and
+mildness.... And the feeling of enthusiasm and love for his sovereign
+rose again in Rostóv’s soul in all its old force. In the uniform of
+the Preobrazhénsk regiment—white chamois-leather breeches and high
+boots—and wearing a star Rostóv did not know (it was that of the
+Légion d’honneur), the monarch came out into the porch, putting on
+his gloves and carrying his hat under his arm. He stopped and looked
+about him, brightening everything around by his glance. He spoke a few
+words to some of the generals, and, recognizing the former commander of
+Rostóv’s division, smiled and beckoned to him.
+
+All the suite drew back and Rostóv saw the general talking for some
+time to the Emperor.
+
+The Emperor said a few words to him and took a step toward his horse.
+Again the crowd of members of the suite and street gazers (among whom
+was Rostóv) moved nearer to the Emperor. Stopping beside his horse,
+with his hand on the saddle, the Emperor turned to the cavalry general
+and said in a loud voice, evidently wishing to be heard by all:
+
+“I cannot do it, General. I cannot, because the law is stronger than
+I,” and he raised his foot to the stirrup.
+
+The general bowed his head respectfully, and the monarch mounted and
+rode down the street at a gallop. Beside himself with enthusiasm,
+Rostóv ran after him with the crowd.
+
+
+
+
+
+CHAPTER XXI
+
+The Emperor rode to the square where, facing one another, a battalion
+of the Preobrazhénsk regiment stood on the right and a battalion of the
+French Guards in their bearskin caps on the left.
+
+As the Tsar rode up to one flank of the battalions, which presented
+arms, another group of horsemen galloped up to the opposite flank, and
+at the head of them Rostóv recognized Napoleon. It could be no one
+else. He came at a gallop, wearing a small hat, a blue uniform open over
+a white vest, and the St. Andrew ribbon over his shoulder. He was riding
+a very fine thoroughbred gray Arab horse with a crimson gold-embroidered
+saddlecloth. On approaching Alexander he raised his hat, and as he did
+so, Rostóv, with his cavalryman’s eye, could not help noticing
+that Napoleon did not sit well or firmly in the saddle. The battalions
+shouted “Hurrah!” and “Vive l’Empereur!” Napoleon said
+something to Alexander, and both Emperors dismounted and took each
+other’s hands. Napoleon’s face wore an unpleasant and artificial
+smile. Alexander was saying something affable to him.
+
+In spite of the trampling of the French gendarmes’ horses, which
+were pushing back the crowd, Rostóv kept his eyes on every movement
+of Alexander and Bonaparte. It struck him as a surprise that Alexander
+treated Bonaparte as an equal and that the latter was quite at ease with
+the Tsar, as if such relations with an Emperor were an everyday matter
+to him.
+
+Alexander and Napoleon, with the long train of their suites, approached
+the right flank of the Preobrazhénsk battalion and came straight up to
+the crowd standing there. The crowd unexpectedly found itself so close
+to the Emperors that Rostóv, standing in the front row, was afraid he
+might be recognized.
+
+“Sire, I ask your permission to present the Legion of Honor to the
+bravest of your soldiers,” said a sharp, precise voice, articulating
+every letter.
+
+This was said by the undersized Napoleon, looking up straight into
+Alexander’s eyes. Alexander listened attentively to what was said to
+him and, bending his head, smiled pleasantly.
+
+“To him who has borne himself most bravely in this last war,” added
+Napoleon, accentuating each syllable, as with a composure and assurance
+exasperating to Rostóv, he ran his eyes over the Russian ranks drawn
+up before him, who all presented arms with their eyes fixed on their
+Emperor.
+
+“Will Your Majesty allow me to consult the colonel?” said Alexander
+and took a few hasty steps toward Prince Kozlóvski, the commander of
+the battalion.
+
+Bonaparte meanwhile began taking the glove off his small white hand,
+tore it in doing so, and threw it away. An aide-de-camp behind him
+rushed forward and picked it up.
+
+“To whom shall it be given?” the Emperor Alexander asked Kozlóvski,
+in Russian in a low voice.
+
+“To whomever Your Majesty commands.”
+
+The Emperor knit his brows with dissatisfaction and, glancing back,
+remarked:
+
+“But we must give him an answer.”
+
+Kozlóvski scanned the ranks resolutely and included Rostóv in his
+scrutiny.
+
+“Can it be me?” thought Rostóv.
+
+“Lázarev!” the colonel called, with a frown, and Lázarev, the
+first soldier in the rank, stepped briskly forward.
+
+“Where are you off to? Stop here!” voices whispered to Lázarev who
+did not know where to go. Lázarev stopped, casting a sidelong look at
+his colonel in alarm. His face twitched, as often happens to soldiers
+called before the ranks.
+
+Napoleon slightly turned his head, and put his plump little hand out
+behind him as if to take something. The members of his suite, guessing
+at once what he wanted, moved about and whispered as they passed
+something from one to another, and a page—the same one Rostóv
+had seen the previous evening at Borís’—ran forward and, bowing
+respectfully over the outstretched hand and not keeping it waiting a
+moment, laid in it an Order on a red ribbon. Napoleon, without looking,
+pressed two fingers together and the badge was between them. Then he
+approached Lázarev (who rolled his eyes and persistently gazed at his
+own monarch), looked round at the Emperor Alexander to imply that what
+he was now doing was done for the sake of his ally, and the small white
+hand holding the Order touched one of Lázarev’s buttons. It was as if
+Napoleon knew that it was only necessary for his hand to deign to touch
+that soldier’s breast for the soldier to be forever happy, rewarded,
+and distinguished from everyone else in the world. Napoleon merely laid
+the cross on Lázarev’s breast and, dropping his hand, turned toward
+Alexander as though sure that the cross would adhere there. And it
+really did.
+
+Officious hands, Russian and French, immediately seized the cross and
+fastened it to the uniform. Lázarev glanced morosely at the little
+man with white hands who was doing something to him and, still standing
+motionless presenting arms, looked again straight into Alexander’s
+eyes, as if asking whether he should stand there, or go away, or do
+something else. But receiving no orders, he remained for some time in
+that rigid position.
+
+The Emperors remounted and rode away. The Preobrazhénsk battalion,
+breaking rank, mingled with the French Guards and sat down at the tables
+prepared for them.
+
+Lázarev sat in the place of honor. Russian and French officers embraced
+him, congratulated him, and pressed his hands. Crowds of officers and
+civilians drew near merely to see him. A rumble of Russian and French
+voices and laughter filled the air round the tables in the square.
+Two officers with flushed faces, looking cheerful and happy, passed by
+Rostóv.
+
+“What d’you think of the treat? All on silver plate,” one of them
+was saying. “Have you seen Lázarev?”
+
+“I have.”
+
+“Tomorrow, I hear, the Preobrazhénskis will give them a dinner.”
+
+“Yes, but what luck for Lázarev! Twelve hundred francs’ pension for
+life.”
+
+“Here’s a cap, lads!” shouted a Preobrazhénsk soldier, donning a
+shaggy French cap.
+
+“It’s a fine thing! First-rate!”
+
+“Have you heard the password?” asked one Guards’ officer of
+another. “The day before yesterday it was ‘Napoléon, France,
+bravoure’; yesterday, ‘Alexandre, Russie, grandeur.’ One day our
+Emperor gives it and next day Napoleon. Tomorrow our Emperor will send
+a St. George’s Cross to the bravest of the French Guards. It has to be
+done. He must respond in kind.”
+
+Borís, too, with his friend Zhilínski, came to see the Preobrazhénsk
+banquet. On his way back, he noticed Rostóv standing by the corner of a
+house.
+
+“Rostóv! How d’you do? We missed one another,” he said, and could
+not refrain from asking what was the matter, so strangely dismal and
+troubled was Rostóv’s face.
+
+“Nothing, nothing,” replied Rostóv.
+
+“You’ll call round?”
+
+“Yes, I will.”
+
+Rostóv stood at that corner for a long time, watching the feast from a
+distance. In his mind, a painful process was going on which he could
+not bring to a conclusion. Terrible doubts rose in his soul. Now he
+remembered Denísov with his changed expression, his submission, and the
+whole hospital, with arms and legs torn off and its dirt and disease. So
+vividly did he recall that hospital stench of dead flesh that he
+looked round to see where the smell came from. Next he thought of that
+self-satisfied Bonaparte, with his small white hand, who was now an
+Emperor, liked and respected by Alexander. Then why those severed
+arms and legs and those dead men?... Then again he thought of Lázarev
+rewarded and Denísov punished and unpardoned. He caught himself
+harboring such strange thoughts that he was frightened.
+
+The smell of the food the Preobrazhénskis were eating and a sense of
+hunger recalled him from these reflections; he had to get something to
+eat before going away. He went to a hotel he had noticed that morning.
+There he found so many people, among them officers who, like himself,
+had come in civilian clothes, that he had difficulty in getting a
+dinner. Two officers of his own division joined him. The conversation
+naturally turned on the peace. The officers, his comrades, like most of
+the army, were dissatisfied with the peace concluded after the battle of
+Friedland. They said that had we held out a little longer Napoleon would
+have been done for, as his troops had neither provisions nor ammunition.
+Nicholas ate and drank (chiefly the latter) in silence. He finished a
+couple of bottles of wine by himself. The process in his mind went on
+tormenting him without reaching a conclusion. He feared to give way to
+his thoughts, yet could not get rid of them. Suddenly, on one of the
+officers’ saying that it was humiliating to look at the French,
+Rostóv began shouting with uncalled-for wrath, and therefore much to
+the surprise of the officers:
+
+“How can you judge what’s best?” he cried, the blood suddenly
+rushing to his face. “How can you judge the Emperor’s actions? What
+right have we to argue? We cannot comprehend either the Emperor’s aims
+or his actions!”
+
+“But I never said a word about the Emperor!” said the officer,
+justifying himself, and unable to understand Rostóv’s outburst,
+except on the supposition that he was drunk.
+
+But Rostóv did not listen to him.
+
+“We are not diplomatic officials, we are soldiers and nothing more,”
+he went on. “If we are ordered to die, we must die. If we’re
+punished, it means that we have deserved it, it’s not for us to judge.
+If the Emperor pleases to recognize Bonaparte as Emperor and to conclude
+an alliance with him, it means that that is the right thing to do. If
+once we begin judging and arguing about everything, nothing sacred
+will be left! That way we shall be saying there is no God—nothing!”
+shouted Nicholas, banging the table—very little to the point as it
+seemed to his listeners, but quite relevantly to the course of his own
+thoughts.
+
+“Our business is to do our duty, to fight and not to think! That’s
+all....” said he.
+
+“And to drink,” said one of the officers, not wishing to quarrel.
+
+“Yes, and to drink,” assented Nicholas. “Hullo there! Another
+bottle!” he shouted.
+
+In 1808 the Emperor Alexander went to Erfurt for a fresh interview with
+the Emperor Napoleon, and in the upper circles of Petersburg there was
+much talk of the grandeur of this important meeting.
+
+
+
+
+
+CHAPTER XXII
+
+In 1809 the intimacy between “the world’s two arbiters,” as
+Napoleon and Alexander were called, was such that when Napoleon declared
+war on Austria a Russian corps crossed the frontier to co-operate with
+our old enemy Bonaparte against our old ally the Emperor of Austria, and
+in court circles the possibility of marriage between Napoleon and one
+of Alexander’s sisters was spoken of. But besides considerations of
+foreign policy, the attention of Russian society was at that time keenly
+directed on the internal changes that were being undertaken in all the
+departments of government.
+
+Life meanwhile—real life, with its essential interests of health and
+sickness, toil and rest, and its intellectual interests in thought,
+science, poetry, music, love, friendship, hatred, and passions—went on
+as usual, independently of and apart from political friendship or enmity
+with Napoleon Bonaparte and from all the schemes of reconstruction.
+
+
+
+
+
+BOOK SIX: 1808 - 10
+
+
+
+
+
+CHAPTER I
+
+Prince Andrew had spent two years continuously in the country.
+
+All the plans Pierre had attempted on his estates—and constantly
+changing from one thing to another had never accomplished—were carried
+out by Prince Andrew without display and without perceptible difficulty.
+
+He had in the highest degree a practical tenacity which Pierre lacked,
+and without fuss or strain on his part this set things going.
+
+On one of his estates the three hundred serfs were liberated and became
+free agricultural laborers—this being one of the first examples of
+the kind in Russia. On other estates the serfs’ compulsory labor was
+commuted for a quitrent. A trained midwife was engaged for Boguchárovo
+at his expense, and a priest was paid to teach reading and writing to
+the children of the peasants and household serfs.
+
+Prince Andrew spent half his time at Bald Hills with his father and his
+son, who was still in the care of nurses. The other half he spent in
+“Boguchárovo Cloister,” as his father called Prince Andrew’s
+estate. Despite the indifference to the affairs of the world he had
+expressed to Pierre, he diligently followed all that went on, received
+many books, and to his surprise noticed that when he or his father had
+visitors from Petersburg, the very vortex of life, these people lagged
+behind himself—who never left the country—in knowledge of what was
+happening in home and foreign affairs.
+
+Besides being occupied with his estates and reading a great variety of
+books, Prince Andrew was at this time busy with a critical survey of
+our last two unfortunate campaigns, and with drawing up a proposal for a
+reform of the army rules and regulations.
+
+In the spring of 1809 he went to visit the Ryazán estates which had
+been inherited by his son, whose guardian he was.
+
+Warmed by the spring sunshine he sat in the calèche looking at the new
+grass, the first leaves on the birches, and the first puffs of white
+spring clouds floating across the clear blue sky. He was not thinking of
+anything, but looked absent-mindedly and cheerfully from side to side.
+
+They crossed the ferry where he had talked with Pierre the year before.
+They went through the muddy village, past threshing floors and green
+fields of winter rye, downhill where snow still lodged near the bridge,
+uphill where the clay had been liquefied by the rain, past strips of
+stubble land and bushes touched with green here and there, and into a
+birch forest growing on both sides of the road. In the forest it was
+almost hot, no wind could be felt. The birches with their sticky green
+leaves were motionless, and lilac-colored flowers and the first blades
+of green grass were pushing up and lifting last year’s leaves. The
+coarse evergreen color of the small fir trees scattered here and there
+among the birches was an unpleasant reminder of winter. On entering the
+forest the horses began to snort and sweated visibly.
+
+Peter the footman made some remark to the coachman; the latter assented.
+But apparently the coachman’s sympathy was not enough for Peter, and
+he turned on the box toward his master.
+
+“How pleasant it is, your excellency!” he said with a respectful
+smile.
+
+“What?”
+
+“It’s pleasant, your excellency!”
+
+“What is he talking about?” thought Prince Andrew. “Oh, the
+spring, I suppose,” he thought as he turned round. “Yes, really
+everything is green already.... How early! The birches and cherry and
+alders too are coming out.... But the oaks show no sign yet. Ah, here is
+one oak!”
+
+At the edge of the road stood an oak. Probably ten times the age of the
+birches that formed the forest, it was ten times as thick and twice as
+tall as they. It was an enormous tree, its girth twice as great as a
+man could embrace, and evidently long ago some of its branches had been
+broken off and its bark scarred. With its huge ungainly limbs sprawling
+unsymmetrically, and its gnarled hands and fingers, it stood an aged,
+stern, and scornful monster among the smiling birch trees. Only the
+dead-looking evergreen firs dotted about in the forest, and this oak,
+refused to yield to the charm of spring or notice either the spring or
+the sunshine.
+
+“Spring, love, happiness!” this oak seemed to say. “Are you not
+weary of that stupid, meaningless, constantly repeated fraud? Always the
+same and always a fraud? There is no spring, no sun, no happiness! Look
+at those cramped dead firs, ever the same, and at me too, sticking out
+my broken and barked fingers just where they have grown, whether from my
+back or my sides: as they have grown so I stand, and I do not believe in
+your hopes and your lies.”
+
+As he passed through the forest Prince Andrew turned several times to
+look at that oak, as if expecting something from it. Under the oak,
+too, were flowers and grass, but it stood among them scowling, rigid,
+misshapen, and grim as ever.
+
+“Yes, the oak is right, a thousand times right,” thought Prince
+Andrew. “Let others—the young—yield afresh to that fraud, but we
+know life, our life is finished!”
+
+A whole sequence of new thoughts, hopeless but mournfully pleasant, rose
+in his soul in connection with that tree. During this journey he, as
+it were, considered his life afresh and arrived at his old conclusion,
+restful in its hopelessness: that it was not for him to begin anything
+anew—but that he must live out his life, content to do no harm, and
+not disturbing himself or desiring anything.
+
+
+
+
+
+CHAPTER II
+
+Prince Andrew had to see the Marshal of the Nobility for the district
+in connection with the affairs of the Ryazán estate of which he was
+trustee. This Marshal was Count Ilyá Rostóv, and in the middle of May
+Prince Andrew went to visit him.
+
+It was now hot spring weather. The whole forest was already clothed in
+green. It was dusty and so hot that on passing near water one longed to
+bathe.
+
+Prince Andrew, depressed and preoccupied with the business about which
+he had to speak to the Marshal, was driving up the avenue in the grounds
+of the Rostóvs’ house at Otrádnoe. He heard merry girlish cries
+behind some trees on the right and saw a group of girls running to cross
+the path of his calèche. Ahead of the rest and nearer to him ran a
+dark-haired, remarkably slim, pretty girl in a yellow chintz dress, with
+a white handkerchief on her head from under which loose locks of hair
+escaped. The girl was shouting something but, seeing that he was a
+stranger, ran back laughing without looking at him.
+
+Suddenly, he did not know why, he felt a pang. The day was so beautiful,
+the sun so bright, everything around so gay, but that slim pretty girl
+did not know, or wish to know, of his existence and was contented and
+cheerful in her own separate—probably foolish—but bright and happy
+life. “What is she so glad about? What is she thinking of? Not of
+the military regulations or of the arrangement of the Ryazán serfs’
+quitrents. Of what is she thinking? Why is she so happy?” Prince
+Andrew asked himself with instinctive curiosity.
+
+In 1809 Count Ilyá Rostóv was living at Otrádnoe just as he had done
+in former years, that is, entertaining almost the whole province with
+hunts, theatricals, dinners, and music. He was glad to see Prince
+Andrew, as he was to see any new visitor, and insisted on his staying
+the night.
+
+During the dull day, in the course of which he was entertained by
+his elderly hosts and by the more important of the visitors (the old
+count’s house was crowded on account of an approaching name day),
+Prince Andrew repeatedly glanced at Natásha, gay and laughing among the
+younger members of the company, and asked himself each time, “What is
+she thinking about? Why is she so glad?”
+
+That night, alone in new surroundings, he was long unable to sleep. He
+read awhile and then put out his candle, but relit it. It was hot in the
+room, the inside shutters of which were closed. He was cross with the
+stupid old man (as he called Rostóv), who had made him stay by assuring
+him that some necessary documents had not yet arrived from town, and he
+was vexed with himself for having stayed.
+
+He got up and went to the window to open it. As soon as he opened the
+shutters the moonlight, as if it had long been watching for this, burst
+into the room. He opened the casement. The night was fresh, bright, and
+very still. Just before the window was a row of pollard trees, looking
+black on one side and with a silvery light on the other. Beneath the
+trees grew some kind of lush, wet, bushy vegetation with silver-lit
+leaves and stems here and there. Farther back beyond the dark trees a
+roof glittered with dew, to the right was a leafy tree with brilliantly
+white trunk and branches, and above it shone the moon, nearly at its
+full, in a pale, almost starless, spring sky. Prince Andrew leaned his
+elbows on the window ledge and his eyes rested on that sky.
+
+His room was on the first floor. Those in the rooms above were also
+awake. He heard female voices overhead.
+
+“Just once more,” said a girlish voice above him which Prince Andrew
+recognized at once.
+
+“But when are you coming to bed?” replied another voice.
+
+“I won’t, I can’t sleep, what’s the use? Come now for the last
+time.”
+
+Two girlish voices sang a musical passage—the end of some song.
+
+“Oh, how lovely! Now go to sleep, and there’s an end of it.”
+
+“You go to sleep, but I can’t,” said the first voice, coming
+nearer to the window. She was evidently leaning right out, for the
+rustle of her dress and even her breathing could be heard. Everything
+was stone-still, like the moon and its light and the shadows. Prince
+Andrew, too, dared not stir, for fear of betraying his unintentional
+presence.
+
+“Sónya! Sónya!” he again heard the first speaker. “Oh, how can
+you sleep? Only look how glorious it is! Ah, how glorious! Do wake up,
+Sónya!” she said almost with tears in her voice. “There never,
+never was such a lovely night before!”
+
+Sónya made some reluctant reply.
+
+“Do just come and see what a moon!... Oh, how lovely! Come here....
+Darling, sweetheart, come here! There, you see? I feel like sitting down
+on my heels, putting my arms round my knees like this, straining tight,
+as tight as possible, and flying away! Like this....”
+
+“Take care, you’ll fall out.”
+
+He heard the sound of a scuffle and Sónya’s disapproving voice:
+“It’s past one o’clock.”
+
+“Oh, you only spoil things for me. All right, go, go!”
+
+Again all was silent, but Prince Andrew knew she was still sitting
+there. From time to time he heard a soft rustle and at times a sigh.
+
+“O God, O God! What does it mean?” she suddenly exclaimed. “To bed
+then, if it must be!” and she slammed the casement.
+
+“For her I might as well not exist!” thought Prince Andrew while he
+listened to her voice, for some reason expecting yet fearing that she
+might say something about him. “There she is again! As if it were on
+purpose,” thought he.
+
+In his soul there suddenly arose such an unexpected turmoil of youthful
+thoughts and hopes, contrary to the whole tenor of his life, that unable
+to explain his condition to himself he lay down and fell asleep at once.
+
+
+
+
+
+CHAPTER III
+
+Next morning, having taken leave of no one but the count, and not
+waiting for the ladies to appear, Prince Andrew set off for home.
+
+It was already the beginning of June when on his return journey he drove
+into the birch forest where the gnarled old oak had made so strange and
+memorable an impression on him. In the forest the harness bells sounded
+yet more muffled than they had done six weeks before, for now all was
+thick, shady, and dense, and the young firs dotted about in the forest
+did not jar on the general beauty but, lending themselves to the mood
+around, were delicately green with fluffy young shoots.
+
+The whole day had been hot. Somewhere a storm was gathering, but only
+a small cloud had scattered some raindrops lightly, sprinkling the road
+and the sappy leaves. The left side of the forest was dark in the shade,
+the right side glittered in the sunlight, wet and shiny and scarcely
+swayed by the breeze. Everything was in blossom, the nightingales
+trilled, and their voices reverberated now near, now far away.
+
+“Yes, here in this forest was that oak with which I agreed,” thought
+Prince Andrew. “But where is it?” he again wondered, gazing at
+the left side of the road, and without recognizing it he looked with
+admiration at the very oak he sought. The old oak, quite transfigured,
+spreading out a canopy of sappy dark-green foliage, stood rapt and
+slightly trembling in the rays of the evening sun. Neither gnarled
+fingers nor old scars nor old doubts and sorrows were any of them in
+evidence now. Through the hard century-old bark, even where there were
+no twigs, leaves had sprouted such as one could hardly believe the old
+veteran could have produced.
+
+“Yes, it is the same oak,” thought Prince Andrew, and all at once he
+was seized by an unreasoning springtime feeling of joy and renewal. All
+the best moments of his life suddenly rose to his memory. Austerlitz
+with the lofty heavens, his wife’s dead reproachful face, Pierre at
+the ferry, that girl thrilled by the beauty of the night, and that night
+itself and the moon, and... all this rushed suddenly to his mind.
+
+“No, life is not over at thirty-one!” Prince Andrew suddenly decided
+finally and decisively. “It is not enough for me to know what I have
+in me—everyone must know it: Pierre, and that young girl who wanted to
+fly away into the sky, everyone must know me, so that my life may not be
+lived for myself alone while others live so apart from it, but so that
+it may be reflected in them all, and they and I may live in harmony!”
+
+
+On reaching home Prince Andrew decided to go to Petersburg that autumn
+and found all sorts of reasons for this decision. A whole series of
+sensible and logical considerations showing it to be essential for him
+to go to Petersburg, and even to re-enter the service, kept springing
+up in his mind. He could not now understand how he could ever even have
+doubted the necessity of taking an active share in life, just as a month
+before he had not understood how the idea of leaving the quiet country
+could ever enter his head. It now seemed clear to him that all his
+experience of life must be senselessly wasted unless he applied it to
+some kind of work and again played an active part in life. He did not
+even remember how formerly, on the strength of similar wretched logical
+arguments, it had seemed obvious that he would be degrading himself if
+he now, after the lessons he had had in life, allowed himself to believe
+in the possibility of being useful and in the possibility of happiness
+or love. Now reason suggested quite the opposite. After that journey
+to Ryazán he found the country dull; his former pursuits no longer
+interested him, and often when sitting alone in his study he got up,
+went to the mirror, and gazed a long time at his own face. Then he would
+turn away to the portrait of his dead Lise, who with hair curled à la
+grecque looked tenderly and gaily at him out of the gilt frame. She
+did not now say those former terrible words to him, but looked simply,
+merrily, and inquisitively at him. And Prince Andrew, crossing his
+arms behind him, long paced the room, now frowning, now smiling, as
+he reflected on those irrational, inexpressible thoughts, secret as a
+crime, which altered his whole life and were connected with Pierre, with
+fame, with the girl at the window, the oak, and woman’s beauty
+and love. And if anyone came into his room at such moments he was
+particularly cold, stern, and above all unpleasantly logical.
+
+“My dear,” Princess Mary entering at such a moment would say,
+“little Nicholas can’t go out today, it’s very cold.”
+
+“If it were hot,” Prince Andrew would reply at such times very dryly
+to his sister, “he could go out in his smock, but as it is cold he
+must wear warm clothes, which were designed for that purpose. That is
+what follows from the fact that it is cold; and not that a child who
+needs fresh air should remain at home,” he would add with extreme
+logic, as if punishing someone for those secret illogical emotions that
+stirred within him.
+
+At such moments Princess Mary would think how intellectual work dries
+men up.
+
+
+
+
+
+CHAPTER IV
+
+Prince Andrew arrived in Petersburg in August, 1809. It was the time
+when the youthful Speránski was at the zenith of his fame and his
+reforms were being pushed forward with the greatest energy. That same
+August the Emperor was thrown from his calèche, injured his leg, and
+remained three weeks at Peterhof, receiving Speránski every day and no
+one else. At that time the two famous decrees were being prepared
+that so agitated society—abolishing court ranks and introducing
+examinations to qualify for the grades of Collegiate Assessor and
+State Councilor—and not merely these but a whole state constitution,
+intended to change the existing order of government in Russia: legal,
+administrative, and financial, from the Council of State down to the
+district tribunals. Now those vague liberal dreams with which the
+Emperor Alexander had ascended the throne, and which he had tried to put
+into effect with the aid of his associates, Czartorýski, Novosíltsev,
+Kochubéy, and Strógonov—whom he himself in jest had called his
+Comité de salut public—were taking shape and being realized.
+
+Now all these men were replaced by Speránski on the civil side, and
+Arakchéev on the military. Soon after his arrival Prince Andrew, as a
+gentleman of the chamber, presented himself at court and at a levee. The
+Emperor, though he met him twice, did not favor him with a single word.
+It had always seemed to Prince Andrew before that he was antipathetic
+to the Emperor and that the latter disliked his face and personality
+generally, and in the cold, repellent glance the Emperor gave him, he
+now found further confirmation of this surmise. The courtiers explained
+the Emperor’s neglect of him by His Majesty’s displeasure at
+Bolkónski’s not having served since 1805.
+
+“I know myself that one cannot help one’s sympathies and
+antipathies,” thought Prince Andrew, “so it will not do to present
+my proposal for the reform of the army regulations to the Emperor
+personally, but the project will speak for itself.”
+
+He mentioned what he had written to an old field marshal, a friend
+of his father’s. The field marshal made an appointment to see him,
+received him graciously, and promised to inform the Emperor. A few
+days later Prince Andrew received notice that he was to go to see the
+Minister of War, Count Arakchéev.
+
+
+On the appointed day Prince Andrew entered Count Arakchéev’s waiting
+room at nine in the morning.
+
+He did not know Arakchéev personally, had never seen him, and all he
+had heard of him inspired him with but little respect for the man.
+
+“He is Minister of War, a man trusted by the Emperor, and I need not
+concern myself about his personal qualities: he has been commissioned to
+consider my project, so he alone can get it adopted,” thought Prince
+Andrew as he waited among a number of important and unimportant people
+in Count Arakchéev’s waiting room.
+
+During his service, chiefly as an adjutant, Prince Andrew had seen the
+anterooms of many important men, and the different types of such rooms
+were well known to him. Count Arakchéev’s anteroom had quite a
+special character. The faces of the unimportant people awaiting their
+turn for an audience showed embarrassment and servility; the faces of
+those of higher rank expressed a common feeling of awkwardness, covered
+by a mask of unconcern and ridicule of themselves, their situation, and
+the person for whom they were waiting. Some walked thoughtfully up and
+down, others whispered and laughed. Prince Andrew heard the nickname
+“Síla Andréevich” and the words, “Uncle will give it to us
+hot,” in reference to Count Arakchéev. One general (an important
+personage), evidently feeling offended at having to wait so long, sat
+crossing and uncrossing his legs and smiling contemptuously to himself.
+
+But the moment the door opened one feeling alone appeared on all
+faces—that of fear. Prince Andrew for the second time asked the
+adjutant on duty to take in his name, but received an ironical look and
+was told that his turn would come in due course. After some others had
+been shown in and out of the minister’s room by the adjutant on duty,
+an officer who struck Prince Andrew by his humiliated and frightened air
+was admitted at that terrible door. This officer’s audience lasted a
+long time. Then suddenly the grating sound of a harsh voice was heard
+from the other side of the door, and the officer—with pale face and
+trembling lips—came out and passed through the waiting room, clutching
+his head.
+
+After this Prince Andrew was conducted to the door and the officer on
+duty said in a whisper, “To the right, at the window.”
+
+Prince Andrew entered a plain tidy room and saw at the table a man of
+forty with a long waist, a long closely cropped head, deep wrinkles,
+scowling brows above dull greenish-hazel eyes and an overhanging red
+nose. Arakchéev turned his head toward him without looking at him.
+
+“What is your petition?” asked Arakchéev.
+
+“I am not petitioning, your excellency,” returned Prince Andrew
+quietly.
+
+Arakchéev’s eyes turned toward him.
+
+“Sit down,” said he. “Prince Bolkónski?”
+
+“I am not petitioning about anything. His Majesty the Emperor has
+deigned to send your excellency a project submitted by me...”
+
+“You see, my dear sir, I have read your project,” interrupted
+Arakchéev, uttering only the first words amiably and then—again
+without looking at Prince Andrew—relapsing gradually into a tone of
+grumbling contempt. “You are proposing new military laws? There are
+many laws but no one to carry out the old ones. Nowadays everybody
+designs laws, it is easier writing than doing.”
+
+“I came at His Majesty the Emperor’s wish to learn from your
+excellency how you propose to deal with the memorandum I have
+presented,” said Prince Andrew politely.
+
+“I have endorsed a resolution on your memorandum and sent it to the
+committee. I do not approve of it,” said Arakchéev, rising and taking
+a paper from his writing table. “Here!” and he handed it to Prince
+Andrew.
+
+Across the paper was scrawled in pencil, without capital letters,
+misspelled, and without punctuation: “Unsoundly constructed because
+resembles an imitation of the French military code and from the Articles
+of War needlessly deviating.”
+
+“To what committee has the memorandum been referred?” inquired
+Prince Andrew.
+
+“To the Committee on Army Regulations, and I have recommended that
+your honor should be appointed a member, but without a salary.”
+
+Prince Andrew smiled.
+
+“I don’t want one.”
+
+“A member without salary,” repeated Arakchéev. “I have the
+honor... Eh! Call the next one! Who else is there?” he shouted, bowing
+to Prince Andrew.
+
+
+
+
+
+CHAPTER V
+
+While waiting for the announcement of his appointment to the committee
+Prince Andrew looked up his former acquaintances, particularly those he
+knew to be in power and whose aid he might need. In Petersburg he now
+experienced the same feeling he had had on the eve of a battle, when
+troubled by anxious curiosity and irresistibly attracted to the ruling
+circles where the future, on which the fate of millions depended, was
+being shaped. From the irritation of the older men, the curiosity of the
+uninitiated, the reserve of the initiated, the hurry and preoccupation
+of everyone, and the innumerable committees and commissions of whose
+existence he learned every day, he felt that now, in 1809, here in
+Petersburg a vast civil conflict was in preparation, the commander in
+chief of which was a mysterious person he did not know, but who was
+supposed to be a man of genius—Speránski. And this movement of
+reconstruction of which Prince Andrew had a vague idea, and Speránski
+its chief promoter, began to interest him so keenly that the question
+of the army regulations quickly receded to a secondary place in his
+consciousness.
+
+Prince Andrew was most favorably placed to secure good reception in the
+highest and most diverse Petersburg circles of the day. The reforming
+party cordially welcomed and courted him, in the first place because
+he was reputed to be clever and very well read, and secondly because by
+liberating his serfs he had obtained the reputation of being a liberal.
+The party of the old and dissatisfied, who censured the innovations,
+turned to him expecting his sympathy in their disapproval of the
+reforms, simply because he was the son of his father. The feminine
+society world welcomed him gladly, because he was rich, distinguished, a
+good match, and almost a newcomer, with a halo of romance on account
+of his supposed death and the tragic loss of his wife. Besides this
+the general opinion of all who had known him previously was that he had
+greatly improved during these last five years, having softened and grown
+more manly, lost his former affectation, pride, and contemptuous irony,
+and acquired the serenity that comes with years. People talked about
+him, were interested in him, and wanted to meet him.
+
+The day after his interview with Count Arakchéev, Prince Andrew spent
+the evening at Count Kochubéy’s. He told the count of his interview
+with Síla Andréevich (Kochubéy spoke of Arakchéev by that nickname
+with the same vague irony Prince Andrew had noticed in the Minister of
+War’s anteroom).
+
+“Mon cher, even in this case you can’t do without Michael
+Mikháylovich Speránski. He manages everything. I’ll speak to him. He
+has promised to come this evening.”
+
+“What has Speránski to do with the army regulations?” asked Prince
+Andrew.
+
+Kochubéy shook his head smilingly, as if surprised at Bolkónski’s
+simplicity.
+
+“We were talking to him about you a few days ago,” Kochubéy
+continued, “and about your freed plowmen.”
+
+“Oh, is it you, Prince, who have freed your serfs?” said an old man
+of Catherine’s day, turning contemptuously toward Bolkónski.
+
+“It was a small estate that brought in no profit,” replied Prince
+Andrew, trying to extenuate his action so as not to irritate the old man
+uselessly.
+
+“Afraid of being late...” said the old man, looking at Kochubéy.
+
+“There’s one thing I don’t understand,” he continued. “Who
+will plow the land if they are set free? It is easy to write laws, but
+difficult to rule.... Just the same as now—I ask you, Count—who will
+be heads of the departments when everybody has to pass examinations?”
+
+“Those who pass the examinations, I suppose,” replied Kochubéy,
+crossing his legs and glancing round.
+
+“Well, I have Pryánichnikov serving under me, a splendid man, a
+priceless man, but he’s sixty. Is he to go up for examination?”
+
+“Yes, that’s a difficulty, as education is not at all general,
+but...”
+
+Count Kochubéy did not finish. He rose, took Prince Andrew by the arm,
+and went to meet a tall, bald, fair man of about forty with a large open
+forehead and a long face of unusual and peculiar whiteness, who was
+just entering. The newcomer wore a blue swallow-tail coat with a
+cross suspended from his neck and a star on his left breast. It was
+Speránski. Prince Andrew recognized him at once, and felt a throb
+within him, as happens at critical moments of life. Whether it was from
+respect, envy, or anticipation, he did not know. Speránski’s whole
+figure was of a peculiar type that made him easily recognizable. In
+the society in which Prince Andrew lived he had never seen anyone who
+together with awkward and clumsy gestures possessed such calmness and
+self-assurance; he had never seen so resolute yet gentle an expression
+as that in those half-closed, rather humid eyes, or so firm a smile that
+expressed nothing; nor had he heard such a refined, smooth, soft
+voice; above all he had never seen such delicate whiteness of face or
+hands—hands which were broad, but very plump, soft, and white. Such
+whiteness and softness Prince Andrew had only seen on the faces of
+soldiers who had been long in hospital. This was Speránski, Secretary
+of State, reporter to the Emperor and his companion at Erfurt, where he
+had more than once met and talked with Napoleon.
+
+Speránski did not shift his eyes from one face to another as people
+involuntarily do on entering a large company and was in no hurry to
+speak. He spoke slowly, with assurance that he would be listened to, and
+he looked only at the person with whom he was conversing.
+
+Prince Andrew followed Speránski’s every word and movement with
+particular attention. As happens to some people, especially to men
+who judge those near to them severely, he always on meeting
+anyone new—especially anyone whom, like Speránski, he knew by
+reputation—expected to discover in him the perfection of human
+qualities.
+
+Speránski told Kochubéy he was sorry he had been unable to come sooner
+as he had been detained at the palace. He did not say that the Emperor
+had kept him, and Prince Andrew noticed this affectation of modesty.
+When Kochubéy introduced Prince Andrew, Speránski slowly turned
+his eyes to Bolkónski with his customary smile and looked at him in
+silence.
+
+“I am very glad to make your acquaintance. I had heard of you, as
+everyone has,” he said after a pause.
+
+Kochubéy said a few words about the reception Arakchéev had given
+Bolkónski. Speránski smiled more markedly.
+
+“The chairman of the Committee on Army Regulations is my good friend
+Monsieur Magnítski,” he said, fully articulating every word and
+syllable, “and if you like I can put you in touch with him.” He
+paused at the full stop. “I hope you will find him sympathetic and
+ready to co-operate in promoting all that is reasonable.”
+
+A circle soon formed round Speránski, and the old man who had talked
+about his subordinate Pryánichnikov addressed a question to him.
+
+Prince Andrew without joining in the conversation watched every movement
+of Speránski’s: this man, not long since an insignificant divinity
+student, who now, Bolkónski thought, held in his hands—those plump
+white hands—the fate of Russia. Prince Andrew was struck by the
+extraordinarily disdainful composure with which Speránski answered
+the old man. He appeared to address condescending words to him from
+an immeasurable height. When the old man began to speak too loud,
+Speránski smiled and said he could not judge of the advantage or
+disadvantage of what pleased the sovereign.
+
+Having talked for a little while in the general circle, Speránski rose
+and coming up to Prince Andrew took him along to the other end of the
+room. It was clear that he thought it necessary to interest himself in
+Bolkónski.
+
+“I had no chance to talk with you, Prince, during the animated
+conversation in which that venerable gentleman involved me,” he said
+with a mildly contemptuous smile, as if intimating by that smile that he
+and Prince Andrew understood the insignificance of the people with whom
+he had just been talking. This flattered Prince Andrew. “I have known
+of you for a long time: first from your action with regard to your
+serfs, a first example, of which it is very desirable that there should
+be more imitators; and secondly because you are one of those gentlemen
+of the chamber who have not considered themselves offended by the new
+decree concerning the ranks allotted to courtiers, which is causing so
+much gossip and tittle-tattle.”
+
+“No,” said Prince Andrew, “my father did not wish me to take
+advantage of the privilege. I began the service from the lower grade.”
+
+“Your father, a man of the last century, evidently stands above our
+contemporaries who so condemn this measure which merely re-establishes
+natural justice.”
+
+“I think, however, that these condemnations have some ground,”
+returned Prince Andrew, trying to resist Speránski’s influence, of
+which he began to be conscious. He did not like to agree with him in
+everything and felt a wish to contradict. Though he usually spoke easily
+and well, he felt a difficulty in expressing himself now while talking
+with Speránski. He was too much absorbed in observing the famous
+man’s personality.
+
+“Grounds of personal ambition maybe,” Speránski put in quietly.
+
+“And of state interest to some extent,” said Prince Andrew.
+
+“What do you mean?” asked Speránski quietly, lowering his eyes.
+
+“I am an admirer of Montesquieu,” replied Prince Andrew, “and
+his idea that le principe des monarchies est l’honneur me paraît
+incontestable. Certains droits et privilèges de la noblesse me
+paraissent être des moyens de soutenir ce sentiment.” *
+
+     * “The principle of monarchies is honor seems to me
+     incontestable. Certain rights and privileges for the
+     aristocracy appear to me a means of maintaining that
+     sentiment.”
+
+
+The smile vanished from Speránski’s white face, which was much
+improved by the change. Probably Prince Andrew’s thought interested
+him.
+
+“Si vous envisagez la question sous ce point de vue,” * he began,
+pronouncing French with evident difficulty, and speaking even slower
+than in Russian but quite calmly.
+
+    * “If you regard the question from that point of view.”
+
+
+Speránski went on to say that honor, l’honneur, cannot be upheld by
+privileges harmful to the service; that honor, l’honneur, is either a
+negative concept of not doing what is blameworthy or it is a source of
+emulation in pursuit of commendation and rewards, which recognize it.
+His arguments were concise, simple, and clear.
+
+“An institution upholding honor, the source of emulation, is one
+similar to the Légion d’honneur of the great Emperor Napoleon, not
+harmful but helpful to the success of the service, but not a class or
+court privilege.”
+
+“I do not dispute that, but it cannot be denied that court privileges
+have attained the same end,” returned Prince Andrew. “Every courtier
+considers himself bound to maintain his position worthily.”
+
+“Yet you do not care to avail yourself of the privilege, Prince,”
+said Speránski, indicating by a smile that he wished to finish amiably
+an argument which was embarrassing for his companion. “If you will
+do me the honor of calling on me on Wednesday,” he added, “I will,
+after talking with Magnítski, let you know what may interest you, and
+shall also have the pleasure of a more detailed chat with you.”
+
+Closing his eyes, he bowed à la française, without taking leave, and
+trying to attract as little attention as possible, he left the room.
+
+
+
+
+
+CHAPTER VI
+
+During the first weeks of his stay in Petersburg Prince Andrew felt the
+whole trend of thought he had formed during his life of seclusion quite
+overshadowed by the trifling cares that engrossed him in that city.
+
+On returning home in the evening he would jot down in his notebook four
+or five necessary calls or appointments for certain hours. The mechanism
+of life, the arrangement of the day so as to be in time everywhere,
+absorbed the greater part of his vital energy. He did nothing, did
+not even think or find time to think, but only talked, and talked
+successfully, of what he had thought while in the country.
+
+He sometimes noticed with dissatisfaction that he repeated the same
+remark on the same day in different circles. But he was so busy for
+whole days together that he had no time to notice that he was thinking
+of nothing.
+
+As he had done on their first meeting at Kochubéy’s, Speránski
+produced a strong impression on Prince Andrew on the Wednesday, when he
+received him tête-à-tête at his own house and talked to him long and
+confidentially.
+
+To Bolkónski so many people appeared contemptible and insignificant
+creatures, and he so longed to find in someone the living ideal of that
+perfection toward which he strove, that he readily believed that in
+Speránski he had found this ideal of a perfectly rational and virtuous
+man. Had Speránski sprung from the same class as himself and possessed
+the same breeding and traditions, Bolkónski would soon have discovered
+his weak, human, unheroic sides; but as it was, Speránski’s strange
+and logical turn of mind inspired him with respect all the more because
+he did not quite understand him. Moreover, Speránski, either because he
+appreciated the other’s capacity or because he considered it necessary
+to win him to his side, showed off his dispassionate calm reasonableness
+before Prince Andrew and flattered him with that subtle flattery which
+goes hand in hand with self-assurance and consists in a tacit assumption
+that one’s companion is the only man besides oneself capable of
+understanding the folly of the rest of mankind and the reasonableness
+and profundity of one’s own ideas.
+
+During their long conversation on Wednesday evening, Speránski more
+than once remarked: “We regard everything that is above the common
+level of rooted custom...” or, with a smile: “But we want the wolves
+to be fed and the sheep to be safe...” or: “They cannot understand
+this...” and all in a way that seemed to say: “We, you and I,
+understand what they are and who we are.”
+
+This first long conversation with Speránski only strengthened in Prince
+Andrew the feeling he had experienced toward him at their first meeting.
+He saw in him a remarkable, clear-thinking man of vast intellect who by
+his energy and persistence had attained power, which he was using solely
+for the welfare of Russia. In Prince Andrew’s eyes Speránski was the
+man he would himself have wished to be—one who explained all the facts
+of life reasonably, considered important only what was rational, and
+was capable of applying the standard of reason to everything. Everything
+seemed so simple and clear in Speránski’s exposition that Prince
+Andrew involuntarily agreed with him about everything. If he replied and
+argued, it was only because he wished to maintain his independence and
+not submit to Speránski’s opinions entirely. Everything was right
+and everything was as it should be: only one thing disconcerted Prince
+Andrew. This was Speránski’s cold, mirrorlike look, which did not
+allow one to penetrate to his soul, and his delicate white hands, which
+Prince Andrew involuntarily watched as one does watch the hands of
+those who possess power. This mirrorlike gaze and those delicate hands
+irritated Prince Andrew, he knew not why. He was unpleasantly
+struck, too, by the excessive contempt for others that he observed in
+Speránski, and by the diversity of lines of argument he used to
+support his opinions. He made use of every kind of mental device, except
+analogy, and passed too boldly, it seemed to Prince Andrew, from one
+to another. Now he would take up the position of a practical man and
+condemn dreamers; now that of a satirist, and laugh ironically at his
+opponents; now grow severely logical, or suddenly rise to the realm of
+metaphysics. (This last resource was one he very frequently employed.)
+He would transfer a question to metaphysical heights, pass on to
+definitions of space, time, and thought, and, having deduced the
+refutation he needed, would again descend to the level of the original
+discussion.
+
+In general the trait of Speránski’s mentality which struck Prince
+Andrew most was his absolute and unshakable belief in the power and
+authority of reason. It was evident that the thought could never occur
+to him which to Prince Andrew seemed so natural, namely, that it is
+after all impossible to express all one thinks; and that he had never
+felt the doubt, “Is not all I think and believe nonsense?” And
+it was just this peculiarity of Speránski’s mind that

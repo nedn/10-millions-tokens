@@ -1,0 +1,9 @@
+.venv/
+.cache/
+__pycache__/
+*.pyc
+.solution-password
+solution.txt
+secret_sentences.json
+solution/*
+!solution/solution.zip

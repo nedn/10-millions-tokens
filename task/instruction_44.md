@@ -9,18 +9,6 @@ You may copy it, give it away or re-use it under the terms of the
 [Project Gutenberg License](../sources/gutenberg-license.txt) included with this eBook
 or online at [www.gutenberg.org](https://www.gutenberg.org).
 
-I made the sign of the Knights of the East and of Jerusalem, and he responded in the same manner, asking me with a mild smile what I had learned and gained in the Prussian and lodges.
-
-“H-o-o-w are standing?
-
-“Another romance,” said the officer.
-
-Bagratión drove up in a carriage to the occupied by Barclay.
-
-They drank to Narýshkin, Uvárov, Dolgorúkov, Apráksin, Valúev, to the committee, to all the club members and to all the club guests, and finally to Count Ilyá Rostóv separately, as the organizer of the banquet.
-
-* he said, remembering what has to be said such moments: but his words sounded so weak that he felt ashamed of himself.
-
 Borís passed them twice and each time away.
 
 sat some time at table, Speránski corked a bottle of wine and, remarking, “Nowadays good wine rides in a carriage and pair,” passed it to the servant and got up.
@@ -6285,8 +6273,6 @@ said Pierre with an amused smile, evidently in that cheerful mood of good humore
 
 And we quarreled about—I don’t even remember!”
 
-Place `instruction_54.md` immediately after this one in your journey.
-
 He not merely did nothing of the but on the contrary he used his power to select the most foolish and ruinous of all the courses open to him.
 
 On reaching Petersburg he inquired for Kurágin but the had already left the city.
@@ -8854,6 +8840,8 @@ You are angry with me for coming?
 said Pierre, expressing himself so artificially because was talking French.
 
 They continued what French had begun.
+
+In the catalog, the distance between 9 and six denotes the document you must now choose.
 
 Denísov had not returned.
 
@@ -12049,13 +12037,17 @@ Suddenly a smallish dog seized my left thigh with its teeth and would not let
 
 Stepping cautiously one foot to the other she ran like a kitten the few steps to the door and grasped the cold door handle.
 
-Burning lips were pressed to hers, and at the same instant she felt herself released, and Hélène’s footsteps and the rustle of her dress were in the room.
+There is lying back in an armchair in his velvet cloak, leaning his head on his thin pale hand.
 
-I accidentally,” replied Pierre.
+Free will is for history only an expression for the unknown remainder of what we know about the laws of life.
 
-Order is not yet restored and not a single merchant carrying on trade in a lawful manner.
+“Yes, I been much blamed,” he said, “both for that war and the peace...
 
-Drowsiness was irresistibly mastering him, but he kept awake by an excruciating pain in his arm, for which he could no satisfactory position.
+Though this plan had been drawn up on the supposition that Moscow was still in our hands, it approved by the staff and accepted as a basis for action.
+
+Freemasonry is a religious ceremonial sect, as I thought it was: Freemasonry is the best expression of the best, the eternal, aspects of humanity.”
+
+A town built of wood, where scarcely a day passes without conflagrations when the house owners are in residence and a police force is present, cannot help burning when its inhabitants have left it and it is occupied by soldiers smoke pipes, make campfires of the Senate chairs in the Senate Square, and cook themselves meals twice a day.
 
 But if three days pass, then after that, well, then that battle will not soon be over.”
 
@@ -12151,18 +12143,20 @@ He said this smiling in a way more natural and animated than usual, so that the 
 
 It’s he!
 
-“I
+What
 
-They’re
+he
 
-The cold wind flapped the ends of her kerchief and her locks of gray hair.
+From the death of Count Bezúkhov he did not let go hold of the lad.
 
-Prince looked at Túshin from under his brows and his fingers twitched nervously.
+Excuse Vicomte—I must tell it in Russian or the point will be lost....”
 
-Nicholas began pacing up and down the
+“You won’t bear me a grudge, Prokhór
 
 “But it can’t be he, alone in the midst this empty field!”
 
-then, go on, go on!”
+In does the substance of those reproaches lie?
 
-“Oh, now!
+A daughter, I
+
+One must think of the future, of all of

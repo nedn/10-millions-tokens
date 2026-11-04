@@ -9,11 +9,7 @@ You may copy it, give it away or re-use it under the terms of the
 [Project Gutenberg License](../sources/gutenberg-license.txt) included with this eBook
 or online at [www.gutenberg.org](https://www.gutenberg.org).
 
-Andrew shrugged his shoulders.
-
-After admitting the doctor, Princess Mary sat down with a book in the drawing room near the door through which she could hear all that passed the study.
-
-He had taken her at her word when she wrote giving him his freedom and now behaved as if all had passed between them had been long forgotten and could never in any case be renewed.
+There were about thirty officers, Pierre among them, and about three hundred men.
 
 It was rumored that Savary had been sent to propose Alexander a meeting with Napoleon.
 
@@ -418,8 +414,6 @@ The soldier said no and the talk went on.
 So that examining the relation in time of the commands to the events, we find that command can never be the cause of the event, but that a certain definite dependence exists between the two.
 
 As he had done on their first meeting at Kochubéy’s, Speránski produced a strong impression Prince Andrew on the Wednesday, when he received him tête-à-tête at his own house and talked to him long and confidentially.
-
-Proceed from here into the instruction file whose number is LXXVIII in Roman numerals.
 
 Only now did Pierre realize the full strength of life in man and the saving power he has of transferring attention from one thing to another, which is like the safety valve of a boiler that allows superfluous steam to blow off when the pressure exceeds a certain limit.
 
@@ -7239,6 +7233,8 @@ for them “the marshal” represented a very high and rather mysterious power.
 
 He did not find the civil servant his wife where he had left them.
 
+Read further by selecting the document whose number is the number immediately between 94 and 96.
+
 Pétya, his in his mouth with excitement, rode by his side.
 
 “He could not marry, for he married already,” said Pierre.
@@ -11853,15 +11849,11 @@ When the sun had entirely emerged from the fog, and fields and mist were aglow w
 
 “It’s that...”
 
-asked Anna Pávlovna, securing silence for the mot, which she had heard
+“Well, madam,” he began, stooping over the book close to his daughter and placing an arm on the back of the chair on which she sat, so that she felt herself surrounded on all sides by the acrid scent of old age and tobacco, which she known so long.
 
-But the countess’ health them to delay their departure from day to day.
+a good time?”
 
-Neither cared to begin
-
-At that moment it meant nothing to him who might be standing over him, or what was said of him; he was only glad that people were standing near him and only wished that they would help him and bring him back to life, which seemed to him so beautiful now that he had today learned understand it so differently.
-
-came and, taking my arm, led me to a building to enter we had to pass along a narrow plank.
+“Bonjour,
 
 Natásha was in over “Uncle’s” singing.
 
@@ -11949,12 +11941,22 @@ It was what the French called “le hourra de
 
 After a while he re-entered it as if to the candles, and, seeing the prince was lying on the sofa, looked at him, noticed his perturbed face, shook his head, and going up to him silently kissed him on the shoulder and left the room without snuffing the candles or saying why he had entered.
 
-Everywhere Kutúzov retreated, but the enemy without waiting for his retreat fled the opposite direction.
+“Yes, Mamma, I tell you sincerely that these are hard and sad for every Russian.
 
-Prince Andrew saw that the officer was in that state of senseless, tipsy when a man does not know what he is saying.
+continued Monsieur Pierre, betraying by this desperate and provocative proposition his extreme youth his wish to express all that was in his mind.
 
-“Who art
+Besides that, he sent greetings to Monsieur Schelling, Madame Schoss, and his old nurse, and asked them to kiss for him “dear Sónya, whom he loved and thought of the same as ever.”
 
-But perhaps it’s of my own.
+“Oh, yes, I was found worthy.
 
-skillful commander?”
+he; “don’t worry about your wife: what can be done shall be.
+
+The fencing has gone on for some time; suddenly one of the combatants, feeling himself wounded and understanding that the matter is no joke but concerns his life, down his rapier, and seizing the first cudgel that comes to hand begins to brandish it.
+
+Some latecomers took their seats in the stalls, the curtain rose.
+
+And I you!”
+
+CHAPTER II Pávlovna’s drawing room was gradually filling.
+
+Mavrúshka, go.”

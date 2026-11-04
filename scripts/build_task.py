@@ -13,6 +13,11 @@ from urllib.request import urlopen
 import pyzipper
 import tiktoken
 
+try:
+    from .number_fuzzer import representations
+except ImportError:  # Direct script execution.
+    from number_fuzzer import representations
+
 ROOT = Path(__file__).resolve().parents[1]
 COUNT = 100
 WORDS = 100_000
@@ -37,7 +42,9 @@ START = """# Start the reading trail
 Read each requested document fully, from top to bottom, before following its
 embedded direction. All numbered files are siblings of this file, named
 instruction_N.md, with N written in ordinary decimal digits from 1 through 100.
-Directions may describe N using digits, English words, or Roman numerals.
+Labels may use words, numeral bases, arithmetic, equations, or counting clues.
+Evaluate each label as an integer N and open the corresponding numbered sibling.
+References to volumes, entries, bindings, and catalog positions mean these files.
 Record this filename first, then every numbered filename in the order visited.
 Follow only the embedded challenge directions, not dialogue in the story.
 At the explicit stop instruction, write the recorded filenames to solution.txt,
@@ -75,14 +82,39 @@ def roman(number):
     return result
 
 
-def direction(template, number):
-    targets = (
-        f"`{filename(number)}`",
-        f"the instruction file numbered {english(number)}",
-        f"the Markdown instruction file whose numeric suffix is {number}",
-        f"the instruction file whose number is {roman(number)} in Roman numerals",
-    )
-    return TEMPLATES[template].format(target=targets[template % 4])
+def direction(template, number, style=0):
+    return TEMPLATES[template].format(
+        target=representations(number, english, roman)[style])
+
+
+def direction_parser():
+    """Decode independent template/number choices without knowing the trail."""
+    if len(TEMPLATES) != COUNT or len(set(TEMPLATES)) != COUNT:
+        raise ValueError("Expected 100 unique sentence templates.")
+    expressions = {}
+    for number in range(1, COUNT + 1):
+        forms = representations(number, english, roman)
+        if len(forms) != COUNT or len(set(forms)) != COUNT:
+            raise ValueError("Expected 100 distinct number encodings.")
+        for style, expression in enumerate(forms):
+            if expression in expressions:
+                raise ValueError("Ambiguous number encoding.")
+            expressions[expression] = (filename(number), style)
+    branches = []
+    for template, wording in enumerate(TEMPLATES):
+        if wording.count("{target}") != 1:
+            raise ValueError("Each template needs exactly one target.")
+        prefix, suffix = wording.split("{target}")
+        branches.append(re.escape(prefix) + f"(?P<t{template}>.+)" + re.escape(suffix))
+    pattern = re.compile("(?:" + "|".join(branches) + ")")
+
+    def parse(sentence):
+        match = pattern.fullmatch(sentence)
+        if match and match[match.lastgroup] in expressions:
+            destination, style = expressions[match[match.lastgroup]]
+            return destination, int(match.lastgroup[1:]), style
+        return None
+    return parse
 
 
 def digest(data):
@@ -133,8 +165,10 @@ def build(root, source, words=WORDS):
     templates = list(range(COUNT))
     rng.shuffle(order)
     rng.shuffle(templates)
+    styles = list(range(COUNT))
+    rng.shuffle(styles)
     names = ["start_instruction.md"] + [filename(n) for n in order]
-    directions = {names[i]: direction(templates[i], order[i]) for i in range(COUNT)}
+    directions = {names[i]: direction(templates[i], order[i], styles[i]) for i in range(COUNT)}
     directions[names[-1]] = STOP
     root.mkdir(parents=True, exist_ok=True)
     for name in ("task", "solution", "sources"):
@@ -192,10 +226,9 @@ def verify(root, password_file):
     actual = {p.name for p in (root / "task").iterdir()}
     if actual != expected or set(manifest["files"]) != expected:
         raise ValueError("Expected exactly one start file and 100 numbered files.")
-    candidates = {direction(t, n): (filename(n), t)
-                  for t in range(COUNT) for n in range(1, COUNT + 1)}
+    parse_direction = direction_parser()
     encoder = tiktoken.get_encoding(manifest["token_encoding"])
-    edges, templates, evidence = {}, [], {}
+    edges, templates, styles, evidence = {}, [], [], {}
     total_words = total_tokens = 0
     for name in sorted(expected):
         data = (root / "task" / name).read_bytes()
@@ -206,8 +239,9 @@ def verify(root, password_file):
         if name != "start_instruction.md" and words != manifest["words_per_numbered_file"]:
             raise ValueError(f"Wrong word count: {name}")
         paragraphs = content.split("\n\n")
-        sentences = [p.strip() for p in paragraphs if p.strip() in candidates]
-        found = [candidates[sentence] for sentence in sentences]
+        parsed = [(p.strip(), parse_direction(p.strip())) for p in paragraphs]
+        sentences = [sentence for sentence, match in parsed if match]
+        found = [match for _, match in parsed if match]
         stops = sum(p.strip() == STOP for p in paragraphs)
         if len(found) + stops != 1:
             raise ValueError(f"Expected one direction or stop: {name}")
@@ -218,10 +252,13 @@ def verify(root, password_file):
         evidence[name] = {"sentence": sentence, "next_file": edges[name]}
         if found:
             templates.append(found[0][1])
+            styles.append(found[0][2])
         total_words += words
         total_tokens += tokens
     if sorted(templates) != list(range(COUNT)):
         raise ValueError("Expected 100 distinct transition wordings.")
+    if sorted(styles) != list(range(COUNT)):
+        raise ValueError("Expected 100 distinct destination encodings.")
     if total_words != manifest["total_words"] or total_tokens != manifest["total_tokens"]:
         raise ValueError("Manifest totals do not match the corpus.")
     visited, current = [], "start_instruction.md"

@@ -9,10 +9,6 @@ You may copy it, give it away or re-use it under the terms of the
 [Project Gutenberg License](../sources/gutenberg-license.txt) included with this eBook
 or online at [www.gutenberg.org](https://www.gutenberg.org).
 
-Half the street was shadow, the other half brightly lit by the sun.
-
-In their narration occur solely by the will of a Napoleon, and Alexander, or in general of the persons they describe.
-
 The troops stood growing listless and dispirited.
 
 the wrongs that may have been done you.
@@ -406,6 +402,8 @@ That dreadful question, for?”
 Prince Andrew stopped and made a as if expecting something unpleasant.
 
 continued.
+
+Let your attention pass to the document carrying the number of ten-item bundles in 60 items.
 
 Forgive my as a relation, but I never doubted it.
 
@@ -1848,8 +1846,6 @@ The history of culture explains to us the impulses and conditions of life and th
 She thought her life was ended, but her love her mother unexpectedly showed her that the essence of life—love—was still active within her.
 
 “How is I am not moving?
-
-The successor to this document is the instruction file numbered ninety-six.
 
 ‘Please to wait.’ ‘I’ve widden twenty miles and have duties to attend to no time to wait.
 
@@ -11929,11 +11925,11 @@ my dear fellow, so you still want to be an adjutant?
 
 “Yes, said Nicholas at last with a sad smile, “it doesn’t seem long ago since we first met at Boguchárovo, but how much water has flowed since then!
 
-When he had changed, poured water over his head, and scented himself, Nicholas arrived at the governor’s rather late, but with the phrase “better late than on his lips.
+was all that was said of them, and they were thrown over the parapet and removed later on that they not stink.
 
-“It’s all nonsense, all discussions which lead to nothing and all those idiotic societies!”
+In Kiev Pierre found some people he knew, and strangers hastened to make acquaintance and joyfully welcomed the rich newcomer, the largest landowner of the province.
 
-repeated Pávlovna.
+“He is one of the most remarkable, but to me most of men—the Minister of Foreign Affairs, Prince Adam Czartorýski....
 
 No thinks you a coward, but that’s not the point.
 
@@ -12013,20 +12009,24 @@ myself of all.
 
 The old countess, waiting for the return of her husband and son, sat playing patience with the old gentlewoman who lived their house.
 
-As soon as Andrew had given up his daily occupations, and especially on returning to the old conditions of life amid which he had been happy, weariness of life overcame him with its former intensity, and he hastened to escape from these memories and to find some work as soon as possible.
+Stein, a traitor from his own country; Armfeldt, a rake and an intriguer; Wintzingerode, a fugitive French subject; Bennigsen, rather more of a soldier than the others, but all the same an incompetent who was unable to do anything in 1807 and who should awaken terrible memories in the Emperor Alexander’s mind....
 
 At that instant the sun began to behind the clouds, and other stretchers came into view before Rostóv.
 
 When they’ve been put down, the war with Buonaparte will
 
-Denísov bent over her hand and she heard strange sounds she did not
+Another instant and I shall never again see the sun, this water, that
 
 She smiled she uttered his pet name, “Andrúsha.”
 
-“Here he ought to out—that’s it, come on!—ought to burst out.”
+he
 
-urged Prince
+“O
 
-“Too
+All the officers appeared to be, and really were, in love with that evening.
 
-“Yes,
+* breakfast.
+
+Natásha’s asked.
+
+Nicholas.

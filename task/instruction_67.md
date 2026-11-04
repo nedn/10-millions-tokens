@@ -2623,6 +2623,8 @@ said Princess
 
 “Yes, Princess,” said Nicholas at last with sad smile, “it doesn’t seem long ago since we first met at Boguchárovo, but how much water has flowed since then!
 
+Replace the present text with entry (76 squared + 76) / 77 when finished.
+
 Princess too, went round to him.
 
 Who is there in
@@ -9719,8 +9721,6 @@ We shall not cease to express our sincere views on that subject, and can only sa
 
 verse,” she said, without noticing Nicholas.
 
-When you leave here, head for the instruction file whose number is V in Roman numerals.
-
 “It seems that there will be no need to bring Mary out, suitors are coming to us of their own accord,” incautiously the little princess on hearing the news.
 
 This was the Petersburg doctor, Lorrain.
@@ -12161,6 +12161,10 @@ She ran up to him and, the play of the sunlight that fell in small round spots t
 
 To all these inquiries he gave brief and angry replies indicating orders from him were not now needed, that the whole affair, carefully prepared by him, had now been ruined by somebody, and that that somebody would have to bear the whole responsibility for all that might happen.
 
-“There,
+and
 
-on...
+Natásha.
+
+it.
+
+said

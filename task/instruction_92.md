@@ -9,6 +9,12 @@ You may copy it, give it away or re-use it under the terms of the
 [Project Gutenberg License](../sources/gutenberg-license.txt) included with this eBook
 or online at [www.gutenberg.org](https://www.gutenberg.org).
 
+“Have they surrendered my ancient capital without battle?”
+
+But as she approached Yaroslávl the thought of what await her there—not after many days, but that very evening—again presented itself to her and her agitation increased to its utmost limit.
+
+time!”
+
 This sentence about Countess Zúbova and this same laugh Prince Andrew had already heard from his wife in the presence of others some five times.
 
 Mademoiselle Bourienne, also roused great excitement by Anatole’s arrival, thought in another way.
@@ -4786,8 +4792,6 @@ The French, excited by all that had happened, were talking loudly among themselv
 How does use it?
 
 if he challenges him to a will that be all right?
-
-Make for `instruction_46.md` once you have finished here.
 
 The passage broke off in the middle, a cry was heard, Princess Mary’s heavy tread and the sound of kissing.
 
@@ -11015,6 +11019,8 @@ Well then,
 
 And one of the soldiers, his face all once distorted with fury, struck Vereshchágin on the head with the blunt side of his saber.
 
+The librarian has reserved shelf position two greater than 91 for your continuation.
+
 There was a general who did not believe, and ‘The monks cheat,’ and as soon as he’d said it he went blind.
 
 reference to army discipline, orders were continually being issued to inflict severe punishment for the nonperformance of military duties and to suppress robbery.
@@ -11949,15 +11955,17 @@ He and the other prisoners were taken to the right of the Virgin’s Field, to a
 
 The Emperor was pale, his cheeks sunken and his eyes but the charm, the mildness of his features, was all the greater.
 
-“With a short coat and his hair cropped; just as if, well, just as if he had come straight from bath...
+The count was not angry even when they told him that Natásha had countermanded an order of his, and the servants now came to her to ask whether a cart was sufficiently loaded, and whether it might corded up.
 
-Alpátych replied that the Governor had not him anything definite.
+“Yes, let them have it,” replied Prince
 
-be ours!”
+The hall porter pulled a bell that rang upstairs, and turned away.
 
-That’s just it,
+The women and girls flirted with him and, from the first day, the people concerned themselves to get this fine young daredevil an hussar married and settled down.
 
-He was only quite at ease when having poured several of wine mechanically into his large mouth he felt a pleasant warmth in his body, an amiability toward all his fellows, and a readiness to respond superficially to every idea without probing it deeply.
+“He lets one win the singles and collahs it as soon as one doubles it; gives the singles and snatches the
+
+is it?
 
 He believed this so firmly that others, looking at him, were persuaded of it too and did not refuse him either a leading place in or money, which he borrowed from anyone and everyone and evidently would not repay.
 
@@ -12043,26 +12051,8 @@ a royal word,” Count Rostóv, with a sob.
 
 Timókhin, kept awake by the pain in his wounded leg, gazed with eyes at this strange apparition of a girl in a white chemise, dressing jacket, and nightcap.
 
-Without moving from where he stood he speaking in a louder tone and more hurriedly than before.
+But at that very instant a cloud of smoke spread all round, firing was heard close at hand, and a voice of naïve terror barely two steps from Prince Andrew shouted, “Brothers!
 
-Julie wrote in French: Dear and precious Friend, How terrible and frightful a thing is
+exclaimed
 
-he sang, pretending to hiccough each syllable.
-
-I don’t understand things, but Austria never has wished, and does not wish, for war.
-
-you don’t understand!”
-
-the interpreter.”
-
-Smolénsk was abandoned contrary to the wishes of the Emperor and of the whole
-
-Berg always spoke politely, and with great precision.
-
-I bought pounds.
-
-Pierre took the letter Anatole handed him and, pushing aside a table that stood in his way, threw on the sofa.
-
-“Forward, God!”
-
-now!
+he

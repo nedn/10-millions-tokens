@@ -9,6 +9,8 @@ You may copy it, give it away or re-use it under the terms of the
 [Project Gutenberg License](../sources/gutenberg-license.txt) included with this eBook
 or online at [www.gutenberg.org](https://www.gutenberg.org).
 
+“But a...
+
 the faiwy!
 
 Something not breaking in through that door, and had to be kept out.
@@ -2597,6 +2599,8 @@ The was a compromise which was inevitable: a small detachment was sent to Formí
 
 “No, I agree with you!
 
+Finish here before examining the sibling numbered a quarter of 232.
+
 Timókhin looked about in confusion, not knowing what or how answer such a question.
 
 Yet Napoleon, that greatest of all geniuses, who the historians declare had control of the army, none of these steps.
@@ -3798,8 +3802,6 @@ Well, you have us up!
 But can she love
 
 They have gone to estate near Moscow.”
-
-The continuation of your route lies in `instruction_4.md`.
 
 We had no idea, never guessed all.”
 
@@ -12245,10 +12247,6 @@ Their and their mutually incomprehensible remarks in two languages could be hear
 
 “Yes, he is over sixty.
 
-Natásha set to work to effect a reconciliation, and so far succeeded that Nicholas received a promise from his mother that Sónya should be troubled, while he on his side promised not to undertake anything without his parents’ knowledge.
+In the hospitals, death was so certain that soldiers suffering from fever, or the swelling that came from bad food, preferred to remain duty, and hardly able to drag their legs went to the front rather than to the hospitals.
 
-“Don’t about me,” said Pierre.
-
-Dear
-
-Lëlya?”
+now!”

@@ -9,8 +9,6 @@ You may copy it, give it away or re-use it under the terms of the
 [Project Gutenberg License](../sources/gutenberg-license.txt) included with this eBook
 or online at [www.gutenberg.org](https://www.gutenberg.org).
 
-And to his horses, he began to pass the first sleigh.
-
 said Ivánovna.
 
 went up to him, though he knew his attempt would be vain.
@@ -2484,6 +2482,8 @@ Paulucci was there he was bold and decided in speech.
 The kingdom God will be overthrown...
 
 “Ah, is you, cousin?”
+
+Your reading assignment after this is the entry marked the smaller integer in the pair (40, 50).
 
 prisoner?
 
@@ -7098,8 +7098,6 @@ to me with Uvárka.”
 The French had attacked the battery and, seeing Kutúzov, were firing him.
 
 Catiche is one and Princess another.”
-
-Trace the path onward by opening the instruction file whose number is XVIII in Roman numerals.
 
 Be quiet, be quiet, quiet, I tell you!...”
 
@@ -11977,9 +11975,9 @@ Dessalles his eyes.
 
 do you say?”
 
-“That’s always the thought Countess Mary.
+“You have known a long time?”
 
-Denísov did not take his eyes off her and beat time with his saber in way that clearly indicated that if he was not dancing it was because he would not and not because he could not.
+she said, not go of his arm.
 
 Hélène.
 
@@ -12067,16 +12065,14 @@ Having said this, Napoleon rode on to meet Marshal Lannes, who, hat hand, rode u
 
 Pierre began to feel sense of uneasiness, and the need, even the inevitability, of entering into conversation with this stranger.
 
-Formerly she had felt that he regarded her with indifference and irony, and so had shrunk into herself as she did with others and had shown him only the combative side of her nature; but now he seemed to be trying to understand the most intimate places of her heart, and, mistrustfully first but afterwards gratefully, she let him see the hidden, kindly sides of her character.
+“But it’s strange, friends,” continued the man who had wondered at their whiteness, “the peasants at Mozháysk were saying that when they began burying the dead—where the battle was you know—well, those dead had been lying there for nearly a month, and says the peasant, ‘they lie as white as paper, clean, not as much smell as a puff of powder smoke.’” “Was it from the cold?”
 
-“Yes, it death!
+Lead that away!”
 
-And then thought...
+What do think?
 
-It suffused him, seized him, enveloped him completely.
+asked the countess if she did not know what the visitor alluded to, though she had already heard about the cause of Count Bezúkhov’s distress some fifteen times.
 
-“I’m sorry for that fine fellow.
+de Beausset the honor of breakfasting with him, they heard, as Napoleon had anticipated, the rapturous cries of the officers and men of Old Guard who had run up to see the portrait.
 
-Natásha rose curtsied to the splendid countess.
-
-“Bah,
+What

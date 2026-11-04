@@ -80,16 +80,20 @@ class ReadingTrailTests(unittest.TestCase):
             task.verify(self.root, self.password)
 
     def test_cycle_is_rejected_even_with_updated_checksums(self):
-        candidates = {task.direction(t, n): t for t in range(0, 100, 4)
-                      for n in range(1, 101)}
+        parse = task.direction_parser()
         for number in range(1, 101):
             name = task.filename(number)
             path = self.root / "task" / name
             content = path.read_text()
-            matches = [p for p in content.split("\n\n") if p.strip() in candidates]
+            matches = [p for p in content.split("\n\n") if parse(p.strip())]
             if matches:
                 old = matches[0].strip()
-                content = content.replace(old, task.direction(candidates[old], number))
+                _, template, style = parse(old)
+                replacement = task.direction(template, number, style)
+                # Choose a replacement that preserves the fixed word budget.
+                if len(replacement.split()) != len(old.split()):
+                    continue
+                content = content.replace(old, replacement)
                 path.write_text(content)
                 manifest_path = self.root / "manifest.json"
                 manifest = json.loads(manifest_path.read_text())

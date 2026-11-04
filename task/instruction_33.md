@@ -9,7 +9,71 @@ You may copy it, give it away or re-use it under the terms of the
 [Project Gutenberg License](../sources/gutenberg-license.txt) included with this eBook
 or online at [www.gutenberg.org](https://www.gutenberg.org).
 
-But it is a crowd, your excellency—I hardly managed to get away from it.
+I have acquired a taste for war, and it is just as well for me; what I have seen during these last three months is incredible.
+
+She at once set to work afresh and they now her completely.
+
+In spite of the frost some hundred generals and staff officers in full parade uniform stood in front of the castle, as well as a guard of honor of the Semënov regiment.
+
+The countess was now over sixty, was quite gray, and a cap with a frill that surrounded her face.
+
+“You are not what say,” returned Davout.
+
+They plunder other people’s houses, issue false paper money, and of all they kill my children and my father, and then talk of rules of war and magnanimity to foes!
+
+The members and guests of the club wandered hither and thither, sat, stood, met, and separated, some in uniform and some in evening dress, and a few here and there with powdered and in Russian kaftáns.
+
+When the flame of the sulphur splinters kindled by the tinder burned up, first blue and then red, Shcherbínin lit the tallow candle, the candlestick of which the cockroaches that had been gnawing it were running away, and looked at the messenger.
+
+how simply she is dressed!
+
+It seemed that no horses could had even for the carriages, much less for the carting.
+
+As soon as he across a former acquaintance or anyone from the staff, he bristled up immediately and grew spiteful, ironical, and contemptuous.
+
+With such masters one live.”
+
+my dear friend!
+
+What a lot men he’s ruined!”
+
+Write and tell him that he may marry if he likes.
+
+The incontestable proof of this deduction is that, however many commands were issued, the event does not take place unless there are other causes for it, but as soon an event occurs—be it what it may—then out of all the continually expressed wishes of different people some will always be found which by their meaning and their time of utterance are related as commands to the events.
+
+“Still, as the prince is unwell my advice is that should go to Moscow.
+
+Did I you?
+
+The staff voice began to tremble.
+
+Believe me, directly the is over, if I am still alive and still loved by you, I will throw up everything and fly to you, to press you forever to my ardent breast.”
+
+asked the German, addressing Lorrain in French he pronounced badly.
+
+the devil has put the logs on the road?”
+
+“The
+
+Weyrother the Austrian general who had succeeded Schmidt.
+
+came a sleepy
+
+Undoubtedly some relation exists between all who live contemporaneously, so it is possible to find some connection between the intellectual activity of men and their historical movements, just as such a connection may be found between the movements of humanity and commerce, handicraft, gardening, or anything else you please.
+
+“So you ideas are an amusement to him....”
+
+cried suddenly rolling his eyes.
+
+“Till I have always, thank God, been my children’s friend and had their full confidence,” said she, repeating the mistake of so many parents who imagine that their children have no secrets from them.
+
+To seize and put into words, to describe directly the life of humanity or even of a single appears impossible.
+
+She passed into the sitting room, stood there thinking awhile, and then into the maids’ room.
+
+She brought her face close to her sister-in-law’s unexpectedly again began to cry.
+
+asked the adjutant who not heard the remark.
 
 The landowner to whom Nicholas went was a an old cavalryman, a horse fancier, a sportsman, the possessor of some century-old brandy and some old Hungarian wine, who had a snuggery where he smoked, and who owned some splendid horses.
 
@@ -3204,6 +3268,8 @@ The superintendent of police, who had gone that morning by Count Rostopchín’s
 The countess was accustomed to this tone as a precursor of news of something detrimental to the children’s interests, such as the building of a new gallery or the inauguration of a private theater or an orchestra.
 
 Had Napoleon not ridden out on the evening of the twenty-fourth to Kolochá, and had he not then ordered an immediate attack on the redoubt but had begun the attack next morning, no one would have doubted that the Shevárdino Redoubt was the left flank of our position, and the battle would have taken place where we expected it.
+
+A margin note assigns the remaining account to number the number of eight-bit bytes in 472 bits.
 
 I must put our in order while I am alive, that’s all.
 
@@ -6904,8 +6970,6 @@ It was more than
 Speránski quietly, lowering his eyes.
 
 Is here?”
-
-The chain continues by way of `instruction_71.md`.
 
 “I try to be reserved because in the depth of my soul I feel too near to him already, but then he know what I think of him and may imagine that I do not like him.”
 
@@ -12213,73 +12277,69 @@ Dieu!”
 
 So many different eyes, old and young, were fixed on her, and there were so many different faces, that she could not distinguish of them and, feeling that she must speak to them all at once, did not know how to do it.
 
-She gave him a passionately angry glance, and hardly able restrain her tears and maintain the artificial smile on her lips, she got up and left the room.
+“Put on white dress.
 
-this one has hit!”
+He spent greater part of his time away from home, at dinners, parties, and balls.
 
-He has, no doubt, forgotten it and will wish to it.
+She was an old animal with a gray back and reddish belly.
 
-The tall youth, against whom he stumbled, seized his thin neck with his hands and, yelling wildly, fell with him under the feet of the pressing, struggling
+It seemed as if I chattered incessantly with other people and suddenly remembered that this could not please him, and I wished to come close to him embrace him.
 
-In their childlike glee, aroused by the fire and their luck in successfully cannonading French, our artillerymen only noticed this battery when two balls, and then four more, fell among our guns, one knocking over two horses and another tearing off a munition-wagon driver’s leg.
+“Seven and three old imperials.”
 
-“They call me ‘little falcon’ in regiment.
+The sound of musketry at the foot of the hill, now diminishing, now seemed like someone’s breathing.
 
-The French entered the gates and began pitching their camp the Senate Square.
+His having encountered her in such exceptional circumstances, and his mother having at one time mentioned her to him as good match, had drawn his particular attention to her.
 
-When the officers had emptied and smashed their glasses, Kírsten filled others and, in shirt sleeves and breeches, went glass in hand to the soldiers’ bonfires and with his long gray mustache, his white chest showing under his open shirt, he stood in a majestic pose in the light of the waving his uplifted arm.
+along, our Matvévna!”
 
-“So do come dine with us!”
+and he handed it to Prince
 
-To console Pierre for these losses the head steward gave him an estimate showing that despite these losses his income would not be diminished but would even be increased if he refused to pay his wife’s debts which he was under no obligation to meet, and did not rebuild his Moscow house and the country house on his Moscow estate, which had him eighty thousand rubles a year and brought in nothing.
+“Oh, nearly knocked our gentleman’s hat off!”
 
-“This what you must do,” said Borís.
+said trembling, frightened voice behind him.
 
-go!”
+During the three days preceding the occupation of Moscow the whole Rostóv family was absorbed in various
 
-Many various, indifferent, and insignificant people appeared before
+Kutúzov looked down at his own occasionally glancing at the door of the adjoining hut as if expecting something unpleasant to emerge from it.
 
-came sharp, unpleasant voice.
+Rapp replied that he had the Emperor’s order about the rice, but Napoleon shook his head in dissatisfaction as if not believing that his order had been executed.
 
-Princess Mary, pale and with chin, came out from that room and taking Natásha by the arm said something to her.
+it cannot be!
 
-Nicholas, laughing.
+“The Smolénsk of God,” another corrected him.
 
-She so wanted a from him that would explain to her what had happened and to which she could find no answer.
+are they taking you to, you poor dear?”
 
-Will get there and fire the bridge or will the French get within grapeshot range and wipe them out?”
+heard on all sides.
 
-Borís tall and fair, and his calm and handsome face had regular, delicate features.
+About the middle of the Street, near the Church of the Miraculous Icon of St.
 
-The is that of saving Russia.
+I knew that if I once let myself see her I should not have strength go on refusing what she wanted.
 
-“Oh, women!”
+Having repeated her order Dron to have horses ready for her departure next morning, she went to her room and remained alone with her own thoughts.
 
-“Just as may suppose you to be deluded,” said Pierre, with a faint smile.
+No one seen him.
 
-“My wretched lawsuit takes all I have and makes no
+It means that he is kind, noble, splendid, and I could not help loving him.
 
-To the right and high up in the sky was the sickle of the waning moon and to it hung that bright comet which was connected in Pierre’s heart with his love.
+“Give her back to give her back!”
 
-“Our fire is mowing them down by but still they hold on,” said the adjutant.
+this is only a rumor.”
 
-said
+With the object of raising the spirits of the troops and of the people, were constantly held and rewards distributed.
 
-God!”
+said Alpátych, coming into own again.
 
-Pierre was the to enter.
+The soldier himself does the stabbing, hacking, burning, and pillaging, and always receives for these actions from men above him; he himself never gives an order.
 
-He thought of the meetings of a committee of Berg was a member.
+It’s our turn to
 
-The book was the Gospel, and the white thing with the lamp inside a human skull with its cavities and teeth.
+But he had finished reading, a stentorian major-domo announced that dinner was ready!
 
-The count met the guests and saw them inviting them all to dinner.
+That is the question on which I want your opinion,” and he back in his chair.
 
-CHAPTER XVII two o’clock in the afternoon the Rostóvs’ four carriages, packed full and with the horses harnessed, stood at the front door.
-
-The soldier to whom the laughers was Dólokhov.
-
-he kept saying, glancing for support at officer of the suite who turned away from him.
+Countess Mary listened till he had finished, some remark, and in her turn began thinking aloud.
 
 He’s nice.”
 
@@ -12317,94 +12377,14 @@ The younger sisters also became affectionate to him, especially the youngest, th
 
 And as soon as the officer let of the gate handle she turned and, hurrying away on her old legs, went through the back yard to the servants’ quarters.
 
-“I took him the forest.
+The day was and frosty.
 
-“Yes, my boy.
+“What that prove?”
 
-This was noticeable on Nesvítski’s usually laughing countenance.
+“Stepping flat his heels—we know what that means....”
 
-he
+Melyukóva was a widow, who, with her family and their tutors and governesses, lived three miles from the
 
-“Mamma, you to try your fate yourself...”
+she sternly.
 
-has begun!
-
-in the fifth verse of the same chapter: And there was given unto him a mouth speaking great things and blasphemies; and power was given unto him to continue forty and two months.
-
-He not ask if she was ready to listen to him.
-
-Do you want to do it?
-
-This short man nodded to Dolgorúkov as to an intimate friend and stared at Prince Andrew with cool intensity, straight toward him and evidently expecting him to bow or to step out of his way.
-
-What is going on the world?”
-
-muttered reproachfully.
-
-and there.”
-
-Her fate was decided and decided.
-
-this fact relating to the Emperor personally, it was impossible to pass any judgment.
-
-If the thought that things looked bad chanced enter anyone’s head, he tried to be as cheerful as befits a good soldier and not to think of the general trend of affairs, but only of the task nearest to hand.
-
-Hélène raised her voice and became more and more excited, “A man a better man than you in every way...”
-
-He himself aware that his demand was meaningless.
-
-“I am very ma’am,” answered the maid.
-
-Did he fear going to war, or was he sad at leaving his wife?—perhaps both, but evidently he did not wish to be seen in that mood, for hearing footsteps in the passage he hurriedly unclasped his hands, stopped at a table as if tying the cover of the small box, and assumed his usual tranquil and impenetrable expression.
-
-he
-
-The became silent.
-
-He stood at the and, though he had heard hardly anything, understood everything in his own way.
-
-want peasant clothes and a pistol,” said Pierre, unexpectedly blushing.
-
-how annoying!”
-
-I’d certainly stay you.
-
-mustn’t think...
-
-“You wouldn’t go, it takes
-
-It was a war for a great cause, the end of uncertainties and the of security.
-
-Formerly he had sought Him in aims set himself.
-
-Natásha grew pale, in a panic of expectation, when she remained with him for a moment.
-
-The doctor, whether from lack of means or he did not like to part from his young wife in the early days of their marriage, took her about with him wherever the hussar regiment went and his jealousy had become a standing joke among the hussar officers.
-
-“The second hundred,” replied Cossack.
-
-said the officer, turning to companion.
-
-What is the
-
-became the latter.
-
-how do you do, great warrior?”
-
-What I to do?
-
-Yes, at that very instant, her fate would be decided.
-
-“Only excuse me, my dear fellow, I’ll give you twenty thousand and a note of hand for thousand as well.
-
-he
-
-Innumerable so-called chances accompany everywhere.
-
-She was to blame that a spy had been
-
-do as you like!
-
-“So the better!
-
-Good
+They have no

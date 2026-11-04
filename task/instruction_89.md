@@ -9,7 +9,15 @@ You may copy it, give it away or re-use it under the terms of the
 [Project Gutenberg License](../sources/gutenberg-license.txt) included with this eBook
 or online at [www.gutenberg.org](https://www.gutenberg.org).
 
-grieve that my waning strength prevents rejoicing in the sight of your most gracious presence.
+the countess.
+
+Every day he said to himself one and the same thing: “It is time I understood her and made up my mind what really is.
+
+want him...
+
+Having received this order the general by Pierre on his way down the knoll.
+
+were its causes?
 
 CHAPTER II On his return to Moscow from the army, Nicholas Rostóv was welcomed by his home circle as the best of sons, hero, and their darling Nikólenka; by his relations as a charming, attractive, and polite young man; by his acquaintances as a handsome lieutenant of hussars, a good dancer, and one of the best matches in the city.
 
@@ -8765,8 +8773,6 @@ When he was within twenty paces, and could clearly distinguish every detail of h
 
 “I don’t want anyone, I don’t love but him.
 
-Advance the itinerary by consulting `instruction_43.md`.
-
 He patted the little girl his white hand and kissed her.
 
 Still more difficult would it be to find an instance in history of the aim an historical personage being so completely accomplished as that to which all Kutúzov’s efforts were directed in 1812.
@@ -10623,6 +10629,8 @@ all appeared angry and dissatisfied.
 
 me!”
 
+Reading resumes where the catalog says the larger integer in the pair (24, 34).
+
 “Will you into the study?”
 
 “Will Your Majesty allow me to the colonel?”
@@ -12029,13 +12037,13 @@ I began the service from the lower
 
 And the same mischievous smile lingered for long time on her face as if it had been forgotten there.
 
-Do you want some more to
+After the deaths of her son and husband in such rapid succession, she felt herself a being accidentally forgotten in this world and left without aim object for her existence.
 
-Forgive me for heaven’s
+“You know, we could them....”
 
-It was long since had been as gay in Moscow as that year.
+The nearer the time for Pétya to return, the more uneasy grew the countess.
 
-a clever maître d’hôtel serves up as a specially choice delicacy a piece of meat that no one who had seen it in the kitchen would have cared to eat, so Anna Pávlovna served up to her guests, first the vicomte and then the abbé, as peculiarly choice morsels.
+will they cross Pomerania?”
 
 At the dressing stations the and earth were soaked with blood for a space of some three acres around.
 
@@ -12139,20 +12147,12 @@ Dólokhov coldly.
 
 Everybody expected some prank from her and did not wish to obey her; but she resolutely and passionately demanded obedience, grew angry and nearly cried because they did not heed and at last succeeded in making them believe her.
 
-Rostóv, rubbing his eyes that seemed glued together, raised disheveled head from the hot pillow.
+o’ ou’ men will wetu’n neithah soldiers no’ peasants, we’ll get only depwavity fwom them.
 
-why did they not execute those maneuvers?
+added.
 
-my husband...
+Varnish, sealing wax, in Michael Ivánovich’s list.”
 
-With hands and
+What does he
 
 It’s queer,” he added after a pause, “that you should suspected me!”
-
-The looks of the Countess Mary always improved when she was in tears.
-
-Pierre himself.
-
-All go, go!”
-
-Now

@@ -1,100 +1,100 @@
-The ledger resumes at {target}.
-Your next appointment is with {target}.
-Let {target} be the succeeding volume.
-For the continuation, consult {target}.
-The trail carries onward to {target}.
-Turn your attention now to {target}.
-A fresh stage of this journey awaits in {target}.
-The ensuing passage belongs to {target}.
-Continue the sequence by visiting {target}.
-Seek the following installment inside {target}.
-Your itinerary's next entry is {target}.
-From this point the route runs through {target}.
-Make your next call at {target}.
-The next item on the reading list is {target}.
-You will find the subsequent step in {target}.
-Proceed from here into {target}.
-The story of this trail continues in {target}.
-Take up {target} when this page is behind you.
-The next leg leads toward {target}.
-Look to {target} for the stage that follows.
-Place {target} immediately after this one in your journey.
-The successor to this document is {target}.
-Set course for {target} as your next destination.
-This stop gives way to {target}.
-Your next reading assignment is {target}.
-Following this section, the path enters {target}.
-Let the trail's next chapter unfold in {target}.
-When you leave here, head for {target}.
-The next waypoint is located at {target}.
-Add {target} to your itinerary after the current document.
-Move on to {target} for the succeeding step.
-This document passes the baton to {target}.
-The continuation of your route lies in {target}.
-Pick up the thread again at {target}.
-The upcoming destination on this route is {target}.
-Take the road from this page to {target}.
-At the conclusion of this visit, find {target}.
-The document waiting in line is {target}.
-Another stop remains ahead: {target}.
-Trace the path onward by opening {target}.
-Here the route bends toward {target}.
-To advance one step, visit {target}.
-Next in your procession comes {target}.
-The companion volume to seek after this is {target}.
-Resume the expedition with {target}.
-The present stage is followed by {target}.
-Your next port of call will be {target}.
-Once this page is finished, transfer to {target}.
-The trail's continuation is held by {target}.
-Let your next stop be {target}.
-The next link in the chain points to {target}.
-Travel onward from here to {target}.
-Continue your reading journey at {target}.
-Thereafter, the relevant document is {target}.
-Your path's next turn takes you into {target}.
-The document to pursue after this one is {target}.
-Take the next stride along the trail to {target}.
-At the next stage, read {target}.
-Beyond this stop lies {target}.
-The itinerary continues with a visit to {target}.
-Your route next intersects {target}.
-The page that follows in this traversal is {target}.
-Leave this document for {target} when done.
-The coming segment can be found in {target}.
-Carry your place in the sequence to {target}.
-Your journey should continue through {target}.
-A subsequent reading awaits you at {target}.
-The step after this one brings you to {target}.
-Advance the itinerary by consulting {target}.
-The next volume to examine is {target}.
-From here, your destination becomes {target}.
-After this document, give your attention to {target}.
-The succeeding entry in the trail is {target}.
-Your next passage through the archive is {target}.
-Complete this visit, then go to {target}.
-The sequence continues at the document {target}.
-Let {target} follow the present stop.
-When this reading is over, seek out {target}.
-A new waypoint appears in {target}.
-Your itinerary now points in the direction of {target}.
-The chain continues by way of {target}.
-Follow this document with a reading of {target}.
-The next place to look on this journey is {target}.
-Choose {target} as the next stop along the route.
-The trail proceeds from this page to {target}.
-Find the next link by turning to {target}.
-What comes after this visit is {target}.
-The next document in your travels shall be {target}.
-Make for {target} once you have finished here.
-Proceed along the trail with {target}.
-At this juncture, the next destination is {target}.
-Your subsequent reading takes place in {target}.
-The path sends you onward into {target}.
-This stage hands over to {target}.
-Continue the succession of documents with {target}.
-The next point in your reading route is {target}.
-To carry on, take up {target}.
-Settle next on {target}.
-Follow the present entry with {target}.
-The trail's following stop is {target}.
+After the dust settles, open the volume labeled {target}.
+The librarian has reserved shelf position {target} for your continuation.
+Carry your bookmark across to entry {target}.
+Your unfinished reading belongs under index {target}.
+Once these pages are exhausted, consult item {target}.
+Let the binding marked {target} occupy your attention afterward.
+A margin note assigns the remaining account to number {target}.
+Resume elsewhere: choose the document designated {target}.
+Put this volume aside in favor of the one bearing {target}.
+At the end of today's passage, turn to folio {target}.
+The register places what follows beneath label {target}.
+Transfer your reading to the sibling with identifier {target}.
+For the account's continuation, use catalog position {target}.
+Only after finishing here should you retrieve volume {target}.
+The pages you need afterward carry the designation {target}.
+Take {target} as the number of your following selection.
+Reading resumes where the catalog says {target}.
+Beyond this account, the required binding bears {target}.
+Replace the present text with entry {target} when finished.
+The archive directs your subsequent visit to slot {target}.
+Keep {target} in mind as the label to open after this.
+Consult the sibling indexed by {target} upon reaching the bottom.
+Your place in the account moves to volume {target}.
+What remains to be read begins in the document marked {target}.
+The handoff belongs to catalog item {target}.
+Set this aside; the continuation is filed at {target}.
+For your ensuing visit, select the label {target}.
+Read on in the numbered sibling corresponding to {target}.
+A change of volume is required here, with {target} identifying its replacement.
+The destination of your bookmark is index {target}.
+Upon completing these lines, fetch record {target}.
+The register's reference for further reading is {target}.
+Let your attention pass to the document carrying {target}.
+Turn from this binding toward the one cataloged as {target}.
+The account picks up again under the heading numbered {target}.
+You are to open the sibling whose label evaluates to {target}.
+Follow this reading with the contents of volume {target}.
+The remaining thread has been entrusted to entry {target}.
+Your subsequent selection must have index {target}.
+Exchange the present pages for those stored at position {target}.
+The continuation's identifying number is {target}.
+Choose the volume denoted by {target} to take this further.
+When this account runs out, the sibling bearing {target} takes over.
+Place your attention on catalog label {target} after finishing here.
+The record to consult afterward is numbered {target}.
+Pass from the present document into the one indexed {target}.
+Read the binding associated with {target} following this one.
+The following portion is kept under identifier {target}.
+Use {target} to locate the volume that succeeds these pages.
+Your bookmark should land in the sibling labeled {target}.
+The catalog redirects you to entry {target} at this point.
+Afterward, it is the volume at position {target} that you should read.
+Look beneath label {target} for the continuation of this account.
+The present reading yields its place to document {target}.
+Advance by opening the numbered sibling represented by {target}.
+For what follows, the relevant catalog designation is {target}.
+The volume marked {target} awaits your attention once this one is done.
+Shift your reading to the entry with label {target}.
+Your subsequent destination has been recorded as {target}.
+Finish here before examining the sibling numbered {target}.
+The account continues in the binding identified by {target}.
+In the catalog, {target} denotes the document you must now choose.
+Seek further pages within the volume bearing number {target}.
+This reading connects directly to the entry indexed {target}.
+The label needed to resume is {target}.
+At the bottom of this text, switch to volume {target}.
+The adjoining stage of your reading uses identifier {target}.
+Go through the sibling filed under {target} after completing this passage.
+The bookmark passes into the binding whose designation is {target}.
+Consult record {target} for the succeeding portion of the account.
+Your reading assignment after this is the entry marked {target}.
+Choose {target} from the catalog as the number to visit afterward.
+The pages following this visit reside in volume {target}.
+A reference sends the reader onward to index {target}.
+The binding to retrieve when done carries label {target}.
+Read further by selecting the document whose number is {target}.
+Your place shifts from here to catalog position {target}.
+The ensuing account is assigned to the sibling denoted by {target}.
+Leave your current volume for the one designated {target}.
+The register identifies {target} as the label of your ensuing selection.
+After this passage, the binding indexed {target} is required.
+Open the entry associated with number {target} to resume.
+The remainder begins elsewhere, in volume {target}.
+Direct your attention afterward to the sibling at index {target}.
+The catalog number for your continuation is {target}.
+Take up the document labeled {target} as soon as this reading ends.
+The ensuing volume can be located by its identifier, {target}.
+Move your bookmark to the record denoted by {target}.
+For a continuation of these pages, retrieve the binding numbered {target}.
+The item you should examine after this carries index {target}.
+Pass onward through the document assigned label {target}.
+Your continuation is waiting under catalog number {target}.
+When finished, make the sibling designated {target} your reading selection.
+The following reading belongs to the entry at position {target}.
+Replace this binding with catalog item {target} for what comes afterward.
+Select the document represented by {target} once you reach the end.
+The volume that takes over from this one has identifier {target}.
+Further reading requires the sibling whose index is {target}.
+Bring your bookmark to entry {target} at the close of these pages.
+The register assigns your ensuing destination the number {target}.

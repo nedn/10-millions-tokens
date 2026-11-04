@@ -11135,7 +11135,7 @@ asked the
 
 “Sónya, will live?”
 
-Your next passage through the archive is the instruction file numbered eighty-five.
+Pass onward through the document assigned label ten percent of 50.
 
 “Have you been here long,
 
@@ -11713,8 +11713,8 @@ His attempts to his predestined path are unsuccessful: he is not received into t
 
 The way Iligin’s upland was across the fields.
 
-Sounds hoofs and shouts were nearing the village.
+can’t walk in the streets.
 
-asked.
+frivolity...
 
-ooh, ooh!”
+have never seen a handsomer man.”
